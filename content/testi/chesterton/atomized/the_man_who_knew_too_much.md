@@ -9988,6 +9988,188 @@ calm, eternal, mathematical sort of truths; what somebody calls the
 He stopped, and before the next word came something had happened
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I - Il volto nel bersaglio
+*
+Harold March, il recensore e critico sociale in ascesa, camminava
+
+con vigore attraverso un vasto altopiano di brughiere e terreni comuni, il cui
+
+orizzonte era orlato dai boschi lontani della celebre
+
+tenuta di Torwood Park. Era un giovane di bell'aspetto, in tweed,
+
+con capelli chiarissimi e ricci e occhi chiari e limpidi. Camminando nel [[Wind|vento]] e nel
+
+sole, nel paesaggio stesso della libertà, era ancora abbastanza giovane da
+
+ricordare la propria politica e non limitarsi a cercare di dimenticarla. Poiché la sua
+
+missione a Torwood Park era di natura politica; era il luogo dell'
+
+appuntamento indicato nientemeno che dal Cancelliere dello
+
+Scacchiere, Sir Howard Horne, che allora presentava il suo cosiddetto
+
+bilancio socialista, e si preparava a esporlo in un colloquio con una penna tanto
+
+promettente. Harold March era il tipo d'uomo che sa
+
+tutto della politica e nulla dei politici. Sapeva inoltre
+
+moltissimo di arte, di lettere, di [[philosophy|filosofia]] e di cultura
+
+generale; di quasi tutto, in verità, tranne che del mondo in cui
+
+viveva.
+Improvvisamente, in mezzo a quelle distese soleggiate e ventose, s'imbatté in
+
+una sorta di fenditura quasi tanto stretta da poter essere chiamata una crepa nella
+
+terra. Era appena abbastanza ampia da fare da [[Water|corso d'acqua]] per un piccolo
+
+ruscello che scompariva a tratti sotto verdi gallerie di
+
+sottobosco, come in una foresta di nani. Anzi, provava una strana
+
+sensazione, quasi fosse un gigante che sovrastava la valle dei
+
+pigmei. Quando però scese nell'avvallamento, l'impressione
+
+svanì; le sponde rocciose, benché a malapena più alte di un
+
+cottage, incombevano e avevano il profilo di un precipizio. Quando cominciò
+
+a vagare lungo il corso del ruscello, per oziosa ma romantica
+
+curiosità, e vide l'[[Water|acqua]] brillare in brevi strisce tra i
+
+grandi massi grigi e i cespugli soffici come grandi muschi verdi,
+
+cadde in una vena di fantasia del tutto opposta. Era piuttosto come se la
+
+terra si fosse aperta e l'avesse inghiottito in una sorta di oltretomba di
+
+[[Dreams|sogni]]. E quando si accorse di una figura umana scura contro
+
+il ruscello d'argento, seduta su un grande masso e simile piuttosto
+
+a un grande uccello, fu forse con alcune di quelle premonizioni
+
+proprie di un uomo che incontra la più strana [[Friendship|amicizia]] della sua vita.
+L'uomo pareva pescare; o almeno era immobile in un
+
+atteggiamento da pescatore, con più dell'immobilità di un pescatore. March
+
+poté esaminarlo quasi fosse una statua per
+
+alcuni minuti prima che la statua parlasse. Era un uomo alto e biondo,
+
+cadaverico, e un po' languido, con palpebre pesanti e un
+
+naso dal dorso alto. Quando il volto era ombreggiato dal suo ampio cappello bianco,
+
+i baffi chiari e la figura agile gli davano un'aria di giovinezza. Ma
+
+il panama giaceva sul muschio accanto a lui; e chi lo osservava poteva vedere
+
+che la fronte era prematuramente calva; e questo, unito a una
+
+certa incavatura attorno agli occhi, aveva un'aria di lavoro intellettuale e persino di
+
+mal di testa. Ma la cosa più curiosa in lui, di cui ci si accorgeva dopo un
+
+breve esame, era che, pur avendo l'aspetto di un pescatore, non stava
+
+pescando.
+Teneva in mano, invece di una canna, qualcosa che poteva essere una
+
+guadino di quelli che usano certi pescatori, ma che somigliava molto più
+
+alla comune retina giocattolo che portano i bambini, e che di solito
+
+usano indifferentemente per gamberetti o farfalle. La immergeva
+
+nell'[[Water|acqua]] a intervalli, osservando con gravità il suo raccolto di alghe
+
+o fango, e la svuotava di nuovo.
+«No, non ho preso nulla», osservò con calma, come
+
+rispondendo a una domanda non formulata. «Quando ne prendo, devo ributtarlo indietro;
+
+soprattutto i pesci grandi. Ma alcune delle bestioline
+
+mi interessano, quando le acchiappo.»
+«Un interesse scientifico, suppongo?» osservò March.
+«Piuttosto dilettantesco, [[Fear|temo]]», rispose lo strano
+
+pescatore. «Ho una specie di passatempo per ciò che chiamano "fenomeni
+
+di fosforescenza". Ma sarebbe piuttosto imbarazzante andare in
+
+società portando pesci puzzolenti.»
+«Immagino di sì», disse March, con un sorriso.
+«Piuttosto singolare entrare in un salotto reggendo un grosso merluzzo luminoso»,
+
+continuò lo sconosciuto, nel suo modo svogliato. «Come sarebbe bizzarro
+
+poterselo portare in giro come una lanterna, o avere spratti
+
+per candele. Alcune delle bestie marine sarebbero davvero graziose come
+
+paralumi; la lumaca di mare azzurra che luccica tutta come
+
+luce di stelle; e certe stelle marine rosse brillano davvero come rosse [[Stars|stelle]].
+
+Ma, naturalmente, non è qui che le cerco.»
+March pensò di chiedergli cosa cercasse; ma, sentendosi
+
+impari a una discussione tecnica profonda almeno quanto i pesci
+
+degli abissi, tornò ad argomenti più ordinari.
+«Che luogo delizioso è questo», disse. «Questa piccola valletta e il
+
+[[River|fiume]] qui. È come quei luoghi di cui parla Stevenson, dove
+
+qualcosa dovrebbe accadere.»
+«Lo so», rispose l'altro. «Credo sia perché il luogo
+
+stesso, per così dire, sembra accadere e non semplicemente esistere.
+
+Forse è ciò che il vecchio Picasso e alcuni dei cubisti cercano
+
+di esprimere con angoli e linee frastagliate. Guardi quella parete simile a basse
+
+scogliere che sporge in avanti proprio ad angolo retto rispetto al pendio erboso
+
+che sale fino a essa. È come una collisione silenziosa. È come un
+
+frangente e il risucchio di un'onda.»
+March guardò la rupe dalla fronte bassa che incombeva sul verde pendio e
+
+annuì. Lo incuriosiva un uomo che passava così agevolmente dai
+
+tecnicismi della scienza a quelli dell'arte; e gli chiese se
+
+ammirasse i nuovi artisti angolari.
+«Per come la sento io, i cubisti non sono abbastanza cubisti», replicò lo
+
+sconosciuto. «Voglio dire che non sono abbastanza densi. Rendendo le cose
+
+matematiche le rendono sottili. Togli le linee vive da quel
+
+paesaggio, semplificalo in un angolo retto, e lo appiattisci in un
+
+semplice diagramma su carta. I diagrammi hanno una loro [[Beauty|bellezza]]; ma è di
+
+tutt'altra specie. Rappresentano le cose immutabili; le
+
+verità calme, eterne, di tipo matematico; ciò che qualcuno chiama il
+
+«candido splendore di»—
+Si fermò, e prima che giungesse la parola successiva qualcosa era accaduto
+
 
 
 <span class="atom-split" data-atom="story_01_the_face_in_the_target--part_02" data-title="The Man Who Knew Too Much — The Face in the Target (part 2)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
@@ -10167,6 +10349,182 @@ flood of unfamiliar things, and he brought it to the surface before
 it could vanish.
 "Jenkins," he repeated. "Surely you don't mean Jefferson Jenkins,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+quasi troppo in fretta e troppo compiutamente per essere còlto. Da dietro la
+
+roccia strapiombante giunse un rumore e un impeto simili a quelli di un treno;
+
+e apparve una grande automobile. Superò il ciglio della scogliera, nera
+
+contro il sole, come un carro da battaglia lanciato verso la distruzione in
+
+qualche selvaggia [[Epic|epopea]]. March tese automaticamente la mano in un gesto vano,
+
+come per afferrare una tazza da tè che cade in un salotto.
+Per la frazione di un lampo parve lasciare lo sperone di roccia come una
+
+[[Ship|nave]] in volo; poi il cielo stesso parve rovesciarsi come una
+
+[[Wheel|ruota]], ed essa giacque in rovina tra le alte erbe sottostanti, una striscia di
+
+fumo grigio che ne saliva lenta nell'aria silenziosa. Poco più in basso
+
+la figura di un uomo dai capelli grigi giaceva ruzzolata giù per il ripido pendio verde,
+
+le membra sparse a caso, e il volto voltato dall'altra parte.
+L'eccentrico pescatore lasciò cadere la sua rete e si diresse rapido verso
+
+il luogo, seguìto dal suo nuovo conoscente. Man mano che si avvicinavano
+
+pareva esservi una sorta di mostruosa ironia nel fatto che la
+
+[[Machine|macchina]] morta continuasse a pulsare e a rombare indaffarata come una fabbrica,
+
+mentre l'uomo giaceva così immobile.
+Era senza dubbio morto. Il [[Blood|sangue]] scorreva nell'erba da una
+
+frattura irrimediabilmente fatale alla base del cranio; ma il volto,
+
+rivolto al sole, era illeso e stranamente suggestivo
+
+di per sé. Era uno di quei casi di un volto strano così
+
+inconfondibile da parere familiare. Sentiamo, in qualche modo, che dovremmo
+
+riconoscerlo, anche se non è così. Era del tipo largo e squadrato,
+
+con grandi mascelle, quasi come quello di una scimmia altamente intellettuale;
+
+la bocca ampia serrata così stretta da ridursi a una semplice linea; il
+
+naso corto, con quel genere di narici che paiono spalancarsi con
+
+appetito per l'aria. La cosa più singolare di quel volto era che uno
+
+dei sopraccigli era inarcato a un angolo molto più acuto dell'
+
+altro. March pensò di non aver mai visto un volto così naturalmente vivo come
+
+quello morto. E la sua brutta energia pareva ancora più strana per la sua
+
+aureola di capelli canuti. Alcune carte pendevano mezze cadute dalla tasca,
+
+e di mezzo ad esse March estrasse un portabiglietti. Lesse ad alta voce il nome
+
+sul biglietto.
+«Sir Humphrey Turnbull. Sono certo di aver già sentito quel nome da qualche parte.»
+Il suo compagno si limitò a emettere una sorta di piccolo sospiro e rimase in silenzio per un
+
+istante, come rimuginando, poi disse soltanto: «Il pover'uomo se n'è
+
+del tutto andato», e aggiunse alcuni termini scientifici nei quali il suo ascoltatore
+
+si ritrovò ancora una volta fuori dalla propria portata.
+«Stando così le cose», continuò quella stessa persona curiosamente [[Well|bene]]
+
+informata, «sarà più legale per noi lasciare il [[Body|corpo]] com'è finché non
+
+sia avvertita la polizia. Anzi, penso che sarà [[Well|bene]] che nessuno
+
+tranne la polizia ne sia informato. Non si stupisca se sembrerò
+
+tenerlo nascosto ad alcuni dei nostri vicini qui intorno.» Poi, come
+
+spinto a regolarizzare la sua confidenza piuttosto brusca, disse: «Sono
+
+sceso a trovare mio cugino a Torwood; mi chiamo Horne Fisher.
+
+Potrebbe essere un gioco di parole sul mio gironzolare qui intorno, non è vero?»
+«Sir Howard Horne è suo cugino?» chiese March. «Anch'io mi sto
+
+recando a Torwood Park a trovarlo; solo per il suo lavoro pubblico,
+
+s'intende, e per la meravigliosa presa di posizione che sta compiendo in nome dei suoi principii.
+
+Ritengo che questo Bilancio sia la cosa più grande nella [[history|storia]] inglese. Se
+
+fallisce, sarà il più eroico fallimento della [[history|storia]] inglese. È
+
+lei un ammiratore del suo grande parente, signor Fisher?»
+«Eccome», disse il signor Fisher. «È il miglior tiratore che io conosca.»
+Poi, come sinceramente pentito della sua noncuranza, aggiunse, con una
+
+sorta di entusiasmo:
+«No, ma davvero, è un tiratore magnifico.»
+Come infiammato dalle sue stesse parole, spiccò una sorta di balzo verso gli spuntoni
+
+della roccia sopra di lui, e li scalò con un'improvvisa agilità in
+
+sorprendente contrasto con la sua generale svogliatezza. Era rimasto per alcuni
+
+secondi sul promontorio in alto, con il suo profilo aquilino sotto il
+
+panama stagliato contro il cielo, a scrutare la campagna
+
+prima che il suo compagno si fosse ripreso a sufficienza per arrampicarsi
+
+su dietro di lui.
+Il ripiano superiore era una distesa di erba comune sulla quale le tracce
+
+dell'automobile votata alla rovina erano solcate ben chiaramente; ma il suo orlo era
+
+spezzato come da denti di roccia; massi frantumati di ogni forma e dimensione
+
+giacevano presso il ciglio; era quasi incredibile che qualcuno potesse aver
+
+deliberatamente guidato dentro una simile trappola di [[Death|morte]], specie in pieno
+
+giorno.
+«Non riesco a raccapezzarmici», disse March. «Era cieco? O
+
+ubriaco fradicio?»
+«Né l'uno né l'altro, a giudicare dal suo aspetto», rispose l'altro.
+«Allora è stato [[suicide|suicidio]].»
+«Non pare un modo molto comodo di farlo», osservò l'uomo di nome
+
+Fisher. «Oltre tutto, non credo che il povero vecchio Puggy avrebbe commesso [[suicide|suicidio]],
+
+in qualche modo.»
+«Il povero vecchio chi?» domandò il giornalista meravigliato. «Conosceva
+
+quest'uomo sventurato?»
+«Nessuno lo conosceva esattamente», rispose Fisher, con una certa vaghezza. «Ma
+
+lo si conosceva, naturalmente. Era stato un terrore ai suoi [[Time|tempi]], in
+
+Parlamento e nei tribunali, e via dicendo; specie in quella baruffa sugli
+
+stranieri che furono espulsi come indesiderabili, quando volle che uno di
+
+loro fosse impiccato per omicidio. Ne fu così disgustato che si ritirò dalla
+
+magistratura. Da allora andava per lo più in automobile per conto proprio; ma stava
+
+venendo anche lui a Torwood, per il fine settimana; e non vedo perché
+
+dovesse deliberatamente rompersi il collo quasi sulla soglia stessa.
+
+Credo che Hoggs—voglio dire mio cugino Howard—stesse scendendo apposta per
+
+incontrarlo.»
+«Torwood Park non appartiene a suo cugino?» s'informò March.
+«No; un tempo apparteneva ai Winthrop, sa», rispose
+
+l'altro. «Ora ce l'ha un uomo nuovo; un uomo di Montreal di nome Jenkins.
+
+Hoggs viene per la caccia; le ho detto che era un tiratore delizioso.»
+Questo ripetuto elogio del grande statista sociale colpì Harold
+
+March come se qualcuno avesse definito Napoleone un illustre giocatore
+
+di nap. Ma un'altra impressione ancora informe si dibatteva in lui in quella
+
+piena di cose sconosciute, ed egli la portò in superficie prima che
+
+potesse svanire.
+«Jenkins», ripeté. «Non vorrà mica dire Jefferson Jenkins,
 
 
 
@@ -10350,6 +10708,184 @@ innkeeper, who was widely different from the genial innkeepers of
 black, restless eyes. Taciturn as he was, the investigator succeeded
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+il riformatore sociale? Intendo l'uomo che si batte per il nuovo
+
+piano delle case coloniche. Sarebbe interessante incontrarlo quanto
+
+qualsiasi ministro al mondo, se mi si passa l'espressione.»
+«Sì; Hoggs gli disse che dovevano essere case coloniche», disse Fisher.
+
+«Disse che la razza dei bovini era stata migliorata troppe volte, e la gente
+
+cominciava a ridere. E, naturalmente, un titolo nobiliare bisogna pur appenderlo a
+
+qualcosa; sebbene il poveretto non l'abbia ancora ottenuto. Ehilà, ecco
+
+qualcun altro.»
+Avevano cominciato a camminare sulle tracce dell'automobile, lasciandola dietro
+
+di sé nell'avvallamento, ancora ronzante in modo orribile come un enorme insetto che
+
+avesse ucciso un uomo. Le tracce li condussero all'angolo della [[Road|strada]],
+
+uno dei cui bracci proseguiva sulla stessa linea verso i lontani cancelli
+
+del parco. Era chiaro che l'automobile era stata guidata giù per la lunga
+
+[[Road|strada]] diritta, e poi, invece di svoltare con la [[Road|strada]] verso
+
+sinistra, aveva tirato dritto sull'erba incontro alla sua rovina. Ma non fu
+
+questa scoperta a inchiodare lo sguardo di Fisher, bensì qualcosa di ancora
+
+più solido. All'angolo della bianca [[Road|strada]] una figura scura e solitaria
+
+se ne stava immobile quasi quanto un palo indicatore. Era quella di
+
+un uomo massiccio in ruvidi abiti da caccia, a capo scoperto, e con arruffati
+
+capelli ricci che gli davano un aspetto piuttosto selvaggio. A un più ravvicinato esame
+
+questa prima impressione più fantastica svanì; in piena luce la
+
+figura assunse tinte più convenzionali, come di un comune gentiluomo
+
+che si fosse trovato a uscire senza cappello e senza essersi
+
+spazzolato i capelli con troppa cura. Ma la statura massiccia rimaneva, e
+
+qualcosa di profondo e persino cavernoso nell'incastonatura degli occhi
+
+riscattava la sua bellezza animale dalla banalità. Ma March non ebbe
+
+il [[Time|tempo]] di studiare l'uomo più da vicino, poiché, con suo grande
+
+stupore, la sua guida si limitò a osservare: «Ehilà, Jack!» e gli passò
+
+accanto come se fosse davvero stato un palo segnaletico, e senza tentare
+
+di informarlo della catastrofe oltre le rocce. Era una cosa relativamente
+
+piccola, ma fu solo la prima di una serie di singolari
+
+stranezze verso cui il suo nuovo ed eccentrico amico lo stava conducendo.
+L'uomo che avevano oltrepassato li seguì con lo sguardo in modo piuttosto sospettoso
+
+però Fisher proseguì serenamente per la sua via lungo la diritta
+
+[[Road|strada]] che correva oltre i cancelli della grande tenuta.
+«Quello è John Burke, il viaggiatore», si degnò di spiegare. «Immagino
+
+che ne abbiate sentito parlare; caccia la selvaggina grossa e via dicendo. Spiacente di non
+
+essermi potuto fermare a presentarvi, ma oserei dire che lo incontrerete più
+
+tardi.»
+«Conosco il suo libro, naturalmente», disse March, con rinnovato interesse.
+
+«È senza dubbio una bella pagina descrittiva, quella in cui sono
+
+consapevoli della vicinanza dell'elefante solo quando la colossale
+
+testa oscurò la [[Moon|luna]].»
+«Sì, il giovane Halkett scrive proprio [[Well|bene]], credo. Come? Non
+
+sapevate che fu Halkett a scrivere il libro per Burke? Burke non sa usare nulla
+
+tranne un fucile; e con quello non si può scrivere. Oh, è abbastanza autentico
+
+a modo suo, sapete, coraggioso come un [[Lion|leone]], o assai più coraggioso a
+
+detta di tutti.»
+«Sembra che sappiate tutto di lui», osservò March, con una risata piuttosto
+
+sconcertata, «e di parecchie altre persone.»
+La fronte calva di Fisher si corrugò di colpo, e una curiosa
+
+espressione gli affiorò negli occhi.
+«So troppo», disse. «È questo il mio problema.
+
+È il problema di tutti noi, e dell'intera baracca; sappiamo
+
+troppo. Troppo gli uni degli altri; troppo di noi stessi.
+
+Ecco perché in questo momento mi interessa davvero una cosa che
+
+non so.»
+«E cioè?» domandò l'altro.
+«Perché quel poveretto è morto.»
+Avevano camminato lungo la diritta [[Road|strada]] per quasi un miglio,
+
+conversando a intervalli in questo modo; e March aveva una singolare
+
+sensazione che il mondo intero venisse rivoltato come un guanto. Il signor Horne Fisher
+
+non malediceva particolarmente i suoi amici e parenti dell'alta
+
+società; di alcuni di loro parlava con affetto. Ma sembravano
+
+una schiera di uomini e donne del tutto nuova, che per caso avevano gli
+
+stessi nervi degli uomini e delle donne menzionati più spesso sui
+
+giornali. Eppure nessuna furia di rivolta gli sarebbe potuta sembrare più
+
+totalmente rivoluzionaria di questa fredda familiarità. Era come
+
+la luce del giorno dall'altro lato delle quinte di un palcoscenico.
+Raggiunsero i grandi cancelli della portineria del parco, e, con
+
+sorpresa di March, li oltrepassarono e proseguirono lungo l'interminabile bianca,
+
+diritta [[Road|strada]]. Ma egli stesso era troppo in anticipo per il suo appuntamento con
+
+Sir Howard, e non era restio a vedere la fine dell'esperimento del suo nuovo
+
+amico, quale che fosse. Da tempo si erano lasciati alle spalle la
+
+brughiera, e metà della bianca [[Road|strada]] era grigia nella grande
+
+[[Shadow|ombra]] delle pinete di Torwood, esse stesse simili a grigie sbarre
+
+serrate contro il sole e che dentro, in mezzo a quel limpido [[Noon|mezzogiorno]],
+
+fabbricavano la propria mezzanotte. Presto, tuttavia, cominciarono ad aprirvisi squarci
+
+come bagliori di vetrate colorate; gli alberi si diradarono e
+
+vennero meno mentre la [[Road|strada]] proseguiva, rivelando i selvaggi, irregolari
+
+boschetti in cui, come disse Fisher, gli ospiti della [[house|villa]] avevano sparato
+
+tutto il giorno. E circa duecento iarde più avanti giunsero alla
+
+prima svolta della [[Road|strada]].
+All'angolo sorgeva una specie di locanda decrepita con la sudicia insegna del The
+
+Grapes. L'insegna era ormai scura e indecifrabile, e pendeva
+
+nera contro il cielo e la grigia brughiera al di là, invitante
+
+press'a poco quanto una forca. March osservò che sembrava una taverna
+
+per l'aceto anziché per il vino.
+«Una bella espressione», disse Fisher, «e tale sarebbe se foste tanto sciocco
+
+da bervi del vino. Ma la birra è ottima, e così pure il
+
+brandy.»
+March lo seguì nella saletta del bar con una certa [[Wonder|meraviglia]], e il suo vago
+
+senso di ripugnanza non fu dissipato dalla prima vista del
+
+locandiere, ben diverso dai gioviali locandieri del
+
+[[Romance|romanzo]], un uomo ossuto, molto silenzioso dietro baffi neri, ma con
+
+occhi neri e inquieti. Per quanto taciturno, l'investigatore riuscì
+
 
 
 <span class="atom-split" data-atom="story_01_the_face_in_the_target--part_04" data-title="The Man Who Knew Too Much — The Face in the Target (part 4)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
@@ -10530,6 +11066,182 @@ the great estate and the beginning of the open moors. March plodded
 after him with the same idle perseverance, and found him staring
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+a cavargli infine di bocca un frammento d'informazione, a furia di
+
+ordinare birra e parlargli con insistenza e minuzia in
+
+materia di automobili. Egli evidentemente considerava l'oste, in
+
+qualche modo singolare, un'autorità in fatto di automobili; addentro ai
+
+[[Secrets|segreti]] del meccanismo, della gestione e della cattiva gestione delle
+
+automobili; tenendo l'uomo per tutto il [[Time|tempo]] con un occhio scintillante come il
+
+[[Ancient Mariner|Vecchio Marinaio]]. Da tutta questa conversazione piuttosto misteriosa
+
+emerse infine una sorta di ammissione: che una particolare
+
+automobile, di una data descrizione, si era fermata davanti alla locanda circa
+
+un'ora prima, e che un uomo anziano ne era sceso, avendo bisogno di una qualche
+
+assistenza meccanica. Interrogato se il visitatore avesse richiesto altra
+
+assistenza, l'oste disse seccamente che il vecchio gentiluomo aveva
+
+riempito la sua fiaschetta e preso un pacchetto di panini. E con queste
+
+parole l'ospite alquanto inospitale era uscito in fretta dal
+
+bancone, e lo udirono sbattere porte nel buio interno.
+L'occhio stanco di Fisher vagò per la polverosa e tetra saletta della locanda
+
+e si posò sognante su una teca di vetro contenente un uccello impagliato, con
+
+un fucile appeso a dei ganci sopra di essa, che pareva esserne l'unico ornamento.
+«Puggy era un umorista», osservò, «almeno nel suo modo piuttosto
+
+macabro. Ma sembra uno scherzo un po' troppo macabro, per un uomo, comprare un
+
+pacchetto di panini quando sta giusto per commettere un [[suicide|suicidio]].»
+«Se è per questo», rispose March, «non è molto usuale che un
+
+uomo compri un pacchetto di panini quando è giusto fuori dalla porta di
+
+una grande [[house|casa]] in cui sta per fermarsi.»
+«No... no», ripeté Fisher, quasi meccanicamente; e poi
+
+improvvisamente drizzò l'occhio verso il suo interlocutore con un'espressione molto più
+
+vivace.
+«Perbacco! Ecco un'idea. Avete perfettamente ragione. E questo suggerisce
+
+un'idea davvero curiosa, non è vero?»
+Vi fu un [[Silence|silenzio]], e poi March sussultò con un irrazionale
+
+nervosismo quando la porta della locanda fu spalancata e un altro uomo
+
+si diresse rapido al bancone. Vi aveva battuto sopra con una moneta e
+
+aveva chiesto ad alta voce del brandy prima di vedere gli altri due avventori, che
+
+sedevano a un nudo tavolo di legno sotto la [[Window|finestra]]. Quando si
+
+voltò con uno sguardo piuttosto stravolto, March ebbe un'altra inattesa
+
+emozione, poiché la sua guida salutò l'uomo chiamandolo Hoggs e lo presentò come
+
+Sir Howard Horne.
+Egli appariva piuttosto più vecchio dei suoi ritratti giovanili sui giornali
+
+illustrati, come accade ai politici; i suoi capelli lisci e biondi erano
+
+sfiorati di grigio, ma il suo volto era quasi comicamente tondo, con un
+
+naso romano che, unito ai suoi occhi vivaci e brillanti, suscitava
+
+una vaga reminiscenza di un pappagallo. Portava un berretto piuttosto all'indietro sulla
+
+testa e un fucile sotto il braccio. Harold March aveva immaginato molte
+
+cose sul suo incontro con il grande riformatore politico, ma non
+
+lo aveva mai raffigurato con un fucile sotto il braccio, a bere brandy in
+
+un pubblico [[house|locale]].
+«Così anche voi alloggiate da Jink», disse Fisher. «Sembra che tutti
+
+siano da Jink.»
+«Sì», replicò il Cancelliere dello Scacchiere. «Caccia proprio
+
+ottima. Almeno tutta quella che non è la caccia di Jink. Non ho mai
+
+conosciuto un tale con una riserva così buona che fosse un tiratore così scarso. Badate,
+
+è un ottimo compagnone e tutto quanto; non dico una parola
+
+contro di lui. Ma non ha mai imparato a impugnare un fucile quando confezionava
+
+carne di maiale o qualunque cosa facesse. Dicono che abbia fatto saltare la coccarda dal
+
+cappello del proprio servitore; proprio da lui avere coccarde, naturalmente. Fece saltare
+
+il gallo segnavento dal proprio ridicolo padiglione estivo dorato. È l'unico
+
+gallo che ucciderà mai, direi. Salite lassù
+
+adesso?»
+Fisher disse, piuttosto vagamente, che li avrebbe seguiti presto, non appena avesse
+
+sistemato una faccenda; e il Cancelliere dello Scacchiere lasciò la
+
+locanda. March immaginò che fosse stato un po' turbato o impaziente quando
+
+aveva chiesto il brandy; ma parlando si era riportato a uno
+
+stato soddisfacente, anche se il discorso non era stato proprio ciò che il suo
+
+visitatore letterario si era aspettato. Fisher, pochi minuti dopo, lentamente aprì
+
+la via fuori dalla taverna e si fermò in mezzo alla [[Road|strada]],
+
+guardando giù nella direzione da cui erano venuti. Poi
+
+tornò indietro di circa duecento iarde in quella direzione e si fermò
+
+di nuovo immobile.
+«Direi che è più o meno questo il posto», disse.
+«Quale posto?» chiese il suo compagno.
+«Il posto dove il povero uomo è stato ucciso», disse Fisher, tristemente.
+«Che cosa intendete?» incalzò March.
+«Si è sfracellato sulle rocce a un miglio e mezzo da qui.»
+«No, non è così», replicò Fisher. «Non è affatto caduto sulle
+
+rocce. Non avete notato che è caduto soltanto sul pendio d'erba morbida
+
+sottostante? Ma io ho visto che aveva già una pallottola in corpo.»
+Poi, dopo una pausa, aggiunse:
+«Era vivo alla locanda, ma era morto molto prima di arrivare alle
+
+rocce. Dunque fu colpito mentre guidava l'auto lungo questo tratto di
+
+[[Road|strada]] dritta, e direi da qualche parte qui intorno. Dopodiché,
+
+naturalmente, l'auto proseguì dritta senza nessuno a fermarla o a sterzarla.
+
+È davvero uno stratagemma molto astuto, a suo modo; poiché il [[Body|corpo]] sarebbe
+
+stato trovato lontano, e i più direbbero, come voi, che si trattasse di un
+
+incidente d'automobilista. L'assassino dev'essere stato un bruto ingegnoso.»
+«Ma lo sparo non sarebbe stato udito alla locanda o da qualche parte?» chiese
+
+March.
+«Sarebbe stato udito. Ma non sarebbe stato notato. Ecco», proseguì
+
+l'investigatore, «dove fu di nuovo abile. Si sparava
+
+dappertutto tutto il giorno; molto probabilmente calcolò il momento dello sparo così da
+
+annegarlo in parecchi altri. Di certo era un criminale di prima
+
+categoria. Ed era anche qualcos'altro, [[Well|per giunta]].»
+«Che cosa intendete?» chiese il suo compagno, con un raccapricciante presentimento
+
+di qualcosa in arrivo, non sapeva perché.
+«Era un tiratore di prim'ordine», disse Fisher. Aveva voltato le spalle
+
+bruscamente e stava scendendo per uno stretto sentiero erboso, poco più
+
+di una carrareccia, che si trovava di fronte alla locanda e segnava la fine
+
+della grande tenuta e l'inizio delle brughiere aperte. March arrancò
+
+dietro di lui con la stessa oziosa perseveranza, e lo trovò che fissava
+
 
 
 <span class="atom-split" data-atom="story_01_the_face_in_the_target--part_05" data-title="The Man Who Knew Too Much — The Face in the Target (part 5)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
@@ -10707,6 +11419,180 @@ boisterous amiability. The latter was presented to Major Burke and
 
 Mr. Halkett and also (by way of a parenthesis) to his host, Mr.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+attraverso uno squarcio tra erbacce e rovi giganteschi, sulla piatta faccia di uno
+
+steccato dipinto. Dietro lo steccato [[Rose|si levavano]] le grandi colonne grigie
+
+di una fila di pioppi, che riempivano il cielo sopra di loro di
+
+[[Shadow|ombra]] verde cupo e tremavano lievemente in un [[Wind|vento]] che era lentamente calato
+
+in una brezza. Il pomeriggio già si faceva sera, e
+
+le [[titanic|titaniche]] ombre dei pioppi si allungavano su un terzo del
+
+paesaggio.
+«Siete un criminale di prima categoria?» chiese Fisher, in tono amichevole.
+
+«Temo di no. Ma credo di poter riuscire a essere una specie di
+
+scassinatore di quart'ordine.»
+E prima che il suo compagno potesse rispondere era riuscito a issarsi
+
+oltre lo steccato; March lo seguì senza troppa fatica fisica,
+
+ma con notevole turbamento mentale. I pioppi crescevano così addossati
+
+allo steccato che ebbero qualche difficoltà a passar oltre
+
+di essi, e oltre i pioppi non si vedeva che un'alta siepe di
+
+alloro, verde e lucente nel sole radente. Qualcosa in questa
+
+clausura fatta di una serie di muri viventi gli diede la sensazione di
+
+entrare davvero in una [[house|casa]] in rovina anziché in un campo aperto. Era
+
+come se entrasse da una porta o una [[Window|finestra]] in disuso e trovasse il passaggio
+
+ostruito dai mobili. Quando ebbero aggirato la siepe d'alloro,
+
+sbucarono su una specie di terrazza erbosa, che scendeva con un verde
+
+gradino a un prato oblungo simile a un campo da bocce. Oltre di esso c'era il
+
+solo edificio in vista, una bassa serra, che pareva lontana
+
+da ogni luogo, come una casetta di vetro posta nei propri campi nel
+
+paese delle fate. Fisher conosceva bene quell'aria solitaria delle parti periferiche di una
+
+[[Great House|grande dimora]] abbastanza [[Well|bene]]. Comprese che essa è più una [[Satire|satira]] sull'
+
+aristocrazia di quanto lo sarebbe se fosse soffocata dalle erbacce e ingombra di
+
+rovine. Poiché non è trascurata eppure è deserta; in ogni caso,
+
+è in disuso. Viene regolarmente spazzata e adornata per un padrone che
+
+non viene mai.
+Guardando il prato, tuttavia, vide un oggetto che non aveva
+
+apparentemente previsto. Era una specie di treppiede che sorreggeva un grande disco
+
+simile al piano rotondo di un tavolo inclinato di lato, e fu solo quando
+
+furono scesi sul prato e l'ebbero attraversato per osservarlo che
+
+March capì che era un bersaglio. Era logoro e segnato dalle intemperie;
+
+i colori vivaci dei suoi anelli concentrici erano sbiaditi; forse era stato
+
+collocato in quei lontani giorni vittoriani in cui era di moda
+
+il tiro con l'arco. March ebbe una delle sue vaghe visioni di dame in vaporose
+
+crinoline e di gentiluomini dai cappelli e favoriti stravaganti che rivisitavano
+
+quel [[Garden|giardino]] perduto come [[Ghosts|fantasmi]].
+Fisher, che scrutava più da vicino il bersaglio, lo fece trasalire con
+
+un'esclamazione.
+«Ehilà!» disse. «Qualcuno ha crivellato questo affare di
+
+pallini, dopotutto, e anche di recente. Perbacco, credo che il vecchio Jink
+
+abbia cercato di migliorare qui la sua pessima mira.»
+«Sì, e pare che avesse ancora bisogno di migliorare» rispose March,
+
+ridendo. «Nemmeno uno di questi colpi è vicino al centro;
+
+sembrano sparsi qua e là nel modo più caotico.»
+«Nel modo più caotico» ripeté Fisher, ancora scrutando intento il
+
+bersaglio. Sembrava soltanto assentire, ma March immaginò che il suo occhio
+
+brillasse sotto la palpebra assonnata e che raddrizzasse la sua curva
+
+figura con uno strano sforzo.
+«Scusatemi un momento» disse, frugandosi nelle tasche. «Credo di avere
+
+con me alcune delle mie sostanze chimiche; e dopo saliremo alla [[house|casa]].»
+
+E si chinò di nuovo sul bersaglio, applicando qualcosa con il
+
+dito su ciascuno dei fori dei colpi, per quanto March potesse vedere solo
+
+una macchia grigio spenta. Poi salirono attraverso il crepuscolo crescente
+
+i lunghi viali verdi verso la [[Great House|grande dimora]].
+Anche qui, tuttavia, l'eccentrico investigatore non entrò dalla
+
+porta principale. Girò attorno alla [[house|casa]] finché non trovò una [[Window|finestra]] aperta,
+
+e, saltandovi dentro, introdusse l'amico in quella che sembrava essere
+
+la sala delle armi. File dei consueti strumenti per abbattere
+
+[[Birds|uccelli]] stavano contro le pareti; ma su un tavolo presso la [[Window|finestra]] giacevano
+
+una o due armi di foggia più pesante e più temibile.
+«Ehilà! questi sono i fucili da caccia grossa di Burke» disse Fisher. «Non ho mai
+
+saputo che li tenesse qui.» Ne sollevò uno, lo esaminò brevemente,
+
+e lo posò di nuovo, aggrottando pesantemente la fronte. Quasi nel farlo un
+
+giovane sconosciuto entrò in fretta nella stanza. Era bruno e
+
+tarchiato, con la fronte bitorzoluta e una mascella da bulldog, e parlò con una
+
+brusca scusa.
+«Ho lasciato qui i fucili del maggiore Burke» disse «e lui li vuole impacchettati
+
+per bene. Parte questa [[Night|notte]].»
+E portò via i due fucili senza gettare uno sguardo allo
+
+sconosciuto; attraverso la [[Window|finestra]] aperta potevano vedere la sua figura bassa e scura
+
+allontanarsi attraverso il [[Garden|giardino]] scintillante. Fisher uscì di nuovo dalla
+
+[[Window|finestra]] e rimase a guardarlo mentre si allontanava.
+«Quello è Halkett, di cui vi ho parlato» disse. «Sapevo che era una
+
+specie di segretario e che si occupava delle carte di Burke; ma non ho mai
+
+saputo che avesse a che fare con i suoi fucili. Ma è proprio quel genere di
+
+diavoletto silenzioso e assennato che potrebbe essere bravissimo in qualsiasi cosa;
+
+il tipo d'uomo che conosci per anni prima di scoprire che è un campione di
+
+scacchi.»
+Aveva cominciato a camminare nella direzione del segretario che spariva,
+
+e presto giunsero in vista del resto degli ospiti della [[house|casa]]
+
+che chiacchieravano e ridevano sul prato. Potevano vedere l'alta figura e
+
+la criniera scomposta del cacciatore di [[Lion|leoni]] che dominava il gruppetto.
+«A proposito» osservò Fisher «quando parlavamo di Burke e
+
+Halkett, dissi che un uomo non poteva certo scrivere [[Well|bene]] con un fucile.
+
+[[Well|Beh]], ora non ne sono così sicuro. Avete mai sentito di un [[artist|artista]] tanto abile
+
+da saper disegnare con un fucile? C'è un tipo straordinario a piede libero da queste
+
+parti.»
+Sir Howard salutò Fisher e il suo amico giornalista con una cordialità quasi
+
+chiassosa. Quest'ultimo fu presentato al maggiore Burke e a
+
+Mr. Halkett e anche (per inciso) al suo ospite, Mr.
 
 
 
@@ -10891,6 +11777,186 @@ I hit on, after yours, to make me think it was Jenkins? It was my
 
 cousin's account of his bad shooting. He'd shot a cockade off a hat
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Jenkins, un ometto insignificante in vistosi tweed, che tutti gli
+
+altri parevano trattare con una sorta di affetto, come se fosse un bambino.
+L'irrefrenabile Cancelliere dello Scacchiere parlava ancora
+
+degli [[Birds|uccelli]] che aveva abbattuto, degli [[Birds|uccelli]] che Burke e
+
+Halkett avevano abbattuto, e degli [[Birds|uccelli]] che Jenkins, il loro ospite,
+
+non erano riusciti ad abbattere. Sembrava una sorta di socievole
+
+monomania.
+«Voi e la vostra caccia grossa» esclamò, aggressivo, rivolto a Burke.
+
+«Perbacco, chiunque saprebbe cacciare la selvaggina grossa. Bisogna essere tiratori per cacciare
+
+la selvaggina piccola.»
+«Proprio così» s'interpose Horne Fisher. «Ora, se solo un ippopotamo
+
+potesse spiccare il volo da quel cespuglio, o se allevaste elefanti
+
+volanti nella tenuta, allora, ebbene—»
+«Perbacco, persino Jink potrebbe colpire un uccello del genere» gridò Sir Howard,
+
+dando allegramente una pacca sulla schiena all'ospite. «Persino lui potrebbe colpire un
+
+pagliaio o un ippopotamo.»
+«Sentite, amici» disse Fisher. «Voglio che veniate
+
+con me un momento a sparare a qualcos'altro. Non un
+
+ippopotamo. Un altro tipo di strano animale che ho trovato nella tenuta.
+
+È un animale con tre zampe e un occhio solo, ed è di tutti i colori
+
+dell'arcobaleno.»
+«Che diavolo state dicendo?» chiese Burke.
+«Venite a vedere» replicò Fisher, allegro.
+Gente simile raramente rifiuta qualcosa di assurdo, poiché è sempre
+
+in cerca di qualcosa di nuovo. Si riarmarono con gravità nella
+
+sala delle armi e si accodarono in fila dietro la loro guida, Sir Howard
+
+fermandosi solo, in una sorta di estasi, a indicare la celebre
+
+pergola dorata sulla quale la dorata banderuola stava ancora storta.
+
+Era il crepuscolo che volgeva al buio nel [[Time|momento]] in cui raggiunsero il remoto verde
+
+presso i pioppi e accettarono il nuovo e insensato gioco di sparare al
+
+vecchio bersaglio.
+L'ultima luce pareva svanire dal prato, e i pioppi contro
+
+il tramonto erano come grandi pennacchi su un carro funebre purpureo, quando la
+
+futile processione infine descrisse una curva e sbucò davanti al
+
+bersaglio. Sir Howard diede di nuovo una pacca sulla spalla all'ospite, spingendolo
+
+scherzosamente avanti perché sparasse per primo. La spalla e il braccio
+
+che toccò parevano innaturalmente rigidi e angolosi. Mr. Jenkins
+
+imbracciava il fucile in un atteggiamento più goffo di qualsiasi altro che i suoi
+
+amici canzonatori avessero visto o previsto.
+Nello stesso istante un urlo orribile parve venire dal nulla.
+
+Era così innaturale e così poco adatto alla scena che poteva
+
+essere stato emesso da qualche cosa disumana in volo su ali sopra di loro o
+
+in ascolto furtivo nei boschi oscuri più oltre. Ma Fisher sapeva che era
+
+iniziato e cessato sulle pallide labbra di Jefferson Jenkins, di
+
+Montreal, e nessuno che in quel momento avesse scorto il volto di Jefferson
+
+Jenkins si sarebbe lamentato che fosse insignificante. L'
+
+istante seguente un torrente di imprecazioni gutturali ma bonarie venne dal
+
+Maggiore Burke mentre lui e gli altri due uomini videro ciò che avevano davanti
+
+a loro. Il bersaglio si ergeva nell'erba fioca come un cupo folletto
+
+che li sogghignava, e sogghignava letteralmente. Aveva due occhi
+
+come [[Stars|stelle]], e in simili lividi punti di luce erano tratteggiate le
+
+due narici all'insù e aperte e le due estremità della bocca larga e
+
+serrata. Alcuni punti bianchi sopra ciascun occhio indicavano le canute
+
+sopracciglia; e una di esse saliva quasi ritta. Era una
+
+brillante caricatura fatta di vivide linee punteggiate e March sapeva di
+
+chi. Splendeva nell'erba in ombra, spalmata di [[Fire|fuoco]] marino come se uno
+
+dei mostri sottomarini fosse strisciato nel [[Garden|giardino]] crepuscolare; ma
+
+aveva la testa di un morto.
+«È solo vernice luminosa» disse Burke. «Il vecchio Fisher si è preso una
+
+burla con quella sua roba fosforescente.»
+«Pare sia fatto per il vecchio Puggy» osservò Sir Howard. «Lo ritrae
+
+davvero [[Well|bene]].»
+A quel punto risero tutti, tranne Jenkins. Quando ebbero finito,
+
+egli emise un suono simile al primo sforzo di un animale che tenta di ridere, e
+
+Horne Fisher a un tratto gli si avvicinò a grandi passi e disse:
+«Mr. Jenkins, devo parlarvi subito in privato.»
+Fu presso il piccolo corso d'acqua nella brughiera, sul pendio sotto
+
+la roccia a strapiombo, che March incontrò il suo nuovo amico Fisher, su
+
+appuntamento, poco dopo la brutta e quasi [[Grotesque|grottesca]] scena che
+
+aveva disperso il gruppo nel [[Garden|giardino]].
+«È stata una mia birbonata» osservò Fisher, cupo «mettere
+
+del fosforo sul bersaglio; ma l'unica possibilità di farlo sobbalzare era
+
+dargli d'improvviso il terrore. E quando vide il volto a cui aveva sparato
+
+risplendere sul bersaglio su cui si esercitava, tutto illuminato da una
+
+luce infernale, sobbalzò eccome. Abbastanza per la mia personale soddisfazione
+
+intellettuale.»
+«Temo di non capire bene neppure ora» disse March «esattamente
+
+cosa abbia fatto o perché l'abbia fatto.»
+«Dovreste» replicò Fisher, col suo sorriso piuttosto tetro «perché
+
+mi avete dato voi stesso il primo indizio. Oh sì, l'avete fatto; ed
+
+era molto acuto. Diceste che un uomo non si porterebbe dei panini
+
+per cenare in una [[Great House|grande dimora]]. Era del tutto vero; e se ne deduceva
+
+che, pur andandoci, non intendeva cenarvi.
+
+O, in ogni caso, che poteva darsi non vi cenasse. Mi venne
+
+subito in mente che probabilmente si aspettava che la visita fosse sgradevole, o
+
+l'accoglienza incerta, o qualcosa che gli avrebbe impedito di
+
+accettare ospitalità. Poi mi colpì il pensiero che Turnbull fosse il terrore
+
+di certi loschi individui in passato, e che fosse venuto quaggiù
+
+per identificarne e denunciarne uno. Le probabilità all'inizio
+
+indicavano l'ospite—cioè Jenkins. Ora sono moralmente certo che
+
+Jenkins fosse lo straniero indesiderato che Turnbull voleva far condannare in
+
+un altro affare di sparatoria, ma vedete, il gentiluomo tiratore aveva
+
+un altro colpo in canna.»
+«Ma avete detto che dovrebbe essere un ottimo tiratore» protestò
+
+March.
+«Jenkins è un ottimo tiratore» disse Fisher. «Un ottimo tiratore che
+
+sa fingersi un pessimo tiratore. Volete che vi dica il secondo indizio
+
+su cui mi imbattei, dopo il vostro, per farmi pensare che fosse Jenkins? Fu il
+
+racconto di mio cugino sulla sua pessima mira. Aveva staccato con un colpo una coccarda da un cappello
 
 
 
@@ -11090,6 +12156,200 @@ and then he added:
 "I told you before I had to throw back the big fish."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+e una banderuola da un edificio. Ora, in realtà, un uomo deve sparare
+
+davvero molto [[Well|bene]] per sparare così male. Deve sparare in modo molto
+
+preciso per colpire la coccarda e non la testa, né il cappello. Se i
+
+colpi fossero andati davvero a caso, ci sono mille probabilità contro una
+
+che non avrebbero colpito oggetti così cospicui e pittoreschi.
+
+Furono scelti proprio perché erano oggetti cospicui e
+
+pittoreschi. Formano una storia che fa il giro della buona società. Egli conserva la
+
+banderuola storta nella pergola per perpetuare la storia di una
+
+leggenda. E poi se ne stava in agguato col suo occhio maligno e il suo fucile crudele,
+
+ben appostato dietro la leggenda della propria incompetenza.
+«Ma c'è di più. C'è la pergola stessa.
+
+Voglio dire, c'è tutto l'insieme. C'è tutto ciò per cui Jenkins viene canzonato,
+
+le dorature e i colori sgargianti e tutta la volgarità che
+
+dovrebbe bollarlo come un arrivista. Ora, in verità,
+
+gli arrivisti di solito non fanno così. Dio sa se ce ne sono abbastanza nella
+
+buona società; e li si conosce [[Well|bene]] abbastanza. E questa è l'ultimissima
+
+cosa che fanno. Di solito non aspettano che di conoscere la cosa
+
+giusta e farla; e si mettono immediatamente [[Body|corpo]] e [[Soul|anima]]
+
+nelle mani di decoratori e di esperti d'arte, che fanno tutto il
+
+lavoro per loro. Non c'è quasi altro milionario vivente che abbia il
+
+[[Courage|coraggio]] morale di avere un monogramma dorato su una sedia come quella nella
+
+sala delle armi. Del resto, c'è tanto il nome [[Well|quanto]] il
+
+monogramma. Nomi come Tompkins e Jenkins e Jinks sono buffi
+
+senza essere volgari; voglio dire, sono volgari senza essere comuni.
+
+Se preferite, sono insignificanti senza essere comuni. Sono
+
+proprio i nomi che si sceglierebbero per apparire ordinari, ma sono
+
+in realtà piuttosto straordinari. Conoscete molte persone di nome
+
+Tompkins? È assai più raro di Talbot. È press'a poco lo
+
+stesso con i buffi abiti del parvenu. Jenkins si veste come un
+
+personaggio del Punch. Ma questo perché è un personaggio del Punch.
+
+Voglio dire, è un personaggio fittizio. È un animale favoloso. Non
+
+esiste.
+«Avete mai considerato cosa debba significare essere un uomo che
+
+non esiste? Voglio dire, essere un uomo con un carattere fittizio che
+
+deve sostenere a spese non solo dei propri talenti personali: essere
+
+un nuovo genere di ipocrita che nasconde un talento in un nuovo genere di fazzoletto.
+
+Quest'uomo ha scelto la propria ipocrisia con grande ingegno; era davvero una
+
+novità. Un sottile [[Villain|furfante]] si è camuffato da gentiluomo brillante e
+
+da rispettabile uomo d'affari e da filantropo e da santo; ma i vistosi
+
+quadretti di un comico cafoncello erano davvero un travestimento piuttosto nuovo.
+
+Ma il travestimento dev'essere molto fastidioso per un uomo che sa davvero fare
+
+le cose. Costui è un abile piccolo monello cosmopolita che sa
+
+fare una miriade di cose, non solo sparare, ma disegnare e dipingere, e
+
+probabilmente suonare il violino. Ora, un uomo simile può trovare utile nascondere
+
+i propri talenti; ma non potrebbe mai fare a meno di volerli usare
+
+là dove sono inutili. Se sa disegnare, disegnerà distrattamente
+
+sulla carta assorbente. Sospetto che questo furfante abbia spesso disegnato il volto del povero
+
+vecchio Puggy sulla carta assorbente. Probabilmente cominciò a farlo con le macchie
+
+come poi lo fece coi punti, o meglio coi colpi. Era la stessa
+
+specie di cosa; trovò un bersaglio in disuso in un cortile deserto e
+
+non poté resistere alla tentazione di un po' di tiro segreto, come si beve
+
+di nascosto. Voi pensavate che i colpi fossero tutti sparsi e irregolari, e così
+
+erano; ma non casuali. Non c'erano due distanze uguali; ma i
+
+diversi punti erano esattamente dove voleva metterli. Non c'è
+
+nulla che richieda tanta precisione matematica quanto una caricatura sfrenata.
+
+Anch'io mi sono dilettato un poco di disegno, e vi assicuro che mettere un
+
+punto dove lo si vuole è un prodigio con una penna vicino a un foglio di
+
+carta. Era un miracolo farlo attraverso un [[Garden|giardino]] con un fucile. Ma un
+
+uomo capace di compiere quei miracoli non resisterà mai al prurito di compierli, foss'anche
+
+solo nel buio.»
+Dopo una pausa March osservò, pensieroso: «Ma non avrebbe potuto
+
+abbatterlo come un uccello con uno di quei fucili piccoli.»
+«No; ecco perché sono andato nella sala delle armi» replicò Fisher. «Lo
+
+fece con uno dei fucili di Burke, e Burke credette di riconoscerne il
+
+suono. Ecco perché si precipitò fuori senza cappello, con un'aria così
+
+stralunata. Non vide altro che un'automobile che passava veloce, che seguì
+
+per un breve tratto, per poi concludere di essersi sbagliato.
+Vi fu un altro [[Silence|silenzio]], durante il quale Fisher sedette su una grande pietra
+
+immobile come al loro primo incontro, e osservò il grigio e
+
+argenteo [[River|fiume]] che scorreva vorticoso sotto i cespugli. Poi March disse,
+
+bruscamente: «Naturalmente ora conosce la [[Truth|verità]].»
+«Nessuno conosce la [[Truth|verità]] tranne voi e io» rispose Fisher, con un
+
+certo addolcirsi nella voce. «E non credo che voi e io
+
+litigheremo mai.»
+«Che cosa intendete?» chiese March, con tono mutato. «Che cosa
+
+avete fatto in proposito?»
+Horne Fisher continuò a fissare fermamente la corrente vorticosa.
+
+Alla fine disse: «La polizia ha provato che è stato un incidente d'auto.»
+«Ma voi sapete che non lo è stato.»
+«Vi ho detto che so troppo» replicò Fisher, con l'occhio fisso sul
+
+[[River|fiume]]. «So questo, e so moltissime altre cose.
+
+Conosco l'atmosfera e il modo in cui funziona tutto quanto. So che questo
+
+tipo è riuscito a rendersi qualcosa di inguaribilmente
+
+banale e comico. So che non si può montare una persecuzione contro il vecchio
+
+Toole o Little Tich. Se dicessi a Hoggs o a Halkett che il vecchio
+
+Jink era un assassino, morirebbero quasi dal ridere davanti ai miei
+
+occhi. Oh, non dico che la loro risata sia del tutto [[Innocent|innocente]], per quanto sia
+
+genuina a suo modo. Vogliono il vecchio Jink, e non potrebbero farne a meno.
+
+Non dico di essere del tutto [[Innocent|innocente]] io. Mi è simpatico Hoggs; non voglio che sia
+
+ridotto sul lastrico; e sarebbe finito se Jink non potesse pagare la sua
+
+corona nobiliare. Erano dannatamente vicini al limite alle ultime elezioni. Ma
+
+l'unica vera obiezione è che è impossibile. Nessuno ci
+
+crederebbe; non ci sta nel quadro. La banderuola storta lo
+
+trasformerebbe sempre in una barzelletta.»
+«Non pensate che questo sia infame?» chiese March, pacatamente.
+«Penso parecchie cose» replicò l'altro. «Se voialtri
+
+doveste mai far saltare all'inferno con la dinamite l'intero groviglio della
+
+società, non so se la razza umana ne uscirebbe molto peggiore.
+
+Ma non siate troppo duro con me solo perché io so cos'è la società.
+
+È per questo che [[Moon|sciupo]] oziosamente il mio [[Time|tempo]] su cose come il pesce puzzolente.»
+Vi fu una pausa mentre si risistemava presso la corrente;
+
+e poi aggiunse:
+«Vi ho detto prima che dovevo ributtare in acqua il pesce grosso.»
+
 
 
 <span class="atom-split" data-atom="story_02_the_vanishing_prince--part_01" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 1)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
@@ -11267,6 +12527,179 @@ through his own bedroom on to a balcony that overhung the [[River|river]]. The
 moment the pursuers stepped on to the balcony it broke under them,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+II - Il principe che scompariva
+*
+Questo racconto comincia in mezzo a un groviglio di racconti attorno a un nome che è al
+
+contempo recente e leggendario. Il nome è quello di [[Michael]] O'Neill,
+
+chiamato popolarmente Principe [[Michael]], in parte perché vantava discendenza
+
+da antichi principi feniani, e in parte perché gli si attribuiva
+
+un piano per farsi principe presidente d'Irlanda, come l'ultimo
+
+Napoleone fece della Francia. Era senza dubbio un gentiluomo di onorevole
+
+lignaggio e di molte doti, ma due delle sue doti
+
+emergevano fra tutte le altre. Aveva il talento di comparire quando non era
+
+desiderato e il talento di scomparire quando era ricercato,
+
+specialmente quando era ricercato dalla polizia. Si può aggiungere che
+
+le sue scomparse erano più pericolose delle sue apparizioni. In
+
+queste ultime raramente andava oltre il sensazionale—affiggere manifesti
+
+sediziosi, strappare manifesti ufficiali, tenere fiammeggianti
+
+discorsi, o spiegare bandiere proibite. Ma per effettuare le
+
+prime talvolta lottava per la propria [[Freedom|libertà]] con una sconcertante
+
+energia, dalla quale gli uomini erano talvolta fortunati a scampare con la testa
+
+rotta anziché il collo rotto. Le sue più celebri imprese di fuga,
+
+tuttavia, erano dovute alla destrezza e non alla violenza. In un limpido
+
+mattino d'[[Summer|estate]] era disceso per una [[Road|strada]] di campagna bianca di [[Dust|polvere]] e,
+
+fermandosi davanti a una fattoria, aveva detto alla figlia del contadino, con
+
+elegante indifferenza, che la polizia locale era sulle sue tracce.
+
+La ragazza si chiamava Bridget Royce, un tipo cupo e perfino imbronciato di
+
+[[Beauty|bellezza]], e lo guardò con aria scura, come in [[Doubt|dubbio]], e disse: «Volete
+
+che vi nasconda?» Al che egli si limitò a ridere, saltò leggero
+
+oltre il muretto di pietra, e si diresse a grandi passi verso la fattoria, gettando soltanto
+
+oltre la spalla l'osservazione: «Grazie, di solito sono stato
+
+del tutto capace di nascondermi da me.» In tale procedere egli agì con una
+
+tragica ignoranza della [[Nature|natura]] delle donne; e cadde sul suo cammino
+
+in quel sole un'[[Shadow|ombra]] di rovina.
+Mentre spariva attraverso la fattoria la ragazza rimase per
+
+qualche istante a guardare su per la [[Road|strada]], e due poliziotti sudati giunsero
+
+arrancando fino alla porta dove ella stava. Benché ancora adirata, ella era
+
+ancora silenziosa, e un quarto d'ora più tardi gli agenti avevano
+
+perquisito la [[house|casa]] e stavano già ispezionando l'[[Garden|orto]]
+
+e il campo di grano dietro di essa. Nella brutta reazione del suo umore avrebbe potuto
+
+persino esser tentata di indicare il fuggitivo, se non fosse stato per una piccola
+
+difficoltà: che non aveva più idea dei poliziotti di
+
+dove egli potesse mai essere andato. L'[[Garden|orto]] era cinto
+
+da un muro molto basso, e il campo di grano oltre giaceva obliquo come una
+
+quadrata pezza su una grande verde [[Hill|collina]] sulla quale sarebbe ancora potuto essere
+
+visto anche come un puntino in lontananza. Tutto stava saldo al suo
+
+posto familiare; il melo era troppo piccolo per sostenere o nascondere un
+
+arrampicatore; l'unico capanno stava aperto e palesemente vuoto; non c'era
+
+suono salvo il ronzio delle mosche d'[[Summer|estate]] e l'occasionale battito d'ali di
+
+un uccello abbastanza estraneo da lasciarsi sorprendere dallo spaventapasseri nel
+
+campo; non c'era quasi [[Shadow|ombra]] salvo poche linee azzurre che cadevano
+
+dall'esile albero; ogni dettaglio era messo in risalto dalla brillante luce
+
+del giorno come in un microscopio. La ragazza descrisse la scena in seguito,
+
+con tutto il realismo appassionato della sua stirpe, e, che i
+
+poliziotti avessero o meno un occhio simile per il pittoresco, avevano almeno
+
+un occhio per i fatti del caso, e furono costretti ad abbandonare l'
+
+inseguimento e a ritirarsi dalla scena. Bridget Royce rimase come in
+
+trance, fissando il [[Garden|giardino]] soleggiato in cui un uomo era appena
+
+svanito come una fata. Era ancora d'umore sinistro, e il
+
+miracolo assunse nella sua mente un carattere di ostilità e di [[Fear|paura]], come
+
+se la fata fosse decisamente una fata malvagia. Il sole sul luccicante
+
+[[Garden|giardino]] la deprimeva più dell'oscurità, ma ella continuò a
+
+fissarlo. Poi il mondo stesso impazzì a metà ed ella
+
+urlò. Lo spaventapasseri si mosse nella luce del sole. Era rimasto con
+
+la schiena rivolta a lei, in un vecchio cappello nero malandato e una veste a brandelli,
+
+e con tutti i suoi cenci al vento, si allontanò a grandi passi per la [[Hill|collina]].
+Ella non analizzò l'audace trucco con cui l'uomo aveva volto
+
+a proprio vantaggio i sottili effetti dell'atteso e dell'ovvio;
+
+era ancora sotto la nube di complessità più personali, e
+
+notò soprattutto che lo spaventapasseri che spariva non si voltò nemmeno
+
+a guardare la fattoria. E i fati che correvano così avversi
+
+alla sua fantastica carriera di [[Freedom|libertà]] vollero che la sua avventura seguente,
+
+benché avesse lo stesso [[success|successo]] in un altro luogo, accrescesse
+
+il pericolo in questo. Fra le molte avventure simili
+
+raccontate di lui in questo modo si narra pure che alcuni giorni
+
+dopo un'altra ragazza, di nome Mary Cregan, lo trovò nascosto nella
+
+fattoria dove lavorava; e se la storia è vera, deve aver
+
+subìto anch'ella lo shock di un'esperienza [[Uncanny|perturbante]], poiché mentre era intenta
+
+a qualche compito solitario nel cortile udì una voce che parlava dal
+
+[[Well|pozzo]], e scoprì che l'eccentrico era riuscito a calarsi
+
+nel secchio che si trovava un po' più in basso, essendo il [[Well|pozzo]] solo
+
+in parte pieno d'[[Water|acqua]]. In questo caso, tuttavia, dovette rivolgersi alla
+
+donna perché [[Wind|tirasse su]] la fune. E si dice che fu quando questa notizia venne
+
+riferita all'altra donna che la sua [[Soul|anima]] varcò la linea di confine del
+
+tradimento.
+Tali, almeno, erano le storie che si raccontavano di lui nelle campagne, e
+
+ce n'erano molte altre—come quella che stette insolentemente in uno splendido
+
+vestaglia verde sui gradini di un grande albergo, e poi condusse la
+
+polizia in un inseguimento attraverso una lunga infilata di grandi appartamenti, e infine
+
+attraverso la sua stessa camera da letto fino a un balcone che sovrastava il [[River|fiume]]. Nel
+
+momento in cui gli inseguitori misero piede sul balcone, esso cedette sotto di loro,
+
 
 
 <span class="atom-split" data-atom="story_02_the_vanishing_prince--part_02" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 2)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
@@ -11441,6 +12874,176 @@ primitive Irish chieftains who fell fighting against the sea.
 "I saw some queer-looking people leaving as I came in," said Sir
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+e caddero alla rinfusa nelle acque vorticose, mentre [[Michael]],
+
+che si era gettato via la vestaglia e si era tuffato, poté allontanarsi a nuoto. Si
+
+disse che aveva accuratamente segato i sostegni affinché non
+
+reggessero nulla di tanto pesante quanto un poliziotto. Ma anche qui fu
+
+immediatamente fortunato, eppure alla fine sfortunato, poiché si dice
+
+che uno degli uomini annegò, lasciando una faida familiare che aprì una
+
+piccola incrinatura nella sua popolarità. Queste storie possono ora essere raccontate con qualche
+
+dettaglio, non perché siano le più meravigliose delle sue molte
+
+avventure, ma perché queste [[Alone|soltanto]] non furono coperte dal [[Silence|silenzio]] dalla
+
+lealtà dei contadini. Queste [[Alone|soltanto]] trovarono la via verso i
+
+rapporti ufficiali, ed è questi che tre dei principali funzionari
+
+del paese stavano leggendo e discutendo quando comincia la parte più
+
+notevole di questa storia.
+La [[Night|notte]] era inoltrata e le luci brillavano nel cottage che
+
+fungeva da stazione di polizia provvisoria presso la costa. Da un lato di
+
+esso c'erano le ultime case del villaggio sparpagliato, e dall'altro
+
+nient'altro che una desolata brughiera che si stendeva verso il mare, la cui
+
+linea non era spezzata da alcun punto di riferimento tranne una torre solitaria della
+
+foggia preistorica che si trova ancora in Irlanda, che si ergeva
+
+slanciata come una colonna, ma appuntita come una piramide. A un tavolo di legno
+
+davanti alla [[Window|finestra]], che normalmente dava su questo paesaggio,
+
+sedevano due uomini in borghese, ma con qualcosa di un portamento
+
+militare, poiché erano infatti i due capi del servizio [[Detective|investigativo]]
+
+di quel distretto. Il più anziano dei due, per età e per
+
+grado, era un uomo tarchiato con una corta barba bianca, e gelide sopracciglia
+
+fissate in un cipiglio che suggeriva piuttosto preoccupazione che severità.
+Si chiamava Morton, ed era un uomo di Liverpool a lungo marinato nelle
+
+contese irlandesi, e compiva il proprio dovere fra esse in un modo acido non
+
+del tutto antipatico. Aveva scambiato qualche frase col suo
+
+compagno, Nolan, un uomo alto e bruno con un cadaverico volto irlandese
+
+equino, quando parve ricordarsi di qualcosa e toccò un campanello che
+
+suonò in un'altra stanza. Il subalterno che aveva convocato comparve
+
+immediatamente con un fascio di carte in mano.
+«Sedetevi, Wilson» disse. «Quelle sono le deposizioni,
+
+suppongo.»
+«Sì» rispose il terzo agente. «Credo di aver ricavato tutto ciò che c'era da
+
+ricavarne, così ho mandato via la gente.»
+«Mary Cregan ha testimoniato?» chiese Morton, con un cipiglio che
+
+appariva un po' più cupo del solito.
+«No, ma il suo padrone sì» rispose l'uomo di nome Wilson, che aveva
+
+capelli lisci e rossi e un volto comune e pallido, non privo di acume. «
+
+Credo che ronzi lui stesso attorno alla ragazza e ce l'abbia con un
+
+rivale. C'è sempre qualche ragione del genere quando ci viene detta la
+
+[[Truth|verità]] su qualcosa. E scommettete che l'altra ragazza l'ha detta eccome.»
+«[[Well|Beh]], [[Hope|speriamo]] che siano di una qualche utilità» osservò Nolan, in un
+
+modo alquanto sconsolato, guardando fuori nell'oscurità.
+«Tutto è utile» disse Morton «purché ci faccia sapere qualcosa
+
+su di lui.»
+«Sappiamo qualcosa di lui?» chiese l'[[Melancholy|malinconico]] irlandese.
+«Sappiamo una cosa di lui» disse Wilson «ed è l'unica cosa
+
+che nessuno abbia mai saputo prima. Sappiamo dov'è.»
+«Ne siete sicuro?» s'informò Morton, guardandolo con acutezza.
+«Sicurissimo» replicò il suo assistente. «In questo preciso momento si trova in
+
+quella torre laggiù presso la riva. Se vi avvicinate abbastanza vedrete
+
+la candela che arde alla [[Window|finestra]].»
+Mentre parlava il suono di un clacson risuonò sulla [[Road|strada]] all'esterno, e un
+
+istante dopo udirono il rombo pulsante di un'automobile che si arrestava
+
+davanti alla porta. Morton balzò all'istante in piedi.
+«Grazie al Cielo, è l'auto da Dublino» disse. «Non posso far
+
+nulla senza un'autorità speciale, nemmeno se se ne stesse seduto in
+
+cima alla torre a farci le linguacce. Ma il capo può
+
+fare ciò che ritiene meglio.»
+Si affrettò all'ingresso e presto scambiava saluti
+
+con un uomo grande e avvenente in una pelliccia, che portò nella squallida
+
+stazioncina l'indescrivibile bagliore delle grandi città e i
+
+lussi del gran mondo.
+Poiché costui era Sir Walter Carey, un funzionario di tale eminenza al
+
+[[Castle|Castello]] di Dublino che nulla di meno del caso del Principe [[Michael]]
+
+l'avrebbe indotto a un tale [[Journey|viaggio]] nel cuore della [[Night|notte]]. Ma
+
+il caso del Principe [[Michael]], per come stavano le cose, era complicato dal
+
+legalismo tanto [[Well|quanto]] dall'illegalità. L'ultima volta era sfuggito
+
+grazie a un cavillo forense e non, come al solito, a una scappatella privata; ed
+
+era una questione se al momento fosse soggetto alla legge
+
+oppure no. Poteva rendersi necessario forzare un punto, ma un uomo come Sir
+
+Walter poteva probabilmente forzarlo fin quanto voleva.
+Se intendesse farlo era una questione da ponderare.
+
+Nonostante il tocco quasi aggressivo di lusso nella pelliccia,
+
+presto divenne evidente che la grande testa leonina di Sir Walter serviva
+
+tanto all'uso [[Well|quanto]] all'ornamento, ed egli considerò la questione con abbastanza sobrietà e
+
+buonsenso. Cinque sedie erano disposte attorno al semplice tavolo di abete, poiché
+
+chi mai avrebbe portato con sé Sir Walter se non il suo giovane parente e
+
+segretario, Horne Fisher. Sir Walter ascoltò con [[Grave|grave]] attenzione,
+
+e il suo segretario con cortese noia, la serie di episodi con cui
+
+la polizia aveva rintracciato il [[Rebel|ribelle]] in fuga dai gradini dell'
+
+albergo fino alla torre solitaria presso il mare. Lì almeno era
+
+intrappolato tra la brughiera e i frangenti; e l'esploratore mandato da
+
+Wilson lo riferiva intento a scrivere sotto una candela solitaria, forse
+
+mentre componeva un altro dei suoi tremendi proclami. Anzi,
+
+sarebbe stato tipico di lui sceglierlo come il luogo in cui infine
+
+voltarsi a tener testa. Aveva su di essa qualche remota pretesa, come su un
+
+[[Castle|castello]] di famiglia; e chi lo conosceva lo riteneva capace di imitare gli
+
+primitivi capiclan irlandesi che caddero combattendo contro il mare.
+«Ho visto certe persone dall'aspetto strano che se ne andavano mentre entravo» disse Sir
+
 
 
 <span class="atom-split" data-atom="story_02_the_vanishing_prince--part_03" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 3)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
@@ -11613,6 +13216,175 @@ Something in its plain and primitive shape vaguely suggested the
 
 [[Dawn|dawn]] in the first days of the earth, in some prehistoric [[Time|time]] when
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Walter Carey. «Suppongo fossero i vostri testimoni. Ma perché
+
+si presentano qui a quest'[[Time|ora]] di [[Night|notte]]?»
+Morton sorrise cupamente. «Vengono qui di [[Night|notte]] perché sarebbero
+
+uomini morti se venissero di giorno. Sono criminali che commettono
+
+un crimine che qui è più orribile del furto o dell'omicidio.»
+«Quale crimine intendete?» chiese l'altro, con una certa curiosità.
+«Aiutano la legge» disse Morton.
+Vi fu un [[Silence|silenzio]], e Sir Walter considerò le carte che aveva davanti
+
+con occhio distratto. Alla fine parlò.
+«Proprio così; ma sentite, se il sentimento locale è così acceso
+
+ci sono parecchi punti da considerare. Credo che la nuova Legge mi
+
+consentirà di acciuffarlo ora, se lo ritengo opportuno. Ma è opportuno? Una
+
+seria sollevazione non ci gioverebbe in Parlamento, e il [[government|governo]]
+
+ha nemici in Inghilterra tanto [[Well|quanto]] in Irlanda. Non va bene se ho
+
+fatto qualcosa che ha un po' l'aria di un raggiro, per poi suscitare soltanto una
+
+rivoluzione.»
+«È tutto il contrario» disse l'uomo di nome Wilson, piuttosto
+
+rapidamente. «Non ci sarà una rivoluzione neanche a metà se lo arrestate
+
+di quanta ce ne sarà se lo lasciate libero per altri tre giorni. Ma,
+
+comunque, non può esserci oggigiorno nulla che una polizia come si deve
+
+non sappia gestire.»
+«Mr. Wilson è un londinese» disse l'[[Detective|investigatore]] irlandese, con un sorriso.
+«Sì, sono un cockney, proprio così» replicò Wilson «e credo di essere
+
+tanto migliore per questo. Specialmente in questo lavoro, per quanto strano.»
+Sir Walter parve lievemente divertito dalla pervicacia del terzo
+
+agente, e forse ancor più divertito dal lieve accento con cui
+
+parlava, che rendeva piuttosto superfluo il suo vanto sulla propria
+
+origine.
+«Volete forse dire» chiese «che ne sapete di più sulla
+
+faccenda qui perché venite da [[London|Londra]]?»
+«Suona buffo, lo so, ma ci credo davvero» rispose Wilson. «
+
+Credo che queste faccende richiedano metodi nuovi. Ma soprattutto credo
+
+che richiedano un occhio nuovo.»
+Gli ufficiali superiori risero, e l'uomo dai capelli rossi proseguì con un
+
+lieve scatto di stizza:
+«[[Well|Beh]], guardate i fatti. Osservate come il tale se l'è cavata ogni [[Time|volta]],
+
+e capirete cosa intendo. Perché poté stare al
+
+posto dello spaventapasseri, nascosto da null'altro che un vecchio cappello? Perché
+
+era un poliziotto di paese, che sapeva che lo spaventapasseri era lì, se lo
+
+aspettava, e perciò non vi fece caso. Ora, io non mi aspetto mai
+
+uno spaventapasseri. Non ne ho mai visto uno per strada, e ne fisso uno
+
+quando lo vedo nel campo. È una cosa nuova per me e degna di
+
+nota. E fu lo stesso quando si nascose nel [[Well|pozzo]]. Voi siete
+
+pronti a trovare un [[Well|pozzo]] in un luogo simile; cercate un [[Well|pozzo]], e
+
+così non lo vedete. Io non lo cerco, e perciò lo guardo
+
+eccome.»
+«È certamente un'idea» disse Sir Walter, sorridendo «ma e
+
+il balcone? Di balconi se ne vedono ogni tanto a [[London|Londra]].»
+«Ma non fiumi proprio sotto di essi, come se fosse a [[Venice|Venezia]]» replicò
+
+Wilson.
+«È certamente un'idea nuova» ripeté Sir Walter, con qualcosa
+
+di simile al rispetto. Aveva tutto l'[[Love|amore]] delle classi lussuose per le
+
+idee nuove. Ma aveva anche una facoltà critica, ed era incline a
+
+pensare, dopo la dovuta riflessione, che fosse un'idea vera [[Well|per giunta]].
+L'[[Dawn|alba]] crescente aveva già mutato i vetri della [[Window|finestra]] dal nero al grigio
+
+quando Sir Walter si alzò bruscamente in piedi. Anche gli altri si [[Rose|levarono]],
+
+prendendo ciò per un segnale che l'arresto stesse per compiersi. Ma
+
+il loro capo rimase un momento immerso nei pensieri, come consapevole
+
+di essere giunto a un bivio.
+D'improvviso il [[Silence|silenzio]] fu trafitto da un lungo grido lamentoso proveniente dalle
+
+oscure brughiere all'esterno. Il [[Silence|silenzio]] che lo seguì parve più
+
+sconvolgente dello strillo stesso, e durò finché Nolan disse,
+
+pesantemente:
+«È la banshee. Qualcuno è segnato per la [[Grave|tomba]].»
+Il suo lungo volto dai grandi lineamenti era pallido come una [[Moon|luna]], ed era facile
+
+ricordare che era l'unico irlandese nella stanza.
+«[[Well|Beh]], la conosco quella banshee» disse Wilson, allegramente «per quanto ignorante
+
+mi crediate di queste cose. Ho parlato io stesso con quella banshee un'
+
+ora fa, e ho mandato quella banshee su alla torre e le ho detto di
+
+strillare così se fosse riuscita a scorgere il nostro amico intento a scrivere
+
+il suo proclama.»
+«Intendete quella ragazza, Bridget Royce?» chiese Morton, avvicinando le
+
+gelide sopracciglia. «Si è messa a testimoniare per la [[King|Corona]] a tal
+
+punto?»
+«Sì» rispose Wilson. «So pochissimo di queste faccende locali,
+
+mi dite, ma reputo che una donna adirata sia più o meno la stessa in tutti i
+
+paesi.»
+Nolan, tuttavia, pareva ancora tetro e diverso dal solito. «È un brutto
+
+suono e una brutta faccenda del tutto» disse. «Se è davvero la
+
+fine del Principe [[Michael]], potrebbe [[Well|bene]] essere la fine anche di altre
+
+[[Well|cose]]. Quando lo spirito lo prende sfuggirebbe per una scala di uomini
+
+morti, e guaderebbe quel mare fosse pure fatto di [[Blood|sangue]].»
+«È questa la vera ragione dei vostri pii allarmi?» chiese Wilson, con un
+
+lieve ghigno.
+Il pallido volto dell'irlandese si annerì di una nuova passione.
+«Ho affrontato tanti assassini nella Contea di Clare quanti voi non ne avete mai combattuti
+
+a Clapham Junction, Mr. Cockney» disse.
+«Silenzio, per favore» disse Morton, seccamente. «Wilson, non avete alcun
+
+diritto di insinuare [[Doubt|dubbi]] sulla condotta del vostro superiore. [[Hope|Spero]] che vi
+
+dimostrerete coraggioso e fidato quanto lo è sempre stato lui.»
+Il pallido volto dell'uomo dai capelli rossi parve un'ombra più pallido, ma egli era
+
+silenzioso e composto, e Sir Walter si avvicinò a Nolan con marcata
+
+cortesia, dicendo: «Usciamo ora, e sbrighiamo questa
+
+faccenda?»
+L'[[Dawn|alba]] si era levata, lasciando un ampio abisso di bianco tra una grande grigia
+
+nube e la grande grigia brughiera, oltre la quale la torre si
+
+stagliava contro lo spuntar del giorno e il mare.
+Qualcosa nella sua semplice e primitiva forma suggeriva vagamente l'
+
+[[Dawn|alba]] dei primi giorni della terra, in qualche [[Time|tempo]] preistorico in cui
 
 
 
@@ -11792,6 +13564,180 @@ timber platform under the upper [[Window|window]], a small loft which was more
 like a large shelf. It was reached only by a ladder, and it seemed
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+persino i colori erano appena creati, quando non c'era che nuda
+
+luce del giorno tra la nube e l'argilla. Queste tinte morte erano ravvivate soltanto
+
+da un'unica macchia d'oro—la scintilla della candela accesa alla [[Window|finestra]]
+
+della torre solitaria, che ardeva ancora nella luce del giorno che si allargava. Mentre
+
+il gruppo di investigatori, seguito da un cordone di poliziotti, si
+
+dispiegava a mezzaluna per tagliare ogni via di fuga, la luce nella torre
+
+guizzò come se fosse mossa per un istante, e poi si spense.
+
+Compresero che l'uomo all'interno si era accorto della luce del giorno e aveva spento la sua
+
+candela.
+«Ci sono altre finestre, non è vero?» chiese Morton «e una porta,
+
+naturalmente, da qualche parte dietro l'angolo? Solo che una torre rotonda non ha
+
+angoli.»
+«Un altro esempio del mio piccolo suggerimento» osservò Wilson, pacatamente.
+
+«Quella strana torre fu la prima cosa che vidi quando giunsi da queste
+
+parti; e posso dirvene un po' di più—o, in ogni caso,
+
+dell'esterno di essa. Ci sono quattro finestre in tutto, una poco
+
+discosta da questa, ma appena fuori vista. Queste sono entrambe al
+
+pianterreno, e così pure la terza sull'altro lato, formando una specie
+
+di triangolo. Ma la quarta è proprio sopra la terza, e suppongo
+
+dia su un piano superiore.»
+«È solo una specie di soppalco, raggiunto da una scala» disse Nolan. «Ci ho
+
+giocato in quel luogo quando ero [[Child|bambino]]. Non è altro che un guscio
+
+vuoto.» E il suo volto triste si fece più triste, pensando forse alla
+
+[[Tragedy|tragedia]] del suo paese e alla parte che egli vi recitava.
+«L'uomo deve essersi procurato un tavolo e una sedia, in ogni caso» disse Wilson,
+
+«ma senza [[Doubt|dubbio]] avrà potuto procurarseli da qualche cottage. Se potessi
+
+avanzare un suggerimento, signore, credo che dovremmo avvicinarci a tutti e cinque gli
+
+ingressi in una volta, per così dire. Uno di noi dovrebbe andare alla porta e
+
+uno a ciascuna [[Window|finestra]]; Macbride qui ha una scala per l'alta
+
+[[Window|finestra]].»
+Mr. Horne Fisher si voltò languidamente verso il suo illustre parente e
+
+parlò per la prima [[Time|volta]].
+«Sono piuttosto un [[convert|convertito]] alla scuola cockney di psicologia» disse
+
+con voce quasi impercettibile.
+Gli altri parvero avvertire la stessa influenza in modi diversi, poiché
+
+il gruppo cominciò a disperdersi nel modo indicato. Morton si mosse
+
+verso la [[Window|finestra]] immediatamente di fronte a loro, dove il
+
+fuorilegge nascosto aveva appena spento la candela; Nolan, un po' più a ovest
+
+verso la [[Window|finestra]] successiva; mentre Wilson, seguito da Macbride con la
+
+scala, girò verso le due finestre sul retro. Sir Walter Carey
+
+in persona, seguito dal suo segretario, cominciò a girare verso l'
+
+unica porta, per chiedere accesso in modo più regolare.
+«Sarà armato, naturalmente» osservò Sir Walter, con noncuranza.
+«A quanto si dice» replicò Horne Fisher «riesce a fare di più con un
+
+candeliere di quanto la maggior parte degli uomini con una [[Pistol|pistola]]. Ma è pressoché certo che
+
+abbia anche la [[Pistol|pistola]].»
+Proprio mentre parlava la domanda ebbe risposta con una lingua di tuono.
+
+Morton si era appena posto davanti alla [[Window|finestra]] più vicina, le sue
+
+larghe spalle a ostruire l'apertura. Per un istante essa fu illuminata
+
+dall'interno come da un rosso [[Fire|fuoco]], seguìto da una tonante ressa di
+
+echi. Le spalle quadrate parvero mutare forma, e la
+
+tarchiata figura crollò tra le alte, folte erbe ai piedi della
+
+torre. Uno sbuffo di fumo fluttuò dalla [[Window|finestra]] come una piccola
+
+nube. I due uomini dietro si precipitarono sul posto e lo sollevarono, ma egli
+
+era morto.
+Sir Walter si raddrizzò e gridò qualcosa che andò
+
+perduto in un altro rumore di spari; era possibile che la polizia
+
+stesse già vendicando il proprio compagno dall'altro lato. Fisher era
+
+già corso verso la [[Window|finestra]] successiva, e un nuovo grido di
+
+stupore da parte sua portò il suo patrono sullo stesso punto. Nolan,
+
+il poliziotto irlandese, era anch'egli caduto, disteso in tutta la sua grande lunghezza
+
+nell'erba, ed essa era rossa del suo [[Blood|sangue]]. Era ancora vivo quando
+
+lo raggiunsero, ma vi era la [[Death|morte]] sul suo volto, ed egli poté soltanto
+
+compiere un gesto finale che diceva loro che tutto era finito; e,
+
+con una parola spezzata e uno sforzo eroico, facendo loro cenno di proseguire verso dove
+
+gli altri suoi compagni assediavano il retro della torre. Sbalorditi da
+
+questi rapidi e ripetuti shock, i due uomini poterono solo vagamente obbedire
+
+al gesto e, trovando la via verso le altre finestre sul
+
+retro, scoprirono una scena ugualmente sconvolgente, se pur meno definitiva e
+
+tragica. Gli altri due agenti non erano morti né feriti a morte,
+
+ma Macbride giaceva con una gamba rotta e la sua scala sopra di sé,
+
+evidentemente gettata giù dalla [[Window|finestra]] più alta della torre; mentre Wilson
+
+giaceva bocconi, del tutto immobile come tramortito, con la testa rossa tra
+
+il grigio e l'argento dell'agrifoglio marino. In lui, tuttavia, l'impotenza
+
+fu solo momentanea, poiché cominciò a muoversi e a sollevarsi mentre gli altri giungevano
+
+attorno alla torre.
+«Dio mio! è come un'esplosione!» gridò Sir Walter; e davvero
+
+era l'unica parola per questa energia ultraterrena, con cui un solo uomo era
+
+riuscito a portare [[Death|morte]] o distruzione su tre lati dello stesso
+
+piccolo triangolo nel medesimo istante.
+Wilson si era già rimesso in piedi a fatica e con splendida energia
+
+si lanciò di nuovo alla [[Window|finestra]], la rivoltella in pugno. Sparò due volte nell'
+
+apertura e poi scomparve nel proprio fumo; ma il tonfo dei suoi
+
+piedi e l'urto di una sedia che cadeva dissero loro che l'intrepido
+
+londinese era riuscito infine a balzare nella stanza. Poi seguì un
+
+curioso [[Silence|silenzio]]; e Sir Walter, avvicinandosi alla [[Window|finestra]] attraverso il
+
+fumo che si diradava, guardò dentro il vuoto guscio dell'antica torre.
+
+Tranne Wilson, che si guardava attorno, non c'era nessuno.
+L'interno della torre era un'unica stanza vuota, con nient'altro che una
+
+semplice sedia di legno e un tavolo sul quale c'erano penne, inchiostro e carta,
+
+e il candeliere. A metà dell'alta parete c'era una rozza
+
+piattaforma di legname sotto la [[Window|finestra]] superiore, un piccolo soppalco che somigliava più
+
+a un grande scaffale. Vi si accedeva solo con una scala, e pareva
+
 
 
 <span class="atom-split" data-atom="story_02_the_vanishing_prince--part_05" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 5)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
@@ -11969,6 +13915,180 @@ Wilson bounded off the table as if he had been kicked off it. "What
 do you mean?" he cried. "How can you possibly see a man?"
 "I can see him through the [[Window|window]]," replied the secretary, mildly.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+spoglio quanto le pareti nude. Wilson completò la sua ispezione del
+
+luogo e poi andò a fissare gli oggetti sul tavolo. Poi
+
+indicò in silenzio col suo magro indice la pagina aperta del
+
+grande taccuino. Chi scriveva si era fermato di colpo, persino nel
+
+mezzo di una parola.
+«Ho detto che pareva un'esplosione», disse infine Sir Walter Carey.
+
+«E davvero l'uomo stesso sembra essere esploso all'improvviso. Ma si
+
+è fatto saltare in aria in qualche modo senza toccare la torre. È scoppiato
+
+più come una bolla che come una bomba.»
+«Ha toccato cose più preziose della torre», disse Wilson,
+
+cupamente.
+Vi fu un lungo [[Silence|silenzio]], e poi Sir Walter disse, serio:
+
+«[[Well|Ebbene]], signor Wilson, io non sono un [[Detective|investigatore]], e questi infelici
+
+eventi vi hanno lasciato a capo di quel ramo della faccenda.
+
+Tutti deploriamo la causa di ciò, ma vorrei dire che io
+
+stesso ho la più ferma fiducia nella vostra capacità di portare
+
+avanti il lavoro. Che cosa pensate dovremmo fare ora?»
+Wilson parve riscuotersi dal suo abbattimento e accolse
+
+le parole di chi parlava con una cortesia più calda di quella che fin lì
+
+aveva mostrato a chiunque. Chiamò alcuni poliziotti ad aiutarlo a
+
+frugare l'interno, lasciando che gli altri si sparpagliassero in una
+
+squadra di ricerca all'esterno.
+«Penso», disse, «che la prima cosa sia accertarsi bene di ciò che riguarda
+
+l'interno di questo luogo, poiché era fisicamente quasi impossibile per lui
+
+essere uscito. Suppongo che il povero Nolan avrebbe tirato in ballo la sua
+
+banshee e detto che era possibile per vie soprannaturali. Ma non so che farmene
+
+di spiriti incorporei quando ho a che fare coi fatti. E i fatti
+
+davanti a me sono una torre vuota con una scala, una sedia e un tavolo.»
+«Gli spiritisti», disse Sir Walter con un sorriso, «direbbero che
+
+gli spiriti saprebbero farsene parecchio, di un tavolo.»
+«Direi di sì, se gli spiriti fossero sul tavolo... in una
+
+bottiglia», replicò Wilson con una piega del pallido labbro. «La gente
+
+di queste parti, quando è tutta imbevuta di whisky irlandese, può
+
+credere a certe cose. Penso che abbiano bisogno di un po' d'[[Education|istruzione]] in questo
+
+paese.»
+Le pesanti palpebre di Horne Fisher tremolarono in un debole tentativo di sollevarsi,
+
+come se fosse tentato da una pigra protesta contro il tono sprezzante
+
+dell'investigatore.
+«Gli irlandesi credono troppo negli spiriti per credere nello
+
+spiritismo», mormorò. «Ne sanno troppo. Se
+
+volete una [[Faith|fede]] semplice e infantile in qualunque spirito capiti, la
+
+potete trovare nella vostra amata [[London|Londra]].»
+«Non voglio trovarla da nessuna parte», disse Wilson, secco. «Dico che ho
+
+a che fare con cose ben più semplici della vostra semplice [[Faith|fede]], con un
+
+tavolo e una sedia e una scala. Ora, ciò che voglio dire di essi
+
+in principio è questo. Tutti e tre sono fatti alla buona di semplice
+
+legno. Ma il tavolo e la sedia sono abbastanza nuovi e relativamente
+
+puliti. La scala è coperta di [[Dust|polvere]] e c'è una ragnatela sotto
+
+il piolo più alto. Ciò significa che i primi due li prese in prestito assai
+
+di recente da qualche casolare, come supponevamo, ma la scala è stata
+
+per molto [[Time|tempo]] in questo vecchio e marcio immondezzaio. Probabilmente faceva parte dell'
+
+arredo originale, un cimelio di questo magnifico palazzo dei
+
+re irlandesi.»
+Di nuovo Fisher lo guardò da sotto le palpebre, ma parve troppo assonnato
+
+per parlare, e Wilson proseguì il suo ragionamento.
+«Ora è ben chiaro che qualcosa di molto strano è appena accaduto in
+
+questo luogo. Le probabilità sono dieci a uno, mi pare, che avesse
+
+qualcosa a che fare in particolare con questo luogo. Probabilmente venne qui
+
+perché poteva farlo solo qui; per altri versi non pare molto invitante
+
+il posto. Ma l'uomo lo conosceva da tempo; dicono appartenesse alla sua
+
+famiglia, sicché nel complesso, penso, tutto indica qualcosa
+
+nella costruzione stessa della torre.»
+«Il vostro ragionamento mi pare eccellente», disse Sir Walter, che
+
+ascoltava attento. «Ma che cosa potrebbe essere?»
+«Ora capite che cosa intendo a proposito della scala», proseguì l'[[Detective|investigatore]];
+
+«è l'unico vecchio mobile qui e la prima cosa che
+
+ha colto quel mio occhio da cockney. Ma c'è dell'altro. Quel
+
+soppalco lassù è una specie di ripostiglio senza cianfrusaglie. Per quanto
+
+posso vedere, è vuoto come tutto il resto; e, stando così le cose,
+
+non vedo l'utilità della scala che vi conduce. Mi pare, dato che
+
+non trovo nulla d'insolito quaggiù, che potrebbe valere la pena guardare
+
+lassù.»
+Scese svelto dal tavolo su cui sedeva (giacché l'unica
+
+sedia era assegnata a Sir Walter) e salì rapido la scala verso
+
+la piattaforma soprastante. Fu presto seguito dagli altri, il signor Fisher
+
+per ultimo, però, con un'aria di considerevole noncuranza.
+A questo punto, tuttavia, erano destinati alla delusione; Wilson
+
+ficcò il naso in ogni angolo come un terrier ed esaminò il tetto quasi nella
+
+posa di una mosca, ma mezz'ora dopo dovettero confessare
+
+che erano ancora senza un indizio. Il segretario privato di Sir Walter
+
+pareva sempre più minacciato da un sonno inopportuno, e,
+
+essendo stato l'ultimo a salire la scala, pareva ora mancare dell'
+
+energia perfino per ridiscenderla.
+«Su, venite, Fisher», chiamò Sir Walter dal basso, quando gli
+
+altri ebbero raggiunto il pavimento. «Dobbiamo considerare se ridurre
+
+l'intero luogo a pezzi per vedere di che cosa è fatto.»
+«Vengo tra un minuto», disse la voce dal ripiano sopra le loro
+
+teste, una voce che ricordava un po' uno sbadiglio articolato.
+«Che cosa aspettate?», chiese Sir Walter, spazientito. «Riuscite
+
+a vedere qualcosa lassù?»
+«[[Well|Ebbene]], sì, in un certo senso», replicò la voce, vagamente. «Anzi, ora la vedo
+
+del tutto chiaramente.»
+«Che cos'è?», chiese Wilson, brusco, dal tavolo su cui sedeva
+
+battendo i talloni con irrequietezza.
+«[[Well|Ebbene]], è un uomo», disse Horne Fisher.
+Wilson balzò giù dal tavolo come se ne fosse stato scalciato via. «Che cosa
+
+intendete?», gridò. «Come diavolo potete vedere un uomo?»
+«Lo vedo attraverso la [[Window|finestra]]», replicò il segretario, mite.
 
 
 
@@ -12150,6 +14270,183 @@ passed suddenly from the dignity of a statue to the swiftness of an
 acrobat and rent the revolver out of the [[Detective|detective]]'s hand.
 "You dog!" he cried. "So you are the type of English [[Truth|truth]], as I am
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Lo vedo attraversare la brughiera. Punta dritto attraverso la
+
+campagna aperta verso questa torre. Evidentemente intende farci
+
+visita. E, considerando chi sembra essere, forse sarebbe più
+
+cortese se fossimo tutti alla porta a riceverlo.» E con
+
+aria indolente il segretario scese la scala.
+«Chi sembra essere!» ripeté Sir Walter, sbalordito.
+
+«[[Well|Ebbene]], penso sia l'uomo che voi chiamate il principe [[Michael|Michele]]», osservò il signor
+
+Fisher, con leggerezza. «Anzi, ne sono certo. Ho visto i ritratti
+
+segnaletici di lui.»
+Vi fu un [[Silence|silenzio]] di morte, e il cervello di solito saldo di Sir Walter
+
+parve girare come un mulino a vento.
+«Ma, diavolo!» disse infine, «anche ammettendo che la sua stessa
+
+esplosione abbia potuto scagliarlo mezzo miglio lontano, senza passare
+
+per nessuna delle finestre, e lasciarlo vivo abbastanza per una passeggiata
+
+in campagna... anche allora, perché diavolo dovrebbe camminare in questa direzione?
+
+L'assassino di solito non torna sulla scena del suo delitto così
+
+rapidamente come tutto ciò.»
+«Non sa ancora che è la scena del suo delitto», rispose
+
+Horne Fisher.
+«Che diamine intendete? Gli attribuite una singolare
+
+assenza di mente.»
+«[[Well|Ebbene]], la [[Truth|verità]] è che non è la scena del suo delitto», disse Fisher,
+
+e andò a guardare fuori dalla [[Window|finestra]].
+Vi fu un altro [[Silence|silenzio]], e poi Sir Walter disse, sommessamente: «Che
+
+sorta di idea avete davvero in testa, Fisher? Avete
+
+elaborato una nuova teoria su come costui sia sfuggito al cerchio
+
+che lo circondava?»
+«Non è mai sfuggito affatto», rispose l'uomo alla [[Window|finestra]], senza
+
+voltarsi. «Non è mai sfuggito al cerchio perché non è mai
+
+stato dentro il cerchio. Non era affatto in questa torre, almeno non
+
+quando la circondavamo.»
+Si voltò e si appoggiò alla [[Window|finestra]], ma, nonostante il suo
+
+solito modo svogliato, quasi immaginarono che il volto in [[Shadow|ombra]]
+
+fosse un po' pallido.
+«Cominciai a sospettare qualcosa del genere quando eravamo un po' lontani dalla
+
+torre», disse. «Avete notato quella sorta di lampo o guizzo
+
+che la candela diede prima di spegnersi? Ero quasi certo
+
+che fosse solo l'ultimo balzo che la fiamma dà quando una candela si
+
+consuma. E poi entrai in questa stanza e vidi quello.»
+Indicò il tavolo e Sir Walter trattenne il fiato con una specie
+
+di imprecazione contro la propria cecità. Perché la candela nel candeliere si era
+
+evidentemente consumata fino a nulla e lo aveva lasciato, mentalmente almeno,
+
+del tutto all'oscuro.
+«Poi c'è una specie di questione matematica», proseguì Fisher,
+
+appoggiandosi all'indietro nel suo modo floscio e guardando in alto le pareti nude, come se
+
+vi tracciasse diagrammi immaginari. «Non è così facile per un uomo nel
+
+terzo angolo fronteggiare gli altri due nello stesso momento, specie se
+
+sono alla base di un isoscele. Mi spiace se suona come una
+
+conferenza di geometria, ma...»
+«Temo che non ne abbiamo il [[Time|tempo]]», disse Wilson, freddamente. «Se quest'
+
+uomo sta davvero tornando, devo dare i miei ordini all'istante.»
+«Penso che io proseguirò comunque», osservò Fisher, fissando
+
+il tetto con insolente serenità.
+«Devo chiedervi, signor Fisher, di lasciarmi condurre l'indagine a modo
+
+mio», disse Wilson, fermamente. «Ora sono io l'ufficiale in carica.»
+«Sì», osservò Horne Fisher, sommessamente, ma con un accento che
+
+in qualche modo raggelò chi ascoltava. «Sì. Ma perché?»
+Sir Walter fissava, poiché non aveva mai visto il suo piuttosto
+
+svagato giovane amico assumere quell'aria. Fisher guardava
+
+Wilson con le palpebre sollevate, e gli occhi sotto di esse parevano aver
+
+gettato o spostato una pellicola, come fanno gli occhi di un'aquila.
+«Perché ora siete voi l'ufficiale in carica?» chiese. «Perché potete
+
+condurre l'indagine a modo vostro, ora? Come mai è accaduto, mi
+
+[[Wonder|chiedo]], che gli ufficiali più anziani non siano qui a intralciare
+
+qualsiasi cosa facciate?»
+Nessuno parlò, e nessuno può dire quanto presto qualcuno avrebbe
+
+radunato l'ingegno per parlare quando un rumore giunse da fuori. Era
+
+il pesante e cupo suono di un colpo sulla porta della torre, e
+
+ai loro spiriti scossi suonò stranamente come il martello del
+
+giudizio.
+La porta di legno della torre si mosse sui cardini arrugginiti sotto la
+mano che la percosse e il principe [[Michael|Michele]] entrò nella stanza. Nessuno
+
+ebbe il minimo [[Doubt|dubbio]] sulla sua [[Identity|identità]]. Le sue vesti chiare, benché
+
+logorate dalle avventure, erano di taglio fine e quasi vanesio, e
+
+portava una barba a punta, o imperiale, forse come ulteriore
+
+reminiscenza di Luigi Napoleone; ma era un uomo assai più alto e più
+
+aggraziato del suo prototipo. Prima che alcuno potesse parlare aveva
+
+ammutolito tutti per un istante con un lieve ma splendido gesto
+
+di ospitalità.
+«Signori», disse, «questo è un misero luogo, ora, ma siete
+
+cordialmente i benvenuti.»
+Wilson fu il primo a riprendersi, e mosse un passo verso il
+
+nuovo venuto.
+«[[Michael|Michele]] O'Neill, vi arresto in nome del [[King|re]] per l'omicidio di
+
+Francis Morton e James Nolan. È mio dovere avvertirvi...»
+«No, no, signor Wilson», gridò Fisher, all'improvviso. «Non commetterete
+
+un terzo omicidio.»
+Sir Walter Carey si [[Rose|alzò]] dalla sedia, che cadde con fracasso
+
+dietro di lui. «Che cosa significa tutto questo?» esclamò in modo
+
+autoritario.
+«Significa», disse Fisher, «che quest'uomo, Hooker Wilson, appena
+
+ebbe messo la testa a quella [[Window|finestra]], uccise i suoi due compagni che
+
+avevano messo la testa alle altre finestre, sparando attraverso la
+
+stanza vuota. Ecco che cosa significa. E se volete saperlo, contate
+
+quante volte si suppone che abbia sparato e poi contate le
+
+cariche rimaste nel suo revolver.»
+Wilson, che sedeva ancora sul tavolo, tese bruscamente una mano
+
+verso l'arma che gli giaceva accanto. Ma il movimento successivo fu il
+
+più inatteso di tutti, poiché il principe ritto sulla soglia
+
+passò d'improvviso dalla dignità di una statua alla rapidità di un
+
+acrobata e strappò il revolver dalla mano dell'[[Detective|investigatore]].
+«Cane!» gridò. «Dunque tu sei il tipo della [[Truth|verità]] inglese, come io sono
 
 
 
@@ -12349,6 +14646,200 @@ of the world; on which subject, also, some moralists would consider
 that he knew too much.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+della [[Tragedy|tragedia]] irlandese... tu che vieni a uccidermi, guadando il [[Blood|sangue]]
+
+dei tuoi fratelli. Se fossero caduti in una faida sul pendio,
+
+si chiamerebbe omicidio, eppure il tuo peccato potrebbe esserti perdonato. Ma
+
+io, che sono [[Innocent|innocente]], dovevo essere ucciso con cerimonia. Vi sarebbero
+
+lunghi discorsi e pazienti giudici in ascolto della mia vana supplica d'
+
+[[innocence|innocenza]], che annoterebbero la mia [[Despair|disperazione]] e la ignorerebbero. Sì, questo
+
+è ciò che io chiamo assassinio. Ma l'uccidere può non essere omicidio; c'è
+
+un colpo rimasto in questa piccola arma, e so dove dovrebbe andare.»
+Wilson si voltò rapido sul tavolo, e proprio mentre si voltava si contorse
+
+in agonia, poiché [[Michael|Michele]] gli sparò attraverso il [[Body|corpo]] là dove sedeva, così
+
+che ruzzolò giù dal tavolo come un ciarpame.
+I poliziotti si precipitarono a sollevarlo; Sir Walter restò senza parola; e
+
+poi, con un gesto strano e stanco, Horne Fisher parlò.
+«Voi siete davvero un tipo della [[Tragedy|tragedia]] irlandese», disse. «Eravate
+
+interamente nel giusto, e vi siete messo dalla parte del torto.»
+Il volto del principe fu come marmo per un istante, poi spuntò nei
+
+suoi occhi una luce non dissimile da quella della [[Despair|disperazione]]. Rise all'improvviso e
+
+scagliò a terra la [[Pistol|pistola]] fumante.
+«Sono davvero dalla parte del torto», disse. «Ho commesso un delitto che
+
+può a buon diritto attirare una maledizione su di me e sui miei figli.»
+Horne Fisher non parve del tutto soddisfatto di questo assai repentino
+
+pentimento; tenne gli occhi sull'uomo e disse solo, a bassa
+
+voce: «Quale delitto intendete?»
+«Ho aiutato la giustizia inglese», replicò il principe [[Michael|Michele]]. «Ho
+
+vendicato gli ufficiali del vostro [[King|re]]; ho fatto l'opera del suo boia.
+
+Per questo davvero merito di essere impiccato.»
+E si volse ai poliziotti con un gesto che non tanto
+
+si arrendeva a loro, quanto piuttosto ordinava loro di arrestarlo.
+Questa fu la storia che Horne Fisher raccontò a Harold March, il
+
+giornalista, molti anni dopo, in un piccolo ma lussuoso ristorante
+
+presso Piccadilly. Aveva invitato March a cena qualche [[Time|tempo]] dopo la
+
+vicenda che egli chiamava «Il volto nel bersaglio», e la conversazione era
+
+naturalmente scivolata su quel mistero e poi su ricordi più antichi
+
+della vita di Fisher e sul modo in cui fu indotto a studiare
+
+problemi come quelli del principe [[Michael|Michele]]. Horne Fisher aveva quindici anni
+
+di più; i suoi radi capelli si erano diradati in una calvizie frontale, e le sue lunghe,
+
+sottili mani ricadevano meno per affettazione e più per stanchezza. E
+
+raccontò la storia dell'avventura irlandese della sua giovinezza, perché
+
+registrava la prima occasione in cui fosse mai venuto a contatto
+
+col crimine, o avesse scoperto quanto oscuramente e quanto terribilmente il crimine possa
+
+intrecciarsi con la legge.
+«Hooker Wilson fu il primo criminale che io abbia mai conosciuto, ed era un
+
+poliziotto», spiegò Fisher, facendo roteare il bicchiere di vino. «E tutta la mia
+
+vita è stata una faccenda ingarbugliata del genere. Era un uomo di assai
+
+reale talento, e forse genio, e [[Well|ben]] degno di studio, tanto come
+
+[[Detective|investigatore]] quanto come criminale. Il suo volto bianco e i capelli rossi erano tipici
+
+di lui, poiché era uno di quelli che sono freddi eppure in [[Fire|fiamme]] per la
+
+fama; e sapeva dominare l'ira, ma non l'[[Ambition|ambizione]]. Inghiottì gli
+
+affronti dei suoi superiori in quel primo alterco, benché ribollisse di
+
+risentimento; ma quando d'improvviso vide le due teste scure contro l'
+
+[[Dawn|alba]] e incorniciate nelle due finestre, non poté lasciarsi sfuggire l'occasione,
+
+non solo di [[Revenge|vendetta]], ma della rimozione dei due ostacoli alla sua
+
+promozione. Era un tiratore infallibile e contava di ridurre al silenzio entrambi, benché
+
+una prova contro di lui sarebbe stata difficile in ogni caso. Ma, di
+
+fatto, la scampò per un pelo, nel caso di Nolan, che visse
+
+quanto bastava a dire «Wilson» e a indicare. Pensammo stesse
+
+invocando aiuto per il compagno, ma in realtà denunciava il suo
+
+assassino. Dopo di ciò fu facile gettar giù la scala sopra di lui
+
+(poiché un uomo su una scala non può vedere chiaramente ciò che sta sotto e dietro)
+
+e buttarsi a terra come un'altra vittima della
+
+catastrofe.
+«Ma alla sua omicida [[Ambition|ambizione]] si mescolava una reale convinzione,
+
+non solo nei propri talenti, ma nelle proprie teorie. Credeva davvero
+
+in ciò che chiamava un occhio nuovo, e voleva davvero spazio per nuovi
+
+metodi. C'era qualcosa nella sua idea, ma essa falliva dove simili
+
+cose comunemente falliscono, perché l'occhio nuovo non può vedere l'invisibile.
+
+È vero riguardo alla scala e allo spaventapasseri, ma non riguardo alla
+
+vita e all'[[Soul|anima]]; e commise un grave errore su ciò che un uomo come
+
+[[Michael|Michele]] avrebbe fatto udendo gridare una donna. Tutta la [[Michael|Michele]] stessa
+
+[[Vanity|vanità]] e vanagloria di lui lo fecero precipitare fuori all'istante; sarebbe entrato
+
+nel [[Castle|Castello]] di Dublino per il guanto di una dama. Chiamatela posa o come
+
+volete, ma l'avrebbe fatto. Ciò che accadde quando la incontrò è
+
+un'altra storia, e forse non la sapremo mai, ma dai racconti che ho udito
+
+da allora, devono essersi riconciliati. Lì Wilson si sbagliava; ma
+
+c'era qualcosa, nonostante tutto, nella sua idea che il nuovo venuto
+
+veda di più, e che l'uomo sul posto possa sapere troppo per sapere
+
+alcunché. Su alcune cose aveva ragione. Aveva ragione su di me.»
+«Su di voi?» chiese Harold March con un certo [[Wonder|stupore]].
+«Io sono l'uomo che sa troppo per sapere alcunché, o, quantomeno,
+
+per fare alcunché», disse Horne Fisher. «Non intendo specialmente riguardo all'
+
+Irlanda. Intendo riguardo all'Inghilterra. Intendo riguardo all'intero modo in cui siamo
+
+governati, e forse l'unico modo in cui possiamo essere governati. Mi avete chiesto
+
+poco fa che ne fu dei sopravvissuti di quella [[Tragedy|tragedia]]. [[Well|Ebbene]], Wilson
+
+si riprese e riuscimmo a persuaderlo a ritirarsi. Ma dovemmo
+
+pensionare quel dannato assassino più magnificamente di qualsiasi [[Hero|eroe]] che
+
+abbia mai combattuto per l'Inghilterra. Riuscii a salvare [[Michael|Michele]] dal peggio,
+
+ma dovemmo mandare quell'uomo perfettamente [[Innocent|innocente]] ai lavori forzati
+
+per un delitto che sappiamo non aver mai commesso, e fu solo in seguito
+
+che potemmo connivere in modo sornione alla sua fuga. E Sir
+
+Walter Carey è Primo Ministro di questo paese, cosa che
+
+probabilmente non sarebbe mai stato se si fosse detta la [[Truth|verità]] su un così
+
+orribile scandalo nel suo dicastero. Avrebbe potuto rovinarci
+
+del tutto in Irlanda; avrebbe certo rovinato lui. Ed è
+
+il vecchio amico di mio padre, e mi ha sempre soffocato di
+
+gentilezze. Sono troppo invischiato nell'intera faccenda, vedete, e
+
+di certo non sono nato per raddrizzarla. Avete l'aria afflitta, per non dire
+
+sconvolta, e non me ne offendo affatto. Cambiamo pure
+
+argomento, se volete. Che ne pensate di questo
+
+Borgogna? È piuttosto una mia scoperta, come il ristorante
+
+stesso.»
+E proseguì a parlare dottamente e sontuosamente di tutti i vini
+
+del mondo; argomento sul quale, anche, alcuni moralisti riterrebbero
+
+che egli sapesse troppo.
+
 
 
 <span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_01" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 1)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
@@ -12528,6 +15019,182 @@ the royal princes publicly restored it to the shrine to which it was
 
 supposed to belong. Other causes combined to concentrate official
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+III - L'[[Soul|anima]] dello scolaro
+*
+Occorrerebbe una grande mappa di [[London|Londra]] per mostrare il folle e zigzagante
+
+percorso di un giorno di [[Journey|viaggio]] intrapreso da uno zio e suo nipote;
+
+o, a dire il vero, da un nipote e suo zio. Poiché il nipote,
+
+uno scolaro in vacanza, era in teoria il dio nel carro, o nella
+
+carrozza, nel tram, nella metropolitana e così via, mentre suo zio era al più un sacerdote
+
+che gli danzava davanti e offriva sacrifici. Per dirla più sobriamente,
+
+lo scolaro aveva qualcosa dell'aria impassibile di un giovane duca in
+
+grand tour, mentre il suo anziano parente era ridotto alla
+
+condizione di un cicerone, che nondimeno doveva pagare ogni cosa
+
+come un mecenate. Lo scolaro era ufficialmente noto come Summers Minor,
+
+e in modo più conviviale come Stinks, l'unico tributo pubblico alla
+
+sua carriera di fotografo ed elettricista dilettante. Lo zio era
+
+il rev. Thomas Twyford, un vecchio gentiluomo magro e vivace dal viso rosso e
+
+ardente e dai capelli bianchi. Era, in modo ordinario, un
+
+ecclesiastico di campagna, ma era uno di quelli che raggiungono il [[Paradox|paradosso]] di essere
+
+famosi in modo oscuro, perché sono famosi in un mondo
+
+oscuro. In una piccola cerchia di archeologi ecclesiastici, che erano
+
+le uniche persone capaci anche solo di comprendere le reciproche scoperte,
+
+egli occupava un posto riconosciuto e rispettabile. E un critico avrebbe
+
+potuto trovare anche in quel [[Journey|viaggio]] di un giorno almeno tanto dell'
+
+hobby dello zio quanto della vacanza del nipote.
+Il suo intento originario era stato del tutto paterno e festivo. Ma,
+
+come molte altre persone intelligenti, non era immune dalla debolezza di
+
+giocare con un balocco per divertirsi, con la teoria che avrebbe
+
+divertito un [[Child|bambino]]. I suoi balocchi erano corone e mitrie e pastorali e
+
+spade di stato; e vi si era attardato, dicendosi che
+
+il ragazzo doveva vedere tutte le attrattive di [[London|Londra]]. E alla fine della
+
+giornata, dopo un tè formidabile, si tradì piuttosto concludendo
+
+con una visita a cui difficilmente si potrebbe concepire un ragazzo in carne e ossa
+
+prendere interesse... una camera sotterranea che si supponeva fosse stata una
+
+cappella, scavata di recente sulla riva nord del Tamigi, e
+
+contenente letteralmente null'altro che una vecchia moneta d'argento. Ma
+
+la moneta, per chi sapeva, era più solitaria e splendida del
+
+Koh-i-noor. Era romana, e si diceva recasse la testa di san Paolo;
+
+e attorno a essa infuriavano le più vitali controversie sull'antica
+
+Chiesa britannica. Non si poteva però negare che le
+
+controversie lasciassero Summers Minor relativamente freddo.
+Invero, le cose che interessavano Summers Minor, e le cose
+
+che non lo interessavano, avevano sconcertato e divertito suo zio per
+
+parecchie ore. Esibiva la sorprendente ignoranza e la sorprendente
+
+conoscenza dello scolaro inglese... la conoscenza di qualche speciale
+
+classificazione in cui riesce di solito a correggere e confondere i suoi
+
+maggiori. Si riteneva autorizzato, a Hampton [[Court]] in un giorno
+
+di vacanza, a dimenticare persino i nomi di [[Cardinal Wolsey|Cardinale Wolsey]] o Guglielmo d'
+
+Orange; ma a stento lo si poteva staccare da certi dettagli sulla
+
+disposizione dei [[Bells|campanelli]] elettrici nell'albergo vicino. Era
+
+solidamente stordito dall'abbazia di Westminster, il che non è così innaturale dacché
+
+quella chiesa divenne il ripostiglio della statuaria più grande e meno riuscita
+
+del diciottesimo secolo. Ma aveva una [[Magic|magica]] e minuta
+
+conoscenza degli omnibus di Westminster, e invero dell'intero
+
+sistema di omnibus di [[London|Londra]], i cui colori e numeri conosceva come
+
+un araldo conosce l'araldica. Protestava contro una momentanea
+
+confusione tra un Paddington verde chiaro e un Bayswater verde
+
+scuro, come suo zio avrebbe fatto all'identificazione di un'
+
+icona greca e di un'immagine romana.
+«Collezioni omnibus come francobolli?» chiese lo zio. «Devono
+
+richiedere un album piuttosto grande. O li tieni nell'armadietto?»
+«Li tengo in testa», replicò il nipote, con legittima
+
+fermezza.
+«Ti fa onore, lo ammetto», replicò l'ecclesiastico. «Suppongo sia
+
+vano chiedere a quale scopo tu abbia imparato ciò tra
+
+mille cose. Non pare esservi una carriera, a meno che tu non
+
+possa stare in permanenza sul marciapiede a impedire alle vecchie signore di salire
+
+sull'autobus sbagliato. [[Well|Ebbene]], dobbiamo scendere da questo, perché è
+
+il nostro posto. Voglio mostrarti ciò che chiamano il Penny di san Paolo.»
+«È come la [[Cathedral|Cattedrale]] di san Paolo?» chiese il ragazzo con [[Resignation|rassegnazione]],
+
+mentre scendevano.
+All'ingresso i loro occhi furono arrestati da una singolare figura
+
+che evidentemente si aggirava lì con una simile ansia di entrare. Era
+
+quella di un uomo scuro e magro in una lunga veste nera piuttosto simile a una tonaca;
+
+ma il berretto nero sul capo aveva una forma troppo strana per essere una
+
+berretta. Suggeriva, piuttosto, qualche arcaico copricapo di Persia o
+
+Babilonia. Aveva una curiosa barba nera che spuntava solo agli angoli
+
+del mento, e i suoi grandi occhi erano stranamente incassati nel volto come gli
+
+occhi piatti e decorativi dipinti negli antichi profili egizi. Prima che
+
+avessero colto più di un'impressione generale di lui, si era tuffato
+
+nella soglia che era la loro stessa destinazione.
+Nulla si poteva vedere in superficie del santuario sommerso salvo una
+
+robusta baracca di legno, del tipo eretto di recente per molti scopi militari e
+
+ufficiali, il cui pavimento di legno era invero una semplice
+
+piattaforma sopra la cavità scavata sottostante. Un soldato stava di
+
+sentinella fuori, e un soldato superiore, un ufficiale anglo-indiano di
+
+distinzione, sedeva scrivendo alla scrivania all'interno. Invero, i visitatori
+
+presto scoprirono che questa particolare attrattiva era circondata dalle più
+
+straordinarie precauzioni. Ho paragonato la moneta d'argento al
+
+Koh-i-noor, e in un certo senso era persino convenzionalmente paragonabile,
+
+poiché per un accidente storico fu a un certo [[Time|tempo]] quasi annoverata
+
+tra i gioielli della [[Crown|Corona]], o almeno tra le reliquie della [[Crown|Corona]], finché uno dei
+
+principi reali la restituì pubblicamente al sacrario a cui si
+
+supponeva appartenesse. Altre cause concorsero a concentrare la vigilanza ufficiale
 
 
 
@@ -12710,6 +15377,183 @@ such a manner—"
 Unluckily at this point Summers Minor, whose attention had somewhat
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+su di essa; c'era stato uno spavento per via di spie che portavano
+
+esplosivi in piccoli oggetti, e uno di quegli ordini sperimentali
+
+che passano come onde sulla burocrazia aveva decretato dapprima che tutti
+
+i visitatori cambiassero i propri abiti con una sorta di ufficiale
+
+sacco di penitenza, e poi (quando questo metodo causò qualche mormorio) che almeno
+
+vuotassero le tasche. Il colonnello Morris, l'ufficiale
+
+in carica, era un uomo basso e attivo dal volto arcigno e coriaceo,
+
+ma dall'occhio vivace e umoristico... una contraddizione confermata dalla sua
+
+condotta, poiché al tempo stesso derideva le precauzioni e tuttavia le
+
+imponeva.
+«Personalmente non me ne importa un bottone del Penny di Paolo, o di simili cose»,
+
+ammise in risposta a certe aperture antiquarie dell'ecclesiastico
+
+che lo conosceva un poco, «ma io porto la divisa del [[King|re]],
+
+sapete, ed è cosa seria quando lo zio del [[King|re]] [[Leaves|lascia]] una
+
+cosa qui con le proprie mani sotto la mia custodia. Ma quanto a santi e
+
+reliquie e cose simili, [[Fear|temo]] di essere un po' un volterriano; ciò che voi
+
+chiamereste uno [[skeptic|scettico]].»
+«Non sono sicuro che sia perfino scettico credere nella famiglia reale e
+
+non nella 'Sacra' Famiglia», replicò il signor Twyford. «Ma, naturalmente,
+
+posso facilmente vuotare le tasche, per mostrare che non porto una bomba.»
+Il piccolo mucchio dei beni del parroco che egli lasciò sul
+
+tavolo consisteva per lo più di carte, oltre a una pipa e a un
+
+borsello da tabacco e ad alcune monete romane e sassoni. Il resto erano
+
+cataloghi di vecchi libri, e opuscoli, come uno intitolato «L'Uso
+
+di Sarum», al quale una sola occhiata bastò tanto al colonnello
+
+quanto allo scolaro. Non riuscivano proprio a vedere l'uso di Sarum. Il
+
+contenuto delle tasche del ragazzo formava naturalmente un mucchio più grande, e
+
+comprendeva biglie, un gomitolo di spago, una torcia elettrica, una calamita, una
+
+piccola fionda, e, naturalmente, un grande temperino, quasi da
+
+descriversi come una piccola cassetta di attrezzi, un apparecchio complesso su cui
+
+pareva disposto a indugiare, facendo notare che comprendeva un paio di
+
+tenaglie, uno strumento per forare il legno, e, soprattutto, uno
+
+strumento per togliere i sassi dallo zoccolo di un [[Horse|cavallo]]. La relativa
+
+assenza di un qualsiasi [[Horse|cavallo]] pareva ritenerla irrilevante, come se
+
+fosse una mera appendice facilmente reperibile. Ma quando venne il turno del
+
+gentiluomo dalla veste nera, egli non vuotò le tasche, ma
+
+si limitò ad allargare le mani.
+«Non ho beni», disse.
+«Temo di dovervi chiedere di vuotare le tasche per esserne sicuri»,
+
+osservò il colonnello, burbero.
+«Non ho tasche», disse lo straniero.
+Il signor Twyford guardava la lunga veste nera con occhio dotto.
+«Siete un monaco?» chiese, in modo perplesso.
+«Sono un mago», replicò lo straniero. «Avrete sentito parlare dei magi,
+
+forse? Sono un mago.»
+«Oh, ma davvero!» esclamò Summers Minor, con gli occhi sporgenti.
+«Ma un tempo fui monaco», proseguì l'altro. «Sono ciò che voi
+
+chiamereste un monaco evaso. Sì, sono evaso nell'[[Eternity|eternità]]. Ma i
+
+[[Monks|monaci]] custodivano almeno una [[Truth|verità]], che la vita più alta dovrebbe essere
+
+senza beni. Non ho denaro in tasca né tasche, e tutte
+
+le [[Stars|stelle]] sono i miei ninnoli.»
+«Sono comunque fuori portata», osservò il colonnello Morris, in un tono
+
+che suggeriva fosse [[Well|meglio]] per loro. «Ho conosciuto parecchi
+
+maghi io stesso in India... pianta di mango e tutto. Ma quelli indiani
+
+sono tutti impostori, lo giuro. Anzi, mi divertii parecchio
+
+a smascherarli. Più di quanto mi diverta con questo tetro incarico, comunque.
+
+Ma ecco che arriva il signor Symon, che vi mostrerà la vecchia cantina
+
+di sotto.»
+Il signor Symon, il custode e guida ufficiale, era un giovane,
+
+precocemente incanutito, con una bocca [[Grave|grave]] che contrastava curiosamente con
+
+un baffo piccolissimo e scuro dalle punte impomatate, che pareva in qualche modo
+
+separato da essa, come se una mosca nera si fosse posata sul suo volto. Egli
+
+parlava con l'accento di [[Oxford]] e del funzionario di ruolo, ma in
+
+modo tanto spento quanto la più indifferente guida a pagamento. Essi
+
+discesero una buia scala di pietra, al cui fondo Symon
+
+premette un pulsante e una porta si aprì su una stanza buia, o, piuttosto, una
+
+stanza che un istante prima era stata buia. Poiché quasi appena la pesante
+
+porta di ferro si spalancò un bagliore quasi accecante di luci elettriche
+
+riempì l'intero interno. L'incostante entusiasmo di Stinks subito
+
+prese [[Fire|fuoco]], ed egli chiese avidamente se le luci e la porta funzionassero
+
+insieme.
+«Sì, è tutto un unico sistema», replicò Symon. «Fu tutto allestito
+
+per il giorno in cui Sua Altezza Reale depose qui la cosa. Vedete,
+
+è chiusa dietro una teca di vetro esattamente come la lasciò.»
+Un'occhiata mostrava che i dispositivi per custodire il tesoro erano
+
+invero tanto solidi quanto semplici. Una sola lastra di vetro isolava
+
+un angolo della stanza, in un'intelaiatura di ferro incassata nelle pareti di roccia
+
+e nel soffitto di legno sovrastante; ora non vi era possibilità di riaprire
+
+la teca senza un lavoro elaborato, se non rompendo il vetro,
+
+il che probabilmente avrebbe destato il guardiano [[Night|notturno]] che stava sempre a
+
+pochi piedi da essa, anche se si fosse addormentato. Un esame ravvicinato
+
+avrebbe rivelato molte altre ingegnose protezioni; ma l'occhio del
+
+rev. Thomas Twyford, almeno, era già inchiodato su ciò che lo
+
+interessava assai di più... l'opaco disco d'argento che brillava nella
+
+luce bianca contro un semplice sfondo di velluto nero.
+«Il Penny di san Paolo, che si dice commemori la visita di san Paolo alla
+
+Britannia, fu probabilmente conservato in questa cappella fino all'ottavo
+
+secolo», diceva Symon con la sua voce chiara ma incolore. «Nel
+
+nono secolo si suppone che sia stato portato via dai
+
+barbari, e riappare, dopo la [[conversion|conversione]] dei Goti
+
+settentrionali, in possesso della famiglia reale di Gothland. Sua Altezza
+
+Reale, il duca di Gothland, lo tenne sempre nella propria
+
+custodia privata, e quando decise di esibirlo al pubblico,
+
+lo pose qui con la propria mano. Fu immediatamente sigillato in
+
+tale maniera...»
+Sfortunatamente a questo punto Summers Minor, la cui attenzione si era alquanto
+
 
 
 <span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_03" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 3)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
@@ -12887,6 +15731,180 @@ unfolded displayed a scrawl of bad handwriting which ran: "Dear
 
 Uncle; I am all right. Meet you at the hotel later on," and then the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+si era allontanata dalle guerre religiose del nono secolo, scorse
+
+un breve tratto di filo che spuntava da una chiazza rotta nel muro.
+
+Vi si precipitò, gridando: «Ehi, questo
+
+fa contatto?»
+Era evidente che faceva contatto, poiché non appena il ragazzo gli
+
+diede uno strappo l'intera stanza si fece nera, come se fossero stati tutti
+
+colpiti da cecità, e un istante dopo udirono il sordo fragore della
+
+porta che si chiudeva.
+«[[Well|Ebbene]], adesso l'avete combinata», disse Symon, nel suo modo tranquillo.
+
+Poi dopo una pausa aggiunse: «Suppongo che prima o poi noteranno la nostra assenza,
+
+e senza [[Doubt|dubbio]] riusciranno ad aprirla; ma potrebbe volerci un po'
+
+di [[Time|tempo]].»
+Vi fu un [[Silence|silenzio]], e poi l'indomabile Stinks osservò:
+«Che seccatura aver dovuto lasciare la mia torcia elettrica.»
+«Penso», disse suo zio, con ritegno, «che siamo sufficientemente
+
+convinti del tuo interesse per l'elettricità.»
+Poi dopo una pausa osservò, più amabilmente: «Suppongo che, se
+
+rimpiangessi qualcuno dei miei impedimenti, sarebbe la pipa. Anche se,
+
+a dire il vero, non è un gran divertimento fumare al buio.
+
+Tutto sembra diverso al buio.»
+«Tutto è diverso al buio», disse una terza voce, quella dell'
+
+uomo che si diceva mago. Era una voce assai musicale,
+
+e piuttosto in contrasto con il suo volto sinistro e bruno, che
+
+ora era invisibile. «Forse non sapete quanto terribile sia questa [[Truth|verità]].
+
+Tutto ciò che vedete sono immagini fatte dal sole, volti e mobili
+
+e [[Flowers|fiori]] e alberi. Le cose stesse potrebbero esservi del tutto estranee.
+
+Qualcos'altro potrebbe ora ergersi dove vedevate un tavolo o una
+
+sedia. Il volto del vostro amico potrebbe essere del tutto diverso al buio.»
+Un breve, indescrivibile rumore ruppe la quiete. Twyford trasalì
+
+per un secondo, e poi disse, bruscamente:
+«Davvero, non credo sia un'occasione adatta per cercare di
+
+spaventare un [[Child|bambino]].»
+«Chi è un [[Child|bambino]]?» gridò l'indignato Summers, con una voce che aveva
+
+un che di gracchiante, ma anche qualcosa d'incrinato. «E chi è un fifone,
+
+poi? Non io.»
+«Allora tacerò», disse l'altra voce dal buio.
+
+«Ma anche il [[Silence|silenzio]] fa e disfa.»
+Il [[Silence|silenzio]] richiesto rimase inviolato per molto [[Time|tempo]], finché infine
+
+l'ecclesiastico disse a Symon a bassa voce:
+«Suppongo che per l'aria vada tutto bene?»
+«Oh, sì», replicò l'altro ad alta voce; «c'è un camino e una
+
+canna fumaria nell'ufficio proprio accanto alla porta.»
+Un balzo e il rumore di una sedia che cadeva dissero loro che l'
+
+irreprimibile generazione nascente si era di nuovo gettata attraverso
+
+la stanza. Udirono l'esclamazione: «Una canna fumaria! Perbacco, che io sia...»
+
+e il resto si perse in grida soffocate, ma esultanti.
+Lo zio chiamò ripetutamente e invano, si aprì infine a tentoni la via fino all'
+
+apertura, e, sbirciandovi su, colse la visione fugace di un disco di
+
+luce diurna, che pareva suggerire che il fuggitivo fosse scomparso al
+
+sicuro. Tornando verso il gruppo presso la teca di vetro, inciampò
+
+nella sedia caduta e impiegò un momento a ricomporsi. Aveva
+
+aperto la bocca per parlare a Symon, quando si fermò, e
+
+d'improvviso si ritrovò a sbattere le palpebre nel pieno urto della luce
+
+bianca, e guardando oltre la spalla dell'altro, vide che la
+
+porta era spalancata.
+«Così alla fine sono arrivati a noi», osservò a Symon.
+L'uomo dalla veste nera era appoggiato al muro a qualche iarda
+
+di distanza, con un sorriso scolpito sul volto.
+«Ecco che arriva il colonnello Morris», proseguì Twyford, ancora rivolto a
+
+Symon. «Uno di noi dovrà dirgli come si è spenta la luce. Volete farlo
+
+voi?»
+Ma Symon continuava a non dire nulla. Stava immobile come una statua,
+
+e guardava fisso il velluto nero dietro lo schermo di vetro.
+
+Guardava il velluto nero perché non c'era altro da
+
+guardare. Il Penny di san Paolo era sparito.
+Il colonnello Morris entrò nella stanza con due nuovi visitatori; presumibilmente
+
+due nuovi turisti trattenuti dall'incidente. Il primo era un uomo alto,
+
+biondo, dall'aria piuttosto languida, con la fronte calva e il naso dal dorso
+
+alto; il suo compagno era un uomo più giovane dai capelli chiari e ricci e
+
+dagli occhi franchi, e persino [[Innocent|innocenti]]. Symon parve appena udire i
+
+nuovi venuti; parve quasi che non si fosse reso conto che il
+
+ritorno della luce svelava il suo atteggiamento cupo. Poi trasalì
+
+in modo colpevole, e quando vide il più anziano dei due stranieri,
+
+il suo volto pallido parve farsi di una sfumatura più pallido.
+«Ma è Horne Fisher!» e poi dopo una pausa disse a bassa
+
+voce: «Sono in un guaio del diavolo, Fisher.»
+«Pare davvero esserci un po' di mistero da chiarire», osservò il
+
+gentiluomo così apostrofato.
+«Non sarà mai chiarito», disse il pallido Symon. «Se qualcuno
+
+potesse chiarirlo, sareste voi. Ma nessuno potrebbe.»
+«Credo piuttosto che io potrei», disse un'altra voce dall'esterno del gruppo,
+
+ed essi si voltarono sorpresi accorgendosi che l'uomo dalla veste
+
+nera aveva parlato di nuovo.
+«Voi!» disse il colonnello, brusco. «E come vi proponete di fare l'
+
+[[Detective|investigatore]]?»
+«Non mi propongo di fare l'[[Detective|investigatore]]», rispose l'altro, con una
+
+voce chiara come una campana. «Mi propongo di fare il mago. Uno dei
+
+maghi che smascherate in India, colonnello.»
+Nessuno parlò per un momento, e poi Horne Fisher sorprese tutti
+
+dicendo: «[[Well|Ebbene]], saliamo di sopra, e questo gentiluomo potrà fare un
+
+tentativo.»
+Fermò Symon, che aveva un dito automatico sul pulsante, dicendo:
+
+«No, lasciate accese tutte le luci. È una sorta di salvaguardia.»
+«Ormai la cosa non può essere portata via», disse Symon, amaramente.
+«Può essere rimessa a posto», replicò Fisher.
+Twyford era già corso di sopra in cerca di notizie del nipote svanito,
+
+e ne ricevette notizia in un modo che al contempo lo sconcertò e lo
+
+rassicurò. Sul piano di sopra giaceva una di quelle grandi frecce di carta
+
+che i ragazzi si lanciano l'un l'altro quando il maestro è fuori
+
+dalla stanza. Era stata evidentemente lanciata dentro dalla [[Window|finestra]], e una volta
+
+spiegata mostrava uno scarabocchio di brutta calligrafia che diceva: «Caro
+
+zio; sto bene. Ci vediamo all'albergo più tardi», e poi la
 
 
 
@@ -13069,6 +16087,184 @@ always the suspect. I don't think he was necessarily a thief in the
 
 vulgar sense. The police always seem to think that silver is stolen
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+firma.
+Insensibilmente confortato da ciò, l'ecclesiastico trovò i suoi pensieri
+
+tornare spontaneamente alla sua reliquia prediletta, che veniva un buon
+
+secondo, nelle sue simpatie, dopo il nipote prediletto, e prima di rendersi
+
+conto di dove fosse si ritrovò circondato dal gruppo che discuteva della sua
+
+perdita, e più o meno trascinato sulla corrente della loro
+
+eccitazione. Ma una corrente sotterranea d'interrogativi continuava a scorrergli nella
+
+mente, su ciò che fosse davvero accaduto al ragazzo, e su quale fosse l'
+
+esatta definizione, per il ragazzo, dello stare bene.
+Nel frattempo Horne Fisher aveva notevolmente sconcertato tutti col suo
+
+nuovo tono e atteggiamento. Aveva parlato col colonnello delle
+
+disposizioni militari e meccaniche, e aveva mostrato una notevole
+
+conoscenza tanto dei dettagli della disciplina quanto dei tecnicismi
+
+dell'elettricità. Aveva parlato con l'ecclesiastico, e mostrato un'altrettanto
+
+sorprendente conoscenza degli interessi religiosi e storici
+
+connessi alla reliquia. Aveva parlato con l'uomo che si diceva
+
+mago, e non solo sorprese ma scandalizzò la compagnia con un'
+
+altrettanto benevola dimestichezza con le più fantastiche forme di
+
+occultismo orientale e di esperimento psichico. E in quest'ultima e
+
+meno rispettabile linea d'indagine era evidentemente disposto a spingersi
+
+più oltre; incoraggiava apertamente il mago, ed era palesemente
+
+pronto a seguire le più folli vie d'investigazione in cui quel
+
+mago potesse condurlo.
+«Come comincereste ora?» s'informò, con un'ansiosa cortesia
+
+che ridusse il colonnello a una congestione di rabbia.
+«È tutta una questione di una forza; di stabilire comunicazioni per
+
+una forza», replicò quell'adepto, affabilmente, ignorando certi militareschi
+
+borbottii sulla forza di polizia. «È ciò che voi in Occidente
+
+solevate chiamare magnetismo animale, ma è molto di più. Farei
+
+meglio a non dire quanto di più. Quanto al modo di procedervi, il metodo
+
+usuale è gettare qualche persona sensibile in una trance, che
+
+serve come una sorta di ponte o corda di comunicazione, per cui la
+
+forza aldilà può dargli, per così dire, una scossa elettrica, e destare
+
+i suoi sensi più alti. Apre l'occhio dormiente della mente.»
+«Io sono suscettibile», disse Fisher, o con semplicità o con una
+
+sconcertante ironia. «Perché non aprite voi l'occhio della mia mente? Il mio amico Harold
+
+March qui vi dirà che a volte vedo cose, persino al buio.»
+«Nessuno vede alcunché se non al buio», disse il mago.
+Pesanti nubi del tramonto si serravano attorno alla baracca di legno, nubi enormi,
+
+di cui solo gli angoli si scorgevano dalla piccola
+
+[[Window|finestra]], come corna e code purpuree, quasi come se enormi mostri
+
+si aggirassero attorno al luogo. Ma il purpureo già si scuriva
+
+in grigio cupo; presto sarebbe stata [[Night|notte]].
+«Non accendete la lampada», disse il mago con quieta autorità,
+
+arrestando un movimento in quella direzione. «Vi ho detto prima che
+
+le cose accadono solo al buio.»
+Come una scena tanto sottosopra sia mai giunta a essere tollerata nell'
+
+ufficio del colonnello, proprio lì, fu poi un rompicapo nella
+
+[[Memory|memoria]] di molti, colonnello incluso. La rammentavano come una sorta
+
+di [[nightmare|incubo]], come qualcosa che non potevano controllare. Forse
+
+c'era davvero un magnetismo nel mesmerizzatore; forse ce n'era perfino
+
+di più nell'uomo mesmerizzato. Comunque, l'uomo veniva
+
+mesmerizzato, poiché Horne Fisher era crollato su una sedia con le
+
+lunghe membra molli e scomposte e gli occhi fissi nel vuoto; e
+
+l'altro uomo lo mesmerizzava, compiendo ampi movimenti con
+
+le braccia scuramente drappeggiate come con ali nere. Il colonnello aveva
+
+superato il punto di esplosione, e vagamente comprendeva che gli eccentrici
+
+aristocratici hanno diritto ai loro capricci. Si confortò con la
+
+consapevolezza di aver già mandato a chiamare la polizia, che avrebbe posto fine
+
+a qualsiasi simile mascherata, e con l'accendere un sigaro, la cui punta rossa,
+
+nell'oscurità crescente, ardeva di protesta.
+«Sì, vedo tasche», diceva l'uomo in trance. «Vedo molte
+
+tasche, ma sono tutte vuote. No; vedo una tasca che non è
+
+vuota.»
+Vi fu un debole fremito nella quiete, e il mago disse: «Riuscite
+
+a vedere che cosa c'è nella tasca?»
+«Sì», rispose l'altro; «ci sono due cose lucenti. Credo
+
+siano due pezzetti d'acciaio. Uno dei pezzi d'acciaio è piegato o
+
+storto.»
+«Sono stati usati per rimuovere la reliquia di sotto?»
+«Sì.»
+Vi fu un'altra pausa e chi interrogava aggiunse: «Vedete qualcosa
+
+della reliquia stessa?»
+«Vedo qualcosa che brilla sul pavimento, come l'[[Shadow|ombra]] o il [[Ghost|fantasma]]
+
+di essa. È laggiù nell'angolo oltre la scrivania.»
+Vi fu un movimento di uomini che si voltavano e poi un'improvvisa quiete, come
+
+d'irrigidimento, poiché laggiù nell'angolo sul pavimento di legno
+
+c'era davvero una macchia rotonda di luce pallida. Era l'unica macchia di
+
+luce nella stanza. Il sigaro si era spento.
+«Indica la via», giunse la voce dell'oracolo. «Gli spiriti
+
+indicano la via della penitenza, ed esortano il ladro alla restituzione.
+
+Non riesco a vedere altro.» La sua voce si spense in un [[Silence|silenzio]] che
+
+durò ininterrotto per molti minuti, come il lungo [[Silence|silenzio]] di sotto quando
+
+il furto era stato commesso. Poi fu rotto dal tintinnio di
+
+metallo sul pavimento, e dal suono di qualcosa che girava e cadeva
+
+come un mezzo penny lanciato.
+«Accendete la lampada!» gridò Fisher con voce forte e persino gioviale,
+
+balzando in piedi con assai meno languore del solito. «Ora devo
+
+andare, ma vorrei vederla prima di andarmene. Ma via, sono venuto
+
+apposta per vederla.»
+La lampada fu accesa, ed egli la vide davvero, poiché il Penny di san Paolo giaceva
+
+sul pavimento ai suoi piedi.
+«Oh, quanto a questo», spiegò Fisher, mentre intratteneva March
+
+e Twyford a pranzo circa un mese dopo, «volevo semplicemente giocare
+
+col mago al suo stesso gioco.»
+«Credevo intendeste coglierlo nella sua stessa trappola», disse Twyford.
+
+«Non riesco ancora a raccapezzarmi di nulla, ma a mio avviso egli era
+
+sempre il sospetto. Non credo fosse necessariamente un ladro nel
+
+senso volgare. La polizia pare sempre pensare che l'argento sia rubato
 
 
 
@@ -13258,6 +16454,190 @@ sufficiently enraptured in rushing after it, and riding away upon
 that fairy [[Ship|ship]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+per amor dell'argento, ma una cosa simile potrebbe [[Well|benissimo]] essere rubata
+
+per qualche mania religiosa. Un monaco fuggiasco fattosi mistico potrebbe [[Well|benissimo]]
+
+volerlo per qualche scopo mistico."
+"No," replicò Fisher, "il monaco fuggiasco non è un ladro. In ogni caso
+
+non è lui il ladro. E non è nemmeno del tutto un bugiardo. Disse
+
+almeno una cosa vera quella [[Night|notte]]."
+"E quale sarebbe stata?" domandò March.
+"Disse che era tutto magnetismo. In realtà, fu fatto per
+
+mezzo d'una calamita." Poi, vedendoli ancora perplessi, egli
+
+aggiunse: "Era quella calamita giocattolo di vostro nipote, il signor
+
+Twyford."
+"Ma non capisco," obiettò March. "Se fu fatto con la
+
+calamita dello scolaro, suppongo che sia stato lo scolaro a farlo."
+"[[Well|Beh]]," replicò Fisher, pensieroso, "dipende piuttosto da quale
+
+scolaro."
+"Che diamine intendete?"
+"L'[[Soul|anima]] d'uno scolaro è una cosa curiosa," continuò Fisher, in
+
+tono meditativo. "Può sopravvivere a moltissime cose oltre al
+
+salire su per un camino. Un uomo può incanutire in grandi campagne,
+
+e avere ancora l'[[Soul|anima]] d'uno scolaro. Un uomo può tornare con una
+
+grande reputazione dall'India ed esser messo a custodia d'un grande pubblico
+
+tesoro, e avere ancora l'[[Soul|anima]] d'uno scolaro, in attesa d'esser
+
+destata da un caso. Ed è dieci volte più così quando allo
+
+scolaro s'aggiunge lo [[skeptic|scettico]], che generalmente è una sorta di striminzito
+
+scolaro. Avete appena detto che certe cose potrebbero esser compiute per
+
+mania religiosa. Avete mai sentito parlare di mania irreligiosa? V'assicuro che
+
+esiste in modo violentissimo, specie negli uomini che amano smascherare
+
+i maghi in India. Ma qui lo [[skeptic|scettico]] aveva la [[Temptation|tentazione]] di
+
+smascherare un'impostura ben più tremenda più vicino a [[Home|casa]]."
+Una luce s'accese negli occhi di Harold March quando d'un tratto scorse, come da
+
+lontano, la più ampia implicazione del suggerimento. Ma Twyford stava ancora
+
+lottando con un problema per [[Time|volta]].
+"Volete davvero dire," disse, "che il colonnello Morris prese la reliquia?"
+"Era l'unica persona che potesse usare la calamita," replicò Fisher.
+
+"Anzi, il vostro cortese nipote gli lasciò svariate cose che poteva
+
+usare. Aveva un gomitolo di spago, e uno strumento per fare un buco nel
+
+pavimento di legno—mi son preso un piccolo gioco con quel buco nel pavimento
+
+durante la mia trance, tra parentesi; con le luci accese di sotto, splendeva
+
+come uno scellino nuovo." Twyford sobbalzò all'improvviso sulla sedia. "Ma in
+
+tal caso," gridò, con voce nuova e alterata, "perché allora
+
+naturalmente— Avete detto un pezzo d'acciaio—?"
+"Ho detto che c'erano due pezzi d'acciaio," disse Fisher. "Il pezzo
+
+d'acciaio piegato era la calamita del ragazzo. L'altro era la reliquia nella
+
+teca di vetro."
+"Ma quella è d'argento," rispose l'archeologo, con voce ormai
+
+quasi irriconoscibile.
+"Oh," replicò Fisher, in tono rassicurante, "oserei dire che fu dipinta con
+
+un po' d'argento."
+Ci fu un pesante [[Silence|silenzio]], e alla fine Harold March disse: "Ma dove
+
+è la vera reliquia?"
+"Dov'è stata per cinque anni," replicò Horne Fisher, "in
+
+possesso d'un folle milionario di nome Vandam, nel Nebraska. C'era
+
+una piccola scherzosa fotografia su di lui in un giornale mondano l'altro
+
+giorno, che accennava alla sua fissazione, e diceva che si lasciava sempre gabbare
+
+quanto alle reliquie."
+Harold March aggrottò la fronte fissando la tovaglia; poi, dopo un intervallo,
+
+disse: "Credo di capire la vostra idea di come la cosa sia stata
+
+realmente compiuta; secondo essa, Morris fece semplicemente un buco e ripescò
+
+la reliquia con una calamita in cima a uno spago. Una simile buffonata
+
+sembra pura [[Madness|follia]], ma suppongo che fosse pazzo, in parte per la
+
+noia di vegliare su ciò che sentiva essere una frode, benché non
+
+potesse provarlo. Poi venne l'occasione di provarlo, almeno a se
+
+stesso, e se la spassò come diceva lui. Sì, credo di vederne
+
+ora un mucchio di dettagli. Ma è proprio l'insieme che mi sconvolge.
+
+Com'è potuto accadere tutto questo?"
+Fisher lo guardava con palpebre immobili e modi impassibili.
+"Fu presa ogni precauzione," disse. "Il Duca portava la reliquia
+
+sulla propria persona, e la chiuse nella teca con le proprie mani."
+March taceva; ma Twyford balbettò. "Non vi capisco.
+
+Mi fate venire i brividi. Perché non parlate più chiaro?"
+"Se parlassi più chiaro mi capireste meno," disse Horne
+
+Fisher.
+"Ci proverei lo stesso," disse March, ancora senza sollevare la
+
+testa.
+"Oh, e va [[Well|bene]]," replicò Fisher, con un sospiro; "la pura [[Truth|verità]] è,
+
+naturalmente, che è una brutta faccenda. Tutti sanno che è una brutta
+
+faccenda, chiunque ne sappia qualcosa. Ma succede di continuo, e
+
+per un verso non si può quasi biasimarli. Vengono impancati con una principessa
+
+straniera rigida come una bambola olandese, e si concedono la loro scappatella.
+
+In questo caso fu una scappatella piuttosto grossa."
+Il volto del reverendo Thomas Twyford lasciava certo intendere che egli era
+
+un po' fuori dalla sua profondità nei mari della [[Truth|verità]], ma mentre l'altro
+
+continuava a parlare vagamente i lineamenti del vecchio gentiluomo s'affilarono e si
+
+irrigidirono.
+"Se fosse qualche decente faccenda morganatica non direi nulla; ma dev'essere
+
+stato uno [[Fool|sciocco]] a gettar via migliaia di sterline per una donna simile.
+
+Alla fine fu puro ricatto; ma è già qualcosa che il vecchio
+
+somaro non l'abbia cavato dai contribuenti. Poteva cavarlo soltanto dallo
+
+yankee, ed ecco fatto."
+Il reverendo Thomas Twyford s'era alzato in piedi.
+"[[Well|Ebbene]], sono contento che mio nipote non c'entrasse nulla," disse. "E
+
+se il mondo è fatto così, [[Hope|spero]] che non abbia mai nulla
+
+a che farci."
+"Lo [[Hope|spero]] anch'io," rispose Horne Fisher. "Nessuno sa così [[Well|bene]] come me
+
+che ci si può avere fin troppo a che fare."
+Poiché Summers Minor non c'entrava davvero nulla; ed è parte
+
+del suo più alto significato che egli non abbia davvero nulla a che fare con la
+
+storia, né con storie simili. Il ragazzo passò come una pallottola attraverso
+
+il groviglio di questo racconto di politica storta e folle beffa e
+
+ne uscì dall'altra parte, perseguendo i propri intatti propositi.
+
+Dalla cima del camino su cui s'era arrampicato aveva scorto un nuovo
+
+omnibus, di cui non aveva mai conosciuto il colore e il nome, come un naturalista
+
+potrebbe vedere un nuovo uccello o un botanico un nuovo fiore. Ed era stato
+
+abbastanza rapito nel corrergli dietro, e nell'andarsene via su
+
+quel [[Ship|vascello]] fatato.
+
 
 
 <span class="atom-split" data-atom="story_04_the_bottomless_well--part_01" data-title="The Man Who Knew Too Much — The Bottomless Well (part 1)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
@@ -13441,6 +16821,185 @@ rather stiffly.
 "That's rather a mistake," replied Fisher, "especially from your
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IV - Il [[Well|Pozzo]] Senza Fondo
+*
+In un'oasi, o isola verde, nei mari rossi e gialli di sabbia
+
+che si stendono oltre l'Europa verso il levante, si può trovare un
+
+contrasto piuttosto fantastico, che non è per questo meno tipico d'un simile
+
+luogo, giacché i trattati internazionali ne hanno fatto un avamposto dell'
+
+occupazione britannica. Il sito è famoso tra gli archeologi per
+
+qualcosa che è a malapena un monumento, ma soltanto un buco nel
+
+terreno. Ma è un condotto rotondo, come quello d'un [[Well|pozzo]], e probabilmente
+
+parte di qualche grande opera d'irrigazione di data remota e discussa,
+
+forse più antica di qualunque cosa in quell'antica terra. C'è una
+
+verde frangia di palme e fichi d'India intorno alla nera bocca del
+
+[[Well|pozzo]]; ma nulla resta della muratura superiore tranne due massicce e
+
+malridotte pietre erette come i pilastri d'un portale del nulla,
+
+in cui alcuni degli archeologi più trascendentali, in certi
+
+stati d'animo al sorger della luna o al tramonto, credono di poter tracciare le fioche linee di
+
+figure o lineamenti d'una mostruosità più che babilonese; mentre i
+
+più razionalistici archeologi, nelle ore più razionali del
+
+giorno, non vedono altro che due rocce informi. Si sarà forse
+
+notato, tuttavia, che non tutti gli inglesi sono archeologi. Molti
+
+di coloro riuniti in un simile luogo per scopi ufficiali e militari
+
+hanno passatempi diversi dall'archeologia. Ed è un fatto
+
+solenne che gli inglesi in questo [[Exile|esilio]] orientale siano riusciti a ricavare un
+
+piccolo campo da golf dalla verde boscaglia e dalla sabbia; con un comodo
+
+circolo a un capo di esso e questo monumento primordiale all'altro.
+
+Non usavano davvero quest'arcaico abisso come bunker, perché esso
+
+era per tradizione insondabile, e persino a fini pratici
+
+insondato. Qualsiasi proiettile sportivo lanciato al suo interno poteva contarsi
+
+quanto mai letteralmente come palla perduta. Ma spesso vi passeggiavano intorno nei
+
+loro intervalli di chiacchiere e sigarette, e uno di loro
+
+era appena sceso dal circolo per trovare un altro che fissava
+
+un po' cupamente dentro il [[Well|pozzo]].
+Entrambi gli inglesi indossavano abiti leggeri e bianchi caschi coloniali e
+
+puggaree, ma lì, per lo più, la loro somiglianza finiva. E
+
+entrambi dissero quasi simultaneamente la stessa parola, ma la dissero
+
+su due note della voce del tutto diverse.
+"Avete sentito la notizia?" chiese l'uomo venuto dal circolo. "Splendida."
+"Splendida," rispose l'uomo presso il [[Well|pozzo]]. Ma il primo
+
+pronunciò la parola come un giovane potrebbe dirla d'una donna, e
+
+il secondo come un vecchio potrebbe dirla del tempo, non senza
+
+sincerità, ma certo senza fervore.
+E in questo il tono dei due uomini era abbastanza tipico di
+
+loro. Il primo, che era un certo capitano Boyle, era d'un tipo ardito e
+
+fanciullesco, bruno, e con una sorta d'innato calore sul viso che
+
+non apparteneva all'atmosfera dell'Oriente, ma piuttosto agli
+
+ardori e alle ambizioni dell'Occidente. L'altro era un uomo più anziano e
+
+certo un residente più antico, un funzionario civile—Horne Fisher; e
+
+le sue palpebre cascanti e i cascanti baffi chiari esprimevano tutto il
+
+[[Paradox|paradosso]] dell'inglese in Oriente. Aveva troppo caldo per essere
+
+altro che freddo.
+Nessuno dei due ritenne necessario menzionare che cosa fosse ciò che era
+
+splendido. Sarebbe stata davvero una conversazione superflua su
+
+qualcosa che tutti sapevano. La clamorosa vittoria su una minacciosa
+
+combinazione di turchi e arabi nel nord, riportata da truppe al
+
+comando di Lord [[Hastings]], il veterano di tante clamorose vittorie,
+
+era già diffusa dai giornali per tutto l'Impero, per non [[Alone|dire]]
+
+di questa piccola guarnigione così vicina al [[Battlefield|campo di battaglia]].
+"Ora, nessun'altra nazione al mondo avrebbe potuto compiere una cosa
+
+simile," gridò il capitano Boyle, con enfasi.
+Horne Fisher stava ancora guardando in silenzio dentro il [[Well|pozzo]]; un istante
+
+dopo rispose: "Abbiamo di certo l'arte di disfare gli errori.
+
+È qui che sbagliarono i poveri vecchi prussiani. Sapevano solo commettere
+
+errori e ostinarvisi. C'è davvero un certo talento nel
+
+disfare un errore."
+"Che intendete," chiese Boyle, "quali errori?"
+"[[Well|Beh]], tutti sanno che pareva un boccone più grosso di quanto potesse
+
+masticare," replicò Horne Fisher. Era una peculiarità del signor Fisher che
+
+egli dicesse sempre che tutti sapevano cose di cui circa una persona su
+
+due milioni veniva mai ammessa a sentir parlare. "E fu di certo una gran
+
+fortuna che Travers spuntasse così [[Well|bene]] sul filo del [[Time|tempo]]. Strano come
+
+spesso la cosa giusta l'abbia fatta per noi il secondo in comando,
+
+anche quando un grand'uomo era primo in comando. Come Colborne a
+
+Waterloo."
+"Dovrebbe aggiungere un'intera provincia all'Impero," osservò l'
+
+altro.
+"[[Well|Beh]], suppongo che gli Zimmerne avrebbero insistito almeno fino al
+
+canale," osservò Fisher, pensieroso, "benché tutti sappiano
+
+che aggiungere province non sempre rende granché al giorno d'oggi."
+Il capitano Boyle aggrottò la fronte in modo lievemente perplesso. Essendo confusamente
+
+consapevole di non aver mai sentito parlare degli Zimmerne in vita sua,
+
+poté solo osservare, ottusamente:
+"[[Well|Beh]], non si può essere un Piccolo Inglese."
+Horne Fisher sorrise, e aveva un sorriso gradevole.
+"Ogni uomo quaggiù è un Piccolo Inglese," disse. "Vorrebbe
+
+esser di ritorno nella Piccola Inghilterra."
+"Temo di non capire di che parliate," disse il
+
+più giovane, piuttosto sospettoso. "Si direbbe che voi non
+
+ammiriate davvero [[Hastings]] o—o—alcunché."
+"L'ammiro senza fine," replicò Fisher. "È di gran lunga l'uomo migliore
+
+per questo posto; capisce i musulmani e sa fare qualunque cosa con
+
+loro. Ecco perché sono del tutto contrario a spingere Travers contro di lui, solo
+
+per via di quest'ultima faccenda."
+"Non capisco davvero dove vogliate arrivare," disse l'altro,
+
+francamente.
+"Forse non vale la pena capirlo," rispose Fisher, con leggerezza,
+
+"e, comunque, non c'è bisogno di parlar di politica. Conoscete la leggenda araba
+
+su quel [[Well|pozzo]]?"
+"Temo di non saperne molto di leggende arabe," disse Boyle,
+
+piuttosto rigido.
+"È piuttosto un errore," replicò Fisher, "specialmente dal vostro
+
 
 
 <span class="atom-split" data-atom="story_04_the_bottomless_well--part_02" data-title="The Man Who Knew Too Much — The Bottomless Well (part 2)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
@@ -13623,6 +17182,184 @@ of the rut of the most rotten ideal."
 "It's very apt to set him off with the same energy in a much worse
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+punto di vista. Lord [[Hastings]] stesso è una leggenda araba. Questa è
+
+forse la cosa più grande che egli davvero sia. Se la sua reputazione cadesse
+
+ci indebolirebbe in tutta l'Asia e l'Africa. [[Well|Ebbene]], la storia su
+
+quel buco nel terreno, che scende chissà dove, mi ha
+
+sempre affascinato, piuttosto. Ora è maomettana nella forma, ma non
+
+mi [[Wonder|stupirei]] se il racconto fosse assai più antico di Maometto. Parla
+
+tutto di qualcuno che chiamano il Sultano Aladino, non il nostro amico della
+
+lampada, s'intende, ma piuttosto simile a lui nell'aver a che fare con geni
+
+o giganti o qualcosa del genere. Dicono che comandasse ai
+
+giganti di costruirgli una sorta di pagoda, che s'innalzasse sempre più in alto sopra
+
+tutte le [[Stars|stelle]]. Il Massimo per l'Altissimo, come diceva la gente quando
+
+costruì la Torre di Babele. Ma i costruttori della Torre di
+
+Babele erano gente assai modesta e domestica, come topi, in confronto
+
+al vecchio Aladino. Volevano solo una torre che raggiungesse il cielo—
+
+una mera inezia. Egli voleva una torre che oltrepassasse il cielo e si levasse
+
+al di sopra di esso, e continuasse a levarsi per sempre. E Allah lo scagliò
+
+a terra con un fulmine, che sprofondò nel suolo, scavando
+
+un buco sempre più profondo, finché non fece un [[Well|pozzo]] che era senza
+
+[[Bottom|fondo]] come la torre doveva essere senza cima. E giù per quella
+
+rovesciata torre di tenebra l'[[Soul|anima]] del superbo Sultano precipita
+
+per sempre."
+"Che tipo strano siete," disse Boyle. "Parlate come se uno
+
+potesse credere a quelle favole."
+"Forse io credo alla morale e non alla [[Fable|favola]]," rispose Fisher.
+
+"Ma ecco che arriva Lady [[Hastings]]. La conoscete, credo."
+Il circolo del campo da golf era usato, s'intende, per molti altri
+
+scopi oltre a quello del golf. Era l'unico centro sociale della
+
+guarnigione accanto al quartier generale strettamente militare; aveva una
+
+sala da biliardo e un bar, e persino un'eccellente biblioteca di consultazione per
+
+quegli ufficiali tanto perversi da prendere la loro professione
+
+sul serio. Tra questi c'era il grande generale in persona, la cui testa d'
+
+argento e volto di bronzo, come quello d'un'aquila di bronzo, si trovavano spesso
+
+chinati sulle carte e i volumi in folio della biblioteca. Il
+
+grande Lord [[Hastings]] credeva nella scienza e nello studio, come in altri
+
+severi ideali di vita, e aveva dato molti paterni consigli in
+
+proposito al giovane Boyle, le cui apparizioni in quel luogo di ricerca
+
+erano piuttosto più intermittenti. Fu da uno di questi ritagli di
+
+studio che il giovane era appena uscito dalle porte a vetri
+
+della biblioteca sul campo da golf. Ma, soprattutto, il circolo era così
+
+attrezzato da servire alle comodità sociali delle signore almeno quanto
+
+quelle dei gentiluomini, e Lady [[Hastings]] poteva far la [[Queen|regina]] in
+
+una simile società quasi quanto nel proprio salone da ballo. Era
+
+eminentemente adatta e, come dicevano alcuni, eminentemente incline a recitare
+
+una simile parte. Era molto più giovane del marito, una signora attraente
+
+e talvolta pericolosamente attraente; e il signor Horne Fisher
+
+la seguì con lo sguardo un po' sardonicamente mentre s'allontanava col
+
+giovane soldato. Poi il suo sguardo piuttosto tetro vagò verso i verdi e
+
+spinosi vegetali intorno al [[Well|pozzo]], vegetali di quella curiosa formazione di cactus
+
+in cui una spessa foglia cresce direttamente da un'altra
+
+senza stelo né ramo. Dava alla sua mente fantasiosa una sinistra sensazione
+
+d'una crescita cieca senza forma né scopo. Un fiore o un arbusto in
+
+Occidente cresce fino al fiore che è la sua [[Crown|corona]], e s'accontenta. Ma
+
+questo era come se mani potessero crescere da mani o gambe crescere da
+
+gambe in un [[nightmare|incubo]]. "Sempre ad aggiungere una provincia all'Impero," egli
+
+disse, con un sorriso, e poi aggiunse, più mestamente, "ma [[Doubt|dubito]] d'aver
+
+avuto ragione, dopo tutto!"
+Una voce forte ma gioviale irruppe nelle sue meditazioni ed egli alzò
+
+lo sguardo e sorrise, vedendo il volto d'un vecchio amico. La voce era,
+
+invero, alquanto più gioviale del volto, che era a prima
+
+vista decisamente arcigno. Era un volto tipicamente legale, con mascelle
+
+squadrate e folte sopracciglia brizzolate; e apparteneva a un carattere eminentemente
+
+legale, benché egli fosse ora aggregato in veste semimilitare
+
+alla polizia di quel selvaggio distretto. Cuthbert Grayne era
+
+forse più un criminologo che un avvocato o un poliziotto,
+
+ma nel suo ambiente più barbaro era riuscito con successo a
+
+trasformarsi in una pratica combinazione di tutti e tre. La
+
+scoperta d'un'intera serie di strani delitti orientali gli faceva
+
+onore. Ma poiché poche persone conoscevano, o erano attratte da,
+
+un simile passatempo o ramo del sapere, la sua vita intellettuale era
+
+alquanto solitaria. Tra le poche eccezioni c'era Horne Fisher, che
+
+aveva una curiosa capacità di parlare con quasi chiunque di quasi
+
+qualunque cosa.
+"Studiate botanica, o è archeologia?" domandò Grayne. "Non
+
+arriverò mai alla fine dei vostri interessi, Fisher. Direi che
+
+ciò che non sapete non val la pena di saperlo."
+"Vi sbagliate," replicò Fisher, con una bruschezza assai insolita, e
+
+perfino con amarezza. "È ciò che so a non valere la pena di saperlo. Tutto
+
+il lato oscuro delle cose, tutte le ragioni segrete e i marci moventi
+
+e la corruzione e il ricatto che chiamano politica. Non ho da essere così fiero
+
+d'esser sceso in tutte queste fogne da doverne vantarmi con
+
+i ragazzini per strada."
+"Che intendete? Che vi prende?" chiese l'amico.
+
+"Non v'ho mai visto così prima d'ora."
+"Mi vergogno di me stesso," replicò Fisher. "Ho appena gettato
+
+[[Water|acqua]] fredda sugli entusiasmi d'un ragazzo."
+"Persino questa spiegazione è poco esauriente," osservò l'esperto
+
+di crimini.
+"Dannate sciocchezze da giornale erano quegli entusiasmi, s'intende,"
+
+continuò Fisher, "ma dovrei sapere che a quell'età le illusioni
+
+possono essere ideali. E sono meglio della realtà, in ogni caso. Ma
+
+c'è una responsabilità assai brutta nello scuotere un giovane fuori
+
+dal solco dell'ideale più marcio."
+"E quale sarebbe?" domandò l'amico.
+"È assai facile che lo lanci con la stessa energia in una direzione ben peggiore
+
 
 
 <span class="atom-split" data-atom="story_04_the_bottomless_well--part_03" data-title="The Man Who Knew Too Much — The Bottomless Well (part 3)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
@@ -13794,6 +17531,174 @@ A run brought them in a few minutes to the other side of the ground
 
 in front of the bottomless [[Well|well]], and a few yards from it, in a
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+direzione," rispose Fisher; "una direzione piuttosto senza fine, un
+
+abisso senza fondo profondo quanto il [[Well|pozzo]] senza fondo."
+Fisher non rivide l'amico fino a due settimane dopo, quando si ritrovò
+
+nel [[Garden|giardino]] sul retro del circolo, dal lato opposto
+
+a quello del campo, un [[Garden|giardino]] intensamente colorato e profumato di dolci
+
+piante semitropicali nel bagliore d'un tramonto nel [[Desert|deserto]]. Altri due uomini
+
+erano con lui, il terzo essendo l'ormai celebre secondo in comando,
+
+noto a tutti come Tom Travers, un uomo magro e bruno, che pareva
+
+più vecchio dei suoi anni, con un solco sulla fronte e qualcosa di tetro
+
+nella forma stessa dei suoi baffi neri. Erano appena stati
+
+serviti di caffè nero dall'arabo che ora officiava come
+
+servitore temporaneo del circolo, benché fosse una figura già
+
+nota, e persino famosa, come il vecchio servitore del generale.
+
+Rispondeva al nome di Said, ed era notevole tra gli altri semiti per
+
+quell'innaturale lunghezza del suo volto giallo e altezza della sua stretta
+
+fronte che talvolta si vede tra loro, e dava un'irrazionale
+
+impressione di qualcosa di sinistro, malgrado il suo sorriso gradevole.
+"Non mi sento mai come se potessi fidarmi del tutto di quel tale," disse Grayne,
+
+quando l'uomo se ne fu andato. "È molto ingiusto, lo ammetto, perché era
+
+certo devoto a [[Hastings]], e gli salvò la vita, dicono. Ma
+
+gli arabi sono spesso così, fedeli a un solo uomo. Non posso fare a meno di sentire che
+
+potrebbe tagliare la gola a chiunque altro, e persino farlo a tradimento."
+"[[Well|Beh]]," disse Travers, con un sorriso piuttosto acido, "finché
+
+[[Leaves|lascia]] [[Hastings]] in [[Alone|pace]], al mondo importerà poco."
+Ci fu un [[Silence|silenzio]] piuttosto imbarazzante, pieno di ricordi della
+
+grande battaglia, e poi Horne Fisher disse, con calma:
+"I giornali non sono il mondo, Tom. Non preoccupartene.
+
+Tutti nel tuo mondo conoscono la [[Truth|verità]] abbastanza [[Well|bene]]."
+"Credo sia meglio non parlare del generale proprio ora," osservò
+
+Grayne, "perché sta proprio uscendo dal circolo."
+"Non viene qui," disse Fisher. "Sta solo accompagnando la moglie alla
+
+macchina."
+Mentre parlava, infatti, la signora comparve sui gradini del circolo,
+
+seguita dal marito, che poi le passò rapidamente davanti per
+
+aprire il cancello del [[Garden|giardino]]. Nel farlo lei si voltò e parlò per un
+
+istante a un uomo solitario ancora seduto su una sedia di vimini nell'[[Shadow|ombra]]
+
+del vano della porta, l'unico uomo rimasto nel circolo deserto tranne i
+
+tre che s'attardavano nel [[Garden|giardino]]. Fisher scrutò per un istante nell'
+
+[[Shadow|ombra]], e vide che era il capitano Boyle.
+L'istante dopo, con loro sorpresa, il generale ricomparve
+
+e, risalendo i gradini, rivolse a sua volta una parola o due a Boyle.
+
+Poi fece un cenno a Said, che accorse con due tazze di caffè,
+
+e i due uomini rientrarono nel circolo, ciascuno portando la propria tazza in
+
+mano. L'istante dopo un barlume di luce bianca nell'oscurità crescente
+
+mostrò che le lampade elettriche erano state accese nella biblioteca
+
+al di là.
+"Caffè e ricerche scientifiche," disse Travers, arcigno. "Tutti i
+
+lussi del sapere e della ricerca teorica. [[Well|Beh]], devo
+
+andare, perché ho il mio lavoro da fare, io [[Well|pure]]." E si alzò piuttosto
+
+rigido, salutò i compagni, e s'allontanò a gran passi nel crepuscolo.
+"[[Hope|Spero]] solo che Boyle si tenga alle ricerche scientifiche," disse Horne
+
+Fisher. "Io stesso non sono molto tranquillo sul suo conto. Ma parliamo
+
+d'altro."
+Parlarono d'altro più a lungo di quanto probabilmente immaginassero,
+
+finché non fu giunta la [[Night|notte]] tropicale e una splendida [[Moon|luna]] dipinse
+
+l'intera scena d'argento; ma prima che fosse abbastanza luminosa per vederci
+
+Fisher aveva già notato che le luci nella biblioteca erano state
+
+bruscamente spente. Attese che i due uomini uscissero dall'
+
+ingresso del [[Garden|giardino]], ma non venne nessuno.
+"Devono essere andati a fare due passi sul campo," disse.
+"Molto probabile," replicò Grayne. "Sarà una bella
+
+[[Night|notte]]."
+Un istante o due dopo che ebbe parlato udirono una voce che li chiamava
+
+dall'[[Shadow|ombra]] del circolo, e furono stupiti di scorgere
+
+Travers che s'affrettava verso di loro, gridando mentre veniva:
+"Avrò bisogno del vostro aiuto, ragazzi," gridò. "C'è qualcosa
+
+di piuttosto brutto là sul campo."
+Si ritrovarono a precipitarsi attraverso il fumoir del circolo e la
+
+biblioteca oltre, in completa oscurità, tanto mentale [[Well|quanto]] materiale.
+
+Ma Horne Fisher, malgrado la sua affettazione d'indifferenza, era una
+
+persona d'una curiosa e quasi trascendentale sensibilità alle
+
+atmosfere, e già sentiva la presenza di qualcosa di più d'
+
+un incidente. Urtò contro un mobile nella biblioteca,
+
+e quasi rabbrividì per lo scossone, perché la cosa si mosse come non
+
+avrebbe mai immaginato che un mobile si muovesse. Sembrava muoversi
+
+come una cosa viva, cedendo eppure ribattendo. L'istante dopo
+
+Grayne aveva acceso le luci, ed egli vide d'aver solo inciampato
+
+contro uno dei leggii girevoli che aveva ruotato e lo aveva
+
+colpito; ma il suo involontario sussulto gli aveva rivelato il proprio
+
+senso subconscio di qualcosa di misterioso e mostruoso. C'erano
+
+parecchi di questi scaffali girevoli disposti qua e là per
+
+la biblioteca; su uno di essi stavano le due tazze di caffè, e su
+
+un altro un grande libro aperto. Era il libro di Budge sui geroglifici
+
+egizi, con tavole colorate di strani [[Birds|uccelli]] e dèi, e
+
+e proprio mentre passava di corsa, ebbe coscienza di qualcosa di strano nel
+
+fatto che questo, e non un'opera di scienza militare, fosse aperto
+
+in quel luogo in quel momento. Ebbe persino coscienza del vuoto nello
+
+scaffale [[Well|ben]] fornito da cui era stato tolto, e sembrava
+
+quasi spalancarsi verso di lui in modo sgradevole, come un vuoto tra i denti d'
+
+un volto sinistro.
+Una corsa li portò in pochi minuti dall'altro lato del terreno
+
+davanti al [[Well|pozzo]] senza fondo, e a pochi metri da esso, in una
 
 
 
@@ -13974,6 +17879,181 @@ old man meant ruin and his [[Death|death]] meant triumph and even happiness."
 you the woman's part of the story. But how do you know about the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+chiaro di luna quasi ampio come la luce del giorno, videro ciò che erano venuti
+
+a vedere.
+Il grande Lord [[Hastings]] giaceva prono sul volto, in una posa in cui
+
+c'era un che di strano e di rigido, con un gomito
+
+eretto sopra il [[Body|corpo]], il braccio piegato, e la grande mano ossuta
+
+che stringeva l'erba folta e lacera. A pochi piedi di distanza c'era Boyle,
+
+quasi altrettanto immobile, ma poggiato sulle mani e sulle ginocchia, e
+
+con lo sguardo fisso sul [[Body|corpo]]. Poteva non essere altro che shock e
+
+incidente; ma c'era qualcosa di goffo e d'innaturale nella
+
+posa quadrupede e nel volto sbigottito. Era come se la sua ragione
+
+fosse fuggita da lui. Dietro, non c'era altro che il limpido azzurro cielo
+
+meridionale, e l'inizio del [[Desert|deserto]], tranne le due grandi
+
+pietre spezzate davanti al [[Well|pozzo]]. Ed era in una simile luce e
+
+atmosfera che gli uomini potevano immaginare di tracciarvi enormi e
+
+malvagi volti, che guardavano in basso.
+Horne Fisher si chinò e toccò la forte mano che ancora
+
+stringeva l'erba, ed era fredda come una pietra. S'inginocchiò accanto al
+
+[[Body|corpo]] e per un istante s'affaccendò ad applicare altre prove; poi si [[Rose|rialzò]]
+
+di nuovo, e disse, con una sorta di sicura [[Despair|disperazione]]:
+"Lord [[Hastings]] è morto."
+Ci fu un [[Silence|silenzio]] di pietra, e poi Travers osservò, burbero: "Questo
+
+è di vostra competenza, Grayne; vi lascio a interrogare il capitano
+
+Boyle. Non riesco a cavare un senso da ciò che dice."
+Boyle s'era ricomposto e alzato in piedi, ma il suo
+
+volto portava ancora un'espressione tremenda, che lo rendeva come una nuova maschera o
+
+il volto d'un altro uomo.
+"Stavo guardando il [[Well|pozzo]]," disse, "e quando mi voltai era
+
+caduto."
+Il volto di Grayne era assai fosco. "Come dite, questa è faccenda mia,"
+
+disse. "Devo prima chiedervi d'aiutarmi a portarlo nella biblioteca e
+
+a lasciarmi esaminare le cose a fondo."
+Quando ebbero deposto il [[Body|corpo]] nella biblioteca, Grayne si volse a
+
+Fisher e disse, con voce che aveva ritrovato la sua pienezza e
+
+sicurezza: "Mi chiuderò dentro e farò prima un accurato
+
+esame. Conto su di voi per tenervi in contatto con gli altri
+
+e fare un esame preliminare di Boyle. Gli parlerò io
+
+più tardi. E telefonate solo al quartier generale per un poliziotto, e fate
+
+che venga subito qui e resti in attesa finché non lo voglia."
+Senza altre parole il grande investigatore criminale entrò nella
+
+biblioteca illuminata, chiudendosi la porta alle spalle, e Fisher, senza
+
+rispondere, si voltò e cominciò a parlare con calma a Travers. "È
+
+curioso," disse, "che la cosa sia accaduta proprio davanti a
+
+quel luogo."
+"Sarebbe certo assai curioso," replicò Travers, "se il luogo
+
+vi avesse avuto qualche parte."
+"Io credo," replicò Fisher, "che la parte che non ebbe sia più
+
+curiosa ancora."
+E con queste parole apparentemente insensate si volse allo scosso
+
+Boyle e, prendendolo per il braccio, cominciò a farlo camminare avanti e indietro nel
+
+chiaro di luna, parlando a bassa voce.
+L'[[Dawn|alba]] aveva cominciato a spuntare brusca e bianca quando Cuthbert Grayne spense
+
+le luci nella biblioteca e uscì sul campo. Fisher
+
+oziava tutto [[Alone|solo]], nella sua maniera svogliata; ma il messo
+
+della polizia che aveva mandato a chiamare stava sull'attenti sullo
+
+sfondo.
+"Ho mandato via Boyle con Travers," osservò Fisher, con noncuranza; "si
+
+prenderà cura di lui, e farebbe meglio a farsi un po' di [[Sleep|sonno]], in ogni caso."
+"Avete cavato qualcosa da lui?" chiese Grayne. "Vi ha detto
+
+cosa lui e [[Hastings]] stessero facendo?"
+"Sì," rispose Fisher, "mi ha dato un resoconto piuttosto chiaro, dopo
+
+tutto. Ha detto che, dopo che Lady [[Hastings]] se ne fu andata in macchina, il
+
+generale gli chiese di prendere il caffè con lui nella biblioteca e di verificare
+
+un punto sulle antichità locali. Egli stesso stava cominciando a cercare
+
+il libro di Budge in uno dei leggii girevoli quando il generale
+
+lo trovò in uno degli scaffali a muro. Dopo aver guardato
+
+alcune delle tavole uscirono, a quanto pare, piuttosto bruscamente, sul
+
+campo, e s'incamminarono verso il vecchio [[Well|pozzo]]; e mentre Boyle vi
+
+guardava dentro udì un tonfo dietro di sé, e si voltò per trovare
+
+il generale disteso come lo trovammo noi. Egli stesso cadde in ginocchio
+
+per esaminare il [[Body|corpo]], e poi fu paralizzato da una sorta di terrore
+
+e non poté avvicinarvisi di più né toccarlo. Ma faccio ben poco
+
+caso di ciò; le persone colte da un vero shock di sorpresa talvolta si
+
+trovano nelle pose più bizzarre."
+Grayne portava un arcigno sorriso d'attenzione, e disse, dopo un breve
+
+[[Silence|silenzio]]:
+"[[Well|Beh]], non v'ha detto molte bugie. È davvero un resoconto lodevolmente chiaro
+
+e coerente di ciò che accadde, con tutto ciò che è d'
+
+importante tralasciato."
+"Avete scoperto qualcosa là dentro?" chiese Fisher.
+"Ho scoperto tutto," rispose Grayne.
+Fisher mantenne un [[Silence|silenzio]] alquanto cupo, mentre l'altro riprendeva
+
+la sua spiegazione in toni quieti e sicuri.
+"Avevate perfettamente ragione, Fisher, quando diceste che quel giovane era
+
+in pericolo di scendere per vie oscure verso l'abisso. Che poi, come
+
+immaginavate, lo scossone che deste alla sua idea del generale abbia
+
+avuto a che fare o no, egli non ha trattato [[Well|bene]] il generale
+
+da qualche [[Time|tempo]]. È una faccenda spiacevole, e non voglio
+
+indugiarvi; ma è abbastanza chiaro che nemmeno sua moglie lo trattava
+
+[[Well|bene]]. Non so fin dove sia andata, ma andò fin
+
+alla dissimulazione, comunque; perché quando Lady [[Hastings]] parlò a Boyle fu
+
+per dirgli che aveva nascosto un biglietto nel libro di Budge nella biblioteca.
+
+Il generale udì per caso, o venne in qualche modo a saperlo, e andò dritto
+
+al libro e lo trovò. Ne fece rimprovero a Boyle, ed ebbero
+
+una scenata, s'intende. E Boyle si trovò davanti a qualcos'altro;
+
+si trovò davanti a una tremenda alternativa, in cui la vita d'un
+
+vecchio significava rovina e la sua [[Death|morte]] significava trionfo e persino felicità."
+"[[Well|Beh]]," osservò Fisher, alla fine, "non lo biasimo per non avervi raccontato
+
+la parte della donna nella storia. Ma come fate a sapere del
+
 
 
 <span class="atom-split" data-atom="story_04_the_bottomless_well--part_05" data-title="The Man Who Knew Too Much — The Bottomless Well (part 5)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
@@ -14144,6 +18224,173 @@ the husband, but—the other thing. And a tale like that about a man
 
 like that would ruin us here. Had you any guess of this at the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+lettera?"
+"L'ho trovata sul [[Body|corpo]] del generale," rispose Grayne, "ma ho trovato
+
+cose peggiori. Il [[Body|corpo]] s'era irrigidito nel modo piuttosto
+
+peculiare ai veleni di un certo tipo asiatico. Poi esaminai le
+
+tazze del caffè, e sapevo abbastanza chimica da trovare il [[Poison|veleno]] nei fondi
+
+d'una di esse. Ora, il generale andò dritto allo scaffale,
+
+lasciando la sua tazza di caffè sul leggio in mezzo alla
+
+stanza. Mentre gli dava le spalle, e Boyle fingeva d'esaminare
+
+il leggio, egli restò [[Alone|solo]] con la tazza del caffè. Il [[Poison|veleno]]
+
+impiega circa dieci minuti ad agire, e dieci minuti di cammino li avrebbero portati
+
+al [[Well|pozzo]] senza fondo."
+"Sì," osservò Fisher, "e che dire del [[Well|pozzo]] senza fondo?"
+"Che c'entra il [[Well|pozzo]] senza fondo?" chiese l'amico.
+"Non c'entra nulla," replicò Fisher. "È questo che
+
+trovo del tutto sconcertante e incredibile."
+"E perché quel particolare buco nel terreno dovrebbe avere qualcosa a
+
+che farci?"
+"È un buco particolare nel vostro caso," disse Fisher. "Ma non
+
+insisterò su questo per ora. A proposito, c'è un'altra cosa che dovrei
+
+dirvi. Ho detto d'aver mandato via Boyle in custodia a Travers. Sarebbe
+
+altrettanto vero dire che ho mandato Travers in custodia a Boyle."
+"Non vorrete dire che sospettate di Tom Travers?" gridò l'altro.
+"Era assai più astioso verso il generale di quanto Boyle sia mai stato,"
+
+osservò Horne Fisher, con una curiosa indifferenza.
+"Amico, non dite ciò che pensate," gridò Grayne. "Vi dico che
+
+ho trovato il [[Poison|veleno]] in una delle tazze del caffè."
+"C'era sempre Said, s'intende," aggiunse Fisher, "vuoi per odio
+
+vuoi per denaro. Convenimmo ch'era capace di quasi tutto."
+"E convenimmo ch'era incapace di far del male al suo padrone," ribatté
+
+Grayne.
+"[[Well|Beh]], [[Well|bene]]," disse Fisher, amabilmente, "oserei dire che avete ragione; ma
+
+mi piacerebbe solo dare un'occhiata alla biblioteca e alle tazze del caffè."
+Passò dentro, mentre Grayne si volgeva al poliziotto in attesa
+
+e gli porgeva un biglietto scarabocchiato, da telegrafare dal
+
+quartier generale. L'uomo salutò e s'affrettò via; e Grayne, seguendo
+
+l'amico nella biblioteca, lo trovò accanto al leggio in
+
+mezzo alla stanza, su cui stavano le tazze vuote.
+"È qui che Boyle cercò Budge, o finse di cercarlo,
+
+secondo il vostro resoconto," disse.
+Mentre parlava Fisher si chinò in un atteggiamento semiaccovacciato, per guardare
+
+i volumi nel basso scaffale girevole, perché l'intero leggio
+
+non era molto più alto d'un tavolo comune. L'istante dopo
+
+balzò in piedi come se fosse stato punto.
+"Oh, Dio mio!" gridò.
+Pochissimi, semmai qualcuno, avevano mai visto il signor Horne Fisher comportarsi come si
+
+comportò in quell'istante. Lanciò un'occhiata alla porta, vide che la
+
+[[Window|finestra]] aperta era più vicina, ne uscì con un balzo volante, come
+
+oltre un ostacolo, e si mise a correre attraverso il prato, sulle tracce del
+
+poliziotto che spariva. Grayne, che rimase a fissarlo, presto
+
+vide la sua figura alta e sciolta tornare, ristabilita in tutta la sua normale
+
+flaccidezza e aria d'agio. Si faceva vento lentamente con un
+
+pezzo di carta, il telegramma che aveva così violentemente intercettato.
+"Per fortuna l'ho fermato," osservò. "Dobbiamo tenere questa faccenda tanto
+
+quieta quanto la [[Death|morte]]. [[Hastings]] deve morire d'apoplessia o di mal di cuore."
+"Che diamine c'è che non va?" domandò l'altro investigatore.
+"C'è che non va," disse Fisher, "che in pochi giorni avremmo
+
+avuto un'alternativa assai gradevole—impiccare un uomo [[Innocent|innocente]] o
+
+mandare all'inferno l'Impero Britannico."
+"Volete dire," chiese Grayne, "che questo delitto infernale non
+
+dev'essere punito?"
+Fisher lo guardò fermamente.
+"È già punito," disse.
+Dopo un istante di pausa proseguì. "Avete ricostruito il delitto
+
+con ammirevole abilità, vecchio mio, e quasi tutto ciò che diceste era vero.
+
+Due uomini con due tazze di caffè entrarono davvero nella biblioteca e posarono davvero
+
+le loro tazze sul leggio e andarono davvero insieme al [[Well|pozzo]], e uno
+
+di loro era un assassino e aveva messo il [[Poison|veleno]] nella tazza dell'altro. Ma non
+
+fu fatto mentre Boyle guardava lo scaffale girevole. Egli
+
+lo guardò, però, cercando il libro di Budge col biglietto
+
+dentro, ma immagino che [[Hastings]] l'avesse già spostato sugli scaffali
+
+a muro. Era parte di quel truce gioco ch'egli lo trovasse
+
+per primo.
+"Ora, come cerca un uomo in uno scaffale girevole? Non gli
+
+gira generalmente tutt'intorno in un atteggiamento accovacciato, come una rana.
+
+Gli dà semplicemente un tocco e lo fa ruotare."
+Aggrottava la fronte fissando il pavimento mentre parlava, e c'era una luce
+
+sotto le sue pesanti palpebre che non vi si vedeva spesso. Il misticismo
+
+sepolto in fondo sotto tutto il cinismo della sua esperienza era
+
+sveglio e si muoveva negli abissi. La sua voce prendeva svolte e
+
+inflessioni inattese, quasi come se parlassero due uomini.
+"Ecco cosa fece Boyle; toccò appena la cosa, ed essa girò
+
+con la stessa facilità con cui gira il mondo. Sì, proprio come il
+
+mondo gira, perché la mano che la fece girare non era la sua. Dio, che
+
+fa girare la [[Wheel|ruota]] di tutte le [[Stars|stelle]], toccò quella [[Wheel|ruota]] e la portò a
+
+compiere il giro, affinché la Sua tremenda giustizia potesse tornare."
+"Comincio," disse Grayne, lentamente, "ad avere una vaga e
+
+orribile idea di ciò che intendete."
+"È semplicissimo," disse Fisher, "quando Boyle si raddrizzò
+
+dalla sua posa curva, era accaduto qualcosa che egli non aveva
+
+notato, che il suo nemico non aveva notato, che nessuno aveva notato.
+
+Le due tazze di caffè s'erano esattamente scambiate di posto."
+Il volto roccioso di Grayne parve aver subìto uno shock in
+
+[[Silence|silenzio]]; non una sua linea s'alterò, ma la sua voce quando venne era
+
+inaspettatamente indebolita.
+"Capisco ciò che intendete," disse, "e, come dite, meno se ne parla
+
+meglio è. Non fu l'[[Lover|amante]] a cercar di sbarazzarsi del
+
+marito, ma—l'altra cosa. E un racconto simile su un uomo
+
+come quello ci rovinerebbe qui. Ne avevate qualche sospetto al
 
 
 
@@ -14497,6 +18744,188 @@ before the gate of the long riverside gardens of Willowood Place,
 one of the smaller seats of Sir Isaac Hook, the master of much
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+V - La Fissazione del Pescatore
+*
+Una cosa può talvolta essere troppo straordinaria per esser ricordata. Se è
+
+del tutto fuori dal corso delle cose, e apparentemente non ha cause
+
+né conseguenze, gli eventi successivi non la richiamano, ed essa
+
+resta soltanto una cosa subconscia, da ridestare per qualche caso
+
+molto tempo dopo. Si disperde come un sogno dimenticato; e fu nell'
+
+ora dei molti [[Dreams|sogni]], all'alba e ben poco dopo la fine del
+
+buio, che una vista tanto strana fu concessa a un uomo che spingeva una barca a remi
+
+giù per un [[River|fiume]] nel West country. L'uomo era sveglio; anzi, si
+
+considerava piuttosto perfettamente sveglio, essendo il giornalista
+
+politico, Harold March, in viaggio per intervistare varie celebrità
+
+politiche nelle loro dimore di campagna. Ma la cosa che vide era così
+
+inconseguente che avrebbe potuto essere immaginaria. Semplicemente scivolò
+
+via dalla sua mente e si perse in eventi successivi e del tutto diversi;
+
+né egli recuperò il [[Memory|ricordo]] finché non ebbe, molto tempo dopo,
+
+scoperto il significato.
+Pallide brume del mattino giacevano sui campi e sui giunchi lungo una
+
+sponda del [[River|fiume]]; lungo l'altro lato correva un muro di mattoni fulvi
+
+quasi a strapiombo sull'[[Water|acqua]]. Aveva ritirato i remi e stava
+
+andando alla deriva per un istante con la corrente, quando voltò la testa e
+
+vide che la monotonia del lungo muro di mattoni era rotta da un ponte;
+
+un ponte d'un genere piuttosto elegante, settecentesco, con piccole
+
+colonne di pietra bianca che ingrigiva. C'erano state piene e il
+
+[[River|fiume]] era ancora assai alto, con alberi nani immersi fino alla cintola,
+
+e un arco piuttosto stretto di bianca [[Dawn|alba]] luccicava sotto la curva del
+
+ponte.
+Mentre la sua barca passava sotto l'oscura arcata vide un'altra barca
+
+venirgli incontro, remata da un uomo solitario quanto lui. La sua
+
+postura impediva di vederne molto, ma mentre s'avvicinava al
+
+ponte si alzò in piedi nella barca e si voltò. Era già così
+
+vicino all'oscura entrata, tuttavia, che la sua intera figura era nera
+
+contro la luce del mattino, e March non poteva vedere nulla del suo volto
+
+tranne l'estremità di due lunghe basette o baffi che davano qualcosa di
+
+sinistro alla sagoma, come corna nel posto sbagliato. Persino
+
+questi dettagli March non li avrebbe mai notati se non fosse per ciò che accadde
+
+nello stesso istante. Mentre l'uomo passava sotto il basso ponte fece un
+
+balzo verso di esso e vi rimase appeso, con le gambe penzoloni, lasciando che la barca galleggiasse
+
+via da sotto di lui. March ebbe una momentanea visione di due nere
+
+gambe scalcianti; poi d'una sola nera gamba scalciante; e poi di nulla
+
+tranne la corrente vorticosa e la lunga prospettiva del muro. Ma
+
+ogni volta che vi ripensava, molto tempo dopo, quando comprese
+
+la storia in cui figurava, era sempre fissata in quell'unica
+
+fantastica forma—come se quelle gambe selvagge fossero un [[Grotesque|grottesco]] ornamento scolpito
+
+del ponte stesso, alla maniera d'un gargoyle. Al
+
+momento si limitò a passare, fissando, giù per la corrente. Non riusciva a vedere nessuna
+
+figura in fuga sul ponte, sicché doveva esser già fuggita; ma
+
+era vagamente cosciente di qualche fioco significato nel fatto che tra
+
+gli alberi intorno alla testa del ponte di fronte al muro vide un lampione;
+
+e, accanto al lampione, l'ampia schiena blu d'un inconsapevole
+
+poliziotto.
+Ancor prima di raggiungere il santuario del suo pellegrinaggio politico aveva
+
+molte altre cose a cui pensare oltre allo strano incidente del
+
+ponte; giacché il governo d'una barca da parte d'un uomo solo non era
+
+sempre facile nemmeno su una corrente così solitaria. E invero fu solo
+
+per un caso imprevisto ch'egli era solo. La barca era stata
+
+acquistata e l'intera spedizione progettata in concerto con un
+
+amico, che all'ultimo momento era stato costretto a mutare tutte le sue
+
+disposizioni. Harold March avrebbe dovuto viaggiare con l'amico
+
+Horne Fisher in quel viaggio interno verso Willowood Place, dove il
+
+Primo Ministro era ospite in quel momento. Sempre più gente
+
+sentiva parlare di Harold March, perché i suoi notevoli articoli politici gli
+
+aprivano le porte di saloni sempre più grandi; ma non aveva
+
+ancora mai incontrato il Primo Ministro. Quasi nessuno tra il grande
+
+pubblico aveva mai sentito parlare di Horne Fisher; ma egli aveva conosciuto il Primo
+
+Ministro per tutta la vita. Per queste ragioni, se i due avessero compiuto il
+
+progettato [[Journey|viaggio]] insieme, March sarebbe forse stato lievemente disposto
+
+ad affrettarlo e Fisher vagamente contento di prolungarlo. Poiché
+
+Fisher era una di quelle persone che nascono conoscendo il Primo
+
+Ministro. Tale conoscenza pareva non avere alcun effetto molto esilarante,
+
+e nel suo caso aveva una certa somiglianza con l'esser nati stanchi. Ma
+
+fu decisamente seccato di ricevere, proprio mentre stava facendo un po' di
+
+leggeri bagagli d'attrezzatura da pesca e sigari per il [[Journey|viaggio]], un
+
+telegramma da Willowood che gli chiedeva di scendere subito in treno, poiché
+
+il Primo Ministro doveva partire quella [[Night|notte]]. Fisher sapeva che il suo
+
+amico giornalista non poteva assolutamente partire prima del giorno seguente,
+
+e gli era caro l'amico giornalista, e aveva pregustato
+
+qualche giorno sul [[River|fiume]]. Non provava né simpatia né antipatia particolare per il
+
+Primo Ministro, ma detestava intensamente l'alternativa di qualche
+
+ora in treno. Nondimeno, accettava i Primi Ministri come
+
+accettava i treni ferroviari—come parte d'un sistema che egli, almeno, non era
+
+il rivoluzionario mandato sulla terra a distruggere. Così telefonò a
+
+March, chiedendogli, con molte imprecazioni di scusa e fiacchi accidenti, di
+
+portare la barca giù per il [[River|fiume]] come convenuto, affinché potessero incontrarsi a
+
+Willowood entro l'[[Time|ora]] stabilita; poi uscì e chiamò un
+
+taxi che lo portasse alla stazione ferroviaria. Lì si fermò all'
+
+edicola per aggiungere al suo leggero bagaglio un certo numero di romanzi gialli
+
+da quattro soldi, che leggeva con gran piacere, e senza alcuna
+
+premonizione d'esser sul punto d'imbattersi in una storia altrettanto strana nella
+
+vita reale.
+Poco prima del tramonto giunse, con la sua leggera valigia in mano,
+
+davanti al cancello dei lunghi giardini rivieraschi di Willowood Place,
+
+una delle dimore minori di Sir Isaac Hook, il padrone di molta
+
 
 
 <span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_02" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 2)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
@@ -14669,6 +19098,175 @@ motionless, rising out of the tall undergrowth against the
 
 background of the stream beyond. The fisherman seemed to be seated
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+spedizioni e molti giornali. Entrò dal cancello che dava sulla
+
+[[Road|strada]], sul lato opposto al [[River|fiume]], ma c'era una qualità mista
+
+in tutto quel paesaggio acquoso che perpetuamente ricordava a un
+
+viandante che il [[River|fiume]] era vicino. Bianchi bagliori d'[[Water|acqua]] balenavano
+
+d'improvviso come spade o lance nei verdi boschetti. E perfino nel
+
+[[Garden|giardino]] stesso, diviso in corti e velato di siepi e d'alti
+
+alberi da [[Garden|giardino]], ovunque aleggiava nell'aria la musica dell'
+
+[[Water|acqua]]. La prima delle corti verdi in cui entrò sembrava essere
+
+un prato da croquet alquanto trascurato, nel quale un solitario giovane
+
+giocava a croquet contro sé stesso. Eppure non era un entusiasta del
+
+gioco, né tanto meno del [[Garden|giardino]]; e il suo volto olivastro ma dai [[Well|bei]]
+
+lineamenti pareva più imbronciato che altro. Era soltanto uno di quei
+
+giovani che non sopportano il peso della coscienza se non stanno
+
+facendo qualcosa, e le cui idee del fare qualcosa si
+
+limitano a un gioco di qualche sorta. Era bruno e [[Well|ben]] vestito in
+
+leggera foggia vacanziera, e Fisher lo riconobbe subito come un giovane
+
+di nome James Bullen, chiamato, per qualche ignota ragione, Bunker. Era
+
+il nipote di Sir Isaac; ma, cosa assai più importante in quel
+
+momento, era anche il segretario privato del Primo Ministro.
+«Ehilà, Bunker!» osservò Horne Fisher. «Siete l'uomo che
+
+volevo vedere. È già arrivato il vostro capo?»
+«Si ferma solo per cena,» rispose Bullen, con l'occhio sulla
+
+palla gialla. «Domani ha un gran discorso a Birmingham e
+
+ci va dritto questa [[Night|notte]] stessa. Va in automobile da sé;
+
+guidando la macchina, intendo. È l'unica cosa di cui va davvero fiero.»
+«Vuoi dire che tu resti qui con tuo zio, da bravo ragazzo?»
+
+replicò Fisher. «Ma che farà il Capo a Birmingham senza
+
+gli epigrammi sussurratigli dal suo brillante segretario?»
+«Non cominciare a prendermi in giro,» disse il giovane chiamato Bunker.
+
+«Sono fin troppo contento di non trascinarmi dietro a lui. Non sa una
+
+cosa di mappe o denaro o alberghi o alcunché, e mi tocca [[Dance|danzare]]
+
+attorno come un corriere. Quanto a mio zio, poiché dovrei ereditare
+
+la tenuta, è solo decoroso essere qui ogni tanto.»
+«Molto giusto,» replicò l'altro. «[[Well|Ebbene]], ci vedremo più tardi,»
+
+e, attraversato il prato, uscì per un varco nella siepe.
+Camminava attraverso il prato verso l'imbarcadero sul
+
+[[River|fiume]], e sentiva ancora tutt'attorno a sé, sotto la cupola della dorata
+
+sera, un sapore e un riverbero di Vecchio Mondo in quel
+
+[[Garden|giardino]] battuto dal fiume. Il quadrato d'erba successivo che attraversò parve dapprima
+
+a prima vista del tutto deserto, finché non vide nella penombra degli alberi in un
+
+suo angolo un'amaca e nell'amaca un uomo, che leggeva un giornale
+
+e dondolava una gamba oltre il bordo della rete.
+Anche lui salutò per nome, e l'uomo scivolò a terra e
+
+avanzò a passeggio. Pareva destino che avvertisse qualcosa del
+
+passato negli accidenti di quel luogo, poiché la figura avrebbe [[Well|ben]]
+
+potuto essere un [[Ghost|fantasma]] primo-vittoriano che rivisitava gli [[Ghosts|spettri]] dei
+
+cerchi e dei mazzuoli da croquet. Era la figura d'un uomo anziano con
+
+lunghe fedine dall'aria quasi fantastica, e un curioso e accurato
+
+taglio di colletto e cravatta. Essendo stato un dandy alla moda quarant'
+
+anni or sono, era riuscito a conservare il dandismo pur ignorando
+
+le mode. Un cilindro bianco giaceva accanto al Morning Post nell'
+
+amaca dietro di lui. Era il Duca di Westmoreland, la reliquia d'
+
+una famiglia davvero vecchia di secoli; e l'antichità non era
+
+araldica ma [[history|storia]]. Nessuno sapeva meglio di Fisher quanto rari
+
+siano tali nobili nella realtà, e quanto numerosi nella finzione. Ma se il
+
+duca dovesse il generale rispetto di cui godeva alla genuinità del suo
+
+lignaggio o al fatto di possedere una vasta quantità di beni assai
+
+preziosi era un punto sul quale l'opinione del signor Fisher sarebbe
+
+stata più interessante da scoprire.
+«Sembravate così comodo,» disse Fisher, «che vi ho creduto
+
+uno dei domestici. Cerco qualcuno che mi porti questa
+
+mia borsa; non ho portato un cameriere, essendo partito in
+
+fretta.»
+«Neppure io, del resto,» replicò il duca, con un certo [[Pride|orgoglio]]. «Non
+
+lo faccio mai. Se c'è un animale vivente che detesto è il cameriere. Ho
+
+imparato a vestirmi da solo in giovane età e si diceva lo facessi
+
+decorosamente. Sarò pure nella mia seconda [[Childhood|infanzia]], ma non al punto d'
+
+esser vestito come un [[Child|bambino]].»
+«Il Primo Ministro non ha portato un cameriere; ha portato un segretario
+
+invece,» osservò Fisher. «Un incarico diabolicamente inferiore. Non ho sentito
+
+che Harker fosse qui?»
+«È laggiù sull'imbarcadero,» replicò il duca,
+
+con indifferenza, e riprese lo studio del Morning Post.
+Fisher si spinse oltre l'ultima verde parete del [[Garden|giardino]] su una
+
+sorta di alzaia che guardava sul [[River|fiume]] e su un'isola boscosa
+
+di fronte. Là, infatti, vide una figura magra e scura, curva
+
+quasi come un avvoltoio, una postura [[Well|ben]] nota nelle aule
+
+di giustizia come quella di Sir John Harker, il Procuratore Generale. Il suo volto
+
+era segnato dal lavoro di testa, poiché [[Alone|solo]] fra i tre oziosi del
+
+[[Garden|giardino]] era un uomo che s'era fatto da sé; e attorno alla sua calva
+
+fronte e alle tempie incavate aderivano opachi capelli rossi, piatti, come lastre
+
+di rame.
+«Non ho ancora visto il mio ospite,» disse Horne Fisher, in tono un poco più
+
+serio di quello usato con gli altri, «ma suppongo che lo
+
+incontrerò a cena.»
+«Potete vederlo ora; ma non potete incontrarlo,» rispose Harker.
+Accennò col capo verso un'estremità dell'isola di fronte, e,
+
+guardando fisso nella stessa direzione, l'altro ospite poté scorgere
+
+la cupola d'un capo calvo e la punta d'una canna da pesca, entrambe egualmente
+
+immobili, che si levavano dall'alta sterpaglia contro lo
+
+sfondo del ruscello al di là. Il pescatore pareva star seduto
 
 
 
@@ -14845,6 +19443,178 @@ catching worms. But the other guests seemed to have felt a similar
 
 indifference, and they helped themselves to breakfast from the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+contro il ceppo d'un albero e rivolto verso l'altra sponda, così
+
+che il suo volto non si poteva vedere, ma la forma del suo capo era
+
+inconfondibile.
+«Non ama esser disturbato mentre pesca,» proseguì
+
+Harker. «È una specie di fissazione, la sua, di non mangiare che pesce, ed è
+
+molto fiero di pescarselo da sé. Naturalmente è tutto per la semplicità,
+
+come tanti di questi milionari. Ama rincasare dicendo d'aver
+
+lavorato per il pane quotidiano come un bracciante.»
+«Spiega forse come soffia tutto il vetro e imbottisce tutta la
+
+tappezzeria,» chiese Fisher, «e fabbrica tutte le forchette d'argento, e
+
+coltiva tutta l'uva e le pesche, e disegna tutti i motivi dei
+
+tappeti? Ho sempre sentito che era un uomo indaffarato.»
+«Non credo l'abbia menzionato,» rispose l'avvocato. «Qual è il
+
+senso di questa [[Satire|satira]] sociale?»
+«[[Well|Ebbene]], sono un tantino stanco,» disse Fisher, «della Vita Semplice e
+
+della Vita Indefessa come le vive la nostra cerchietta. Siamo tutti davvero
+
+dipendenti in quasi tutto, e tutti facciamo un gran chiasso per essere
+
+indipendenti in qualcosa. Il Primo Ministro si vanta di fare
+
+a meno d'un autista, ma non può fare a meno d'un factotum e
+
+tuttofare; e il povero vecchio Bunker deve recitare la parte d'un
+
+genio universale, per cui Dio sa che non era affatto tagliato. Il duca
+
+si vanta di fare a meno d'un cameriere, ma, con tutto ciò, deve
+
+dare a un mucchio di gente un mucchio infernale di grattacapi per raccogliere
+
+gli abiti così straordinariamente antiquati che porta. Deve farli cercare
+
+al British Museum o disseppellire dalle tombe. Quel cilindro bianco
+
+da [[Alone|solo]] deve richiedere una sorta di spedizione allestita per trovarlo, come
+
+il Polo Nord. Ed ecco il vecchio Hook che finge di produrre il proprio
+
+pesce quando non saprebbe produrre i propri coltelli o le proprie forchette da pesce
+
+per mangiarlo. Sarà pur semplice nelle cose semplici come il cibo, ma
+
+scommetti che è lussuoso nelle cose lussuose, specie nelle piccole
+
+cose. Non includo voi; avete lavorato troppo duramente per godervi il giocare
+
+al lavoro.»
+«Talvolta penso,» disse Harker, «che voi celiate l'orrido segreto
+
+d'essere talvolta utile. Non siete venuto qui per vedere il Numero
+
+Uno prima che prosegua per Birmingham?»
+Horne Fisher rispose, a voce più bassa: «Sì; e [[Hope|spero]] d'essere
+
+tanto fortunato da coglierlo prima di cena. Deve vedere Sir Isaac
+
+per qualcosa subito dopo.»
+«Ehilà!» esclamò Harker. «Sir Isaac ha finito di pescare. So
+
+che si vanta d'alzarsi all'alba e di rientrare al
+
+tramonto.»
+Il vecchio sull'isola s'era infatti levato in piedi, voltandosi
+
+e mostrando un cespuglio di barba grigia con lineamenti piuttosto piccoli e incavati,
+
+ma sopracciglia feroci e occhi acuti e collerici. Portando con cura la sua
+
+attrezzatura da pesca, stava già rientrando verso la terraferma
+
+attraverso un ponte di pietre piatte da guado poco più a valle del
+
+basso ruscello; poi virò, venendo verso i suoi ospiti e
+
+salutandoli cortesemente. C'erano parecchi pesci nel suo paniere ed era
+
+di buon umore.
+«Sì,» disse, accogliendo la garbata espressione di sorpresa
+
+di Fisher, «mi alzo prima di chiunque altro nella [[house|casa]], credo. Il
+
+mattiniero acchiappa il verme.»
+«Sfortunatamente,» disse Harker, «è il pesce mattiniero che acchiappa il
+
+verme.»
+«Ma l'uomo mattiniero acchiappa il pesce,» replicò il vecchio, burberamente.
+«Ma da quel che sento, Sir Isaac, siete anche l'uomo nottambulo,»
+
+s'interpose Fisher. «Dovete accontentarvi di ben poco [[Sleep|sonno]].»
+«Non ho mai avuto molto [[Time|tempo]] per dormire,» rispose Hook, «e comunque
+
+dovrò essere l'uomo nottambulo questa [[Night|notte]]. Il Primo Ministro vuole
+
+fare due chiacchiere, mi dice, e, tutto sommato, penso
+
+faremmo meglio a vestirci per la cena.»
+La cena passò quella sera senza una parola di politica e poco più
+
+che futilità cerimoniali. Il Primo Ministro, Lord Merivale,
+
+che era un uomo lungo e snello dai ricci capelli grigi, si mostrò gravemente
+
+complimentoso col suo ospite per il suo [[success|successo]] come pescatore e per la
+
+abilità e la pazienza che dimostrava; la conversazione scorreva come il
+
+basso ruscello fra le pietre da guado.
+«Occorre pazienza per aspettarli, senza [[Doubt|dubbio]],» disse Sir Isaac, «e
+
+abilità per stancarli, ma di solito sono piuttosto fortunato.»
+«Un grosso pesce spezza mai la lenza e fugge via?» s'informò il
+
+politico, con rispettoso interesse.
+«Non con il tipo di lenza che uso io,» rispose Hook, con soddisfazione. «In
+
+verità mi specializzo piuttosto nell'attrezzatura. Se fosse forte
+
+abbastanza da farlo, sarebbe forte abbastanza da tirarmi nel [[River|fiume]].»
+«Una gran perdita per la comunità,» disse il Primo Ministro, inchinandosi.
+Fisher aveva ascoltato tutte queste futilità con interiore impazienza,
+
+attendendo la propria occasione, e quando l'ospite si [[Rose|alzò]] balzò in
+
+piedi con una prontezza che di rado mostrava. Riuscì a intercettare
+
+Lord Merivale prima che Sir Isaac lo portasse via per il colloquio finale.
+
+Aveva solo poche parole da dire, ma voleva dirle.
+Disse, a voce bassa mentre apriva la porta al Premier: «Ho
+
+visto Montmirail; dice che se non protestiamo immediatamente in
+
+favore della [[Denmark|Danimarca]], la Svezia s'impadronirà certamente dei porti.»
+Lord Merivale annuì. «Sto giusto per sentire cosa Hook abbia da dire
+
+in proposito,» disse.
+«Immagino,» disse Fisher, con un debole sorriso, «che vi sia ben
+
+poco [[Doubt|dubbio]] su cosa dirà in proposito.»
+Merivale non rispose, ma s'incamminò con grazia verso la biblioteca,
+
+dove il suo ospite l'aveva già preceduto. Gli altri si spostarono verso
+
+la sala da biliardo, e Fisher si limitò a osservare all'avvocato: «Non
+
+ci metteranno molto. Sappiamo che sono praticamente d'accordo.»
+«Hook appoggia interamente il Primo Ministro,» convenne Harker.
+«Oppure il Primo Ministro appoggia interamente Hook,» disse Horne Fisher,
+
+e cominciò pigramente a spingere le palle sul tavolo da biliardo.
+Horne Fisher scese il mattino seguente in maniera tarda e agiata,
+
+come da sua riprovevole abitudine; evidentemente non aveva appetito di
+
+acchiappar vermi. Ma anche gli altri ospiti parevano aver provato una simile
+
+indifferenza, e si servivano la colazione dal
 
 
 
@@ -15028,6 +19798,184 @@ apocalyptic paragraph. The duke, who had been walking slowly, stood
 quite still, and for some seconds he looked like a tailor's dummy
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+credenza a intervalli durante le ore prossime al pranzo. Cosicché
+
+non molte ore dopo giunse su di loro la prima sensazione di quello strano
+
+giorno. Giunse nella forma d'un giovane dai chiari
+
+capelli e dall'espressione candida, che scese remando lungo il [[River|fiume]] e
+
+sbarcò all'imbarcadero. Non era, in effetti, altri che il signor
+
+Harold March, il cui [[Journey|viaggio]] era cominciato assai lontano risalendo il [[River|fiume]] nelle
+
+primissime ore di quel giorno. Arrivò nel tardo pomeriggio, essendosi
+
+fermato per il tè in una grande cittadina rivierasca, e aveva un rosa giornale
+
+della sera che gli spuntava dalla tasca. Piombò sul [[Garden|giardino]] rivierasco
+
+come un fulmine quieto e [[Well|ben]] educato, ma era un fulmine
+
+senza saperlo.
+Il primo scambio di saluti e presentazioni fu abbastanza
+
+banale, e consistette, invero, nell'inevitabile ripetizione delle
+
+scuse per l'eccentrica reclusione dell'ospite. Era andato di nuovo a
+
+pescare, naturalmente, e non doveva esser disturbato fino all'ora stabilita,
+
+benché sedesse a un tiro di sasso da dove essi stavano.
+«Vedete, è il suo unico passatempo,» osservò Harker, in tono di scusa,
+
+«e, dopo tutto, è casa [[house|sua]]; ed è molto ospitale in
+
+altri modi.»
+«Temo piuttosto,» disse Fisher, a voce più bassa, «che stia
+
+diventando più una mania che un passatempo. So com'è quando un uomo
+
+di quell'età comincia a collezionare cose, foss'anche solo collezionare quei
+
+meschini pesciolini di [[River|fiume]]. Ricordate lo zio di Talbot con i suoi
+
+stuzzicadenti, e il povero vecchio Buzzy e lo spreco di cenere di sigaro. Hook
+
+ha fatto molte grandi cose ai suoi [[Time|tempi]]—il grande affare nel
+
+commercio svedese del legname e la Conferenza di Pace a Chicago—ma
+
+[[Doubt|dubito]] che gl'importi ora d'alcuna di quelle grandi cose come gl'importa
+
+di quei pesciolini.»
+«Oh, suvvia, suvvia,» protestò il Procuratore Generale. «Farete credere al signor
+
+March d'esser venuto a far visita a un pazzo. Credetemi, Hook lo fa
+
+solo per svago, come ogni altro sport, solo che è del tipo che
+
+prende il proprio svago con tristezza. Ma scommetto che se ci fossero grandi notizie sul legname
+
+o sulle spedizioni, lascerebbe eccome il suo svago e i suoi pesci.»
+«[[Well|Ebbene]], chi [[Wonder|sa]],» disse Horne Fisher, guardando assonnato l'isola
+
+nel [[River|fiume]].
+«A proposito, ci sono notizie di qualcosa?» chiese Harker a Harold
+
+March. «Vedo che avete un giornale della sera; uno di quegli intraprendenti
+
+giornali della sera che escono al mattino.»
+«L'inizio del discorso di Birmingham di Lord Merivale,» rispose March,
+
+porgendogli il giornale. «È solo un paragrafo, ma mi pare
+
+piuttosto buono.»
+Harker prese il giornale, lo sventolò e ripiegò, e guardò le
+
+notizie dell'«ultim'ora». Era, come March aveva detto, solo un paragrafo. Ma
+
+era un paragrafo che ebbe un effetto singolare su Sir John Harker.
+
+Le sue accigliate sopracciglia si sollevarono con un guizzo e i suoi occhi sbatterono, e
+
+per un istante la sua coriacea mascella si rilassò. Aveva in qualche strano
+
+modo l'aria d'un uomo molto vecchio. Poi, indurendo la voce e porgendo
+
+il giornale a Fisher senza un tremito, disse semplicemente:
+«[[Well|Ebbene]], ecco un'occasione per la scommessa. Avete la vostra grande notizia per
+
+disturbare la pesca del vecchio.»
+Horne Fisher stava guardando il giornale, e sui suoi lineamenti più languidi e
+
+meno espressivi parve del pari passare un mutamento. Perfino quel
+
+piccolo paragrafo aveva due o tre grossi titoli, e il suo occhio
+
+s'imbatté in: «Sensazionale Avvertimento alla Svezia,» e in: «Noi
+
+Protesteremo.»
+«Che diavolo—» disse, e le sue parole si stemperarono dapprima in un
+
+sussurro e poi in un fischio.
+«Dobbiamo dirlo subito al vecchio Hook, o non ci perdonerà mai,» disse
+
+Harker. «Vorrà probabilmente vedere il Numero Uno all'istante, anche se
+
+ora potrebbe esser troppo tardi. Vado subito da lui. Scommetto che gli
+
+farò dimenticare i suoi pesci, in ogni caso.» E, voltando le spalle, si
+
+avviò in fretta lungo la riva verso il selciato di pietre
+
+piatte.
+March fissava Fisher, stupito dell'effetto che il suo rosa
+
+giornale aveva prodotto.
+«Che significa tutto ciò?» esclamò. «Ho sempre supposto che avremmo
+
+protestato in difesa dei porti danesi, per il loro bene e per il nostro.
+
+Che cos'è tutto questo scompiglio riguardo a Sir Isaac e a voialtri? La
+
+ritenete una cattiva notizia?»
+«Cattiva notizia!» ripeté Fisher, con una sorta di sommessa enfasi oltre
+
+ogni espressione.
+«È poi così cattiva?» chiese infine l'amico.
+«Così cattiva?» ripeté Fisher. «Ma certo, è buona quanto
+
+più non si può. È una gran notizia. È una notizia gloriosa! È qui che
+
+sta il diavolo della faccenda, a farci tutti sbalorditi. È ammirevole. È
+
+inestimabile. Ed è anche del tutto incredibile.»
+Fissò di nuovo i colori grigi e verdi dell'isola e del
+
+[[River|fiume]], e il suo occhio piuttosto tetro girò lentamente verso le siepi
+
+e i prati.
+«Sentivo che questo [[Garden|giardino]] era una sorta di sogno,» disse, «e suppongo di
+
+star sognando. Ma c'è erba che cresce e [[Water|acqua]] che scorre; e
+
+qualcosa d'impossibile è accaduto.»
+Proprio mentre parlava la scura figura curva come un avvoltoio
+
+apparve nel varco della siepe appena sopra di lui.
+«Avete vinto la scommessa,» disse Harker, con voce aspra e quasi
+
+gracchiante. «Quel vecchio [[Fool|sciocco]] non si cura che di pescare. M'ha maledetto e
+
+m'ha detto che non avrebbe parlato di politica.»
+«Pensavo potesse esser così,» disse Fisher, modestamente. «Che cosa
+
+farete adesso?»
+«Userò il telefono del vecchio idiota, comunque,» replicò l'avvocato.
+
+«Devo scoprire esattamente cosa sia accaduto. Domani devo parlare a nome del
+
+[[government|Governo]] io stesso.» E s'affrettò via verso la
+
+[[house|casa]].
+Nel [[Silence|silenzio]] che seguì, un [[Silence|silenzio]] assai sconcertante per quanto
+
+riguardava March, videro la curiosa figura del Duca di
+
+Westmoreland, col suo cappello bianco e le fedine, avvicinarsi a loro
+
+attraverso il [[Garden|giardino]]. Fisher gli mosse incontro all'istante col rosa
+
+giornale in mano, e, con poche parole, gli indicò l'
+
+apocalittico paragrafo. Il duca, che camminava lentamente, rimase
+
+del tutto immobile, e per alcuni secondi parve un manichino da sarto
+
 
 
 <span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_05" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 5)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
@@ -15204,6 +20152,179 @@ simplicity of manner:
 The duke continued to stare, but he seemed unable to speak.
 "I [[Hope|hope]] you had a motive for killing him," continued Fisher, mildly.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+ritto a fissare fuori da qualche bottega antiquata. Poi March udì
+
+la sua voce, ed era acuta e quasi isterica:
+«Ma deve vederlo; bisogna farglielo capire. Non può
+
+essergli stato esposto a dovere.» Poi, con un certo recupero di pienezza
+
+e perfino di pomposità nella voce, «andrò a dirglielo io stesso.»
+Fra i bizzarri episodi di quel pomeriggio, March ricordò sempre
+
+qualcosa di quasi comico nella nitida immagine del vecchio
+
+gentiluomo col suo mirabile cappello bianco che passava con cura da pietra
+
+a pietra attraverso il [[River|fiume]], come una figura che attraversa il traffico di
+
+Piccadilly. Poi scomparve dietro gli alberi dell'isola, e
+
+March e Fisher si voltarono incontro al Procuratore Generale, che usciva
+
+dalla [[house|casa]] con un volto di cupa sicurezza.
+«Tutti dicono,» disse, «che il Primo Ministro ha tenuto
+
+il più grande discorso della sua vita. Perorazione e alti e prolungati
+
+applausi. Finanzieri corrotti e contadini eroici. Non [[Desert|abbandoneremo]]
+
+di nuovo la [[Denmark|Danimarca]].»
+Fisher annuì e si voltò verso l'alzaia, dove vide
+
+il duca tornare con un'espressione piuttosto stordita. In risposta alle
+
+domande disse, con voce roca e confidenziale:
+«Penso davvero che il nostro povero amico non sia in sé. Rifiutò d'
+
+ascoltare; ha—ah—insinuato che potrei spaventare i pesci.»
+Un orecchio acuto avrebbe potuto cogliere un mormorio del signor Fisher sul
+
+tema d'un cappello bianco, ma Sir John Harker intervenne più
+
+decisamente:
+«Fisher aveva perfettamente ragione. Io stesso non ci credevo, ma è del tutto
+
+chiaro che ormai il vecchio è fissato con questa idea della pesca. Se
+
+la [[house|casa]] prendesse [[Fire|fuoco]] dietro di lui a stento si muoverebbe prima del tramonto.»
+Fisher aveva proseguito la sua passeggiata verso il terreno più elevato e arginato dell'
+
+alzaia, e ora lanciò uno sguardo lungo e indagatore, non
+
+verso l'isola, ma verso le lontane alture boscose che erano
+
+le mura della valle. Un cielo serale limpido quanto quello del
+
+giorno prima calava su tutto l'oscuro paesaggio, ma
+
+verso ovest era ora rosso più che dorato; non v'era quasi
+
+alcun suono se non la monotona musica del [[River|fiume]]. Poi giunse il suono
+
+d'un'esclamazione mezzo soffocata di Horne Fisher, e Harold March
+
+alzò lo sguardo su di lui con [[Wonder|stupore]].
+«Parlavate di cattive notizie,» disse Fisher. «[[Well|Ebbene]], ora ci sono davvero cattive
+
+notizie. Temo che questa sia una brutta faccenda.»
+«Quali cattive notizie intendete?» chiese l'amico, conscio di
+
+qualcosa di strano e sinistro nella sua voce.
+«Il sole è tramontato,» rispose Fisher.
+Proseguì con l'aria di chi è conscio d'aver detto qualcosa di
+
+fatale. «Dobbiamo trovare qualcuno che vada di là e che egli davvero
+
+ascolti. Sarà pur pazzo, ma c'è metodo nella sua [[Madness|follia]]. C'è quasi
+
+sempre metodo nella [[Madness|follia]]. È ciò che fa impazzire gli uomini, l'esser
+
+metodici. E non resta mai seduto là dopo il tramonto, con
+
+tutto il luogo che si fa buio. Dov'è suo nipote? Credo che gli sia
+
+davvero affezionato, al nipote.»
+«Guardate!» esclamò March, di scatto. «Ma è già stato di là.
+
+Eccolo che torna.»
+E, guardando di nuovo su per il [[River|fiume]], videro, scura contro i
+
+riflessi del tramonto, la figura di James Bullen che passava in fretta e
+
+piuttosto goffamente da pietra a pietra. Una volta scivolò su una pietra con
+
+un lieve tonfo. Quando raggiunse il gruppo sulla riva il suo olivastro
+
+volto era innaturalmente pallido.
+Gli altri quattro uomini s'erano già radunati nello stesso punto e quasi
+
+simultaneamente gli gridavano: «Che dice adesso?»
+«Niente. Dice—niente.»
+Fisher guardò fisso il giovane per un istante; poi
+
+si scosse dalla sua immobilità e, facendo cenno a March di seguirlo,
+
+scese egli stesso a grandi passi verso il guado del [[River|fiume]]. In pochi istanti
+
+erano sul piccolo sentiero battuto che girava attorno alla boscosa
+
+isola, fino all'altro suo lato dove sedeva il pescatore. Poi
+
+stettero a guardarlo, senza una parola.
+Sir Isaac Hook sedeva ancora puntellato contro il ceppo dell'
+
+albero, e per l'ottima delle ragioni. Un tratto della sua stessa
+
+infallibile lenza da pesca era attorcigliato e stretto due volte intorno alla sua
+
+gola e poi due volte intorno al sostegno di legno dietro di lui. Il
+
+principale investigatore corse avanti e toccò la mano del pescatore, ed era
+
+fredda come un pesce.
+«Il sole è tramontato,» disse Horne Fisher, con gli stessi terribili accenti,
+
+«e non lo vedrà mai più sorgere.»
+Dieci minuti dopo i cinque uomini, scossi da tale colpo, erano
+
+di nuovo insieme nel [[Garden|giardino]], guardandosi l'un l'altro con volti bianchi ma
+
+vigili. L'avvocato pareva il più sveglio del gruppo;
+
+s'esprimeva chiaramente se pur alquanto bruscamente.
+«Dobbiamo lasciare il [[Body|corpo]] com'è e telefonare alla polizia,»
+
+disse. «Penso che la mia autorità basti a esaminare i
+
+domestici e le carte del pover'uomo, per vedere se v'è qualcosa
+
+che li riguardi. Naturalmente, nessuno di voi signori deve lasciare questo
+
+luogo.»
+Forse c'era qualcosa nella sua rapida e rigorosa legalità che
+
+suggeriva il chiudersi d'una rete o d'una trappola. Comunque, il giovane Bullen
+
+d'un tratto crollò, o forse esplose, poiché la sua voce fu come un'
+
+esplosione nel silenzioso [[Garden|giardino]].
+«Non l'ho mai toccato,» gridò. «Giuro che non c'entro nulla con
+
+questo!»
+«Chi ha detto che c'entravi?» incalzò Harker, con occhio duro. «Perché
+
+gridi prima d'esser colpito?»
+«Perché mi guardate tutti così,» gridò il giovane,
+
+con ira. «Credete che non sappia che parlate sempre dei miei
+
+maledetti debiti e delle mie aspettative?»
+Con una certa sorpresa di March, Fisher s'era ritratto da questo primo
+
+scontro, conducendo il duca con sé in un'altra parte del [[Garden|giardino]].
+
+Quando fu fuori dalla portata d'orecchio degli altri disse, con una curiosa
+
+semplicità di modi:
+«Westmoreland, vengo dritto al punto.»
+«[[Well|Ebbene]]?» disse l'altro, fissandolo con aria impassibile.
+«Voi avete un movente per ucciderlo,» disse Fisher.
+Il duca continuò a fissare, ma pareva incapace di parlare.
+«[[Hope|Spero]] che aveste un movente per ucciderlo,» proseguì Fisher, con dolcezza.
 
 
 
@@ -15386,6 +20507,184 @@ of his escape."
 "[[Hope]]?" repeated March, and stopped sculling for an instant.
 "Yes, [[Hope|hope]]," repeated the other. "To begin with, I'm not going to
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Vedete, è una situazione piuttosto curiosa. Se avete un movente per
+
+assassinare, probabilmente non avete assassinato. Ma se non aveste alcun movente,
+
+ebbene, allora forse l'avete fatto.»
+«Ma di che diamine parlate?» esclamò il duca, con violenza.
+«È semplicissimo,» disse Fisher. «Quando andaste di là, egli era
+
+o vivo o morto. Se era vivo, potreste essere stato voi a
+
+ucciderlo, altrimenti perché avreste taciuto sulla sua [[Death|morte]]? Ma se
+
+era morto, e avevate una ragione per ucciderlo, potreste aver
+
+taciuto per [[Fear|paura]] d'essere accusato.» Poi dopo un [[Silence|silenzio]]
+
+aggiunse, distrattamente: «Cipro è un bel luogo, credo.
+
+Paesaggi romantici e gente romantica. Assai inebriante per un giovane
+
+uomo.»
+Il duca serrò d'improvviso le mani e disse, con voce impastata: «[[Well|Ebbene]], avevo
+
+un movente.»
+«Allora siete a posto,» disse Fisher, tendendo la mano con un'
+
+aria d'immenso sollievo. «Ero abbastanza certo che non l'avreste fatto davvero;
+
+aveste uno spavento quando lo vedeste compiuto, com'era naturale. Come un
+
+brutto sogno avverato, non è vero?»
+Mentre questa curiosa conversazione si svolgeva, Harker era entrato nella
+
+[[house|casa]], noncurante delle rimostranze del cupo nipote, e
+
+tornò poco dopo con una nuova aria d'animazione e un fascio di
+
+carte in mano.
+«Ho telefonato alla polizia,» disse, fermandosi a parlare con
+
+Fisher, «ma credo d'aver fatto io la maggior parte del loro lavoro. Credo
+
+d'aver scoperto la [[Truth|verità]]. C'è qui una carta—» Si
+
+fermò, poiché Fisher lo guardava con un'espressione singolare;
+
+e fu Fisher a parlare per primo:
+«Ci sono forse carte che non ci sono, mi [[Wonder|domando]]? Voglio dire che non ci
+
+sono ora?» Dopo una pausa aggiunse: «Mettiamo le carte in
+
+tavola. Quando avete frugato le sue carte in tutta fretta, Harker,
+
+non cercavate qualcosa per—per assicurarvi che non fosse
+
+trovato?»
+Harker non mosse un rosso capello sulla sua dura testa, ma guardò
+
+l'altro con la coda dell'occhio.
+«E suppongo,» proseguì Fisher, pacatamente, «che sia per questo che anche voi
+
+ci avete mentito d'aver trovato Hook vivo. Sapevate che c'era
+
+qualcosa a dimostrare che potevate averlo ucciso, e non
+
+osaste dirci che era stato ucciso. Ma, credetemi, è molto meglio essere
+
+onesti adesso.»
+Il volto smunto di Harker s'illuminò d'un tratto come di fiamme infernali.
+«Onesti,» gridò, «non è poi così maledettamente ammirevole da parte vostra essere
+
+onesti. Siete tutti nati con la camicia, con cucchiai d'argento in bocca, e poi
+
+vi pavoneggiate d'eterna virtù perché non avete
+
+in tasca i cucchiai altrui. Ma io sono nato in una
+
+[[house|casa]] d'affitto di Pimlico e ho dovuto farmelo, il mio cucchiaio, e non mancherebbe chi
+
+direbbe che ho solo rovinato un corno o un uomo onesto. E se un uomo in lotta
+
+vacilla un poco oltre la linea in gioventù, nelle regioni più basse della
+
+legge che sono comunque piuttosto squallide, c'è sempre qualche vecchio vampiro
+
+pronto ad attaccarglisi addosso per tutta la vita per questo.»
+«Le Golconde guatemalteche, non è così?» disse Fisher, con simpatia.
+Harker rabbrividì di colpo. Poi disse: «Credo che voi dobbiate sapere
+
+tutto, come Dio Onnipotente.»
+«So troppo,» disse Horne Fisher, «e tutte le cose sbagliate.»
+Gli altri tre uomini s'avvicinavano a loro, ma prima che
+
+giungessero troppo vicini, Harker disse, con voce che aveva riacquistato tutta la sua
+
+fermezza:
+«Sì, una carta l'ho distrutta, ma una carta l'ho davvero trovata, pure; e
+
+credo che essa scagioni tutti noi.»
+«Molto [[Well|bene]],» disse Fisher, in tono più alto e più allegro; «che tutti
+
+ne abbiamo il beneficio.»
+«Proprio in cima alle carte di Sir Isaac,» spiegò Harker, «c'era
+
+una lettera minatoria d'un uomo di nome Hugo. Minaccia d'uccidere
+
+il nostro sventurato amico proprio nel modo in cui è stato effettivamente
+
+ucciso. È una lettera furibonda, piena di scherni; potete vederla voi
+
+stessi; ma insiste in particolare sull'abitudine del povero Hook di
+
+pescare dall'isola. Soprattutto, l'uomo dichiara di scrivere
+
+da una barca. E, poiché [[Alone|solo]] noi andammo da lui,» e sorrise
+
+in maniera piuttosto sgradevole, «il delitto deve essere stato commesso da un
+
+uomo che passava in barca.»
+«Ma, santo cielo!» esclamò il duca, con qualcosa che quasi equivaleva ad
+
+animazione. «Ma io ricordo assai [[Well|bene]] l'uomo chiamato Hugo! Era una
+
+sorta di [[Body|servitore]] personale e guardia del corpo di Sir Isaac. Vedete, Sir Isaac
+
+aveva un certo [[Fear|timore]] d'aggressione. Era—non era molto benvoluto da
+
+parecchie persone. Hugo fu licenziato dopo una lite o l'altra; ma io
+
+lo ricordo [[Well|bene]]. Era un enorme e grosso ungherese con grandi
+
+baffi che sporgevano ai due lati del volto.»
+Una porta s'aprì nel buio della [[Memory|memoria]] di Harold March, o, piuttosto,
+
+dell'oblio, e mostrò un paesaggio splendente, come quello d'un sogno perduto.
+
+Era piuttosto un paesaggio d'acque che di terra, una cosa di prati
+
+allagati e bassi alberi e la scura arcata d'un ponte. E per un
+
+istante rivide l'uomo dai baffi come scure corna balzare su
+
+sul ponte e scomparire.
+«Santo cielo!» esclamò. «Ma io ho incontrato l'assassino stamattina!»
+*
+Horne Fisher e Harold March ebbero la loro giornata sul [[River|fiume]], dopo tutto,
+
+poiché il piccolo gruppo si sciolse quando arrivò la polizia. Dichiararono
+
+che la coincidenza della testimonianza di March aveva scagionato l'intera
+
+compagnia, e inchiodava il caso contro il fuggitivo Hugo. Se quel
+
+fuggiasco ungherese sarebbe mai stato catturato pareva a Horne Fisher
+
+assai dubbio; né si può pretendere ch'egli mostrasse alcuna
+
+energia [[Detective|investigativa]] particolarmente demoniaca nella faccenda, mentre si riadagiava fra
+
+i cuscini della barca, fumando, e guardando le ondeggianti canne scivolare
+
+via.
+«Fu un'ottima trovata saltare su sul ponte,» disse. «Una
+
+barca vuota significa ben poco; non lo si è visto approdare su nessuna delle due
+
+rive, e se n'è andato dal ponte senza esservi salito, per così
+
+dire. Ha ventiquattr'ore di vantaggio; i suoi baffi
+
+scompariranno, e poi scomparirà lui. Penso che ci sia ogni [[Hope|speranza]]
+
+che fugga.»
+«[[Hope|Speranza]]?» ripeté March, e smise di remare per un istante.
+«Sì, [[Hope|speranza]],» ripeté l'altro. «Tanto per cominciare, non ho intenzione di
 
 
 
@@ -15799,6 +21098,182 @@ a Holy [[Well]], with spells and fairies and all the rest of it, filling
 the suburban drawing-rooms with the Celtic twilight. Whereas anyone
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VI - Il Buco nel Muro
+*
+Due uomini, l'uno architetto e l'altro archeologo, s'incontrarono sui
+
+gradini della [[Great House|grande dimora]] di Prior's Park; e il loro ospite, Lord
+
+Bulmer, alla sua maniera spigliata, ritenne naturale presentarli. Va
+
+confessato ch'era vago non [[Well|meno]] che spigliato, e non aveva in mente
+
+alcun nesso molto chiaro, oltre alla sensazione che un
+
+architetto e un archeologo cominciano con la stessa serie di
+
+lettere. Il mondo dovrà restare in un reverente [[Doubt|dubbio]] sul se egli
+
+avrebbe, sui medesimi principii, presentato un diplomatico a un
+
+dipsomane o un raziocinatore a un acchiapparatti. Era un giovane grande, biondo,
+
+dal collo taurino, prodigo di gesti esteriori, che inconsciamente
+
+sventolava i guanti e brandiva il bastone.
+«Voi due dovreste avere qualcosa di cui parlare,» disse,
+
+allegramente. «Vecchi edifici e cose del genere; questo è
+
+un edificio piuttosto vecchio, del resto, benché lo dica chi non dovrebbe. Devo
+
+chiedervi di scusarmi un momento; devo andare a occuparmi dei
+
+biglietti per questa baldoria natalizia che mia sorella sta organizzando. [[Hope|Speriamo]] di vedervi
+
+tutti là, naturalmente. [[Juliet|Giulietta]] vuole che sia una festa in
+
+maschera—abati e crociati e via dicendo. I miei antenati, suppongo,
+
+dopo tutto.»
+«Confido che l'abate non fosse un antenato,» disse il gentiluomo
+
+archeologo, con un sorriso.
+«Solo una specie di prozio, immagino,» rispose l'altro,
+
+ridendo; poi il suo occhio piuttosto errabondo girò intorno all'ordinato
+
+paesaggio davanti alla [[house|casa]]; un artificiale specchio d'[[Water|acqua]]
+
+ornato d'una ninfa antiquata al centro e circondato da
+
+un parco d'alti alberi ora grigi e neri e gelidi, poiché si era nel
+
+cuore d'un rigido [[Winter|inverno]].
+«Fa un bel freddo,» continuò sua signoria. «Mia sorella spera
+
+che potremo pattinare non [[Well|meno]] che ballare.»
+«Se i crociati verranno in piena armatura,» disse l'altro, «dovrete
+
+badare a non annegare i vostri antenati.»
+«Oh, non c'è [[Fear|timore]] di questo,» rispose Bulmer; «questo nostro prezioso lago
+
+non è profondo due piedi in nessun punto.» E con uno dei suoi
+
+gesti ampollosi conficcò il bastone nell'[[Water|acqua]] per
+
+dimostrarne la scarsa profondità. Si poteva vedere l'estremità corta piegata nell'
+
+[[Water|acqua]], sicché per un istante parve appoggiare il suo gran peso
+
+su un bastone che si spezzava.
+«Il peggio che potete aspettarvi è di vedere un abate sedersi piuttosto
+
+di colpo,» aggiunse, voltandosi. «[[Well|Ebbene]], au revoir; ve ne
+
+informerò più tardi.»
+L'archeologo e l'architetto rimasero sui grandi gradini di
+
+pietra a sorridersi l'un l'altro; ma quali che fossero i loro comuni interessi,
+
+presentavano un notevole contrasto personale, e chi ha fantasia
+
+avrebbe potuto trovare qualche contraddizione perfino in ciascuno considerato
+
+singolarmente. Il primo, un signor James Haddow, veniva da un sonnolento antro
+
+negli Inns of [[Court|Corte]], pieno di cuoio e pergamena, poiché la legge era
+
+la sua professione e la [[history|storia]] solo il suo passatempo; era invero, fra
+
+l'altro, il procuratore e agente della tenuta di Prior's Park.
+
+Ma egli stesso era tutt'altro che sonnolento e pareva notevolmente sveglio,
+
+con occhi azzurri accorti e sporgenti, e capelli rossi spazzolati con la stessa cura
+
+del suo abbigliamento assai lindo. Il secondo, che si chiamava Leonard Crane,
+
+veniva dritto da un rozzo e quasi cockney ufficio di costruttori e
+
+agenti di [[house|case]] nel sobborgo vicino, che si crogiolava al sole in fondo a
+
+una nuova fila di case tirate su alla peggio con progetti dai colori vivacissimi e
+
+avvisi in caratteri grandissimi. Ma un osservatore serio, a una seconda
+
+occhiata, avrebbe potuto scorgere nei suoi occhi qualcosa di quel fulgido [[Sleep|sonno]]
+
+che si chiama visione; e i suoi capelli gialli, se pur non affettatamente
+
+lunghi, erano senz'affettazione scomposti. Era una manifesta se pur [[Melancholy|malinconica]] [[Truth|verità]]
+
+che l'architetto fosse un [[artist|artista]]. Ma il temperamento artistico era
+
+ben lungi dallo spiegarlo; c'era in lui qualcos'altro che
+
+non era definibile, ma che taluni sentivano perfino pericoloso. Malgrado la sua
+
+aria sognante, talvolta sorprendeva gli amici con arti e
+
+persino sport estranei alla sua vita ordinaria, come ricordi d'una
+
+precedente esistenza. In questa occasione, tuttavia, s'affrettò a
+
+declinare ogni autorità sul passatempo dell'altro.
+«Non devo presentarmi sotto falsi pretesti,» disse, con un sorriso. «A
+
+malapena so cosa sia un archeologo, se non che un piuttosto
+
+arrugginito residuo di greco suggerisce che sia un uomo che studia cose
+
+vecchie.»
+«Sì,» replicò Haddow, cupamente. «Un archeologo è un uomo che
+
+studia cose vecchie e scopre che sono nuove.»
+Crane lo guardò fisso per un istante e poi sorrise di nuovo.
+«Si può osar suggerire,» disse, «che alcune delle cose di cui abbiamo
+
+parlato siano fra le cose vecchie che si rivelano non vecchie?»
+Anche il suo compagno tacque un istante, e il sorriso sul suo
+
+volto rude si fece più debole mentre replicava, sommessamente:
+«Il muro intorno al parco è davvero vecchio. L'unico cancello che vi si apre è
+
+gotico, e non riesco a trovarvi alcuna traccia di distruzione o restauro.
+
+Ma la [[house|casa]] e la tenuta in generale—[[Well|ebbene]], le idee romantiche che si leggono
+
+in queste cose sono spesso fantasticherie piuttosto recenti, cose quasi
+
+come romanzi alla moda. Per esempio, lo stesso nome di questo luogo,
+
+Prior's Park, fa pensare a tutti a un'abbazia medievale al chiaro
+
+di luna; oserei dire che gli spiritisti a quest'[[Time|ora]] hanno scoperto lo
+
+[[Ghost|spettro]] d'un monaco laggiù. Ma, secondo il solo autorevole
+
+studio in materia che riesco a reperire, il luogo era semplicemente chiamato Prior's
+
+come un luogo qualsiasi di campagna si chiama Podger's. Era la [[house|casa]] d'un signor
+
+Prior, una fattoria, probabilmente, che sorgeva qui in qualche [[Time|epoca]] o l'altra
+
+ed era un punto di riferimento locale. Oh, ci sono moltissimi esempi della
+
+stessa cosa, qui e altrove. Questo nostro sobborgo era un tempo
+
+un villaggio, e poiché alcuni biascicavano il nome e lo
+
+pronunciavano Holliwell, più d'un poeta minore s'abbandonò a fantasie su
+
+un Sacro [[Well|Pozzo]], con incantesimi e fate e tutto il resto, riempiendo
+
+i salotti suburbani del crepuscolo celtico. Mentre chiunque
+
 
 
 <span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_02" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 2)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
@@ -15979,6 +21454,183 @@ he felt he might [[Well|well]] have been far in the depths of the country.
 
 The old wall running round the park kept that inclosure itself still
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+pratico dei fatti sa che 'Hollinwall' significa semplicemente 'il
+
+buco nel muro,' e probabilmente si riferiva a qualche del tutto banale
+
+incidente. È questo che intendo quando dico che non tanto troviamo
+
+cose vecchie quanto ne troviamo di nuove.»
+Crane pareva farsi alquanto disattento alla piccola
+
+conferenza su antichità e novità, e la causa della sua
+
+irrequietezza fu presto palese, e invero s'avvicinava. La sorella di Lord
+
+Bulmer, [[Juliet|Giulietta]] Bray, veniva lentamente attraverso il prato,
+
+accompagnata da un gentiluomo e seguita da altri due. Il giovane
+
+architetto era in quella illogica disposizione d'animo in cui
+
+preferiva tre a uno.
+L'uomo che camminava con la dama non era altri che l'eminente Principe
+
+Borodino, che era famoso almeno quanto un illustre diplomatico
+
+dovrebbe esserlo, nell'interesse di ciò che si chiama diplomazia segreta. Aveva
+
+compiuto un giro di visite in varie residenze di campagna inglesi,
+
+ed esattamente ciò che stava facendo per la diplomazia a Prior's Park era un
+
+segreto tanto quanto ogni diplomatico potesse [[Desire|desiderare]]. La cosa ovvia da
+
+dire del suo aspetto era che sarebbe stato straordinariamente bello
+
+se non fosse stato interamente calvo. Ma, invero, sarebbe questo stesso un
+
+modo piuttosto calvo di dirlo. Per quanto suoni fantastico, si
+
+adatterebbe meglio al caso dire che la gente sarebbe stata sorpresa di
+
+vedergli crescere capelli; sorpresa come se avesse trovato capelli
+
+che crescevano sul busto d'un imperatore romano. La sua alta figura era abbottonata
+
+in una foggia stretta in vita che piuttosto accentuava la sua potenziale
+
+mole, e portava un fiore rosso all'occhiello. Dei due uomini
+
+che camminavano dietro uno era pure calvo, ma in maniera più parziale e anche
+
+più prematura, poiché i suoi baffi cadenti erano ancora gialli,
+
+e se i suoi occhi erano un po' pesanti era di languore e non d'
+
+età. Era Horne Fisher, e parlava con la stessa disinvoltura e pigrizia
+
+di tutto come sempre faceva. Il suo compagno era una figura più
+
+notevole, e anche più sinistra, e aveva l'ulteriore
+
+importanza d'essere il più vecchio e più intimo amico di Lord Bulmer. Era
+
+generalmente noto con severa semplicità come il signor Brain; ma si
+
+intendeva ch'era stato giudice e funzionario di polizia in India, e
+
+ch'egli aveva nemici, i quali avevano descritto le sue misure contro il crimine come
+
+esse stesse quasi criminali. Era uno [[skeleton|scheletro]] bruno d'uomo con occhi scuri,
+
+profondi, incavati e baffi neri che celavano il significato della sua
+
+bocca. Benché avesse l'aspetto d'uno consunto da qualche malattia tropicale,
+
+i suoi movimenti erano assai più svelti di quelli del suo indolente compagno.
+«È tutto deciso,» annunciò la dama, con grande animazione, quando
+
+giunsero a portata di voce. «Dovete tutti indossare
+
+abiti in maschera e assai probabilmente i pattini [[Well|pure]], benché il principe
+
+dica che non ci stanno bene; ma di questo non c'importa. Sta già
+
+gelando, e non spesso ci capita una simile occasione in Inghilterra.»
+«Anche in India non è che pattiniamo tutto l'anno,» osservò
+
+il signor Brain.
+«E anche l'[[Italy|Italia]] non è associata anzitutto al ghiaccio,» disse l'
+
+italiano.
+«L'[[Italy|Italia]] è associata anzitutto ai gelati,» osservò il signor Horne
+
+Fisher. «Voglio dire ai gelatai. La maggior parte della gente in questo paese
+
+immagina che l'[[Italy|Italia]] sia interamente popolata di gelatai e
+
+suonatori d'organetto. Ce ne sono certamente molti; forse sono
+
+un esercito invasore travestito.»
+«Come sapete che non sono i segreti emissari della nostra
+
+diplomazia?» chiese il principe, con un sorriso un po' sprezzante. «Un
+
+esercito di suonatori d'organetto potrebbe raccogliere indizi, e le loro scimmie potrebbero
+
+raccogliere ogni sorta di cose.»
+«Gli organetti sono in effetti organizzati,» disse il frivolo signor Fisher.
+
+«[[Well|Ebbene]], ho conosciuto un bel freddo altre volte in [[Italy|Italia]] e perfino in
+
+India, su per i pendii himalaiani. Il ghiaccio del nostro piccolo tondo
+
+stagno sarà proprio accogliente al confronto.»
+[[Juliet|Giulietta]] Bray era una dama attraente dai capelli e dalle sopracciglia scuri e dagli
+
+occhi danzanti, e c'era una cordialità e perfino una generosità nei suoi
+
+modi piuttosto imperiosi. Nella maggior parte delle cose sapeva comandare suo
+
+fratello, benché quel nobiluomo, come molti altri uomini dalle idee vaghe,
+
+non fosse privo d'un tocco da prepotente quando era messo alle strette. Poteva
+
+certamente comandare i suoi ospiti, fino al punto d'agghindare i
+
+più rispettabili e riluttanti fra loro con la sua medievale
+
+mascherata. E pareva davvero che sapesse comandare anche gli
+
+elementi, come una [[Witch|strega]]. Poiché il tempo si fece via via più rigido e
+
+tagliente; quella [[Night|notte]] il ghiaccio del lago, luccicando al
+
+chiaro di luna, era come un pavimento di marmo, e avevano preso a [[Dance|danzare]] e
+
+pattinarvi prima che facesse buio.
+Prior's Park, o, più propriamente, il distretto circostante di
+
+Holinwall, era una residenza di campagna divenuta un sobborgo; avendo un tempo
+
+avuto alle porte solo un villaggio dipendente, ora trovava fuori da tutte
+
+le sue porte i segnali dell'espansione di [[London|Londra]]. Il signor Haddow, che
+
+era impegnato in ricerche storiche sia nella biblioteca sia nella
+
+località, poteva trovare in quest'ultima ben poco aiuto. Aveva già
+
+compreso, dai documenti, che Prior's Park era stato in origine
+
+qualcosa come Prior's Farm, chiamato da qualche figura locale, ma le
+
+nuove condizioni sociali erano tutte contro il suo rintracciare la storia dalle sue
+
+tradizioni. Se fosse rimasto qualcuno dei veri campagnoli, avrebbe probabilmente
+
+trovato qualche leggenda persistente sul signor Prior, per quanto remoto egli
+
+potesse essere. Ma la nuova popolazione nomade d'impiegati e artigiani,
+
+che di continuo spostava le proprie case da un sobborgo all'altro, o i propri
+
+figli da una scuola all'altra, non poteva avere alcuna corporativa
+
+continuità. Avevano tutta quella dimenticanza della [[history|storia]] che va
+
+ovunque insieme all'estensione dell'[[Education|istruzione]].
+Ciononostante, quando uscì dalla biblioteca il mattino seguente e vide
+
+gli alberi invernali ritti attorno allo stagno gelato come una nera foresta,
+
+sentì che avrebbe [[Well|ben]] potuto trovarsi assai lontano nel profondo della campagna.
+
+Il vecchio muro che correva attorno al parco manteneva quella cinta stessa ancora
 
 
 
@@ -16163,6 +21815,185 @@ fashionable fancy about [[Monks|monks]] and [[Magic|magic]] wells, when he began
 conscious of a noise audible in the frozen [[Silence|silence]] of the [[Night|night]]. It
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+interamente rurale e romantico, e si poteva facilmente immaginare che le
+
+profondità di quella oscura foresta svanissero indefinitamente in lontane
+
+valli e colline. Il grigio, il nero e l'argento del bosco invernale
+
+erano tanto più severi e cupi in contrasto con i colorati
+
+gruppi carnevaleschi che già stavano sopra e attorno allo stagno gelato.
+
+Perché la comitiva della [[house|casa]] si era già gettata con impazienza nei
+
+costumi di fantasia, e l'avvocato, col suo lindo abito nero e i capelli rossi,
+
+era l'unica figura moderna tra loro.
+«Non hai intenzione di travestirti?» chiese [[Juliet]], scuotendogli con indignazione
+
+un cornuto e svettante copricapo azzurro del Trecento
+
+che le incorniciava il volto assai graziosamente, per quanto fantastico fosse.
+
+«Qui tutti devono stare nel Medioevo. Perfino il signor Brain si è messo
+
+una specie di vestaglia marrone e dice d'essere un monaco; e il signor
+
+Fisher ha rimediato dei vecchi sacchi di patate in cucina e li ha cuciti
+
+insieme; anche lui dovrebbe essere un monaco. Quanto al principe,
+
+è perfettamente glorioso, in gran vesti cremisi da cardinale. Ha
+
+l'aria di poter [[Poison|avvelenare]] chiunque. Devi assolutamente essere
+
+qualcosa.»
+«Sarò qualcosa più tardi nella giornata,» rispose. «Al momento non sono
+
+che un antiquario e un procuratore. Devo vedere tuo fratello
+
+tra poco, per certi affari legali e anche per certe indagini
+
+locali che mi ha chiesto di svolgere. Devo somigliare un po' a un
+
+amministratore quando rendo conto della mia amministrazione.»
+«Oh, ma mio fratello si è travestito!» esclamò la ragazza. «Eccome.
+
+Oltre ogni dire, se posso permettermi. Ecco che ora ti piomba addosso in tutta la sua
+
+gloria.»
+Il nobile lord marciava invero verso di loro in un magnifico
+
+costume cinquecentesco di porpora e oro, con una
+
+[[Sword|spada]] dall'elsa dorata e un berretto piumato, e modi all'altezza. In verità, c'era
+
+qualcosa di più della sua consueta espansività di gesti corporei nel suo
+
+aspetto in quel momento. Sembrava quasi, per così dire, che le
+
+piume del cappello gli fossero salite alla testa. Sventolava il suo grande
+
+mantello foderato d'oro come le ali d'un [[King|re]] fatato in una pantomima; egli
+
+sguainò persino la [[Sword|spada]] con un gesto teatrale e la agitò come faceva col suo
+
+bastone da passeggio. Alla luce degli eventi successivi pareva esserci
+
+qualcosa di mostruoso e sinistro in quell'esuberanza, qualcosa dello
+
+spirito che si dice fey. Al [[Time|momento]] passò soltanto per la mente di poche
+
+persone che potesse forse essere ubriaco.
+Mentre avanzava a gran passi verso la sorella, la prima figura che oltrepassò fu quella
+
+di Leonard Crane, vestito di verde [[Lincoln]], col corno e la bandoliera
+
+e la [[Sword|spada]] appropriati a [[Robin Hood]]; poiché egli stava più vicino alla
+
+dama, dove, in verità, lo si sarebbe potuto trovare durante una
+
+parte sproporzionata del [[Time|tempo]]. Aveva sfoggiato uno dei suoi
+
+talenti nascosti nella faccenda del pattinaggio, e ora che il pattinaggio
+
+era finito pareva disposto a prolungare la compagnia. Il chiassoso
+
+Bulmer gli fece per gioco un affondo con la [[Sword|spada]] sguainata, andando
+
+avanti con la stoccata secondo la giusta maniera schermistica, e facendo una
+
+citazione shakespeariana un po' troppo familiare su un roditore e una
+
+moneta veneziana.
+Probabilmente anche in Crane c'era in quel momento un'eccitazione repressa;
+
+comunque, in un lampo aveva sguainato la propria [[Sword|spada]] e parato; e
+
+poi improvvisamente, con sorpresa di tutti, l'arma di Bulmer parve
+
+[[spring|schizzargli]] via dalla mano nell'aria e rotolò lontano sul
+
+ghiaccio risonante.
+«[[Well|Ma guarda]]!» disse la dama, come con giustificata indignazione.
+
+«Non mi avevi mai detto che sapevi tirar di scherma anche tu.»
+Bulmer ripose la [[Sword|spada]] con un'aria più sconcertata che infastidita,
+
+il che accrebbe l'impressione di qualcosa d'irresponsabile nel suo
+
+umore in quel momento; poi si volse piuttosto bruscamente al suo avvocato,
+
+dicendo:
+«Possiamo sistemare la faccenda della tenuta dopo cena; ho già perso quasi
+
+tutto il pattinaggio così com'è, e [[Doubt|dubito]] che il ghiaccio regga fino a
+
+domani [[Night|notte]]. Penso che mi alzerò presto e farò un giro da
+
+solo.»
+«Non sarai disturbato dalla mia compagnia,» disse Horne Fisher, nel suo
+
+modo stanco. «Se devo cominciare la giornata col ghiaccio, alla maniera
+
+americana, lo preferisco in quantità minori. Ma niente ore mattutine per
+
+me in dicembre. L'uccello mattiniero piglia il raffreddore.»
+«Oh, non morirò di certo per un raffreddore,» rispose Bulmer, e
+
+rise.
+*
+Un gruppo considerevole della comitiva di pattinatori era composto dagli
+
+ospiti che alloggiavano nella [[house|casa]], e il resto si era diradato a due a due e a
+
+tre a tre qualche [[Time|tempo]] prima che la maggior parte degli ospiti cominciasse a ritirarsi per la
+
+[[Night|notte]]. I vicini, sempre invitati a Prior's Park in tali occasioni,
+
+tornarono alle proprie case in automobile o a piedi; il gentiluomo legale e
+
+archeologico era tornato agli Inns of [[Court]] con un treno
+
+tardo, per procurarsi un documento richiesto durante la consultazione col suo
+
+cliente; e la maggior parte degli altri ospiti indugiava e si attardava a
+
+vari stadi del cammino verso il letto. Horne Fisher, come per
+
+privarsi di ogni scusa al suo rifiuto d'alzarsi presto, era
+
+stato il primo a ritirarsi in camera; ma, per quanto assonnato apparisse, non
+
+riusciva a [[Sleep|dormire]]. Aveva preso da un tavolo il libro di
+
+topografia antiquaria, nel quale Haddow aveva trovato i suoi primi indizi
+
+sull'origine del nome locale, ed, essendo un uomo con una tranquilla
+
+e bizzarra capacità d'interessarsi a qualsiasi cosa, cominciò a
+
+leggerlo con costanza, prendendo di tanto in tanto nota di dettagli sui quali la sua
+
+lettura precedente lo lasciava con un certo [[Doubt|dubbio]] sulle sue attuali
+
+conclusioni. La sua camera era quella più vicina al lago al centro
+
+dei boschi, ed era perciò la più tranquilla, e nessuna delle ultime
+
+eco della festa serale poteva raggiungerlo. Aveva seguito
+
+attentamente l'argomentazione che stabiliva la derivazione dalla fattoria del signor
+
+Prior e dal buco nel muro, e aveva liquidato ogni
+
+fantasia alla moda su [[Monks|monaci]] e pozzi [[Magic|magici]], quando cominciò a
+
+essere cosciente d'un rumore udibile nel gelato [[Silence|silenzio]] della [[Night|notte]]. Era
+
 
 
 <span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_04" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 4)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
@@ -16337,6 +22168,177 @@ thin pane of glass. No, if Bulmer had only broken the ice he
 
 wouldn't have said much at the moment, though possibly a good deal
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+un rumore non particolarmente forte, ma pareva consistere in una
+
+serie di tonfi o di pesanti percosse, quali potrebbero battersi su una
+
+porta di legno da un uomo che cerca d'entrare. Erano seguiti da qualcosa come
+
+un debole scricchiolio o schianto, come se l'ostacolo fosse stato o aperto o
+
+avesse ceduto. Aprì la porta della propria camera da letto e ascoltò, ma poiché
+
+udiva chiacchiere e risate per tutti i piani inferiori, non aveva
+
+motivo di [[Fear|temere]] che una chiamata venisse trascurata o la [[house|casa]] lasciata
+
+senza protezione. Andò alla sua [[Window|finestra]] aperta, guardando fuori sopra lo
+
+stagno gelato e la statua illuminata dalla luna in mezzo al loro cerchio di
+
+boschi che imbrunivano, e ascoltò di nuovo. Ma il [[Silence|silenzio]] era tornato in quel
+
+luogo silenzioso e, dopo aver teso l'orecchio per un considerevole [[Time|tempo]],
+
+non riusciva a udire nulla se non il solitario fischio d'un lontano treno in partenza.
+
+Poi si ricordò quanti innumerevoli rumori senza nome possano essere
+
+uditi da chi veglia durante la più ordinaria [[Night|notte]] e, scrollando
+
+le spalle, andò stancamente a letto.
+Si svegliò di soprassalto e si mise a sedere sul letto con le orecchie colme, come di
+
+tuono, delle eco palpitanti d'un grido lacerante. Rimase
+
+rigido per un istante, e poi balzò fuori dal letto, gettandosi addosso la
+
+sciolta veste di tela di sacco che aveva indossato tutto il giorno. Andò dapprima alla
+
+[[Window|finestra]], che era aperta, ma coperta da una spessa tenda, cosicché
+
+la sua camera era ancora del tutto buia; ma quando scostò la tenda
+
+e sporse il capo, vide che un'alba grigia e argentea
+
+era già apparsa dietro i neri boschi che circondavano il
+
+laghetto, e questo era tutto ciò che vide. Sebbene il suono fosse
+
+certamente entrato dalla [[Window|finestra]] aperta da quella direzione, l'intera
+
+scena era immobile e vuota sotto la luce del mattino come sotto la
+
+luce della luna. Poi la lunga mano, piuttosto svogliata, che aveva posato su un
+
+davanzale della [[Window|finestra]] la strinse più forte, come per dominare un tremito, e i suoi
+
+occhi azzurri scrutatori si fecero desolati per la [[Fear|paura]]. Può sembrare che la sua emozione
+
+fosse esagerata e superflua, considerando lo sforzo di buon senso
+
+con cui aveva vinto il proprio nervosismo per il rumore della
+
+[[Night|notte]] precedente. Ma quello era stato un tipo di rumore assai diverso. Poteva
+
+essere stato prodotto da un centinaio di cose, dallo spaccare la
+
+legna al rompere delle bottiglie. C'era una sola cosa in [[Nature|natura]]
+
+dalla quale poteva provenire il suono che echeggiò per la buia [[house|casa]]
+
+all'alba. Era la terribile voce articolata dell'uomo; ed era
+
+qualcosa di peggio, poiché egli sapeva quale uomo.
+Sapeva anche che era stato un grido d'aiuto. Gli parve
+
+d'aver udito la parola stessa; ma la parola, per quanto breve, era
+
+stata inghiottita, come se l'uomo fosse stato soffocato o strappato via
+
+proprio mentre parlava. Solo le beffarde riverberazioni ne rimanevano
+
+persino nella sua [[Memory|memoria]], ma non aveva alcun [[Doubt|dubbio]] sulla voce originale. Non
+
+aveva alcun [[Doubt|dubbio]] che la gran voce da toro di Francis Bray, Barone
+
+Bulmer, fosse stata udita per l'ultima [[Time|volta]] tra le tenebre e
+
+l'[[Dawn|alba]] nascente.
+Quanto a lungo rimase lì non lo seppe mai, ma fu scosso alla vita
+
+dalla prima cosa vivente che vide muoversi in quel paesaggio
+
+mezzo gelato. Lungo il sentiero accanto al lago, e immediatamente sotto la sua
+
+[[Window|finestra]], una figura camminava lenta e silenziosa, ma con gran
+
+compostezza—una figura maestosa in vesti d'uno splendido scarlatto; era
+
+il principe italiano, ancora nel suo costume da cardinale. La maggior parte della
+
+compagnia era invero vissuta nei propri costumi negli ultimi giorni,
+
+e lo stesso Fisher aveva assunto la sua tonaca di tela di sacco come comoda
+
+vestaglia; ma pareva nondimeno esserci qualcosa d'insolitamente
+
+compìto e formale, alla maniera d'un uccello mattiniero, in questo
+
+magnifico cacatua rosso. Era come se l'uccello mattiniero fosse stato in piedi
+
+tutta la [[Night|notte]].
+«Che cosa succede?» chiamò, bruscamente, sporgendosi dalla [[Window|finestra]],
+
+e l'italiano volse in su il suo gran volto giallo come una maschera di
+
+ottone.
+«Faremmo meglio a discuterne di sotto,» disse il principe Borodino.
+Fisher corse di sotto, e s'imbatté nella grande figura in veste rossa
+
+che entrava nell'ingresso e ne bloccava l'accesso con la sua mole.
+«Avete udito quel grido?» domandò Fisher.
+«Ho udito un rumore e sono uscito,» rispose il diplomatico, e il suo
+
+volto era troppo scuro nell'[[Shadow|ombra]] perché se ne potesse leggere l'espressione.
+«Era la voce di Bulmer,» insisté Fisher. «Giurerei che era
+
+la voce di Bulmer.»
+«Lo conoscevate [[Well|bene]]?» chiese l'altro.
+La domanda parve irrilevante, benché non fosse illogica, e
+
+Fisher poté solo rispondere a caso che conosceva Lord
+
+Bulmer solo di sfuggita.
+«Nessuno pare averlo conosciuto [[Well|bene]],» continuò l'italiano, con
+
+toni piani. «Nessuno tranne quell'uomo, Brain. Brain è piuttosto più anziano
+
+di Bulmer, ma immagino che condividessero parecchi [[Secrets|segreti]].»
+Fisher si mosse bruscamente, come destandosi da una momentanea trance, e
+
+disse, con voce nuova e più vigorosa: «Ma senta, non faremmo
+
+meglio a uscire fuori e vedere se è successo qualcosa.»
+«Il ghiaccio pare stia disgelando,» disse l'altro, quasi con
+
+indifferenza.
+Quando emersero dalla [[house|casa]], macchie scure e [[Stars|stelle]] nel grigio
+
+campo di ghiaccio indicavano invero che il [[Frost|gelo]] si stava rompendo, come
+
+il loro ospite aveva profetizzato il giorno prima, e la stessa [[Memory|memoria]] di
+
+ieri riportava il mistero d'oggi.
+«Sapeva che ci sarebbe stato un disgelo,» osservò il principe. «È uscito
+
+a pattinare piuttosto presto di proposito. Ha gridato perché è finito
+
+nell'[[Water|acqua]], credete?»
+Fisher parve perplesso. «Bulmer era l'ultimo uomo a mugghiare così
+
+perché s'era bagnato gli stivali. Ed è tutto ciò che potrebbe fare qui; l'
+
+[[Water|acqua]] arriverebbe a malapena al polpaccio d'un uomo della sua statura. Si possono
+
+vedere le erbacce piatte sul fondo del lago, come attraverso una
+
+sottile lastra di vetro. No, se Bulmer avesse solo rotto il ghiaccio non
+
+avrebbe detto granché sul momento, benché forse parecchio
 
 
 
@@ -16697,6 +22699,184 @@ when a crisis had come, when they did not know what it was. And
 somehow they knew subconsciously that the whole tale had taken a new
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+avrebbe potuto colpire mio fratello e non l'ha fatto, ne deducete che l'abbia fatto.
+
+È così che ragionate. E quanto al suo essere scomparso,
+
+avete torto in questo come avete torto in tutto il resto, perché eccolo che
+
+arriva.»
+E, in effetti, la figura verde del fittizio [[Robin Hood]] lentamente
+
+si staccò dal grigio sfondo degli alberi, e venne
+
+verso di loro mentre ella parlava.
+Egli si avvicinò al gruppo lentamente, ma con compostezza; ma era
+
+decisamente pallido, e gli occhi di Brain e Fisher avevano già colto
+
+un dettaglio della figura vestita di verde più chiaramente di tutto il
+
+resto. Il corno pendeva ancora dalla sua bandoliera, ma la [[Sword|spada]] era
+
+sparita.
+Piuttosto con sorpresa della compagnia, Brain non diede seguito alla
+
+domanda così suggerita; ma, pur mantenendo un'aria di guidare l'
+
+inchiesta, aveva anche l'apparenza di cambiare argomento.
+«Ora che siamo tutti riuniti,» osservò, tranquillamente, «c'è una
+
+domanda che voglio porre per cominciare. Qualcuno qui ha effettivamente visto
+
+Lord Bulmer stamattina?»
+Leonard Crane volse il suo pallido volto lungo il cerchio dei volti finché
+
+giunse a quello di [[Juliet]]; poi strinse un poco le labbra e disse:
+«Sì, l'ho visto.»
+«Era vivo e [[Well|vegeto]]?» chiese Brain, rapidamente. «Com'era
+
+vestito?»
+«Appariva straordinariamente [[Well|bene]],» rispose Crane, con una curiosa
+
+intonazione. «Era vestito come ieri, in quel purpureo
+
+costume copiato dal ritratto del suo antenato del
+
+Cinquecento. Aveva i pattini in mano.»
+«E la [[Sword|spada]] al fianco, suppongo,» aggiunse chi interrogava. «Dov'
+
+è la vostra [[Sword|spada]], signor Crane?»
+«L'ho gettata via.»
+Nel singolare [[Silence|silenzio]] che seguì, il corso del pensiero in molte
+
+menti divenne involontariamente una serie di quadri colorati.
+Si erano abituati alle loro fantasiose vesti che apparivano più gaie e
+
+sontuose contro il grigio scuro e l'argento striato della foresta, cosicché
+
+le figure in movimento risplendevano come santi di vetrata che camminavano.
+
+L'effetto era stato più appropriato perché tanti di loro avevano oziosamente
+
+parodiato l'abito pontificale o monastico. Ma l'atteggiamento più
+
+arrestante rimasto nei loro ricordi era stato tutt'altro che
+
+meramente monastico; quello del momento in cui la figura in verde vivo
+
+e l'altra in violetto acceso avevano per un istante formato una [[Cross|croce]] d'argento
+
+con le loro spade incrociate. Anche quando era uno scherzo era stato
+
+qualcosa di simile a un dramma; ed era uno strano e sinistro pensiero che
+
+nella grigia alba le stesse figure nella stessa posa potessero essere
+
+state ripetute come una [[Tragedy|tragedia]].
+«Avete litigato con lui?» chiese Brain, all'improvviso.
+«Sì,» rispose l'immobile uomo in verde. «O lui ha litigato con
+
+me.»
+«Perché ha litigato con voi?» chiese l'investigatore; e Leonard
+
+Crane non diede risposta.
+Horne Fisher, per quanto curioso, aveva dato solo metà della sua attenzione a
+
+questo cruciale [[Cross|contro]]interrogatorio. I suoi occhi dalle palpebre pesanti avevano languidamente
+
+seguito la figura del principe Borodino, che a questo punto era
+
+andato a passeggio verso il margine del bosco; e, dopo una pausa, come
+
+di meditazione, era scomparso nell'oscurità degli alberi.
+Fu richiamato dalla sua distrazione dalla voce di [[Juliet]] Bray,
+
+che risuonò con una nota di decisione del tutto nuova:
+«Se questa è la difficoltà, è meglio chiarirla. Io sono fidanzata
+
+col signor Crane, e quando lo dicemmo a mio fratello egli non l'approvò;
+
+ecco tutto.»
+Né Brain né Fisher mostrarono alcuna sorpresa, ma il primo
+
+aggiunse, tranquillamente:
+«Tranne, suppongo, che egli e vostro fratello andarono nel bosco
+
+a discuterne, dove il signor Crane smarrì la sua [[Sword|spada]], per non parlare del suo
+
+compagno.»
+«E posso chiedere,» s'informò Crane, con un certo guizzo di scherno
+
+che passava sui suoi lividi lineamenti, «che cosa dovrei aver fatto
+
+di entrambi? Adottiamo pure la lieta tesi che io sia un
+
+assassino; resta ancora da dimostrare che io sia un mago. Se ho trapassato il
+
+[[Body|corpo]] del vostro sventurato amico, che ne ho fatto del [[Body|corpo]]?
+
+L'ho fatto portar via da sette draghi volanti, o è stato semplicemente
+
+una banale faccenda di tramutarlo in una cerva bianca latte?»
+«Non è occasione da ghignare,» disse il giudice anglo-indiano, con
+
+brusca autorità. «Non depone a vostro favore che possiate
+
+scherzare sulla perdita.»
+L'occhio sognante, e persino tetro, di Fisher era ancora sul margine del
+
+bosco dietro di lui, ed egli divenne cosciente di masse di rosso scuro, come una
+
+tempestosa nube di tramonto, che risplendevano attraverso la grigia rete dei sottili
+
+alberi, e il principe nelle sue vesti da cardinale riemerse sul
+
+sentiero. Brain aveva avuto una mezza idea che il principe potesse essere andato
+
+a cercare lo stocco perduto. Ma quando riapparve portava
+
+in mano, non una [[Sword|spada]], ma un'ascia.
+L'incongruità tra la mascherata e il mistero aveva creato una
+
+curiosa atmosfera psicologica. Dapprima si erano tutti sentiti
+
+orribilmente vergognosi d'essere colti nei folli travestimenti d'una
+
+festa, da un evento che aveva fin troppo il carattere d'un
+
+funerale. Molti di loro sarebbero già tornati indietro a vestirsi con
+
+abiti più funerei o almeno più formali. Ma in qualche modo
+
+in quel momento questo pareva una seconda mascherata, più artificiale
+
+e frivola della prima. E man mano che si riconciliavano coi
+
+loro ridicoli paludamenti, una curiosa sensazione era discesa su alcuni
+
+di loro, in particolare sui più sensibili, come Crane e Fisher e
+
+[[Juliet]], ma in qualche misura su tutti tranne il pratico signor
+
+Brain. Era quasi come se fossero i [[Ghosts|fantasmi]] dei propri
+
+antenati che infestavano quel buio bosco e quel lugubre lago, e recitavano qualche
+
+antica parte che ricordavano solo a metà. I movimenti di quelle
+
+figure colorate parevano significare qualcosa che era stato stabilito assai
+
+tempo prima, come una silenziosa araldica. Atti, atteggiamenti, oggetti esterni,
+
+erano accettati come un'[[Allegory|allegoria]] anche senza la chiave; e sapevano
+
+quando una crisi era giunta, pur non sapendo che cosa fosse. E
+
+in qualche modo sapevano inconsciamente che l'intera vicenda aveva preso una nuova
+
 
 
 <span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_07" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 7)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
@@ -16879,6 +23059,184 @@ sitting almost equally motionless; and the same silver pencil traced
 the wrinkled brow and patient face of Horne Fisher, still dressed as
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+e terribile piega, quando videro il principe ergersi nel varco degli
+
+scarni alberi, nelle sue vesti di cremisi irato e col suo torvo
+
+volto di bronzo, recando in mano una nuova forma di [[Death|Morte]]. Non avrebbero
+
+saputo dire una ragione, ma le due spade parevano invero essere
+
+divenute spade giocattolo e l'intera loro storia spezzata e gettata via
+
+come un giocattolo. Borodino somigliava al boia del Vecchio Mondo, vestito di
+
+rosso terribile, e recante l'ascia per l'esecuzione del criminale.
+
+E il criminale non era Crane.
+Il signor Brain della polizia indiana fissava il nuovo oggetto, e passò
+
+un istante o due prima che parlasse, aspramente e quasi rocamente.
+«Che ci fate con quella?» chiese. «Sembra la mannaia d'un
+
+boscaiolo.»
+«Una naturale associazione d'idee,» osservò Horne Fisher. «Se
+
+incontrate un gatto in un bosco lo credete un gatto selvatico, benché possa
+
+essersi appena allontanato dal divano del salotto. In verità, mi
+
+capita di sapere che quella non è la mannaia del boscaiolo. È la mannaia
+
+da cucina, o ascia da carne, o qualcosa del genere, che qualcuno ha
+
+gettato via nel bosco. L'ho vista io stesso in cucina quando
+
+prendevo i sacchi di patate coi quali ho ricostruito un medievale
+
+eremita.»
+«Nondimeno, non è priva d'interesse,» osservò il principe,
+
+porgendo lo strumento a Fisher, che lo prese e lo esaminò
+
+attentamente. «Una mannaia da macellaio che ha fatto lavoro da macellaio.»
+«Era certamente lo strumento del delitto,» convenne Fisher, a
+
+bassa voce.
+Brain fissava l'opaco bagliore azzurro della lama dell'ascia con occhi feroci
+
+e affascinati. «Non vi capisco,» disse. «Non c'è
+
+nessun—non ci sono segni su di essa.»
+«Non ha versato [[Blood|sangue]],» rispose Fisher, «ma ciò nonostante ha
+
+commesso un delitto. Questo è quanto più il criminale si è avvicinato al delitto
+
+quando lo commise.»
+«Che cosa intendete?»
+«Non era là quando lo fece,» spiegò Fisher. «È un povero
+
+tipo d'assassino chi non sa assassinare la gente quando non è là.»
+«Pare che parliate solo per amor di [[Mystification|mistificazione]],» disse
+
+Brain. «Se avete qualche consiglio pratico da dare, tanto [[Well|varrebbe]]
+
+renderlo intelligibile.»
+«L'unico consiglio pratico che posso suggerire,» disse Fisher,
+
+pensosamente, «è un po' di ricerca sulla topografia e
+
+nomenclatura locale. Dicono che ci fosse un tempo un signor Prior, che aveva una fattoria
+
+in questi paraggi. Penso che certi dettagli sulla vita domestica
+
+del defunto signor Prior getterebbero luce su questa terribile
+
+faccenda.»
+«E non avete nulla di più immediato della vostra topografia da offrire,»
+
+disse Brain, con un ghigno, «per aiutarmi a vendicare il mio amico?»
+«[[Well|Be']],» disse Fisher, «scoprirei la [[Truth|verità]] sul Buco nel
+
+Muro.»
+*
+Quella [[Night|notte]], al chiudersi d'un tempestoso crepuscolo e sotto un forte
+
+[[Wind|vento]] di ponente che seguì il rompersi del [[Frost|gelo]], Leonard Crane
+
+andava per la sua via in una folle camminata rotatoria attorno e attorno all'alto,
+
+continuo muro che racchiudeva il piccolo bosco. Era spinto da una
+
+disperata idea di risolvere da sé l'[[Riddle|enigma]] che aveva offuscato
+
+la sua reputazione e già persino minacciato la sua libertà. Le autorità
+
+di polizia, ora incaricate dell'inchiesta, non l'avevano arrestato, ma
+
+egli sapeva [[Well|bene]] a sufficienza che se avesse tentato di allontanarsi troppo sarebbe stato
+
+istantaneamente arrestato. I frammentari accenni di Horne Fisher, benché egli avesse
+
+rifiutato d'ampliarli per ora, avevano incitato il temperamento artistico
+
+dell'architetto a una sorta di folle analisi, ed egli era risoluto a
+
+leggere il geroglifico a rovescio e in ogni modo finché non avesse un senso.
+
+Se era qualcosa di connesso con un buco nel muro, avrebbe trovato
+
+il buco nel muro; ma, in verità, era incapace di
+
+trovare la più tenue crepa nel muro. La sua conoscenza professionale gli diceva
+
+che la muratura era tutta d'una stessa fattura e d'una stessa data, e,
+
+tranne l'ingresso regolare, che non gettava luce sul
+
+mistero, non trovò nulla che suggerisse alcun tipo di nascondiglio o
+
+mezzo di fuga. Camminando per uno stretto sentiero tra il muro serpeggiante e
+
+la selvaggia curva e distesa verso oriente dei grigi e piumati alberi,
+
+vedendo mutevoli bagliori d'un tramonto perduto ammiccare quasi come
+
+[[Lightning|lampi]] mentre le nubi di tempesta scorrevano rapide per il cielo e
+
+si mescolavano con la prima debole luce azzurra d'una lentamente rafforzata
+
+[[Moon|luna]] alle sue spalle, cominciò a sentirsi girare la testa mentre i suoi calcagni
+
+giravano e giravano attorno alla cieca barriera ricorrente. Aveva
+
+pensieri ai confini del pensiero; fantasie su una quarta dimensione
+
+che era essa stessa un buco per nascondere qualsiasi cosa, di veder tutto da
+
+un nuovo angolo attraverso una nuova [[Window|finestra]] nei sensi; o d'una mistica
+
+luce e trasparenza, come i nuovi raggi della chimica, in cui egli
+
+poteva vedere il [[Body|corpo]] di Bulmer, orribile e sfolgorante, galleggiante in un livido
+
+alone sopra i boschi e il muro. Era anche perseguitato dall'indizio,
+
+che in qualche modo pareva egualmente raccapricciante, che tutto avesse
+
+qualcosa a che fare col signor Prior. Pareva persino esserci qualcosa
+
+d'inquietante nel fatto che vi si riferissero sempre rispettosamente come al
+
+signor Prior, e che fosse nella vita domestica del defunto fattore
+
+che gli era stato ingiunto di cercare il seme di queste terribili cose.
+
+In verità, aveva scoperto che nessuna indagine locale aveva
+
+rivelato alcunché sulla famiglia Prior.
+La luce lunare si era ampliata e ravvivata, il [[Wind|vento]] aveva scacciato
+
+le nubi e s'era esso stesso spento a tratti, quando egli tornò di nuovo
+
+al lago artificiale davanti alla [[house|casa]]. Per qualche ragione
+
+pareva un lago assai artificiale; anzi, l'intera scena era come un
+
+paesaggio classico con un tocco di Watteau; la palladiana facciata della
+
+[[house|casa]] pallida nella [[Moon|luna]], e lo stesso argento che sfiorava la
+
+assai pagana e nuda ninfa di marmo in mezzo allo stagno. Piuttosto
+
+con sua sorpresa, vi trovò un'altra figura accanto alla statua,
+
+seduta quasi egualmente immobile; e la stessa matita d'argento tracciava
+
+la fronte rugosa e il paziente volto di Horne Fisher, ancora vestito da
+
 
 
 <span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_08" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 8)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
@@ -17058,6 +23416,182 @@ only man who knew it," answered Horne Fisher. "It was cracked
 
 deliberately, with the kitchen chopper, at that special place; and I
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+un eremita e apparentemente praticando qualcosa della [[Solitude|solitudine]] d'un
+
+eremita. Nondimeno, alzò lo sguardo su Leonard Crane e sorrise,
+
+quasi come se l'avesse aspettato.
+«Sentite,» disse Crane, piantandosi davanti a lui, «potete
+
+dirmi qualcosa su questa faccenda?»
+«Presto dovrò dire a tutti ogni cosa in proposito,» rispose
+
+Fisher, «ma non ho nulla in contrario a dire prima qualcosa a voi. Ma,
+
+tanto per cominciare, volete dirmi una cosa? Che cosa accadde davvero quando
+
+incontraste Bulmer stamattina? Gettaste via la vostra [[Sword|spada]], ma non
+
+lo uccideste.»
+«Non lo uccisi perché gettai via la mia [[Sword|spada]],» disse l'altro.
+
+«Lo feci di proposito—o non sono sicuro di ciò che sarebbe potuto accadere.»
+Dopo una pausa proseguì, tranquillamente: «Il defunto Lord Bulmer era un gentiluomo assai
+
+gioviale, estremamente gioviale. Era assai cordiale coi suoi
+
+inferiori, e teneva il suo avvocato e il suo architetto a stare
+
+in [[house|casa]] sua per ogni sorta di vacanze e divertimenti. Ma c'era
+
+un altro lato in lui, che scoprivano quando tentavano d'essere suoi
+
+pari. Quando gli dissi che sua sorella e io eravamo fidanzati,
+
+accadde qualcosa che semplicemente non posso e non voglio descrivere. Mi
+
+parve come un mostruoso sconvolgimento di [[Madness|Follia]]. Ma suppongo
+
+che la [[Truth|verità]] sia dolorosamente semplice. Esiste una cosa quale la
+
+grossolanità d'un gentiluomo. Ed è la cosa più orribile
+
+nell'umanità.»
+«Lo so,» disse Fisher. «I nobili del [[Renaissance|Rinascimento]] dell'[[Time|epoca]] Tudor
+
+erano così.»
+«È strano che diciate questo,» proseguì Crane. «Perché mentre
+
+parlavamo mi venne una curiosa sensazione che stessimo
+
+ripetendo qualche scena del passato, e che io fossi davvero un fuorilegge,
+
+trovato nei boschi come [[Robin Hood]], e che egli fosse davvero uscito
+
+in tutte le sue piume e nella sua porpora dalla cornice del
+
+ritratto ancestrale. Comunque, egli era l'uomo in possesso, ed
+
+egli non temeva Dio né aveva riguardo per l'uomo. Lo sfidai, naturalmente, e
+
+me ne andai. Avrei potuto davvero ucciderlo se non me ne fossi
+
+andato.»
+«Sì,» disse Fisher, annuendo, «il suo antenato era in possesso ed egli
+
+era in possesso, e questa è la fine della storia. Tutto si
+
+incastra.»
+«Si incastra con che cosa?» esclamò il suo compagno, con improvvisa impazienza. «Non
+
+riesco a raccapezzarmici. Mi dite di cercare il segreto nel
+
+buco nel muro, ma non riesco a trovare alcun buco nel muro.»
+«Non ce n'è alcuno,» disse Fisher. «È questo il segreto.» Dopo
+
+aver riflettuto un istante, aggiunse: «A meno che non lo chiamiate un buco nel
+
+muro del mondo. Sentite; ve lo dirò se volete, ma
+
+temo che comporti un'introduzione. Dovete comprendere uno dei
+
+trucchi della mente moderna, una tendenza a cui la maggior parte della gente obbedisce
+
+senza accorgersene. Nel villaggio o sobborgo qui fuori c'è una locanda
+
+con l'insegna di San Giorgio e il Drago. Ora supponete che io andassi in giro
+
+a dire a tutti che questa era solo una corruzione di [[King|Re]] Giorgio e
+
+il Dragone. Decine di persone ci crederebbero, senza alcuna indagine,
+
+da una vaga sensazione che sia probabile perché è prosaico. Ciò
+
+trasforma qualcosa di romantico e leggendario in qualcosa di recente e
+
+ordinario. E questo in qualche modo lo fa suonare razionale, benché sia
+
+privo di sostegno razionale. Certo alcune persone avrebbero il buon senso di
+
+ricordare d'aver visto San Giorgio in vecchi dipinti italiani e romanzi
+
+francesi, ma parecchie non ci penserebbero affatto. Si limiterebbero a
+
+[[Swallow|inghiottire]] lo scetticismo perché era scetticismo. L'intelligenza
+
+moderna non accetta nulla per autorità. Ma accetterà
+
+qualsiasi cosa senza autorità. È esattamente ciò che è accaduto qui.
+«Quando un critico o l'altro scelse di dire che Prior's Park non era un
+
+priorato, ma prendeva nome da un uomo piuttosto moderno chiamato Prior,
+
+nessuno mise davvero alla prova la teoria. Non venne mai in mente ad alcuno
+
+che ripeteva la storia di chiedersi se ci fosse un signor Prior, se qualcuno
+
+l'avesse mai visto o ne avesse sentito parlare. In verità, era un
+
+priorato, e condivise la sorte della maggior parte dei priorati—cioè, il
+
+gentiluomo Tudor con le piume lo rubò semplicemente con la forza bruta e lo trasformò
+
+nella sua [[house|casa]] privata; fece cose peggiori, come
+
+udrete. Ma il punto qui è che è così che funziona il trucco, e
+
+il trucco funziona allo stesso modo nell'altra parte del racconto. Il
+
+nome di questo distretto è stampato Holinwall in tutte le migliori carte
+
+prodotte dagli studiosi; ed essi alludono con leggerezza, non senza un
+
+sorriso, al fatto che era pronunciato Holiwell dai più
+
+ignoranti e antiquati tra i poveri. Ma è scritto male e
+
+pronunciato bene.»
+«Volete dire,» chiese Crane, rapidamente, «che c'era davvero un
+
+[[Well|pozzo]]?»
+«C'è un [[Well|pozzo]],» disse Fisher, «e la [[Truth|verità]] giace in [[Bottom|fondo]] a
+
+esso.»
+Mentre parlava tese la mano e indicò verso la distesa
+
+d'[[Water|acqua]] davanti a lui.
+«Il [[Well|pozzo]] è da qualche parte sotto quell'[[Water|acqua]],» disse, «e questa non è
+
+la prima [[Tragedy|tragedia]] connessa con esso. Il fondatore di questa [[house|casa]] fece
+
+qualcosa che i suoi compagni ribaldi ben di rado facevano; qualcosa che
+
+dovette essere messo a tacere persino nell'anarchia del saccheggio dei
+
+monasteri. Il [[Well|pozzo]] era connesso coi miracoli di qualche santo,
+
+e l'ultimo priore che lo custodì era qualcosa di simile a un santo
+
+egli stesso; certamente era qualcosa di assai simile a un martire. Sfidò
+
+il nuovo proprietario e lo sfidò a profanare il luogo, finché il nobile, in
+
+una furia, lo pugnalò e ne gettò il [[Body|corpo]] nel [[Well|pozzo]], dove, dopo
+
+quattrocento anni, è stato seguito da un erede dell'[[Usurper|usurpatore]],
+
+vestito della stessa porpora e camminante per il mondo con lo stesso [[Pride|orgoglio]].»
+«Ma come accadde,» domandò Crane, «che per la prima [[Time|volta]]
+
+Bulmer cadde proprio in quel particolare punto?»
+«Perché il ghiaccio fu allentato solo in quel particolare punto, dall'
+
+unico uomo che lo sapeva,» rispose Horne Fisher. «Fu incrinato
+
+deliberatamente, con la mannaia da cucina, in quel punto speciale; e io
 
 
 
@@ -17433,6 +23967,184 @@ only other distinguished stranger had just departed after dinner,
 leaving the rest to their coffee and cigars. This had been a figure
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VII - Il Tempio del [[Silence|Silenzio]]
+*
+Harold March e i pochi che coltivavano l'[[Friendship|amicizia]] di Horne
+
+Fisher, specialmente se lo vedevano un poco nel suo proprio contesto
+
+sociale, erano consapevoli d'una certa [[Solitude|solitudine]] nella sua stessa
+
+socievolezza. Parevano incontrare sempre i suoi parenti e
+
+non incontrare mai la sua famiglia. Forse sarebbe più esatto dire che
+
+vedevano molto della sua famiglia e nulla del suo [[Home|focolare]]. I suoi cugini e
+
+conoscenze si ramificavano come un labirinto per tutta la classe dirigente
+
+della Gran Bretagna, ed egli pareva essere in buoni, o almeno in
+
+cordiali, rapporti con la maggior parte di loro. Poiché Horne Fisher era
+
+notevole per una curiosa informazione e interesse impersonali
+
+che toccavano ogni sorta d'argomenti, cosicché talvolta si poteva immaginare che
+
+la sua cultura, come i suoi incolori, biondi baffi e i suoi pallidi, cadenti
+
+lineamenti, avesse la neutra [[Nature|natura]] d'un camaleonte. Comunque, egli poteva
+
+sempre andar d'accordo con viceré e Ministri del Gabinetto e tutti i grandi
+
+uomini responsabili di grandi dicasteri, e parlare con ciascuno di loro
+
+del suo proprio soggetto, del ramo di studio di cui era più
+
+seriamente occupato. Così poteva conversare col Ministro della
+
+Guerra dei bachi da seta, col Ministro dell'[[Education|Istruzione]] di storie [[Detective|poliziesche]]
+
+, col Ministro del Lavoro degli smalti di Limoges, e col
+
+Ministro delle Missioni e del Progresso Morale (se questo è il suo corretto
+
+titolo) dei ragazzi da pantomima degli ultimi quattro decenni. E poiché il
+
+primo era suo cugino di primo grado, il secondo suo cugino di secondo grado, il terzo
+
+suo cognato, e il quarto suo zio per [[Marriage|matrimonio]], questa
+
+versatilità conversazionale serviva certamente in un senso a creare una
+
+famiglia felice. Ma March non pareva mai cogliere uno scorcio di quel
+
+interno domestico a cui gli uomini delle classi medie sono avvezzi
+
+nelle loro amicizie, e che è invero il fondamento dell'
+
+[[Friendship|amicizia]] e dell'[[Love|amore]] e di tutto il resto in qualsiasi sana e stabile
+
+società. Egli si chiedeva se Horne Fisher fosse insieme un [[Orphan|orfano]] e un
+
+[[Child|figlio]] unico.
+Fu, perciò, con qualcosa di simile a un sobbalzo che scoprì che
+
+Fisher aveva un fratello, assai più prospero e potente di
+
+lui, benché, pensò March, difficilmente altrettanto divertente. Sir Henry
+
+Harland Fisher, con metà dell'alfabeto dopo il suo nome, era qualcosa
+
+al Foreign Office assai più formidabile del Ministro
+
+degli Esteri. A quanto pare, era di famiglia, dopotutto; poiché
+
+pareva ci fosse un altro fratello, Ashton Fisher, in India, piuttosto
+
+più formidabile del Viceré. Sir Henry Fisher era un'edizione più pesante,
+
+ma più avvenente del fratello, con una fronte egualmente calva, ma
+
+assai più liscia. Era assai cortese, ma un'ombra condiscendente,
+
+non solo verso March, ma persino, come March immaginava, verso Horne Fisher
+
+[[Well|anche]]. Quest'ultimo gentiluomo, che aveva molte intuizioni sui
+
+pensieri semiformati altrui, sfiorò egli stesso l'argomento mentre
+
+si allontanavano dalla [[Great House|grande casa]] in Berkeley Square.
+«Ma come, non sapete,» osservò tranquillamente, «che io sono lo [[Fool|scemo]] della
+
+famiglia?»
+«Dev'essere una famiglia intelligente,» disse Harold March, con un sorriso.
+«Espresso con molta grazia,» rispose Fisher; «questo è il meglio dell'
+
+avere un'educazione letteraria. [[Well|Be']], forse è un'esagerazione
+
+dire che sono lo [[Fool|scemo]] della famiglia. Basta dire che sono il fallito
+
+della famiglia.»
+«Mi pare strano che proprio voi dobbiate fallire,» osservò il
+
+giornalista. «Come dicono agli esami, in che cosa siete stato bocciato?»
+«In politica,» rispose il suo amico. «Mi candidai al Parlamento quand'ero
+
+un uomo piuttosto giovane e vi entrai con una maggioranza enorme, tra sonori
+
+applausi e portato in trionfo per la città. Da allora, naturalmente, sono stato
+
+piuttosto sotto una nube.»
+«Temo di non capire del tutto quel "naturalmente",» rispose
+
+March, ridendo.
+«Quella parte non vale la pena di capirla,» disse Fisher. «Ma in
+
+verità, vecchio mio, l'altra parte fu piuttosto strana e
+
+interessante. Una vera storia [[Detective|poliziesca]] a suo modo, [[Well|nonché]] la
+
+prima lezione che ebbi su ciò di cui è fatta la politica moderna. Se volete,
+
+vi racconterò tutto.» E quel che segue, riformulato in una maniera meno
+
+allusiva e conversevole, è la storia che egli raccontò.
+Nessuno che negli ultimi anni abbia avuto il privilegio d'incontrare Sir Henry Harland Fisher
+
+crederebbe che fosse mai stato chiamato Harry. Ma, in verità, egli
+
+era stato abbastanza fanciullesco quand'era fanciullo, e quella serenità che risplendette su
+
+di lui per tutta la vita, e che ora prendeva la forma della gravità, aveva un tempo
+
+preso la forma dell'allegria. I suoi amici avrebbero detto che era
+
+tanto più maturo nella sua maturità per essere stato giovane nella sua
+
+gioventù. I suoi nemici avrebbero detto che era ancora di mente leggera,
+
+ma non più di cuore leggero. Ma in ogni caso, l'intera storia
+
+che Horne Fisher aveva da raccontare nasceva dal caso che aveva reso
+
+il giovane Harry Fisher segretario privato di Lord Saltoun. Di qui il suo
+
+successivo legame col Foreign Office, che invero gli era giunto
+
+come una sorta d'eredità da sua signoria quando quel grand'uomo era
+
+il potere dietro il trono. Non è questo il luogo per dir molto di
+
+Saltoun, per quanto poco si sapesse di lui e per quanto ci fosse da
+
+sapere. L'Inghilterra ha avuto almeno tre o quattro di tali segreti
+
+statisti. Un ordinamento aristocratico produce di tanto in tanto un
+
+[[aristocrat|aristocratico]] che è anche un caso, un uomo d'indipendenza e acume
+
+intellettuali, un Napoleone nato nella porpora. La sua vasta
+
+opera era per lo più invisibile, e assai poco si poteva cavare da lui
+
+nella vita privata tranne un burbero e piuttosto cinico senso dell'umorismo.
+
+Ma fu certamente il caso della sua presenza a una cena di famiglia
+
+dei Fisher, e l'inaspettata opinione che espresse, a
+
+trasformare quello che sarebbe potuto essere uno scherzo da tavola in una sorta di piccolo
+
+[[Novel|romanzo]] sensazionale.
+Salvo Lord Saltoun, era una riunione di famiglia dei Fisher, poiché
+
+l'unico altro forestiero di riguardo era appena partito dopo cena,
+
+lasciando gli altri al loro caffè e ai loro sigari. Questa era stata una figura
+
 
 
 <span class="atom-split" data-atom="story_07_the_temple_of_silence--part_02" data-title="The Man Who Knew Too Much — The Temple of Silence (part 2)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
@@ -17607,6 +24319,177 @@ means, and, of course, he's right. He's always right."
 "So I will go down to Somerset," said Horne Fisher.
 "Yes, it is on the way to Westminster," said Lord Saltoun, with a
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+di un certo interesse—un giovane di Cambridge di nome Eric Hughes che era
+
+la nascente [[Hope|speranza]] del partito della [[Reform|Riforma]], al quale la famiglia Fisher,
+
+insieme al loro amico Saltoun, era da tempo almeno formalmente
+
+legata. La personalità di Hughes si riassumeva in sostanza nel
+
+fatto che parlò con eloquenza e fervore per tutta la
+
+cena, ma se ne andò subito dopo per essere in [[Time|tempo]] a un appuntamento.
+
+Tutte le sue azioni avevano insieme qualcosa di ambizioso e di scrupoloso;
+
+non beveva vino, ma era lievemente inebriato dalle parole. E il suo
+
+volto e le sue frasi erano in prima pagina su tutti i giornali proprio
+
+allora, perché contendeva il seggio sicuro di Sir Francis Verner
+
+nella grande elezione suppletiva dell'ovest. Tutti parlavano
+
+del vigoroso discorso contro il potere degli squire che aveva appena pronunciato;
+
+perfino nella cerchia dei Fisher tutti ne parlavano tranne Horne
+
+Fisher stesso, che sedeva in un angolo, chino sul [[Fire|fuoco]].
+«Dobbiamo proprio [[Well|bene]] ringraziarlo per aver dato nuova vita al
+
+vecchio partito», diceva Ashton Fisher. «Questa campagna contro i vecchi
+
+squire coglie esattamente il grado di [[democracy|democrazia]] che c'è in questa contea.
+
+Questa legge per estendere il controllo del consiglio di contea è praticamente il suo
+
+disegno di legge; sicché si può dire che è al [[government|governo]] ancora prima di essere alla
+
+[[house|Camera]]».
+«L'una è più facile dell'altra», disse Harry, con noncuranza. «Scommetto che lo
+
+squire conta più del consiglio di contea in quella contea. Verner
+
+è piuttosto [[Well|ben]] radicato; tutti questi luoghi rurali sono ciò che si dice
+
+reazionari. Maledire gli aristocratici non lo cambierà».
+«Li maledice piuttosto [[Well|bene]]», osservò Ashton. «Non abbiamo mai avuto
+
+adunata migliore di quella di Barkington, che di solito vota
+
+costituzionale. E quando disse: 'Sir Francis può vantare
+
+[[Blood|sangue]] blu; mostriamo noi di avere [[Blood|sangue]] rosso', e proseguì parlando di
+
+virilità e libertà, la sala letteralmente [[Rose|si levò]] verso di lui».
+«Parla molto [[Well|bene]]», disse Lord Saltoun, burbero, dando il suo unico
+
+contributo alla conversazione fino a quel momento.
+Poi il quasi altrettanto silenzioso Horne Fisher parlò all'improvviso, senza
+
+staccare gli occhi cupi dal [[Fire|fuoco]].
+«Ciò che non riesco a capire», disse, «è perché nessuno venga mai insultato
+
+per la vera ragione».
+«Ehilà!» osservò Harry, con spirito, «cominci a farci caso?»
+«[[Well|Ebbene]], prendi Verner», proseguì Horne Fisher. «Se vogliamo attaccare
+
+Verner, perché non attaccarlo? Perché complimentarci con lui per essere un romantico
+
+[[aristocrat|aristocratico]] reazionario? Chi è Verner? Da dove viene? Il suo
+
+nome suona antico, ma non ne avevo mai sentito parlare prima, come disse quel tale a proposito della
+
+Crocifissione. Perché parlare del suo [[Blood|sangue]] blu? Il suo [[Blood|sangue]] potrebbe essere
+
+giallo gommagutta con macchie verdi, per quanto ne sappia chiunque. Tutto ciò che sappiamo
+
+è che il vecchio squire, Hawker, in qualche modo dilapidò il suo denaro (e
+
+quello della sua seconda moglie, suppongo, perché era abbastanza ricca), e vendette la
+
+tenuta a un uomo di nome Verner. In che cosa fece i suoi soldi? Petrolio?
+
+Forniture all'esercito?»
+«Non lo so», disse Saltoun, guardandolo pensieroso.
+«È la prima cosa, a mia conoscenza, che tu non sappia», esclamò l'esuberante
+
+Harry.
+«E c'è dell'altro, per giunta», proseguì Horne Fisher, che sembrava
+
+aver finalmente sciolto la lingua. «Se vogliamo che la gente di campagna voti
+
+per noi, perché non troviamo qualcuno che abbia qualche nozione sulla
+
+campagna? Non parliamo alla gente di Threadneedle Street soltanto
+
+di rape e porcili. Perché parliamo alla gente del
+
+Somerset soltanto di tuguri e socialismo? Perché non diamo
+
+la terra dello squire ai fittavoli dello squire, invece di tirare in ballo
+
+il consiglio di contea?»
+«Tre acri e una mucca», esclamò Harry, emettendo ciò che i
+
+resoconti parlamentari chiamano un applauso ironico.
+«Sì», rispose il fratello, ostinato. «Non pensi che
+
+i braccianti agricoli preferirebbero tre acri e una mucca a
+
+tre acri di moduli stampati e un comitato? Perché nessuno
+
+fonda un partito di piccoli proprietari in politica, appellandosi alle antiche tradizioni del
+
+piccolo possidente? E perché non attaccano uomini come Verner per
+
+ciò che sono, ossia qualcosa di antico e tradizionale press'a poco quanto un
+
+trust petrolifero americano?»
+«Faresti meglio a guidare tu stesso il partito dei piccoli proprietari», rise Harry.
+
+«Non pensa che sarebbe uno spasso, Lord Saltoun, vedere mio fratello
+
+e i suoi allegri compagni, con archi e roncole, marciare giù verso il
+
+Somerset tutti in verde [[Lincoln]] invece che con cappelli [[Lincoln]] and Bennet?»
+«No», rispose il vecchio Saltoun, «non penso che sarebbe uno spasso. Penso
+
+che sarebbe un'idea straordinariamente seria e assennata».
+«[[Well|Ebbene]], che io sia dannato!» esclamò Harry Fisher, fissandolo. «Ho detto
+
+proprio ora che era il primo fatto che non sapevi, e direi
+
+che questo è il primo scherzo che non hai colto».
+«Ne ho viste di cose, ai miei [[Time|tempi]]», disse il vecchio, alla sua
+
+maniera piuttosto acida. «Ho anche raccontato parecchie menzogne ai miei [[Time|tempi]],
+
+e forse me ne sono un po' stancato. Ma ci sono menzogne e
+
+menzogne, nonostante tutto. I gentiluomini mentivano proprio come mentono gli scolari,
+
+perché stavano uniti e in parte per aiutarsi a vicenda. Ma
+
+che io sia dannato se riesco a capire perché dovremmo mentire per questi cosmopoliti
+
+mascalzoni che aiutano soltanto se stessi. Non ci sostengono più;
+
+ci stanno semplicemente soppiantando. Se un uomo come tuo fratello ha voglia di
+
+entrare in Parlamento come piccolo proprietario o gentiluomo o giacobita o
+
+antico britanno, direi che sarebbe un'ottima cosa».
+Nel [[Silence|silenzio]] piuttosto attonito che seguì Horne Fisher balzò in
+
+piedi e tutta la sua tetra svogliatezza cadde da lui.
+«Sono pronto a farlo domani», esclamò. «Suppongo che nessuno di voi
+
+mi sosterrebbe».
+Allora Harry Fisher mostrò il lato migliore della sua impetuosità. Fece
+
+un gesto improvviso come per stringere la mano.
+«Sei un tipo in gamba», disse, «e ti sosterrò io, se nessun altro
+
+lo farà. Ma possiamo sostenerti tutti, no? Capisco cosa intende Lord Saltoun,
+
+e, naturalmente, ha ragione. Ha sempre ragione».
+«E così andrò giù nel Somerset», disse Horne Fisher.
+«Sì, è sulla strada per Westminster», disse Lord Saltoun, con un
 
 
 
@@ -17971,6 +24854,179 @@ and busied himself with the papers on his desk. Then Fisher uttered
 a short phrase of thanks and farewell, and went out into the street,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'agente lo fissò ancora di più, ma acconsentì con cortesia, e condusse l'altro
+
+in un ufficio ingombro di volantini e tappezzato tutt'intorno di manifesti dai
+
+colori vivaci che legavano il nome di Hughes a tutti gli interessi più alti
+
+dell'umanità.
+«Il signor Horne Fisher, credo», disse il signor Gryce. «Molto onorato della
+
+visita, naturalmente. Non posso fingere di congratularmi con lei per essere sceso in
+
+campo, temo; non se lo aspetterà. Qui abbiamo tenuto alta
+
+la vecchia [[Flag|bandiera]] della [[Freedom|libertà]] e della [[Reform|riforma]], e lei arriva e
+
+spezza la linea di battaglia».
+Poiché il signor Elijah Gryce abbondava in metafore militari e in
+
+denunce del militarismo. Era un uomo dalla mascella squadrata, dai lineamenti duri,
+
+con un sopracciglio inarcato in modo bellicoso. Era stato macerato nella
+
+politica di quella campagna fin da ragazzo, conosceva i [[Secrets|segreti]] di
+
+tutti, e la propaganda elettorale era il [[Romance|romanzo]] della sua vita.
+«Suppone che io sia divorato dall'[[Ambition|ambizione]]», disse Horne Fisher,
+
+con la sua voce piuttosto svogliata, «che punti a una dittatura e a tutto
+
+il resto. [[Well|Ebbene]], credo di potermi scagionare dall'accusa di mera egoistica
+
+[[Ambition|ambizione]]. Voglio soltanto che certe cose siano fatte. Non voglio farle io.
+
+Molto di rado ho voglia di fare qualcosa. E sono venuto qui a dire che
+
+sono ben disposto a ritirarmi dalla contesa se lei riesce a convincermi
+
+che vogliamo davvero fare la stessa cosa».
+L'agente del partito della [[Reform|Riforma]] lo guardò con un'espressione strana e un po'
+
+perplessa, e prima che potesse rispondere, Fisher proseguì con gli
+
+stessi toni pacati:
+«Stenterà a crederlo, ma tengo nascosta addosso una [[Conscience|coscienza]];
+
+e sono in [[Doubt|dubbio]] su parecchie cose. Per esempio, entrambi
+
+vogliamo far cadere Verner dal Parlamento, ma quale arma dobbiamo
+
+usare? Ho sentito un mucchio di pettegolezzi contro di lui, ma è giusto agire
+
+su semplici pettegolezzi? Come voglio essere leale con lei, così voglio essere
+
+leale con lui. Se alcune delle cose che ho sentito sono vere, dovrebbe
+
+essere cacciato dal Parlamento e da ogni altro club di [[London|Londra]]. Ma io
+
+non voglio cacciarlo dal Parlamento se non sono vere».
+A questo punto la luce della battaglia balenò negli occhi del signor Gryce ed
+
+egli divenne loquace, per non dire violento. Lui, a ogni modo, non aveva alcun [[Doubt|dubbio]]
+
+che le storie fossero vere; poteva testimoniare, per propria conoscenza,
+
+che erano vere. Verner non era soltanto un padrone duro, ma un padrone
+
+meschino, un ladro [[Well|non meno]] che uno strozzino di affitti; qualsiasi gentiluomo sarebbe stato
+
+giustificato a dargli la caccia. Aveva frodato il vecchio Wilkins del suo
+
+podere con un trucco degno di un borseggiatore; aveva spinto la vecchia Madre
+
+Biddle all'ospizio dei poveri; aveva tirato la legge contro Long Adam,
+
+il bracconiere, finché tutti i magistrati si vergognavano di lui.
+«Quindi se servirà sotto il vecchio vessillo», concluse il signor Gryce, più
+
+benevolo, «e caccerà via un [[Tyrant|tiranno]] truffaldino come quello, sono certo
+
+che non se ne pentirà mai».
+«E se questa è la [[Truth|verità]]», disse Horne Fisher, «ha intenzione di
+
+raccontarla?»
+«Che cosa intende? Raccontare la [[Truth|verità]]?» chiese Gryce.
+«Intendo che ha intenzione di raccontare la [[Truth|verità]] come me l'ha appena raccontata»,
+
+replicò Fisher. «Ha intenzione di tappezzare questa città con la
+
+malvagità commessa contro il vecchio Wilkins. Ha intenzione di riempire i giornali
+
+con l'infame storia della signora Biddle. Ha intenzione di denunciare
+
+Verner da un palco pubblico, nominandolo per ciò che ha fatto e nominando
+
+il bracconiere a cui l'ha fatto. E ha intenzione di scoprire con quale commercio
+
+quest'uomo abbia fatto il denaro con cui ha comprato la tenuta; e quando
+
+conoscerà la [[Truth|verità]], come ho detto prima, naturalmente ha intenzione di
+
+raccontarla. A queste condizioni mi metto sotto la vecchia [[Flag|bandiera]], come la chiama lei,
+
+e ammaino il mio piccolo gagliardetto».
+L'agente lo osservava con un'espressione curiosa, arcigna ma non
+
+del tutto priva di simpatia. «[[Well|Ebbene]]», disse lentamente, «queste cose bisogna farle
+
+in modo regolare, sa, altrimenti la gente non capisce.
+
+Ho molta esperienza, e temo che ciò che lei dice non
+
+andrebbe. La gente capisce che si insultino gli squire in modo generico, ma quelle
+
+allusioni personali non sono considerate gioco leale. Sembra colpire sotto
+
+la cintura».
+«Il vecchio Wilkins non ha una cintura, suppongo», replicò Horne Fisher.
+
+«Verner può colpirlo comunque, e nessuno deve dire una parola. È
+
+evidentemente molto importante avere una cintura. Ma a quanto pare bisogna
+
+essere piuttosto in alto nella società per averne una. Forse», aggiunse,
+
+pensieroso—«forse la spiegazione dell'espressione 'un conte cinto',
+
+il cui significato mi è sempre sfuggito».
+«Intendo che quelle allusioni personali non andranno bene», ribatté Gryce, aggrottando le sopracciglia verso
+
+il tavolo.
+«E Madre Biddle e Long Adam, il bracconiere, non sono
+
+allusioni personali», disse Fisher, «e suppongo non si debba chiedere come Verner
+
+abbia fatto tutto il denaro che gli ha permesso di diventare—un personaggio».
+Gryce continuava a guardarlo di sotto le sopracciglia aggrottate, ma la
+
+singolare luce nei suoi occhi si era ravvivata. Alla fine disse, con
+
+un'altra voce, molto più tranquilla:
+«Senta, signore. Lei mi piace, se non le dispiace che glielo dica.
+
+Credo che lei stia davvero dalla parte del popolo e sono certo che è un
+
+uomo coraggioso. Molto più coraggioso di quanto lei sappia, forse. Non oseremmo toccare
+
+ciò che lei propone nemmeno con un palo da chiatta; e ben lungi dal volerla
+
+nel vecchio partito, preferiremmo che corresse il rischio da solo. Ma
+
+poiché lei mi piace e ne rispetto il fegato, le farò un favore
+
+prima di separarci. Non voglio che lei perda [[Time|tempo]] abbaiando all'albero
+
+sbagliato. Lei parla di come il nuovo squire abbia trovato il denaro per comprare, e
+
+della rovina del vecchio squire, e di tutto il resto. [[Well|Ebbene]], le darò
+
+un indizio in proposito, un indizio su una cosa che pochissimi
+
+conoscono».
+«Le sono molto grato», disse Fisher, gravemente. «Di che si tratta?»
+«È in due parole», disse l'altro. «Il nuovo squire era assai povero
+
+quando comprò. Il vecchio squire era assai ricco quando vendette».
+Horne Fisher lo guardò pensieroso mentre quello si voltava bruscamente
+
+e si affaccendava con le carte sulla scrivania. Poi Fisher pronunciò
+
+una breve frase di ringraziamento e di commiato, e uscì in strada,
+
 
 
 <span class="atom-split" data-atom="story_07_the_temple_of_silence--part_05" data-title="The Man Who Knew Too Much — The Temple of Silence (part 5)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
@@ -18150,6 +25206,182 @@ I have a perfect right to shoot game in this place. But I am [[Well|well]]
 
 aware that people of your sort take me for a thief, and I suppose
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+ancora molto pensieroso.
+La sua riflessione parve concludersi in una decisione e, prendendo un passo più
+
+rapido, uscì dalla cittadina lungo una [[Road|strada]] che conduceva
+
+verso il cancello del grande parco, la residenza di campagna di Sir Francis
+
+Verner. Un luccichio di sole rendeva l'inizio dell'[[Winter|inverno]] più simile a un tardo
+
+[[Autumn|autunno]], e i boschi scuri erano toccati qua e là di rosse e
+
+dorate [[Leaves|foglie]], come gli ultimi raggi di un tramonto perduto. Da un tratto più alto
+
+della [[Road|strada]] aveva visto la lunga, classica facciata della grande
+
+[[house|casa]] dalle molte finestre, quasi immediatamente sotto di lui, ma
+
+quando la [[Road|strada]] scendeva sotto il muro della tenuta, sormontato da
+
+alberi svettanti alle spalle, si rese conto che c'era mezzo miglio a girarci intorno fino ai
+
+cancelli della portineria. Dopo aver camminato per qualche minuto lungo il viottolo,
+
+tuttavia, giunse a un punto in cui il muro si era crepato ed era in
+
+corso di riparazione. Così com'era, c'era un ampio varco nella grigia
+
+muratura che a prima vista appariva nero come una caverna e solo a
+
+un secondo sguardo rivelava la penombra degli alberi luccicanti. C'era
+
+qualcosa di affascinante in quel cancello inatteso, come l'inizio
+
+di una fiaba.
+Horne Fisher aveva in sé qualcosa dell'[[aristocrat|aristocratico]], che è molto
+
+vicino all'anarchico. Era caratteristico di lui che imboccasse
+
+quell'ingresso oscuro e irregolare con la stessa disinvoltura con cui sarebbe entrato dalla propria
+
+porta di casa, pensando semplicemente che sarebbe stata una scorciatoia per la [[house|casa]]. Si
+
+fece strada attraverso il bosco fosco per un certo tratto e con una certa
+
+difficoltà, finché non cominciò a brillare tra gli alberi una luce
+
+orizzontale, in linee d'argento, che sulle prime non comprese. Un
+
+attimo dopo era sbucato alla luce del giorno in cima a una ripida
+
+riva, al [[Bottom|fondo]] della quale un sentiero correva intorno all'orlo di un grande
+
+lago ornamentale. La distesa d'[[Water|acqua]] che aveva visto scintillare
+
+tra gli alberi era di considerevole estensione, ma era rinchiusa da ogni
+
+lato da boschi che non erano soltanto scuri, ma decisamente
+
+lugubri. A un capo del sentiero c'era una statua classica di una
+
+ninfa senza nome, e all'altro capo era fiancheggiato da due classiche
+
+urne; ma il marmo era corroso dalle intemperie e striato di verde e
+
+di grigio. Cento altri segni, più piccoli ma più significativi, gli dissero
+
+che era capitato in qualche angolo remoto del parco, trascurato
+
+e raramente visitato. In mezzo al lago c'era quella che sembrava
+
+un'isola, e sull'isola quello che sembrava destinato a essere un
+
+tempio classico, non aperto come un tempio dei venti, ma con una
+
+parete cieca tra le sue colonne doriche. Possiamo dire che sembrava soltanto
+
+un'isola, perché un secondo sguardo rivelava una bassa passerella di pietre
+
+piatte che vi saliva dalla riva trasformandola in una
+
+penisola. E certamente sembrava soltanto un tempio, perché nessuno
+
+sapeva meglio di Horne Fisher che nessun dio aveva mai dimorato in quel
+
+sacrario.
+«È questo che rende così desolata tutta questa arte classica del giardino paesaggistico»,
+
+disse tra sé. «Più desolata di Stonehenge o delle
+
+Piramidi. Noi non crediamo nella mitologia egizia, ma gli Egizi ci
+
+credevano; e suppongo che perfino i Druidi credessero nel druidismo. Ma il
+
+gentiluomo del diciottesimo secolo che costruì questi templi non credeva
+
+in [[Venus|Venere]] o in Mercurio più di quanto vi crediamo noi; ecco perché il riflesso
+
+di quelle pallide colonne nel lago è davvero soltanto l'[[Shadow|ombra]] di un'
+
+ombra. Erano uomini dell'età della Ragione; loro, che riempivano i loro
+
+giardini di queste ninfe di pietra, avevano meno [[Hope|speranza]] di ogni altro uomo in tutta la
+
+[[history|storia]] di incontrare davvero una ninfa nella foresta».
+Il suo monologo si arrestò di colpo con un rumore secco simile a un tuono
+
+che rotolò in cupi echi intorno al lugubre stagno. Capì subito
+
+che cos'era—qualcuno aveva sparato un colpo di fucile. Ma quanto al significato
+
+ne rimase per un istante sconcertato, e strani pensieri gli affollarono
+
+la mente. Un attimo dopo rise; perché vide giacere poco
+
+più in là, sul sentiero sotto di lui, l'uccello morto che lo sparo aveva abbattuto
+
+a terra.
+Nello stesso momento, tuttavia, vide qualcos'altro, che lo interessò
+
+di più. Un anello di alberi fitti correva dietro il tempio dell'isola,
+
+incorniciandone la facciata in un fogliame scuro, e avrebbe potuto
+
+giurare di aver visto un fremito come di qualcosa che si muoveva tra le [[Leaves|foglie]]. Un
+
+attimo dopo il suo sospetto fu confermato, perché una figura piuttosto lacera
+
+venne fuori dall'[[Shadow|ombra]] del tempio e cominciò a muoversi lungo la
+
+passerella che portava alla riva. Anche a quella distanza la figura era
+
+cospicua per la sua grande statura e Fisher poté vedere che l'uomo
+
+portava un fucile sotto il braccio. Gli tornò subito alla [[Memory|memoria]]
+
+il nome di Long Adam, il bracconiere.
+Con quel rapido senso della strategia che talvolta mostrava, Fisher balzò
+
+dalla riva e corse intorno al lago fino all'imbocco del piccolo
+
+molo di pietre. Se una volta un uomo raggiungeva la terraferma poteva facilmente
+
+svanire nei boschi. Ma quando Fisher cominciò ad avanzare lungo le
+
+pietre verso l'isola, l'uomo si trovò incastrato in un vicolo cieco e
+
+poté solo indietreggiare verso il tempio. Puntando le larghe spalle
+
+contro di esso, restò come tenuto in scacco; era un uomo relativamente giovane,
+
+con linee fini nel volto e nella figura magra e una zazzera di ispidi capelli
+
+rossi. Lo sguardo nei suoi occhi avrebbe [[Well|ben]] potuto essere inquietante per
+
+chiunque fosse lasciato [[Alone|solo]] con lui su un'isola in mezzo a un lago.
+«Buongiorno», disse Horne Fisher, affabilmente. «Sulle prime ho pensato
+
+che lei fosse un assassino. Ma sembra improbabile, in qualche modo, che la
+
+pernice si sia precipitata fra noi e sia morta per [[Love|amore]] di me, come le
+
+eroine dei romanzi; sicché suppongo che lei sia un bracconiere».
+«Suppongo che lei mi chiamerebbe bracconiere», rispose l'uomo; e la sua
+
+voce fu una specie di sorpresa, venendo da un simile spauracchio; aveva
+
+quella dura ricercatezza che si trova in coloro che hanno combattuto
+
+per la propria raffinatezza tra rozzi dintorni. «Ritengo
+
+di avere perfetto diritto di cacciare selvaggina in questo luogo. Ma so [[Well|bene]]
+
+che la gente della sua specie mi prende per un ladro, e suppongo
 
 
 
@@ -18335,6 +25567,186 @@ that his name was Franz Werner.
 "No, thank you," replied Fisher. "I [[Fear|fear]] this is not a friendly
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+che cercherà di farmi finire in prigione».
+«Ci sono difficoltà preliminari», replicò Fisher. «Tanto per
+
+cominciare, l'errore è lusinghiero, ma io non sono un guardiacaccia. Ancor
+
+meno sono tre guardiacaccia, che sarebbero, immagino, all'incirca del suo
+
+peso da combattimento. Ma confesso di avere un'altra ragione per non voler
+
+mandarla in prigione».
+«E quale sarebbe?» chiese l'altro.
+«Soltanto che sono pienamente d'accordo con lei», rispose Fisher. «Non
+
+dico esattamente che lei abbia il diritto di bracconare, ma non ho mai potuto ritenere che ciò
+
+fosse tanto sbagliato quanto essere un ladro. Mi sembra contrario a tutta la
+
+normale nozione di proprietà che un uomo possieda qualcosa perché essa
+
+vola attraverso il suo [[Garden|giardino]]. Potrebbe altrettanto [[Well|bene]] possedere il [[Wind|vento]], o pensare di
+
+poter scrivere il proprio nome su una nube mattutina. Del resto, se vogliamo che i
+
+poveri rispettino la proprietà dobbiamo dar loro un po' di proprietà da
+
+rispettare. Lei dovrebbe avere una terra tutta sua; e ho intenzione di dargliene
+
+un po', se posso».
+«Ha intenzione di darmi della terra!» ripeté Long Adam.
+«Mi scuso per averle parlato come se fosse un pubblico comizio»,
+
+disse Fisher, «ma io sono un genere del tutto nuovo di uomo pubblico che dice
+
+la stessa cosa in pubblico e in privato. L'ho detto a cento
+
+enormi adunate in tutto il paese, e lo dico a lei su questa
+
+strana isoletta in questo lugubre stagno. Farei a pezzi una grande tenuta
+
+come questa in piccole tenute per tutti, perfino per i bracconieri.
+
+Farei in Inghilterra come fecero in Irlanda—liquidare i pezzi grossi, se
+
+possibile; toglierli di mezzo, comunque. Un uomo come lei dovrebbe avere un
+
+posticino tutto suo. Non dico che potrebbe allevare fagiani, ma
+
+potrebbe allevare polli».
+L'uomo si irrigidì di colpo e parve al tempo stesso impallidire e avvampare
+
+alla promessa come se fosse una minaccia.
+«Polli!» ripeté, con una passione di disprezzo.
+«Perché obietta?» chiese il placido candidato. «Perché allevare
+
+galline è un passatempo piuttosto blando per un bracconiere? E che dire delle uova
+
+in camicia?»
+«Perché non sono un bracconiere», gridò Adam, con una voce lacerante che
+
+risuonò intorno ai sacrari e alle urne vuote come gli echi del suo fucile.
+
+«Perché la pernice che giace morta laggiù è la mia pernice.
+
+Perché la terra su cui lei sta è la mia terra. Perché la mia terra
+
+mi fu tolta soltanto con un delitto, e un delitto peggiore del bracconaggio.
+
+Questa è stata un'unica tenuta per centinaia e centinaia di anni,
+
+e se lei o qualsiasi ficcanaso ciarlatano viene qui e parla di
+
+farla a pezzi come una torta, se sento ancora una sola parola di lei e
+
+delle sue livellatrici menzogne—»
+«Lei sembra un pubblico piuttosto turbolento», osservò Horne Fisher,
+
+«ma continui pure. Che cosa accadrà se cercherò di dividere questa tenuta
+
+decentemente tra gente decente?»
+Il bracconiere aveva ritrovato una tetra compostezza mentre rispondeva. «Non
+
+ci sarà nessuna pernice a precipitarsi in mezzo».
+Con ciò voltò le spalle, evidentemente risoluto a non dire altro, e
+
+passò oltre il tempio fino all'estremità dell'isolotto, dove
+
+restò a fissare l'[[Water|acqua]]. Fisher lo seguì, ma, quando le sue
+
+reiterate domande non evocarono risposta, tornò indietro verso la riva.
+
+Nel farlo diede una seconda e più ravvicinata occhiata all'artificiale
+
+tempio, e ne notò alcune cose curiose. La maggior parte di queste
+
+cose teatrali erano sottili come scenografie da palcoscenico, ed egli
+
+si aspettava che il classico sacrario fosse una cosa poco profonda, un mero guscio o
+
+una maschera. Ma vi era dietro una qualche mole consistente, sepolta tra
+
+gli alberi, che aveva un aspetto grigio, labirintico, come serpenti di
+
+pietra, e sollevava al cielo un carico di torri frondose. Ma ciò che
+
+colpì l'occhio di Fisher fu che in questa mole di pietra grigio-bianca
+
+dietro c'era una sola porta con grandi chiavistelli arrugginiti all'esterno; i
+
+chiavistelli, tuttavia, non erano tirati in modo da assicurarla. Poi
+
+girò intorno al piccolo edificio, e non trovò altra apertura tranne
+
+una piccola grata come un ventilatore, in alto nella parete. Ritornò
+
+pensieroso sui propri passi lungo la passerella fino alle rive del
+
+lago, e si sedette sui gradini di pietra tra le due scolpite
+
+urne funerarie. Poi accese una sigaretta e la fumò in modo
+
+ruminante; alla fine tirò fuori un taccuino e annotò varie
+
+frasi, numerandole e rinumerandole finché non stettero nel
+
+seguente ordine: «(1) Lo squire Hawker detestava la prima moglie. (2)
+
+Sposò la seconda moglie per il suo denaro. (3) Long Adam dice che la tenuta
+
+è in realtà sua. (4) Long Adam bazzica intorno al tempio dell'isola, che
+
+sembra una [[Prison|prigione]]. (5) Lo squire Hawker non era povero quando cedette
+
+la tenuta. (6) Verner era povero quando ottenne la tenuta».
+Fissò questi appunti con una gravità che gradualmente si mutò in un
+
+duro sorriso, gettò via la sigaretta, e riprese la sua ricerca di una
+
+scorciatoia per la [[Great House|grande casa]]. Ben presto imboccò il sentiero che,
+
+snodandosi tra siepi potate e aiuole, lo portò davanti
+
+alla sua lunga facciata palladiana. Aveva il consueto aspetto di essere,
+
+non una [[house|casa]] privata, ma una sorta di edificio pubblico mandato in [[Exile|esilio]]
+
+nelle province.
+Si trovò dapprima al cospetto del maggiordomo, che davvero
+
+appariva molto più vecchio dell'edificio, perché l'architettura era databile
+
+come georgiana; ma il volto dell'uomo, sotto una parrucca castana quanto mai innaturale,
+
+era rugoso di quelli che avrebbero potuto essere secoli. Solo i suoi sporgenti
+
+occhi erano vivi e vigili, come per protesta. Fisher lo guardò,
+
+e poi si fermò e disse:
+«Mi scusi. Non era lei con il defunto squire, il signor Hawker?»
+«Sì, signore», disse l'uomo, gravemente. «Usher è il mio nome. Che cosa posso
+
+fare per lei?»
+«Soltanto condurmi da Sir Francis Verner», replicò il visitatore.
+Sir Francis Verner sedeva in una comoda poltrona accanto a un tavolino
+
+in una grande sala parata di arazzi. Sul tavolo c'erano una piccola
+
+fiaschetta e un bicchiere, con il verde barlume di un liquore e una tazza di
+
+caffè nero. Era vestito con un sobrio abito grigio e una cravatta viola
+
+moderatamente armoniosa; ma Fisher vide qualcosa nella piega dei
+
+suoi baffi biondi e nella disposizione dei suoi capelli lisci—che d'un tratto rivelò
+
+che il suo nome era Franz Werner.
+«Lei è il signor Horne Fisher», disse. «Non vuole sedersi?»
+«No, grazie», replicò Fisher. «[[Fear|Temo]] che questa non sia un'amichevole
+
 
 
 <span class="atom-split" data-atom="story_07_the_temple_of_silence--part_07" data-title="The Man Who Knew Too Much — The Temple of Silence (part 7)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
@@ -18511,6 +25923,179 @@ fourth carried Fisher off his feet and began to bear him,
 
 struggling, toward the doorway. Even in the bewilderment of the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+occasione, e resterò in piedi. Forse lei sa che io sono già
+
+in piedi—candidato al Parlamento, in effetti—»
+«So bene che siamo avversari politici», replicò Verner, inarcando le
+
+sopracciglia. «Ma penso che sarebbe meglio se combattessimo in uno spirito
+
+sportivo; in uno spirito di lealtà all'inglese».
+«Molto meglio», assentì Fisher. «Sarebbe molto meglio se lei
+
+fosse inglese e molto meglio ancora se avesse mai giocato lealmente. Ma
+
+ciò che sono venuto a dire si può dire molto brevemente. Non so bene
+
+come stiamo con la legge riguardo a quella vecchia storia di Hawker, ma il mio principale
+
+obiettivo è impedire che l'Inghilterra sia interamente governata da gente come
+
+lei. Perciò qualunque cosa dica la legge, non dirò altro se lei
+
+si ritirerà subito dall'elezione».
+«Lei è evidentemente un pazzo», disse Verner.
+«La mia psicologia può essere un po' anormale», replicò Horne Fisher, in una
+
+maniera piuttosto vaga. «Sono soggetto ai [[Dreams|sogni]], specialmente ai [[Dreams|sogni]] ad occhi aperti.
+
+A volte ciò che mi accade diventa vivido in un curioso modo [[Double|doppio]],
+
+come se fosse già accaduto. Ha mai provato quella mistica
+
+sensazione che le cose siano già accadute?»
+«[[Hope|Spero]] che lei sia un pazzo innocuo», disse Verner.
+Ma Fisher fissava ancora in modo assente le dorate
+
+gigantesche figure e i tralci di bruno e di rosso negli arazzi sulle
+
+pareti; poi guardò di nuovo Verner e riprese: «Ho la
+
+sensazione che questo colloquio sia già avvenuto, qui in questa
+
+sala parata di arazzi, e che noi siamo due [[Ghosts|fantasmi]] che rivisitano una camera stregata.
+
+Ma era lo squire Hawker a sedere dove siede lei ed era lei a
+
+stare dove sto io». Fece una pausa un istante e poi aggiunse, con
+
+semplicità: «Suppongo di essere anch'io un ricattatore».
+«Se lo è», disse Sir Francis, «le prometto che finirà in
+
+prigione». Ma il suo volto aveva un'ombra che sembrava il
+
+riflesso del vino verde che luccicava sul tavolo. Horne Fisher
+
+lo osservò fermamente e rispose, con sufficiente calma:
+«I ricattatori non sempre finiscono in prigione. A volte vanno in
+
+Parlamento. Ma, per quanto il Parlamento sia già abbastanza marcio, lei
+
+non vi andrà se posso impedirlo. Non sono così criminale come lo fu
+
+lei nel mercanteggiare con il delitto. Lei costrinse uno squire a cedere il suo seggio
+
+di campagna. Io le chiedo soltanto di cedere il suo seggio parlamentare».
+Sir Francis Verner balzò in piedi e cercò con lo sguardo uno dei
+
+cordoni dei campanelli della sala all'antica, drappeggiata di tende.
+«Dov'è Usher?» gridò, con il volto livido.
+«E chi è Usher?» disse Fisher, sommessamente. «[[Wonder|Mi domando]] quanto Usher
+
+sappia della [[Truth|verità]]».
+La mano di Verner cadde dal cordone del campanello e, dopo essere rimasto per un
+
+istante con gli occhi [[rolling|roteanti]], uscì bruscamente dalla sala. Fisher
+
+uscì invece dall'altra porta, quella da cui era entrato, e, non vedendo
+
+traccia di Usher, si fece uscire e si avviò di nuovo verso la
+
+città.
+Quella [[Night|notte]] si mise in tasca una torcia elettrica e uscì [[Alone|solo]]
+
+nell'oscurità per aggiungere gli ultimi anelli al suo ragionamento. C'era
+
+molto che ancora non sapeva; ma pensava di sapere dove poter
+
+trovare la conoscenza. La [[Night|notte]] calò oscura e tempestosa e il nero
+
+varco nel muro appariva più nero che mai; il bosco sembrava
+
+cresciuto più fitto e più scuro in un giorno. Se il lago deserto con i suoi
+
+boschi neri e le grigie urne e immagini appariva desolato perfino alla
+
+luce del giorno, sotto la [[Night|notte]] e la crescente [[Storm|tempesta]] sembrava ancora più
+
+simile allo stagno dell'Acheronte nella terra delle anime perdute. Mentre camminava
+
+con cautela lungo le pietre del molo pareva viaggiare sempre più
+
+lontano nell'abisso della [[Night|notte]], e aver lasciato dietro di sé gli
+
+ultimi punti da cui sarebbe stato possibile segnalare alla terra dei
+
+vivi. Il lago sembrava divenuto più grande di un mare, ma un
+
+mare di acque nere e viscide che dormivano con abominevole serenità,
+
+come se avessero cancellato il mondo. C'era tanto di questo
+
+senso da [[nightmare|incubo]] di estensione e dilatazione che egli fu stranamente
+
+sorpreso di giungere così presto alla sua isola [[Desert|deserta]]. Ma la conosceva come un
+
+luogo di disumano [[Silence|silenzio]] e [[Solitude|solitudine]]; e si sentiva come se avesse
+
+camminato per anni.
+Facendosi coraggio per riportarsi a un umore più normale, si fermò sotto uno dei
+
+scuri alberi-drago che si ramificavano sopra di lui e, tirando fuori la sua
+
+torcia, la volse in direzione della porta sul retro del
+
+tempio. Era senza chiavistello come prima, e il pensiero si agitò debolmente
+
+in lui che fosse leggermente aperta, sebbene solo di una fessura. Più
+
+ci pensava, tuttavia, più si convinceva che questa fosse
+
+soltanto una delle comuni illusioni della luce che veniva da una diversa
+
+angolazione. Studiava con spirito più scientifico i dettagli della
+
+porta, con i suoi chiavistelli e cardini arrugginiti, quando divenne conscio di
+
+qualcosa molto vicino a lui—anzi, quasi sopra la sua testa. Qualcosa
+
+pendeva dall'albero e non era un ramo spezzato. Per alcuni
+
+secondi restò immobile come una pietra, e altrettanto freddo. Ciò che vide sopra
+
+di lui erano le gambe di un uomo appeso, presumibilmente un uomo morto impiccato.
+
+Ma l'attimo dopo capì meglio. L'uomo era letteralmente vivo e
+
+scalciante; e un istante dopo era caduto a terra e
+
+si era rivoltato contro l'intruso. Simultaneamente tre o quattro altri alberi
+
+parvero prendere vita allo stesso modo. Cinque o sei altre
+
+figure erano cadute in piedi da quei nidi innaturali. Era
+
+come se il luogo fosse un'isola di scimmie. Ma un momento dopo si erano
+
+lanciati in massa verso di lui, e quando gli posarono le mani addosso
+
+egli capì che erano uomini.
+Con la torcia elettrica in mano colpì il primo di loro
+
+così furiosamente in volto che l'uomo barcollò e ruzzolò
+
+sull'erba viscida; ma la torcia si ruppe e si spense, lasciando
+
+ogni cosa in un'oscurità più densa. Scagliò un altro uomo di piatto contro
+
+la parete del tempio, sicché scivolò a terra; ma un terzo e un
+
+quarto sollevarono Fisher da terra e cominciarono a trascinarlo,
+
+dibattendosi, verso la soglia. Perfino nello smarrimento della
 
 
 
@@ -18689,6 +26274,180 @@ with it a new light broke on his mind. There was something else that
 might happen in a moment.
 "Do you know what that means?" he cried. "It means that God himself
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+battaglia era consapevole che la porta era spalancata. Qualcuno
+
+chiamava a raccolta i manigoldi dall'interno.
+Nel momento in cui furono dentro lo scaraventarono su una specie di panca o
+
+letto con violenza, ma senza danno; perché il divano, o qualunque cosa
+
+fosse, sembrava comodamente imbottito per accoglierlo. La loro
+
+violenza aveva in sé un grande elemento di fretta, e prima che potesse
+
+rialzarsi si erano tutti precipitati verso la porta per fuggire. Quali che fossero i banditi
+
+che infestavano questa isola [[Desert|deserta]], erano evidentemente
+
+a disagio per il loro compito e assai ansiosi di sbrigarsene. Ebbe la
+
+fugace impressione che criminali di mestiere ben difficilmente si sarebbero fatti prendere da un simile panico.
+
+L'attimo dopo la grande porta si richiuse con fracasso ed egli poté udire i
+
+chiavistelli stridere mentre scattavano al loro posto, e i piedi degli
+
+uomini in ritirata che sgambettavano e inciampavano lungo la passerella. Ma
+
+per quanto rapidamente accadesse, non accadde prima che Fisher avesse fatto
+
+qualcosa che desiderava fare. Incapace di rialzarsi dalla sua posizione
+
+scomposta in quel lampo di [[Time|tempo]], aveva scagliato in fuori una delle sue lunghe gambe
+
+e l'aveva agganciata intorno alla caviglia dell'ultimo uomo che scompariva oltre
+
+la porta. L'uomo vacillò e rovinò a terra dentro la camera della [[Prison|prigione]],
+
+e la porta si chiuse tra lui e i suoi compagni in fuga. Chiaramente
+
+avevano troppa fretta per rendersi conto di aver lasciato indietro uno dei
+
+loro compagni.
+L'uomo balzò di nuovo in piedi e martellò e prese a calci furiosamente
+
+la porta. Il senso dell'umorismo di Fisher cominciò a riprendersi dalla
+
+colluttazione ed egli si mise a sedere sul suo sofà con qualcosa della sua innata
+
+noncuranza. Ma mentre ascoltava il carceriere prigioniero che batteva sulla
+
+porta della [[Prison|prigione]], gli venne una nuova e curiosa riflessione.
+La condotta naturale per un uomo che desiderasse così attirare l'attenzione degli
+
+amici sarebbe stata gridare, urlare [[Well|non meno]] che scalciare. Quest'uomo
+
+faceva quanto più rumore poteva con i piedi e le mani, ma
+
+nessun suono usciva dalla sua gola. Perché non poteva parlare? Sulle prime
+
+pensò che l'uomo potesse essere imbavagliato, il che era manifestamente assurdo. Poi
+
+la sua fantasia ripiegò sulla brutta idea che l'uomo fosse muto. A
+
+stento sapeva perché fosse un'idea tanto brutta, ma essa colpì la sua
+
+[[Imagination|immaginazione]] in modo oscuro e sproporzionato. Sembrava esserci
+
+qualcosa di raccapricciante nell'idea di essere lasciato in una stanza buia con
+
+un sordomuto. Era quasi come se un simile difetto fosse una deformità. Era
+
+quasi come se andasse di pari passo con altre e peggiori deformità. Era come
+
+se la sagoma che non riusciva a distinguere nel buio fosse una sagoma che
+
+non dovrebbe vedere il sole.
+Poi ebbe un lampo di [[Sanity|lucidità]] e anche di intuizione. La spiegazione
+
+era molto semplice, ma piuttosto interessante. Ovviamente l'uomo non
+
+usava la voce perché non voleva che la sua voce fosse riconosciuta.
+
+Sperava di fuggire da quel luogo buio prima che Fisher scoprisse chi
+
+fosse. E chi era? Una cosa almeno era chiara. Era uno
+
+o l'altro dei quattro o cinque uomini con cui Fisher aveva già parlato in
+
+quei paraggi, e nello sviluppo di quella strana storia.
+«Ora [[Wonder|mi domando]] chi lei sia», disse, ad alta voce, con tutta la sua vecchia pigra
+
+urbanità. «Suppongo sia inutile tentare di strangolarla per
+
+scoprirlo; sarebbe sgradevole passare la [[Night|notte]] con un cadavere.
+
+Del resto potrei essere io il cadavere. Non ho fiammiferi e ho fracassato
+
+la mia torcia, sicché posso soltanto fare congetture. Chi potrebbe essere, dunque? Riflettiamo
+
+un po'».
+L'uomo così bonariamente apostrofato aveva smesso di tamburellare sulla
+
+porta e si era ritirato imbronciato in un angolo mentre Fisher continuava a
+
+rivolgersi a lui in un fluido monologo.
+«Probabilmente lei è il bracconiere che dice di non essere un bracconiere. Dice
+
+di essere un possidente terriero; ma mi permetterà di informarlo che,
+
+qualunque cosa sia, è uno [[Fool|sciocco]]. Quale [[Hope|speranza]] potrà mai esserci di un libero
+
+contadiname in Inghilterra se i contadini stessi sono tali snob da
+
+voler essere gentiluomini? Come possiamo fare una [[democracy|democrazia]] senza democratici?
+
+Così com'è, lei vuole essere un proprietario terriero e perciò acconsente a essere un
+
+criminale. E in questo, sa, lei somiglia parecchio a qualcun altro.
+
+E, ora che ci penso, forse lei è qualcun altro».
+Vi fu un [[Silence|silenzio]] rotto dal respiro proveniente dall'angolo e dal
+
+mormorio della [[Storm|tempesta]] che si levava, che entrava attraverso la piccola grata
+
+sopra la testa dell'uomo. Horne Fisher continuò:
+«È lei soltanto un servitore, forse, quel vecchio servitore piuttosto sinistro
+
+che era maggiordomo di Hawker e di Verner? Se è così, lei è certamente l'
+
+unico anello tra i due periodi. Ma se è così, perché si degrada
+
+a servire questo sordido straniero, quando lei almeno vide la
+
+fine di una genuina nobiltà nazionale? Le persone come lei di solito sono almeno
+
+patriottiche. L'Inghilterra non significa nulla per lei, signor Usher?
+
+Tutta questa eloquenza è forse sprecata, poiché forse lei non è
+
+il signor Usher.
+«Più probabilmente lei è Verner in persona; e non serve a nulla sprecare
+
+eloquenza per farla vergognare di sé. Né serve a nulla
+
+maledirla per aver corrotto l'Inghilterra; né lei è la persona giusta da
+
+maledire. Sono gli inglesi a meritare di essere maledetti, e sono maledetti,
+
+perché permisero a simile vermina di insinuarsi negli alti seggi dei
+
+loro eroi e dei loro re. Non mi soffermerò sull'idea che lei sia
+
+Verner, o lo strangolamento potrebbe cominciare, dopotutto. C'è qualcun
+
+altro che lei potrebbe essere? Di sicuro lei non è un servitore dell'altra rivale
+
+organizzazione. Non posso credere che lei sia Gryce, l'agente; eppure Gryce
+
+aveva anche lui una scintilla di fanatico nell'occhio; e gli uomini fanno
+
+cose straordinarie in queste meschine faide della politica. O se non
+
+il servitore, è forse il . . . No, non posso crederlo . . . non il
+
+rosso [[Blood|sangue]] della virilità e della libertà . . . non l'ideale democratico . . .»
+Balzò in piedi in preda all'eccitazione, e nello stesso momento un brontolio di
+
+tuono giunse attraverso la grata più in là. La [[Storm|tempesta]] era scoppiata, e
+
+con essa una nuova luce si fece nella sua mente. C'era qualcos'altro che
+
+poteva accadere da un momento all'altro.
+«Sa cosa significa?» esclamò. «Significa che Dio stesso
 
 
 
@@ -19021,6 +26780,185 @@ cheerfulness at the moment. It isn't altogether the sun and the sea,
 sir. I am enjoying an emotion that is entirely new to me; a happy
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VIII - La vendetta della statua
+*
+Fu sulla soleggiata veranda di un albergo sul mare, che dava su un
+
+disegno di aiuole e su una striscia di mare azzurro, che Horne Fisher
+
+e Harold March ebbero la loro spiegazione finale, che si potrebbe definire
+
+un'esplosione.
+Harold March si era avvicinato al tavolino e vi si era seduto con una
+
+repressa eccitazione che covava nei suoi occhi azzurri alquanto velati e
+
+sognanti. Nei giornali che gettò via da sé sul tavolo
+
+c'era abbastanza da spiegare parte, se non tutta, della sua emozione. Gli affari
+
+pubblici in ogni settore avevano raggiunto una crisi. Il [[government|governo]]
+
+che era rimasto in piedi tanto a lungo che gli uomini vi si erano abituati, come ci si abitua
+
+a un dispotismo ereditario, aveva cominciato a essere accusato di errori e
+
+perfino di abusi finanziari. Alcuni dicevano che l'esperimento di
+
+tentare di stabilire un contadiname nell'ovest dell'Inghilterra, sulla
+
+scia di un'antica fantasia di Horne Fisher, non aveva prodotto nulla
+
+se non pericolosi litigi con i vicini più industriali. Vi erano
+
+state particolari lamentele per il maltrattamento di inoffensivi
+
+stranieri, per lo più asiatici, che si trovavano a essere impiegati nei nuovi
+
+stabilimenti scientifici costruiti sulla costa. Anzi, la nuova Potenza
+
+sorta in Siberia, sostenuta dal Giappone e da altri potenti
+
+alleati, era propensa a occuparsi della questione negli interessi dei suoi
+
+sudditi esiliati; e si erano fatti discorsi sconsiderati su ambasciatori e
+
+ultimatum. Ma qualcosa di assai più serio, per il suo personale
+
+interesse per lo stesso March, sembrava riempire il suo incontro con l'
+
+amico di un misto di imbarazzo e indignazione.
+Forse accresceva il suo fastidio il fatto che ci fosse una certa insolita
+
+vivacità nella figura di solito languida di Fisher. L'immagine ordinaria
+
+che March ne aveva in mente era quella di un gentiluomo pallido e dalla fronte
+
+calva, che sembrava prematuramente vecchio [[Well|non meno]] che prematuramente
+
+calvo. Lo si ricordava come un uomo che esprimeva le opinioni di un
+
+pessimista nel linguaggio di un ozioso. Perfino ora March non poteva essere
+
+certo se il cambiamento fosse soltanto una sorta di mascherata di
+
+sole, o quell'effetto di colori chiari e di contorni netti che
+
+è sempre visibile sulla passeggiata di una località marina, stagliato contro
+
+lo zoccolo azzurro del mare. Ma Fisher aveva un fiore all'occhiello,
+
+e il suo amico avrebbe giurato che portava il bastone con qualcosa
+
+di quasi simile alla spavalderia di un combattente. Con simili nubi che si addensavano
+
+sull'Inghilterra, il pessimista sembrava l'unico uomo che portasse
+
+con sé il proprio sole.
+«Senta un po'», disse Harold March, di colpo, «lei è stato per me un amico
+
+impareggiabile, e non fui mai così fiero di un'[[Friendship|amicizia]] prima d'ora; ma
+
+c'è una cosa che devo togliermi dal petto. Più scoprivo, e
+
+meno capivo come lei potesse sopportarlo. E le dico che non ho intenzione
+
+di sopportarlo più a lungo».
+Horne Fisher lo guardò gravemente e attentamente, ma piuttosto
+
+come se fosse molto lontano.
+«Lei sa che mi è sempre stato simpatico», disse Fisher, con calma, «ma io la
+
+rispetto anche, il che non è sempre la stessa cosa. Lei forse
+
+intuisce che mi sono simpatiche parecchie persone che non rispetto. Forse è
+
+la mia [[Tragedy|tragedia]], forse è colpa mia. Ma lei è molto diverso, e
+
+le prometto questo: che non cercherò mai di tenerla come qualcuno da
+
+trovare simpatico, al prezzo di non essere rispettato».
+«So che lei è magnanimo», disse March dopo un [[Silence|silenzio]], «eppure
+
+lei tollera e perpetua tutto ciò che è meschino». Poi dopo
+
+un altro [[Silence|silenzio]] aggiunse: «Ricorda quando ci incontrammo la prima volta, quando
+
+lei pescava in quel ruscello nella faccenda del bersaglio? E ricorda
+
+che disse che, dopotutto, non avrebbe forse fatto male se io
+
+avessi potuto far saltare all'inferno con la dinamite tutto l'intrico di questa società».
+«Sì, e con ciò?» chiese Fisher.
+«Solo che ho intenzione di farla saltare all'inferno con la dinamite», disse Harold
+
+March, «e ritengo giusto avvertirla lealmente. Per molto
+
+[[Time|tempo]] non ho creduto che le cose fossero brutte come lei diceva. Ma
+
+non mi è mai sembrato di poter tenere imbottigliato ciò che lei sapeva, ammesso
+
+che lo sapesse davvero. [[Well|Ebbene]], il lungo e il corto della faccenda è che ho
+
+una [[Conscience|coscienza]]; e ora, finalmente, ho anche un'occasione. Sono
+
+stato messo a capo di un grande giornale indipendente, con mano libera, e
+
+abbiamo intenzione di aprire una cannonata contro la corruzione».
+«Sarà—Attwood, suppongo», disse Fisher, riflettendo.
+
+«Mercante di legname. Sa un mucchio di cose sulla Cina».
+«Sa un mucchio di cose sull'Inghilterra», disse March, ostinato, «e ora che
+
+lo so anch'io, non abbiamo intenzione di metterci più a tacere. La gente
+
+di questo paese ha il diritto di sapere come viene governata—o, piuttosto,
+
+rovinata. Il Cancelliere è nelle tasche degli strozzini e deve
+
+fare come gli si dice; altrimenti è in bancarotta, e per giunta una brutta specie di
+
+bancarotta, con dietro nient'altro che carte da gioco e attrici. Il
+
+Primo Ministro era nel giro dei contratti sulla benzina; e ci era dentro fino al collo,
+
+per giunta. Il Ministro degli Esteri è un relitto di alcol e droghe. Quando si
+
+dice ciò apertamente di un uomo che può mandare migliaia di inglesi a
+
+morire per niente, si viene tacciati di personalismo. Se un povero macchinista
+
+si ubriaca e manda trenta o quaranta persone alla [[Death|morte]], nessuno
+
+si lamenta che la denuncia sia personale. Il macchinista non è una
+
+persona».
+«Sono pienamente d'accordo con lei», disse Fisher, con calma. «Lei ha perfettamente
+
+ragione».
+«Se è d'accordo con noi, perché diavolo non agisce con noi?»
+
+chiese l'amico. «Se pensa che sia giusto, perché non fa
+
+ciò che è giusto? È terribile pensare a un uomo delle sue capacità che semplicemente
+
+blocca la [[Road|strada]] verso la [[Reform|riforma]]».
+«Ne abbiamo parlato spesso», replicò Fisher, con la stessa
+
+compostezza. «Il Primo Ministro è amico di mio padre. Il Ministro degli
+
+Esteri ha sposato mia sorella. Il Cancelliere dello Scacchiere è mio
+
+cugino di primo grado. Menziono la genealogia con un certo dettaglio proprio ora per una
+
+ragione particolare. La [[Truth|verità]] è che provo una curiosa specie di
+
+allegria in questo momento. Non è del tutto il sole e il mare,
+
+signore. Sto assaporando un'emozione del tutto nuova per me; una felice
+
 
 
 <span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_02" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 2)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
@@ -19197,6 +27135,164 @@ gardens. At the back of the building the [[Garden|garden]] ran up very steeply
 
 to a [[Road|road]] along the ridge above; and a zigzag path scaled the slope
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+sensazione che non ricordo di aver mai provato prima.» «Che diavolo intendete?» «Provo orgoglio per la mia famiglia», disse Horne Fisher. Harold March lo fissò con i tondi occhi azzurri, e parve troppo
+
+sconcertato persino per formulare una domanda. Fisher si adagiò all'indietro sulla sedia
+
+nel suo modo indolente, e sorrise mentre proseguiva. «Sentite, mio caro amico. Lasciate che a mia volta vi ponga una domanda. Voi
+
+insinuate che io abbia sempre saputo queste cose sui miei sventurati
+
+parenti. E infatti è così. Supponete forse che Attwood non le abbia sempre
+
+sapute? Supponete che non vi abbia sempre conosciuto come un uomo onesto che
+
+avrebbe detto queste cose non appena ne avesse avuto occasione? Perché Attwood
+
+vi toglie la museruola come a un cane proprio in questo momento, dopo tutti questi anni? Io
+
+so perché lo fa; so parecchie cose, fin troppe cose.
+
+E dunque, come ho l'onore di far notare, sono finalmente orgoglioso della mia
+
+famiglia.» «Ma perché?» ripeté March, piuttosto fiaccamente. «Sono orgoglioso del Cancelliere perché ha giocato d'azzardo e del Ministro degli
+
+Esteri perché beveva e del Primo Ministro perché intascò una
+
+provvigione su un appalto», disse Fisher, con fermezza. «Sono orgoglioso di loro
+
+perché hanno fatto queste cose, e possono esserne denunciati, e
+
+sanno di poterne essere denunciati, e nondimeno restano saldi per tutto
+
+questo. Mi tolgo il cappello dinanzi a loro perché sfidano il ricatto,
+
+e rifiutano di mandare in rovina il loro paese per salvare sé stessi. Li
+
+saluto come se stessero per morire sul [[Battlefield|campo di battaglia]].» Dopo una pausa proseguì: «E sarà davvero un [[Battlefield|campo di battaglia]], e
+
+non metaforico. Abbiamo ceduto ai finanzieri stranieri così a
+
+lungo che ormai è guerra o rovina. Persino il popolo, persino la gente di
+
+campagna, comincia a sospettare di essere mandata in rovina. Ecco
+
+il significato dei deplorevoli episodi sui giornali.» «Il significato delle violenze contro gli orientali?» chiese March. «Il significato delle violenze contro gli orientali», rispose Fisher, «è che
+
+i finanzieri hanno introdotto manodopera cinese in questo paese con
+
+la deliberata intenzione di ridurre operai e contadini alla
+
+fame. I nostri infelici politici hanno fatto concessione dopo
+
+concessione; e ora chiedono concessioni che equivalgono a
+
+ordinare un massacro dei nostri stessi poveri. Se non combattiamo ora non
+
+combatteremo mai più. Avranno messo l'Inghilterra in una posizione economica
+
+tale da morire di fame in una settimana. Ma combatteremo ora; non
+
+mi [[Wonder|stupirei]] se ci fosse un ultimatum entro una settimana e un'
+
+invasione entro quindici giorni. Tutta la passata corruzione e viltà ci
+
+ostacola, naturalmente; il West è piuttosto tempestoso e
+
+incerto anche in senso militare; e i reggimenti irlandesi laggiù,
+
+che dovrebbero sostenerci in virtù del nuovo trattato, sono in buona parte [[Well|ben]]
+
+in stato di ammutinamento; poiché, naturalmente, questo infernale capitalismo dei coolie viene
+
+spinto anche in Irlanda. Ma deve cessare ora; e se il messaggio di rassicurazione del [[government|governo]]
+
+giunge loro in [[Time|tempo]], potrebbero dopotutto
+
+comparire nel [[Time|momento]] in cui il nemico sbarcherà. Poiché la mia povera vecchia banda
+
+resterà finalmente salda ai propri cannoni. Naturalmente è del tutto naturale che
+
+quando per mezzo secolo sono stati imbiancati come modelli di virtù,
+
+i loro peccati ricadano su di loro proprio nel momento in cui si
+
+comportano da uomini per la prima [[Time|volta]] nella loro vita. [[Well|Ebbene]], ti dico,
+
+March, li conosco a fondo; e so che si stanno comportando
+
+da eroi. Ciascuno di loro dovrebbe avere una statua, e sul
+
+piedistallo parole come quelle del più nobile canaglia della Rivoluzione:
+
+'Que mon nom soit fletri; que la France soit libre.'» «Buon Dio!» esclamò March, «non arriveremo mai in [[Bottom|fondo]] alle tue
+
+mine e contromine?» Dopo un [[Silence|silenzio]] Fisher rispose a voce più bassa, guardando l'amico
+
+negli occhi. «Credevi che non vi fosse altro che male in [[Bottom|fondo]] a loro?» egli
+
+chiese, con dolcezza. «Credevi che io avessi trovato solo lordura nei
+
+mari profondi in cui il destino mi ha gettato? Credimi, non conosci mai
+
+il meglio degli uomini finché non ne conosci il peggio. Non liquida
+
+le loro strane anime umane sapere che furono
+
+esibiti al mondo come cere impossibilmente impeccabili, che mai
+
+guardarono una donna né seppero cosa fosse una tangente. Persino in un
+
+palazzo si può vivere [[Well|bene]]; e persino in un Parlamento si può
+
+vivere con occasionali sforzi di viverci [[Well|bene]]. Ti dico che è
+
+tanto vero di questi ricchi sciocchi e furfanti quanto è vero di ogni misero
+
+grassatore e borsaiolo; che solo Dio sa quanto buoni essi abbiano cercato
+
+di essere. Dio [[Alone|solo]] sa cosa la [[Conscience|coscienza]] possa sopravvivere, o come un uomo
+
+che ha perduto l'onore cerchi ancora di salvare la propria [[Soul|anima]].» Vi fu un altro [[Silence|silenzio]], e March sedeva fissando il tavolo e
+
+Fisher il mare. Poi Fisher balzò all'improvviso in piedi e
+
+afferrò cappello e bastone con tutta la sua nuova prontezza e persino
+
+combattività. «Senti, vecchio mio», esclamò, «facciamo un patto. Prima
+
+di aprire la tua campagna in favore di Attwood, vieni giù e resta con noi per
+
+una settimana, per sentire cosa stiamo davvero facendo. Intendo con i Pochi
+
+Fedeli, un tempo noti come la Vecchia Banda, all'occasione descritti come
+
+la Bassa Combriccola. In verità siamo solo cinque quelli davvero saldi,
+
+e organizziamo la difesa nazionale; e viviamo come una
+
+guarnigione in una specie di albergo sgangherato nel [[Kent]]. Vieni a vedere cosa
+
+stiamo davvero facendo e cosa c'è da fare, e rendici giustizia.
+
+E dopo di ciò, con inalterabile [[Love|affetto]] e amicizia per te, pubblica
+
+e sia dannato chi vuole.» Fu così che nell'ultima settimana prima della guerra, quando gli eventi
+
+si mossero con la massima rapidità, Harold March si trovò a far parte di una specie di
+
+piccola comitiva in [[house|casa]] delle persone che si proponeva di denunciare. Vivevano
+
+abbastanza semplicemente, per gente dei loro gusti, in una vecchia
+
+locanda di mattoni bruni rivestita d'edera e circondata da giardini piuttosto
+
+tetri. Sul retro dell'edificio il [[Garden|giardino]] saliva assai ripido
+
+fino a una [[Road|strada]] lungo il crinale in alto; e un sentiero a zigzag scalava il pendio
 
 
 
@@ -19380,6 +27476,176 @@ worst is that there's a leak of some sort, even from this fortress
 of ours. It's been a bit of a shock to me, I can tell you; though I
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+ad angoli acuti, svoltando avanti e indietro tra sempreverdi così cupi che
+
+si sarebbero piuttosto potuti dire sempre-neri. Qua e là su per il pendio
+
+c'erano statue con tutta la fredda mostruosità di quei minori ornamenti
+
+del diciottesimo secolo; e un'intera fila di esse correva come su una
+
+terrazza lungo l'ultima scarpata in [[Bottom|basso]], di fronte alla porta sul retro.
+
+Questo particolare si fissò dapprima nella mente di March semplicemente perché
+
+figurava nella prima conversazione che ebbe con uno dei ministri del
+
+gabinetto. I ministri del gabinetto erano piuttosto più anziani di quanto si fosse aspettato di trovarli.
+
+Il Primo Ministro non sembrava più un ragazzo, benché
+
+sembrasse ancora un po' un bambino. Ma era uno di quei vecchi e
+
+venerabili bambini, e il bambino aveva morbidi capelli grigi. Tutto in
+
+lui era morbido, fino alla parola e al modo di camminare; ma oltre e
+
+al di sopra di ciò la sua funzione principale pareva essere il [[Sleep|sonno]]. Le persone lasciate [[Alone|sole]]
+
+con lui si abituavano tanto ai suoi occhi chiusi da essere quasi
+
+sorprese quando si accorgevano, nell'immobilità, che gli occhi erano spalancati
+
+e persino vigili. Una cosa almeno faceva sempre
+
+aprire gli occhi al vecchio gentiluomo. L'unica cosa a cui teneva davvero al
+
+mondo era il suo hobby delle armi corazzate, specialmente le armi
+
+orientali, e parlava per ore di lame di Damasco e di
+
+scherma araba. Lord James Herries, il Cancelliere dello Scacchiere,
+
+era un uomo basso, bruno, robusto, dal volto assai giallastro e dai modi assai
+
+imbronciati, che contrastavano col fiore sgargiante all'
+
+occhiello e con la sua festosa abitudine di essere sempre lievemente
+
+troppo elegante. Era quasi un eufemismo chiamarlo un
+
+[[Well|noto]] uomo di mondo. C'era forse più mistero nella
+
+questione di come un uomo che viveva per il piacere paresse trarne così poco
+
+piacere. Sir David Archer, il Ministro degli Esteri, era il
+
+solo tra loro a essere un [[Self-Made Man|uomo che si era fatto da sé]], e il solo tra loro
+
+che sembrasse un [[aristocrat|aristocratico]]. Era alto, magro e assai
+
+bello, con la barba brizzolata; i capelli grigi erano assai ricci, e
+
+si [[Rose|sollevavano]] persino sulla fronte in due ribelli boccoli che parevano ai
+
+fantasiosi tremare come le antenne di qualche insetto gigante, o
+
+agitarsi in simpatia con le irrequiete sopracciglia folte sopra i suoi
+
+occhi piuttosto smunti. Poiché il Ministro degli Esteri non faceva mistero della sua
+
+condizione alquanto nervosa, qualunque ne fosse la causa. «Conoscete quello stato d'animo in cui si potrebbe gridare perché un tappetino è
+
+storto?» disse a March, mentre passeggiavano su e giù nel
+
+[[Garden|giardino]] sul retro sotto la fila di statue sudicie. «Le donne vi cadono quando
+
+hanno lavorato troppo; e io ho lavorato piuttosto duramente ultimamente,
+
+naturalmente. Mi fa impazzire quando Herries insiste a portare il cappello un po'
+
+storto—vezzo di darsi l'aria di un allegro sciupafemmine. Una volta o l'altra giuro che glielo
+
+farò saltare via. Quella statua di Britannia laggiù non è del tutto
+
+dritta; sporge un po' in avanti come se la signora stesse per
+
+rovesciarsi. La maledetta faccenda è che non si rovescia una buona volta e
+
+la fa finita. Vedete, è fermata con un puntello di ferro. Non vi
+
+stupite se mi alzo nel bel mezzo della [[Night|notte]] per buttarla giù.» Percorsero il sentiero per qualche momento in [[Silence|silenzio]] e poi egli
+
+proseguì. «È strano come quelle piccole cose sembrino specialmente grandi quando
+
+ci sono cose più grandi di cui preoccuparsi. Faremmo meglio a rientrare e a fare
+
+un po' di lavoro.» Horne Fisher evidentemente teneva conto di tutte le possibilità nevrotiche di
+
+Archer e delle abitudini dissipate di Herries; e quale che fosse la sua [[Faith|fede]]
+
+nella loro presente fermezza, non gravava indebitamente sul loro [[Time|tempo]] e sulla loro
+
+attenzione, nemmeno nel caso del Primo Ministro. Aveva ottenuto il
+
+consenso di quest'ultimo, infine, ad affidare gli importanti
+
+documenti, con gli ordini agli eserciti occidentali, alle cure di una
+
+persona meno cospicua e più solida—uno zio di nome Horne
+
+Hewitt, uno scialbo signorotto di campagna che era stato un buon
+
+soldato, ed era il consigliere militare del comitato. Era
+
+incaricato di far pervenire con sollecitudine l'impegno del [[government|governo]], insieme ai
+
+piani militari concertati, al comando semi-ammutinato nell'ovest;
+
+e del compito ancor più urgente di badare che non cadesse nelle
+
+mani del nemico, che poteva comparire in qualunque momento da
+
+est. Oltre a questo ufficiale militare, l'unica altra persona
+
+presente era un funzionario di polizia, un certo Dottor Prince, originariamente
+
+medico legale e ora distinto [[Detective|investigatore]], mandato a fare da
+
+guardia del corpo al gruppo. Era un uomo dal viso squadrato con grandi
+
+occhiali e una smorfia che esprimeva l'intenzione di tenere la
+
+bocca chiusa. Nessun altro condivideva la loro prigionia salvo il
+
+proprietario dell'albergo, un burbero uomo del Kent dal viso da mela selvatica, uno o due
+
+dei suoi domestici, e un altro domestico al servizio privato di Lord
+
+James Herries. Era un giovane scozzese di nome Campbell, che appariva
+
+assai più distinto del suo padrone dall'aria biliosa, avendo
+
+capelli castani e un lungo volto saturnino dai lineamenti grandi ma fini
+
+. Era probabilmente l'unica persona davvero efficiente della
+
+[[house|casa]]. Dopo circa quattro giorni di quel consiglio informale, March era giunto a
+
+provare una sorta di [[Grotesque|grottesca]] sublimità riguardo a queste dubbie figure,
+
+sfidanti nel crepuscolo del pericolo, come se fossero gobbi e
+
+storpi lasciati [[Alone|soli]] a difendere una città. Tutti lavoravano duramente; ed egli
+
+stesso alzò lo sguardo dallo scrivere una pagina di appunti in una stanza privata
+
+per vedere Horne Fisher fermo sulla soglia, bardato come per un
+
+viaggio. Gli parve che Fisher fosse un po' pallido; e dopo un
+
+momento quel gentiluomo chiuse la porta dietro di sé e disse, sommessamente: «[[Well|Ebbene]], è accaduto il peggio. O quasi il peggio.» «Il nemico è sbarcato», esclamò March, e balzò eretto dalla sua
+
+sedia. «Oh, sapevo che il nemico sarebbe sbarcato», disse Fisher, con compostezza.
+
+«Sì, è sbarcato; ma non è il peggio che potesse accadere. Il
+
+peggio è che c'è una falla di qualche sorta, persino da questa fortezza
+
+nostra. È stato un po' uno shock per me, ve lo posso dire; benché io
+
 
 
 <span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_04" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 4)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
@@ -19558,6 +27824,162 @@ a thing might climb the crest of the [[Hill|hill]], in that feverish dancing
 fashion, and look down on the wreck he had made. But the wreck he
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+suppongo sia illogico. Dopotutto, ero pieno d'ammirazione nel
+
+trovare tre uomini onesti nella politica. Non dovrei essere pieno di
+
+stupore se ne trovo solo due.» Ruminò un momento e poi disse, in tal modo che March
+
+a stento poteva dire se stesse cambiando argomento o no: «È difficile in un primo momento credere che un tale come Herries, che si era
+
+messo sotto aceto nel vizio come una conserva, possa avere ancora qualche scrupolo. Ma
+
+a tal proposito ho notato una cosa curiosa. Il patriottismo non è la prima
+
+virtù. Il patriottismo marcisce in prussianesimo quando si finge che sia la
+
+prima virtù. Ma il patriottismo è talvolta l'ultima virtù. Un uomo
+
+truffa o seduce ma non vende il proprio paese. Ma chi
+
+lo sa?» «Ma cosa si deve fare?» esclamò March, indignato. «Mio zio ha i documenti abbastanza al sicuro», rispose Fisher, «e li sta
+
+mandando a ovest questa [[Night|notte]]; ma qualcuno cerca di arrivare ad essi
+
+dall'esterno, [[Fear|temo]] con l'aiuto di qualcuno all'interno. Tutto
+
+ciò che posso fare al momento è cercare di intercettare l'uomo all'esterno; e
+
+devo andarmene ora a farlo. Sarò di ritorno tra circa ventiquattro
+
+ore. Mentre sono via voglio che tu tenga d'occhio queste persone e
+
+scopra ciò che puoi. Au revoir.» Sparì giù per le scale; e
+
+dalla [[Window|finestra]] March poté vederlo montare su una motocicletta e allontanarsi
+
+verso la città vicina. Il mattino seguente March sedeva nel vano della [[Window|finestra]] del
+
+salotto della vecchia locanda, che era rivestito di quercia e ordinariamente piuttosto
+
+buio; ma in quell'occasione era pieno della bianca luce di un
+
+mattino curiosamente limpido—la [[Moon|luna]] aveva brillato splendidamente per le
+
+ultime due o tre notti. Egli stesso era alquanto in [[Shadow|ombra]] nell'
+
+angolo del vano della [[Window|finestra]]; e Lord James Herries, entrando in fretta
+
+dal [[Garden|giardino]] sul retro, non lo vide. Lord James si aggrappò allo
+
+schienale di una sedia, come per reggersi, e, sedendosi bruscamente
+
+al tavolo, ingombro dell'ultimo pasto, si versò un
+
+bicchiere di brandy e lo bevve. Sedeva con la schiena rivolta a March, ma
+
+il suo volto giallo appariva in un tondo [[Mirror|specchio]] più in là e la sua tinta
+
+era come quella di qualche orribile malattia. Al muoversi di March egli sussultò
+
+violentemente e si voltò. «Mio Dio!» esclamò, «avete visto cosa c'è là fuori?» «Là fuori?» ripeté l'altro, gettando un'occhiata alle sue spalle verso il
+
+[[Garden|giardino]]. «Oh, andate a vedere voi stesso», gridò Herries in una sorta di furia.
+
+«Hewitt è stato assassinato e i suoi documenti rubati, ecco tutto.» Voltò di nuovo le spalle e si lasciò cadere di schianto; le sue quadrate
+
+spalle tremavano. Harold March si precipitò fuori dalla soglia nel
+
+[[Garden|giardino]] sul retro col suo ripido pendio di statue. La prima cosa che vide fu il Dottor Prince, l'[[Detective|investigatore]], che scrutava
+
+attraverso i suoi occhiali qualcosa a terra; la seconda fu
+
+la cosa che egli scrutava. Persino dopo la sensazionale notizia che aveva
+
+udito dentro, la vista fu una sorta di sensazione. La mostruosa immagine di pietra di Britannia giaceva prona, a faccia
+
+in giù sul sentiero del [[Garden|giardino]]; e ne sporgevano a casaccio da
+
+sotto, come le zampe di una mosca schiacciata, un braccio rivestito da una
+
+bianca manica di camicia e una gamba rivestita da un pantalone cachi, e capelli del
+
+l'inconfondibile grigio sabbia che apparteneva allo sventurato zio di Horne
+
+Fisher. C'erano pozze di [[Blood|sangue]] e le membra erano
+
+del tutto rigide nella [[Death|morte]]. «Non potrebbe essere stato un incidente?» disse March, ritrovando le parole
+
+alla fine. «Guardate voi stesso, vi dico», ripeté l'aspra voce di Herries, che
+
+lo aveva seguito con movimenti irrequieti fuori dalla porta. «I
+
+documenti sono spariti, vi dico. Il tale ha strappato la giacca dal cadavere
+
+e ha tagliato via i documenti dalla tasca interna. Ecco la giacca là
+
+sulla scarpata, con il gran taglio.» «Ma aspettate un momento», disse l'[[Detective|investigatore]], Prince, con calma. «In tal
+
+caso pare esserci un certo mistero. Un assassino potrebbe
+
+in qualche modo esser riuscito a rovesciargli addosso la statua, come pare
+
+abbia fatto. Ma scommetto che non avrebbe potuto facilmente risollevarla.
+
+Ho provato; e sono certo che occorrerebbero almeno tre uomini. Eppure
+
+dobbiamo supporre, secondo quella teoria, che l'assassino dapprima lo abbatté
+
+mentre passava, usando la statua come una clava di pietra, poi
+
+la risollevò, lo estrasse e lo privò della giacca, poi
+
+lo rimise nella positura della [[Death|morte]] e ricollocò ordinatamente la
+
+statua. Vi dico che è fisicamente impossibile. E in quale altro modo avrebbe potuto
+
+svestire un uomo coperto da quel monumento di pietra? È peggio
+
+del trucco del prestigiatore, quando un uomo si sfila una giacca con i
+
+polsi legati.» «Non potrebbe aver rovesciato la statua dopo aver spogliato il
+
+cadavere?» chiese March. «E perché?» chiese Prince, con asprezza. «Se avesse ucciso il suo uomo e preso
+
+i suoi documenti, sarebbe già lontano come il [[Wind|vento]]. Non gironzolerebbe in
+
+un [[Garden|giardino]] a scavare i piedistalli delle statue. E poi—Ehilà, chi c'è
+
+lassù?» In alto sul crinale sopra di loro, tracciata in sottili linee scure contro il
+
+cielo, c'era una figura dall'aspetto così lungo e magro da parere quasi ragnesco.
+
+La scura sagoma del capo mostrava due piccoli ciuffi simili a corna;
+
+e avrebbero quasi potuto giurare che le corna si muovessero. «Archer!» gridò Herries, con improvvisa foga, e lo chiamò
+
+con imprecazioni perché scendesse. La figura si ritrasse al primo grido,
+
+con un movimento agitato così brusco da potersi quasi dire una buffonata.
+
+L'istante dopo l'uomo parve ripensarci e ricomporsi,
+
+e cominciò a scendere il sentiero a zigzag del [[Garden|giardino]], ma con evidente
+
+riluttanza, i piedi cadenti in ritmo sempre più lento. Per
+
+la mente di March pulsavano le frasi che quest'uomo stesso aveva
+
+usato, sull'impazzire nel bel mezzo della [[Night|notte]] e distruggere la
+
+figura di pietra. Proprio così, poteva immaginare, il maniaco che avesse fatto una
+
+cosa simile poteva scalare la cresta della [[Hill|collina]], in quella febbrile danzante
+
+maniera, e guardare in basso il rovinoso scempio che aveva fatto. Ma lo scempio che
+
 
 
 <span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_05" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 5)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
@@ -19732,6 +28154,156 @@ March and Fisher both had motor bicycles; and the first half of
 their day's [[Journey|journey]] consisted in coasting eastward amid the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+che aveva fatto qui non era soltanto uno scempio di pietra. Quando l'uomo emerse infine sul sentiero del [[Garden|giardino]], con la piena
+
+luce sul volto e sulla figura, camminava sì lentamente, ma
+
+con disinvoltura, e senza alcuna apparenza di [[Fear|paura]]. «Questa è una cosa terribile», disse. «L'ho vista dall'alto; stavo
+
+facendo una passeggiata lungo il crinale.» «Volete dire che avete visto l'assassinio?» incalzò March, «oppure
+
+l'incidente? Voglio dire, avete visto cadere la statua?» «No», disse Archer, «voglio dire che ho visto la statua caduta.» Prince pareva prestare ben poca attenzione; il suo occhio era inchiodato
+
+su un oggetto che giaceva sul sentiero a un metro o due dal cadavere. Pareva
+
+essere una barra di ferro arrugginita piegata storta a un'estremità. «Una cosa che non capisco», disse, «è tutto questo [[Blood|sangue]]. Il
+
+cranio del poveretto non è fracassato; molto probabilmente ha il collo spezzato;
+
+ma il [[Blood|sangue]] pare essere sgorgato come se tutte le sue arterie fossero recise.
+
+Mi chiedevo se qualche altro strumento . . . quella cosa di ferro, per
+
+esempio; ma non vedo che neppure quella sia abbastanza affilata. Suppongo
+
+che nessuno sappia cosa sia.» «Io so cos'è», disse Archer nella sua voce profonda ma alquanto tremula
+
+. «L'ho vista nei miei incubi. Era la morsa o il puntello di ferro
+
+sul piedistallo, conficcato per tenere dritta la miserabile immagine quando
+
+cominciò a vacillare, suppongo. In ogni caso, era sempre infisso nella
+
+muratura di pietra là; e suppongo che sia uscito quando la cosa
+
+crollò.» Il Dottor Prince annuì, ma continuò a guardare in basso le pozze di
+
+[[Blood|sangue]] e la barra di ferro. «Sono certo che c'è qualcosa di più sotto tutto questo», disse
+
+infine. «Forse qualcosa di più sotto la statua. Ho una enorme
+
+specie di presentimento che ci sia. Ora siamo quattro uomini e tra noi
+
+possiamo sollevare quella gran pietra tombale.» Tutti piegarono le forze all'impresa; ci fu un [[Silence|silenzio]]
+
+salvo per il respiro affannoso; e poi, dopo un istante di
+
+barcollare e vacillare di otto gambe, la grande colonna scolpita di
+
+roccia fu rotolata via, e il [[Body|corpo]] disteso in camicia e calzoni
+
+fu pienamente rivelato. Gli occhiali del Dottor Prince parvero quasi
+
+ingrandirsi con un trattenuto splendore come grandi occhi; poiché anche altre cose
+
+furono rivelate. Una era che lo sventurato Hewitt aveva un profondo
+
+squarcio attraverso la giugulare, che il trionfante dottore all'istante
+
+identificò come inferto con un affilato taglio d'acciaio simile a un rasoio.
+
+L'altra era che immediatamente sotto la scarpata giacevano sparsi tre
+
+lucenti frammenti d'acciaio, ciascuno lungo quasi un piede, uno appuntito e
+
+un altro incastrato in un'impugnatura o manico riccamente ingioiellato. Era
+
+evidentemente una sorta di lungo coltello orientale, abbastanza lungo da potersi dire una
+
+[[Sword|spada]], ma con una curiosa lama ondulata; e c'era un tocco o due di
+
+[[Blood|sangue]] sulla punta. «Mi sarei aspettato più [[Blood|sangue]], e non certo sulla punta», osservò
+
+il Dottor Prince, pensieroso, «ma questo è di certo lo strumento.
+
+Lo squarcio fu di certo inferto con un'arma di questa foggia, e
+
+probabilmente anche il taglio della tasca [[Well|allo stesso modo]]. Suppongo che il bruto
+
+abbia gettato dentro la statua, a mo' di dargli un funerale pubblico.» March non rispose; era ipnotizzato dalle strane pietre che
+
+scintillavano sulla strana impugnatura della [[Sword|spada]]; e il loro possibile significato
+
+si allargava su di lui come una spaventosa [[Dawn|alba]]. Era una curiosa
+
+arma asiatica. Sapeva quale nome fosse connesso nella sua [[Memory|memoria]] con
+
+le curiose armi asiatiche. Lord James espresse il suo segreto pensiero per
+
+lui, eppure lo fece trasalire come una cosa fuori luogo. «Dov'è il Primo Ministro?» aveva gridato Herries, all'improvviso, e
+
+in qualche modo come il latrato di un cane a qualche scoperta. Il Dottor Prince gli rivolse i suoi occhialoni e il suo torvo volto; ed era
+
+più torvo che mai. «Non riesco a trovarlo da nessuna parte», disse. «L'ho cercato subito,
+
+non appena scoprii che i documenti erano spariti. Quel vostro domestico,
+
+Campbell, ha compiuto una ricerca oltremodo efficiente, ma non ci sono tracce.» Vi fu un lungo [[Silence|silenzio]], al termine del quale Herries emise
+
+un altro grido, ma su una nota interamente nuova. «[[Well|Ebbene]], non occorre che lo cerchiate oltre», disse, «poiché eccolo che
+
+arriva, insieme al vostro amico Fisher. Hanno l'aria di essere stati
+
+a fare una piccola gita a piedi.» Le due figure che si avvicinavano su per il sentiero erano davvero quelle di Fisher,
+
+spruzzato del fango del viaggio e recante un graffio come quello di un
+
+rovo attraverso un lato della sua fronte calva, e del grande e
+
+canuto uomo di stato che sembrava un bambino ed era interessato alle
+
+spade orientali e alla scherma. Ma al di là di questo riconoscimento fisico,
+
+March non riusciva a raccapezzarsi né sulla loro presenza né sul loro
+
+contegno, che pareva dare un tocco finale di assurdità all'
+
+intero [[nightmare|incubo]]. Più da vicino li osservava, mentre stavano
+
+ascoltando le rivelazioni dell'[[Detective|investigatore]], più egli era
+
+sconcertato dal loro atteggiamento—Fisher pareva addolorato per la [[Death|morte]] di suo
+
+zio, ma a stento sconvolto da essa; il più anziano pareva quasi apertamente
+
+pensare a qualcos'altro, e nessuno dei due aveva nulla da suggerire
+
+circa un ulteriore inseguimento della spia e assassino fuggitivo, malgrado
+
+la prodigiosa importanza dei documenti che aveva rubato. Quando
+
+l'[[Detective|investigatore]] fu andato via a occuparsi di quel reparto della
+
+faccenda, per telefonare e scrivere il suo rapporto, quando Herries fu
+
+tornato, probabilmente alla bottiglia di brandy, e il Primo Ministro
+
+si fu blandamente allontanato verso una comoda poltrona in un'altra parte
+
+del [[Garden|giardino]], Horne Fisher parlò direttamente a Harold March. «Amico mio», disse, «voglio che tu venga con me subito; non c'è
+
+nessun altro di cui mi fidi tanto quanto di te. Il [[Journey|viaggio]] ci prenderà
+
+la maggior parte della giornata, e la faccenda principale non può esser compiuta prima del
+
+calar della notte. Così potremo discutere le cose a fondo per via. Ma
+
+voglio che tu sia con me; poiché credo piuttosto che sia la mia ora.» March e Fisher avevano entrambi motociclette; e la prima metà della
+
+loro [[Journey|giornata]] di viaggio consistette nel procedere verso est in mezzo al
+
 
 
 <span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_06" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 6)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
@@ -19902,6 +28474,160 @@ rail; his [[Sword|sword]] was already broken. When I saw the [[Blood|blood]] fro
 
 deadly wound, everything else went from me; I dropped my [[Sword|sword]] and
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+l'incomunicabile frastuono di quei scomodi motori. Ma quando
+
+sbucarono oltre Canterbury nelle pianure del [[Kent]] orientale, Fisher
+
+si fermò presso una piacevole piccola [[house|osteria]] accanto a un pigro ruscello;
+
+e si sedettero a mangiare e a bere e a parlare quasi per la
+
+prima [[Time|volta]]. Era un pomeriggio splendente, gli [[Birds|uccelli]] cantavano nel
+
+bosco alle loro spalle, e il sole splendeva pieno sulla loro panca e sul tavolo da birra;
+
+ma il volto di Fisher nella forte luce del sole aveva una gravità mai
+
+vista prima su di esso. «Prima di andare oltre», disse, «c'è una cosa che dovresti
+
+sapere. Tu e io abbiamo visto alcune cose misteriose e siamo arrivati in
+
+[[Bottom|fondo]] a esse in passato; ed è giusto che tu arrivi
+
+in [[Bottom|fondo]] a questa. Ma nel trattare la [[Death|morte]] di mio zio
+
+devo cominciare dall'estremità opposta rispetto a dove cominciavano le nostre vecchie storie da [[Detective|investigatore]]
+
+. Ti darò tra poco i passaggi della deduzione, se vuoi
+
+ascoltarli; ma non giunsi alla [[Truth|verità]] di questa per passaggi di
+
+deduzione. Ti dirò innanzitutto la [[Truth|verità]] stessa, perché
+
+conobbi la [[Truth|verità]] fin dal principio. Gli altri casi li affrontai dall'
+
+esterno, ma in questo caso ero all'interno. Io stesso ero il nucleo e il centro
+
+stesso di ogni cosa.» Qualcosa nelle palpebre cadenti e nei [[Grave|gravi]] occhi grigi di chi parlava
+
+scosse d'improvviso March fin nelle fondamenta; ed egli esclamò, smarrito,
+
+«Non capisco!» come fanno gli uomini quando [[Fear|temono]] di
+
+capire. Per un tratto non vi fu altro suono che il lieto cinguettio degli
+
+[[Birds|uccelli]], e poi Horne Fisher disse, con calma: «Fui io a uccidere mio zio. Se proprio vuoi di più,
+
+fui io a rubargli i documenti di stato.» «Fisher!» esclamò l'amico con voce strozzata. «Lascia che ti racconti tutta la faccenda prima di separarci», proseguì l'
+
+altro, «e lascia che la esponga, per amor di chiarezza, come eravamo soliti
+
+esporre i nostri vecchi problemi. Ora ci sono due cose che sconcertano
+
+la gente riguardo a quel problema, non è vero? La prima è come
+
+l'assassino sia riuscito a sfilare la giacca dell'uomo morto, quando egli era
+
+già inchiodato a terra da quell'incubo di pietra. L'altra,
+
+che è assai più piccola e meno sconcertante, è il fatto che la [[Sword|spada]]
+
+che gli tagliò la gola fosse lievemente macchiata sulla punta, invece che
+
+assai più macchiata sul filo. [[Well|Ebbene]], posso liquidare la
+
+prima questione facilmente. Horne Hewitt si tolse la giacca prima di essere
+
+ucciso. Potrei dire che si tolse la giacca per essere ucciso.» «Chiami questa una spiegazione?» esclamò March. «Le parole paiono
+
+più prive di senso dei fatti.» «[[Well|Ebbene]], passiamo agli altri fatti», proseguì Fisher, pacatamente.
+
+«La ragione per cui quella particolare [[Sword|spada]] non è macchiata sul filo del
+
+[[Blood|sangue]] di Hewitt è che non fu usata per uccidere Hewitt.» «Ma il dottore», protestò March, «dichiarò distintamente che la
+
+ferita fu inferta da quella particolare [[Sword|spada]].» «Chiedo scusa», replicò Fisher. «Non dichiarò che essa
+
+fu inferta da quella particolare [[Sword|spada]]. Dichiarò che fu inferta da una
+
+[[Sword|spada]] di quel particolare modello.» «Ma era un modello assai bizzarro ed eccezionale», obiettò March;
+
+«di certo è una coincidenza troppo fantastica per immaginare—» «Fu una coincidenza fantastica», rifletté Horne Fisher. «È
+
+straordinario quali coincidenze talvolta accadano. Per il più bizzarro
+
+caso del mondo, per una probabilità su un milione, avvenne che
+
+un'altra [[Sword|spada]] esattamente della stessa forma si trovasse nello stesso [[Garden|giardino]] nello
+
+stesso [[Time|momento]]. Ciò si può in parte spiegare col fatto che io
+
+le portai entrambe nel [[Garden|giardino]] io stesso . . . via, mio caro amico;
+
+di certo ora vedi cosa significa. Metti insieme quelle due cose;
+
+c'erano due spade identiche ed egli si tolse la giacca da
+
+sé. Può giovare alle tue congetture ricordare il fatto che io
+
+non sono esattamente un assassino.» «Un duello!» esclamò March, riavendosi. «Certo che avrei
+
+dovuto pensarci. Ma chi era la spia che rubò i documenti?» «Mio zio era la spia che rubò i documenti», replicò Fisher, «o che
+
+tentò di rubarli quando lo fermai—nell'unico modo in cui
+
+potevo. I documenti, che avrebbero dovuto andare a ovest a rassicurare i nostri
+
+amici e a dar loro i piani per respingere l'invasione, sarebbero in
+
+poche ore stati nelle mani dell'invasore. Cosa potevo fare?
+
+Denunciare uno dei nostri amici in questo momento sarebbe stato
+
+fare il gioco del tuo amico Attwood, e di tutto il partito del
+
+panico e della [[Slavery|schiavitù]]. E poi, può darsi che un uomo oltre i quaranta abbia un
+
+[[Desire|desiderio]] inconscio di morire come è vissuto, e che io volessi, in un certo
+
+senso, portare i miei [[Secrets|segreti]] nella [[Grave|tomba]]. Forse un hobby si indurisce
+
+con l'età; e il mio hobby è stato il [[Silence|silenzio]]. Forse sento di aver
+
+ucciso il fratello di mia madre, ma di aver salvato il nome di mia madre.
+
+Comunque, scelsi un [[Time|momento]] in cui sapevo che dormivate tutti, ed egli
+
+passeggiava [[Alone|solo]] nel [[Garden|giardino]]. Vidi tutte le statue di pietra erette nella
+
+luce della luna; e io stesso ero come una di quelle statue di pietra
+
+che cammina. Con una voce che non era la mia, gli parlai del suo tradimento
+
+e pretesi i documenti; e quando rifiutò, lo costrinsi a impugnare
+
+una delle due spade. Le spade erano tra alcuni esemplari mandati
+
+quaggiù per l'ispezione del Primo Ministro; è un collezionista,
+
+sai; erano le uniche armi pari che potei trovare. Per farla
+
+breve, la brutta storia, ci battemmo là sul sentiero davanti alla
+
+statua di Britannia; era un uomo di grande forza, ma io avevo un certo
+
+vantaggio nell'abilità. La sua [[Sword|spada]] mi sfiorò la fronte quasi nel
+
+momento in cui la mia affondò nella giuntura del suo collo. Cadde contro
+
+la statua, come Cesare contro quella di [[Pompey|Pompeo]], aggrappandosi alla
+
+sbarra di ferro; la sua [[Sword|spada]] era già spezzata. Quando vidi il [[Blood|sangue]] di quella
+
+ferita mortale, tutto il resto mi abbandonò; lasciai cadere la mia [[Sword|spada]] e
 
 
 
@@ -20136,4 +28862,224 @@ trenches of the enemy. Something lay in the [[Shadow|shadow]] at the foot of
 the ridge, as stiff as the stick of the fallen rocket; and the man
 
 who knew too much knew what is worth knowing.
+* * *
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+corsi come per sollevarlo. Mentre mi chinavo verso di lui accadde qualcosa
+
+troppo rapida perché la seguissi. Non so se la barra di ferro fosse
+
+corrosa dalla ruggine e gli venisse via nella mano, o se la strappasse
+
+dalla roccia con la sua forza scimmiesca; ma la cosa era nella sua
+
+mano, e con le sue energie morenti la vibrò sopra il mio capo, mentre io
+
+inginocchiato là inerme accanto a lui. Alzai lo sguardo forsennatamente per schivare il
+
+colpo, e vidi sopra di noi la gran mole di Britannia sporgersi in fuori
+
+come la polena di una [[Ship|nave]]. L'istante dopo vidi che si inclinava
+
+di un pollice o due più del solito, e tutti i cieli con le loro
+
+salienti [[Stars|stelle]] parevano inclinarsi con essa. Al terzo secondo
+
+fu come se i cieli cadessero; e al quarto ero in piedi nel
+
+quieto [[Garden|giardino]], guardando in basso quella piatta rovina di pietra e ossa che
+
+tu oggi guardavi. Aveva strappato via l'ultimo puntello che
+
+reggeva la dea britannica, ed essa era caduta e aveva schiacciato il
+
+traditore nella sua caduta. Mi voltai e mi slanciai verso la giacca che sapevo
+
+contenere il plico, la squarciai con la mia [[Sword|spada]], e corsi via
+
+su per il sentiero del [[Garden|giardino]] fino a dove la mia motocicletta attendeva sulla [[Road|strada]]
+
+in alto. Avevo ogni ragione per la fretta; ma fuggii senza voltarmi a guardare
+
+la statua e il [[Body|corpo]]; e credo che la cosa da cui fuggii fosse
+
+la vista di quella spaventosa [[Allegory|allegoria]]. «Poi feci il resto di ciò che dovevo fare. Per tutta la [[Night|notte]] e
+
+fin dentro l'alba e la luce del giorno andai sfrecciando ronzante attraverso i
+
+villaggi e i mercati dell'Inghilterra meridionale come un proiettile in viaggio, finché
+
+giunsi al quartier generale nell'Ovest dove c'erano i guai. Ero
+
+giusto in [[Time|tempo]]. Potei tappezzare il luogo, per così dire, con la
+
+notizia che il [[government|governo]] non li aveva traditi, e che avrebbero
+
+trovato appoggi se avessero spinto verso est contro il nemico. Non c'è
+
+[[Time|tempo]] di raccontarti tutto ciò che accadde; ma ti dico che fu il giorno
+
+della mia vita. Un trionfo come una fiaccolata, con fiaccole
+
+che avrebbero potuto essere tizzoni. Gli ammutinamenti si placarono; gli uomini
+
+del Somerset e delle contee occidentali si riversarono nelle
+
+piazze del mercato; gli uomini che morirono con [[Arthur|Artù]] e tennero saldi con Alfredo. I
+
+reggimenti irlandesi si unirono a loro, dopo una scena simile a un tumulto, e
+
+marciarono verso est fuori dalla città cantando [[songs|canti]] feniani. C'era tutto
+
+ciò che non si comprende, riguardo alla oscura risata di quel popolo, nel
+
+piacere con cui, persino marciando con gli inglesi alla
+
+difesa dell'Inghilterra, gridavano a squarciagola: 'In alto
+
+sulla forca stavano i tre dal nobile cuore . . . Con
+
+la crudele corda d'Inghilterra gettata attorno a loro.' Comunque, il [[Chorus|ritornello]] era 'Dio
+
+salvi l'Irlanda,' e tutti noi avremmo potuto cantarlo proprio allora, in un
+
+senso o nell'altro. «Ma c'era un altro lato della mia missione. Portavo i piani della
+
+difesa; e in gran parte, per fortuna, anche i piani dell'
+
+invasione. Non ti tormenterò con la strategia; ma sapevamo dove
+
+il nemico aveva spinto in avanti la grande batteria che copriva tutti i suoi
+
+movimenti; e sebbene i nostri amici dall'Ovest difficilmente potessero arrivare
+
+in [[Time|tempo]] per intercettare il movimento principale, potevano portarsi entro la lunga
+
+gittata d'artiglieria della batteria e bombardarla, se solo avessero saputo
+
+esattamente dov'era. Difficilmente potevano dirlo a meno che qualcuno
+
+qui intorno non innalzasse una sorta di segnale. Ma, in qualche modo, piuttosto
+
+immagino che qualcuno lo farà.» Con ciò si alzò dal tavolo, e rimontarono sulle loro
+
+macchine e andarono verso est nell'avanzante crepuscolo della sera.
+
+I piani del paesaggio si ripetevano in piatte strisce di fluttuanti
+
+nuvole e gli ultimi colori del giorno si aggrappavano al cerchio dell'orizzonte.
+
+Ritirandosi sempre più lontano dietro di loro c'era il semicerchio delle
+
+ultime colline; e fu del tutto d'improvviso che videro lontano la fioca
+
+linea del mare. Non era una striscia di azzurro vivido come l'avevano vista
+
+dalla soleggiata veranda, ma di un sinistro e fumoso violetto, una
+
+tinta che pareva minacciosa e cupa. Qui Horne Fisher smontò ancora una
+
+volta. «Dobbiamo fare il resto della strada a piedi», disse, «e l'ultimo tratto di
+
+tutti devo percorrerlo [[Alone|solo]].» Si chinò e cominciò a slacciare qualcosa dalla sua bicicletta. Era
+
+qualcosa che aveva lasciato perplesso il suo compagno per tutta la via, malgrado
+
+ciò che lo tratteneva su enigmi più interessanti; pareva essere diverse
+
+aste legate insieme e avvolte nella carta. Fisher
+
+se le prese sotto il braccio e cominciò a farsi strada attraverso l'erba. Il
+
+terreno si faceva più accidentato e irregolare ed egli camminava
+
+verso una massa di boschetti e piccole selve; la [[Night|notte]] si faceva più buia a ogni
+
+istante. «Non dobbiamo più parlare», disse Fisher. «Ti sussurrerò
+
+quando dovrai fermarti. Non tentare allora di seguirmi, poiché
+
+non farebbe che rovinare lo spettacolo; un solo uomo può a stento strisciare al sicuro fino al
+
+punto, e due sarebbero certamente scoperti.» «Ti seguirei ovunque», replicò March, «ma mi fermerò anch'io,
+
+se è meglio così.» «So che lo faresti», disse il suo amico a voce bassa. «Forse sei
+
+l'unico uomo di cui io mi sia mai del tutto fidato a questo mondo.» Pochi passi più avanti giunsero all'estremità di un gran crinale o
+
+poggio che pareva mostruoso contro il cielo fioco; e Fisher si fermò con
+
+un gesto. Afferrò la mano del compagno e la strinse con una
+
+violenta tenerezza, e poi si slanciò in avanti nell'oscurità. March
+
+poteva scorgere debolmente la sua figura strisciare sotto l'[[Shadow|ombra]] del
+
+crinale, poi la perse di vista, e poi la vide di nuovo ritta
+
+su un altro poggio a duecento metri di distanza. Accanto a lui stava una singolare
+
+costruzione fatta in apparenza di due aste. Vi si chinò sopra e vi fu
+
+il bagliore di una luce; tutti i ricordi da scolaro di March si ridestarono in lui,
+
+ed egli seppe cos'era. Era il sostegno di un razzo. I confusi,
+
+incongrui ricordi ancora lo possedevano fino al preciso istante di un
+
+suono fiero ma familiare; e un istante dopo il razzo lasciò il suo
+
+trespolo e salì nello spazio infinito come una freccia stellata puntata verso
+
+le [[Stars|stelle]]. March pensò d'improvviso ai segni degli ultimi giorni e
+
+seppe che stava guardando la meteora apocalittica di qualcosa come un
+
+Giorno del giudizio. In alto negli infiniti cieli il razzo si piegò e scoppiò in
+
+scarlatte [[Stars|stelle]]. Per un momento l'intero paesaggio fino al mare e
+
+di ritorno fino alla mezzaluna delle colline boscose fu come un lago di luce
+
+di rubino, di un rosso stranamente ricco e glorioso, come se il mondo fosse
+
+intriso di vino piuttosto che di [[Blood|sangue]], o la terra fosse un terreno
+
+paradiso, sul quale indugiava per sempre il sanguigno istante del mattino. «Dio salvi l'Inghilterra!» gridò Fisher, con una lingua come lo squillo di una
+
+tromba. «E ora tocca a Dio salvare.» Mentre l'oscurità calava di nuovo su terra e mare, giunse un altro suono;
+
+lontano nei valichi delle colline dietro di loro i cannoni parlarono come
+
+il latrato di grandi mastini. Qualcosa che non era un razzo, che
+
+giunse non sibilando ma stridendo, passò sopra il capo di Harold March e
+
+si espanse oltre il poggio in luce e frastuono assordante, sconvolgendo
+
+il cervello con insopportabili brutalità di rumore. Ne giunse un altro, e
+
+poi un altro, e il mondo fu pieno di fragore e di vapore vulcanico
+
+e di luce caotica. L'artiglieria del West e degli irlandesi
+
+aveva localizzato la grande batteria nemica, e la stava riducendo in pezzi. Nella folle eccitazione di quel momento March scrutò attraverso la [[Storm|tempesta]],
+
+cercando di nuovo la lunga magra figura che stava accanto al sostegno
+
+del razzo. Poi un altro lampo illuminò l'intero crinale. La figura
+
+non c'era. Prima che i fuochi del razzo fossero svaniti dal cielo, molto prima
+
+che il primo cannone risuonasse dalle colline lontane, un crepitio di
+
+[[Fire|fuoco]] di fucileria era balenato e guizzato tutt'intorno dalle nascoste
+
+trincee del nemico. Qualcosa giaceva nell'[[Shadow|ombra]] ai piedi del
+
+crinale, rigido come il bastone del razzo caduto; e l'uomo
+
+che sapeva troppo sapeva ciò che vale la pena sapere.
 * * *
