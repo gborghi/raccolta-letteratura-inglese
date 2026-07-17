@@ -6527,6 +6527,51 @@ except that if he looked like an Italian, he must have looked
 exceedingly unlike a negro.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I
+
+# BROWNING NEI PRIMI ANNI DI VITA
+
+Sul lavoro di Browning si sono dette e restano da dire innumerevoli cose;
+della sua vita, considerata come una narrazione di fatti, c'è poco o nulla da dire.
+Fu una vita lucida e pubblica eppure tranquilla, che culminò in un grande test
+drammatico del carattere, per poi ritornare a questa [[Union|unione]] di quiete e pubblicità.
+E tuttavia, nonostante ciò, è molto più difficile parlare definitivamente della sua vita
+che del suo lavoro. Il suo lavoro ha il mistero che appartiene al complesso;
+la sua vita un mistero molto maggiore che appartiene al semplice.
+Fu abbastanza intelligente da comprendere la propria poesia; e se l'ha capita,
+possiamo capirla anche noi. Ma era anche del tutto inconscio e impulsivo, e non fu
+mai abbastanza intelligente da comprendere il proprio carattere; di conseguenza possiamo essere scusati
+se quella parte di lui che gli era nascosta è in parte nascosta anche a noi.
+L'uomo sottile è sempre immensamente più facile da comprendere dell'uomo naturale;
+perché l'uomo sottile tiene un diario dei suoi umori, pratica l'arte
+dell'[[Self|auto]]-analisi e della [[Self|auto]]-rivelazione,
+e può dirci come sia arrivato a provare questo o a dire quello.
+Ma un uomo come Browning non sa più dello stato delle sue emozioni di quanto sappia
+dello stato del suo polso; sono cose più grandi di lui, cose che crescono a volontà,
+come forze della [[Nature|Natura]]. Esiste una vecchia storia, probabilmente apocrifa,
+che descrive come un'ammiratrice gli scrisse chiedendogli il significato
+di uno dei suoi più oscuri [[Poems|poemi]], e ricevette la seguente risposta:
+"Quando quel poema fu scritto, due persone sapevano cosa significava: Dio e Robert Browning.
+E ora solo Dio sa cosa significa". Questa storia dà, con ogni probabilità,
+un'impressione completamente falsa dell'atteggiamento di Browning verso il suo lavoro.
+Fu un acuto [[artist|artista]], uno studioso attento, poteva indicare qualsiasi cosa e
+aveva una [[Memory|memoria]] come la Biblioteca del British Museum. Ma la storia dà,
+con ogni probabilità, un quadro abbastanza accurato dell'atteggiamento di Browning verso le proprie emozioni
+e il suo tipo psicologico. Se qualcuno gli avesse chiesto cosa significasse una particolare allusione a un [[Hero|eroe]] persiano,
+avrebbe potuto, con ogni probabilità, citare metà dell'[[Epic|epica]]; se qualcuno gli avesse chiesto
+a quale cugino di terzo grado di Carlo Magno si facesse riferimento in _Sordello_,
+avrebbe potuto dare un resoconto dell'uomo e dei suoi antenati fino al nonno.
+Ma se qualcuno gli avesse chiesto cosa pensasse di sé stesso, o quali fossero le sue emozioni
+un'ora prima del suo matrimonio, avrebbe risposto con perfetta sincerità che solo Dio [[Alone|solo]] lo sapeva.
+
+Questo mistero dell'uomo inconscio, molto più profondo di qualsiasi mistero dell'uomo conscio, esistendo com'è in tutti gli uomini, esisteva in modo peculiare in Browning, perché era un uomo molto ordinario e spontaneo. La stessa cosa esiste fino a un certo punto in tutta la [[history|storia]] e in tutte le vicende umane. Qualsiasi cosa che sia deliberata, contorta, creata come una trappola e un mistero, deve essere scoperta alla fine; tutto ciò che è fatto naturalmente rimane misterioso. Può essere difficile scoprire i principi dei Rosacroce, ma è molto più facile scoprire i principi dei Rosacroce piuttosto che quelli degli Stati Uniti: né alcuna società segreta ha mantenuto i suoi obiettivi così tranquilli come l'umanità. Il modo per essere inesplicabili è quello di essere caotici, e questa era la qualità della vita di Browning; c'è la stessa differenza tra giudicare della sua poesia e giudicare della sua vita, che c'è tra fare una mappa di un labirinto e fare una mappa di una nebbia. La discussione su cosa significhi qualche allusione particolare in _Sordello_ è andata avanti così tanto, e potrebbe continuare ancora, ma ha nella sua [[Nature|natura]] la possibilità di finire. La vita di Robert Browning, che combina il più grande cervello con il temperamento più semplice noto nelle nostre cronache, andrebbe avanti per sempre se non decidessimo di riassumerla in una narrazione molto breve e semplice.
+
+Robert Browning nacque a Camberwell il 7 maggio 1812. Suo padre e suo nonno erano impiegati alla Banca d'Inghilterra, e tutta la sua famiglia sembrava appartenere alla solida e colta classe media: quella che si interessa di letteratura senza ambizioni in proposito, quella per cui la poesia è un lusso ma non una necessità.
+
+Questa qualità e questo carattere effettivi della famiglia Browning mostrano una certa tendenza ad essere oscurati da questioni più remote. È consuetudine di tutti i biografi cercare le tracce più antiche di una famiglia in epoche lontane e persino in terre distanti; e Browning, per come sono andate le cose, ha dato loro opportunità che tendono a distogliere la mente dalla questione principale. Esiste, ad esempio, una tradizione secondo cui uomini del suo nome erano prominenti nell'età feudale; si basa su poco più di una coincidenza dei cognomi e sul fatto che Browning usava un sigillo con uno stemma. Migliaia di uomini della classe media usano un tale sigillo, semplicemente perché è una curiosità o un lascito, senza sapere né interessarsi delle condizioni dei loro antenati nel Medioevo. Poi, ancora, c'è la teoria che fosse di [[Blood|sangue]] ebraico; una visione perfettamente concepibile, e per cui Browning sarebbe stato l'ultimo a pensare come un detrimento, ma per cui, in realtà, ci sono prove estremamente scarse. La ragione principale assegnata dai suoi contemporanei per la credenza era il fatto che fosse, senza [[Doubt|dubbio]], particolarmente e profondamente interessato alle questioni ebraiche. Questa suggestione, inutile comunque, se mai, direbbe l'opposto. Perché mentre un inglese può essere entusiasta dell'Inghilterra o indignato contro l'Inghilterra, non è mai venuto in mente a nessun inglese vivente di interessarsi all'Inghilterra. Browning era, come ogni altro intelligente ariano, interessato agli ebrei; ma se fosse stato imparentato con ogni popolo che lo interessava, avrebbe dovuto essere di estrazione straordinariamente mista. Terzo, c'è la teoria ancora più sensazionale che in Robert Browning ci fosse una traccia del negro. I sostenitori di questa ipotesi sembrano avere poco da dire in realtà, se non che la nonna di Browning era certamente una creola. Si dice a sostegno della visione che Browning fosse singolarmente scuro nella prima vita e venisse spesso scambiato per un italiano. Non sembra tuttavia esserci nulla di particolare da dedurre da ciò, se non che se somigliava a un italiano, doveva assomigliare straordinariamente poco a un negro.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="Robert Browning — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
@@ -6638,6 +6683,36 @@ brought up at Petropaulowski (of course, you have learnt your modern
 politics, and therefore know why), but for all that he was as thorough
 an Englishman as ever coveted his neighbour's goods."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non c'è nulla di valido contro nessuna di queste tre teorie, così come non c'è nulla di valido a loro favore; una o tutte possono essere vere, ma sono comunque irrilevanti. Sono qualcosa che è nella [[history|storia]] o nella [[Biography|biografia]] molto peggio che essere falsa: sono fuorvianti. Non vogliamo sapere di un uomo come Browning se aveva diritto a uno scudo usato nelle [[Wars of the Roses|Guerre di successione della rosa]], o se il decimo nonno della sua nonna creola fosse stato bianco o nero: vogliamo sapere qualcosa sulla sua famiglia, che è una cosa completamente diversa. Desideriamo avere su Browning non tanto il tipo di informazioni che soddisferebbero Clarencieux [[King|Re]]-d'Armi, ma il genere di informazioni che ci accontenterebbe se stessimo cercando un segretario molto riservato o un precettore molto privato. Non saremmo preoccupati se il precettore discendesse da un [[King|re]] irlandese, ma saremmo comunque davvero interessati alla sua estrazione, a che tipo di persone fossero state le sue per le ultime due o tre generazioni. Questo è il dovere più pratico della [[Biography|biografia]], ed è anche il più difficile. È molto più facile inseguire una famiglia da lapide a lapide fino all'[[Time|epoca]] di Enrico II che catturare, realizzare e mettere su carta la cosa più anonima e sfuggente di tutte: il tono sociale.
+
+Si dirà subito e bisogna ammetterlo altrettanto prontamente che potremmo trovare un significato biografico in ciascuna di queste teorie se lo cercassimo. Ma è proprio il peccato e la trappola dei biografi quello di tendere a vedere un significato in ogni cosa; trascuratezza caratteristica se il loro [[Hero|eroe]] lascia cadere la pipa, e attenzione caratteristica se la raccoglie. È vero, certamente, che tutte le tre razze sopra nominate potrebbero essere collegate alla personalità di Browning. Se credessimo, per esempio, che discendesse davvero da una stirpe di baroni medievali, diremmo subito che da loro ha ereditato il suo spirito preminente di combattimento: avremmo ragione, perché ogni tratto della sua testarda [[Soul|anima]] e del suo eretto [[Body|corpo]] esprimeva davvero il guerriero; era sempre in lotta, che si trattasse di una teoria tedesca sui Gnostici o di uno sconosciuto che spintonava sua moglie in una folla. Ancora, se avessimo deciso che fosse ebreo, indicheremmo quanto fosse assorbito dalla terribile semplicità del monoteismo: avremmo ragione, perché lo era davvero. O ancora, anche nel caso della fantasia sul negro; non sarebbe difficile per noi suggerire un [[Love|amore]] per il colore, una certa vistosità mentale, un piacere
+
+"Quando i rossi e i blu erano davvero rossi e blu,"
+
+come dice in _The Ring and the Book_. Avremmo ragione; perché in Browning c'era davvero una violenza tropicale del gusto, uno schema artistico composto come se fosse di orchidee e cacatua, che tra i nostri freddi poeti inglesi sembra appena europeo. Tutto questo è estremamente affascinante; e potrebbe essere vero. Ma, come suggerito sopra, qui entra in gioco la grande [[Temptation|tentazione]] di questo tipo di lavoro, la nobile [[Temptation|tentazione]] di vedere troppo in tutto. Il biografo può facilmente vedere un significato personale in queste tre ipotetiche nazionalità. Ma c'è al mondo un biografo che potrebbe mettere la mano sul cuore e dire che non avrebbe visto altrettanto significato in altre tre qualsiasi nazionalità? Se gli antenati di Browning fossero stati francesi, non avremmo forse detto che da loro senza dubbio aveva ereditato quella agilità logica che lo contraddistingue tra i poeti inglesi? Se suo nonno fosse stato svedese, non avremmo forse detto che il vecchio [[Blood|sangue]] di pirata marinaio era scoppiato in audace speculazione e insaziabile viaggio? Se sua prozia fosse stata una pellerossa, non avremmo forse detto che solo negli Ojibway e nei Piedi Neri troviamo la fantasticheria di Browning combinata con lo stoicismo di Browning? Questa prontezza a cogliere indizi è parte inevitabile di quel segreto culto dell'[[Hero|eroe]] che è il cuore della [[Biography|biografia]]. L'[[Lover|amante]] dei grandi uomini vede i loro segni molto prima che comincino ad apparire sulla terra, e, come qualche vecchio cronista mitologico, rivendica come loro araldi le tempeste e le stelle cadenti [[Stars|stelle]].
+
+È dunque necessario estendere una certa indulgenza al presente scrittore
+se rifiuta di seguire quell'amabile veterano dello studio su Browning, il Dr.
+Furnivall, nelle prodigiose indagini che ha condotto sulle condizioni della famiglia Browning fin dall'inizio del mondo. Per la sua ultima scoperta, la discendenza
+di Browning da un valletto al servizio di un magnate di campagna, sembra esserci una prova suggestiva, sebbene non decisiva. Ma la discendenza di Browning da baroni, o ebrei, o lacchè, o uomini neri, non è il
+punto principale che riguarda la sua famiglia. Se i Browning fossero di origine mista,
+sarebbero tanto più simili alla grande maggioranza delle persone della classe media inglese. È curioso che il [[Romance|romanzo]] della razza venga
+parlato come se fosse una cosa peculiare dell'aristocrazia; che
+l'ammirazione per il rango, o l'interesse per la famiglia, significhi solo interesse
+per un tipo non molto interessante di rango e famiglia. La [[Truth|verità]] è che
+gli aristocratici mostrano meno del [[Romance|romanzo]] del lignaggio rispetto a qualsiasi altra
+gente nel mondo. Poiché, essendo il loro principio quello di sposarsi solo
+all'interno della propria classe e modo di vita, non c'è opportunità per loro
+di studiare l'ereditarietà in modo più interessante; mostrano quasi la uniformità ininterrotta dei [[Animals|animali]] inferiori. È nelle classi medie che troviamo la poesia della genealogia; è il [[grocer|droghiere]] suburbano fermo sulla porta del suo negozio a cui una folle traccia di
+[[Blood|sangue]] orientale o celtico può spingere improvvisamente a un'intera giornata festiva o a un crimine. Ammettiamo allora che sia vero che queste leggende sulla famiglia Browning hanno ogni possibilità astratta. Ma è una [[Truth|verità]] molto più convincente e pertinente che se un uomo avesse bussato alla porta di
+ogni [[house|casa]] nella strada dove Browning nacque, avrebbe trovato
+leggende simili in tutte loro. A malapena c'è una famiglia a Camberwell
+che non abbia una storia o due su matrimoni con stranieri alcune generazioni fa; e in tutto ciò i Browning sono semplicemente una tipica famiglia di Camberwell. La vera [[Truth|verità]] su Browning e uomini come lui può essere espressa a malapena meglio che nelle parole di quella storia molto saggia e spiritosa,
+i _Bambini Acquatici_ di Kingsley, in cui il lignaggio del [[The Professor|Professore]] è
+trattato in un modo che è un ottimo esempio del senso comune selvaggio del libro. "Sua madre era una donna olandese, e quindi nacque a Curaçoa (ovviamente avete studiato la geografia e quindi sapete perché), e suo padre era un polacco, e quindi fu educato a Petropaulowski (ovviamente avete imparato la politica moderna, e quindi sapete perché), ma nonostante tutto era un inglese quanto mai puro che desiderava i beni del prossimo."
 
 
 
@@ -15511,86 +15586,3 @@ PITT. Di Lord ROSEBERY.
 
 PEEL. Di J.R. THURSFIELD, M.A., già Fellow del Jesus College,
 [[Oxford]].
-
-Fine dell'eBook Project Gutenberg di Robert Browning, di G. K. Chesterton
-
-*** FINE DI QUESTO EBOOK PROJECT GUTENBERG ROBERT BROWNING ***
-
-***** Questo file dovrebbe chiamarsi 13342-8.txt o 13342-8.zip *****
-Questo e tutti i file associati di vari formati si troveranno in:
-http://www.gutenberg.net/1/3/3/4/13342/
-
-Prodotto da Jonathan Ingram, Victoria Woosley e PG Distributed
-Proofreaders
-
-Le edizioni aggiornate sostituiranno la precedente — le vecchie edizioni
-verranno rinominate.
-
-Creare le opere a partire da edizioni a stampa di pubblico dominio significa che
-nessuno detiene un copyright statunitense su queste opere, sicché la Fondazione
-(e voi!) potete copiarle e distribuirle negli Stati Uniti senza
-permesso e senza pagare diritti d'autore. Regole speciali,
-esposte nella parte relativa ai Termini Generali d'Uso di questa licenza, si applicano al
-copiare e distribuire opere elettroniche Project Gutenberg-tm per
-proteggere il concetto e il marchio PROJECT GUTENBERG-tm. Project
-Gutenberg è un marchio registrato, e non può essere usato se
-fate pagare gli eBook, a meno che non riceviate uno specifico permesso. Se
-non fate pagare nulla per le copie di questo eBook, conformarsi alle
-regole è molto facile. Potete usare questo eBook per quasi qualunque scopo,
-come la creazione di opere derivate, rapporti, esecuzioni e
-ricerche. Esse possono essere modificate, stampate e regalate — potete fare
-praticamente QUALSIASI COSA con gli eBook di pubblico dominio. La ridistribuzione è
-soggetta alla licenza del marchio, specialmente la ridistribuzione
-commerciale.
-
-*** INIZIO: LICENZA COMPLETA ***
-
-LA LICENZA COMPLETA PROJECT GUTENBERG
-SI PREGA DI LEGGERE QUESTO PRIMA DI DISTRIBUIRE O USARE QUEST'OPERA
-
-Per proteggere la missione del Project Gutenberg-tm di promuovere la libera
-distribuzione di opere elettroniche, usando o distribuendo quest'opera
-(o qualunque altra opera associata in qualsiasi modo alla frase «Project
-Gutenberg»), voi accettate di conformarvi a tutti i termini della Licenza completa Project
-Gutenberg-tm (disponibile con questo file oppure in rete all'indirizzo
-http://gutenberg.net/license).
-
-Sezione 1. Termini Generali d'Uso e Ridistribuzione delle opere elettroniche
-Project Gutenberg-tm
-
-1.A. Leggendo o usando una qualsiasi parte di quest'opera elettronica Project Gutenberg-tm,
-voi indicate di aver letto, compreso, accettato e
-approvato tutti i termini di questa licenza e dell'accordo sulla proprietà intellettuale
-(marchio/copyright). Se non accettate di attenervi a tutti
-i termini di questo accordo, dovete cessare di usare e restituire o distruggere
-tutte le copie di opere elettroniche Project Gutenberg-tm in vostro possesso.
-Se avete pagato una tariffa per ottenere una copia o l'accesso a un'opera
-elettronica Project Gutenberg-tm e non accettate di essere vincolati dai
-termini di questo accordo, potete ottenere un rimborso dalla persona o
-dall'ente al quale avete pagato la tariffa, come esposto nel paragrafo 1.E.8.
-
-1.B. «Project Gutenberg» è un marchio registrato. Può essere
-usato o associato in qualsiasi modo a un'opera elettronica soltanto da persone che
-accettino di essere vincolate dai termini di questo accordo. Vi sono alcune
-cose che potete fare con la maggior parte delle opere elettroniche Project Gutenberg-tm
-anche senza conformarvi ai termini completi di questo accordo. Vedi
-il paragrafo 1.C qui sotto. Vi sono molte cose che potete fare con le opere
-elettroniche Project Gutenberg-tm se seguite i termini di questo accordo
-e aiutate a preservare il libero accesso futuro alle opere elettroniche Project
-Gutenberg-tm. Vedi il paragrafo 1.E qui sotto.
-
-1.C. La Project Gutenberg Literary Archive Foundation («la Fondazione»
-o PGLAF) detiene un copyright di raccolta sulla collezione di opere elettroniche
-Project Gutenberg-tm. Quasi tutte le singole opere della
-collezione sono di pubblico dominio negli Stati Uniti. Se una
-singola opera è di pubblico dominio negli Stati Uniti e voi vi
-trovate negli Stati Uniti, noi non rivendichiamo il diritto di impedirvi di
-copiare, distribuire, eseguire, esibire o creare opere derivate
-basate sull'opera, purché tutti i riferimenti a Project Gutenberg
-siano rimossi. Naturalmente, [[Hope|speriamo]] che voi sosteniate la missione del Project
-Gutenberg-tm di promuovere il libero accesso alle opere elettroniche
-condividendo liberamente le opere Project Gutenberg-tm nel rispetto dei termini di
-questo accordo, così da mantenere il nome Project Gutenberg-tm associato
-all'opera. Potete facilmente conformarvi ai termini di questo accordo
-mantenendo quest'opera nel medesimo formato con l'annessa Licenza completa Project
-Gutenberg-tm quando la condividete senza pagamento con altri.

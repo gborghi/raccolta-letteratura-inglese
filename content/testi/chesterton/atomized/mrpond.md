@@ -24575,7 +24575,3 @@ l'idea che si trattasse di un gigante da pantomima. Avremmo dovuto vederlo...
 solo che," disse il signor Pond, concludendo, come aveva cominciato, con un piccolo
 
 riso di scusa, "era troppo alto per essere visto."
-
-Fine di questo eBook del Project Gutenberg of Australia
-
-The Paradoxes of Mr Pond di G. K. Chesterton

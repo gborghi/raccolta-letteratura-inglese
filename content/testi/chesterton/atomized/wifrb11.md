@@ -21008,5 +21008,3 @@ due volte traditore.»
 E rimuginò a lungo davanti al ritratto di un uomo dai capelli bianchi
 con le sopracciglia nere e una specie di rosa, dipinto sorriso che pareva
 contraddire il nero monito nei suoi occhi.
-
-Fine di questo Etext del Project Gutenberg di La saggezza di [[Father Brown|Padre Brown]]

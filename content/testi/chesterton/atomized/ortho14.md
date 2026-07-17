@@ -14598,5 +14598,3 @@ che Egli velava di continuo con improvvisi [[Silence|silenzi]] o con impetuosa s
 V'era un'unica cosa troppo grande perché Dio potesse mostrarcela quando
 camminò sulla nostra terra; e talvolta ho immaginato che fosse la sua
 letizia.
-
-Fine dell'Etext del Progetto Gutenberg di Orthodoxy di G. K. Chesterton

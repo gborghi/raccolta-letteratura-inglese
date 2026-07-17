@@ -4764,6 +4764,296 @@ these houses stands in the centre of the world. There is no single
 [[Time|time]] the heart of all things and the end of travel.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CHARLOTTE BRONTE
+
+Spesso si muove un'obiezione contro la [[Biography|biografia]] realistica, poiché rivela
+
+tanto di ciò che è importante e persino sacro nella vita di un uomo. La vera
+
+obiezione va piuttosto cercata nel fatto che essa rivela di un
+
+uomo proprio quei punti che non hanno importanza. Rivela, afferma e
+
+insiste su esattamente quelle cose della vita di un uomo di cui l'uomo stesso
+
+è del tutto inconsapevole: la sua precisa classe sociale, le circostanze
+
+della sua ascendenza, il luogo in cui attualmente risiede. Sono cose che,
+
+a rigore, non si presentano mai allo sguardo umano. Non
+
+vengono in mente a un uomo; si può dire, con quasi altrettanta [[Truth|verità]], che
+
+esse non si presentano nella vita di un uomo. Un uomo non pensa a se stesso come
+
+abitante della terza [[house|casa]] in una fila di villette di Brixton più di quanto
+
+pensi a se stesso come a uno strano animale a due gambe. Quale fosse il
+
+nome di un uomo, quale il suo reddito, chi sposò, dove visse: queste
+
+non sono cose sacre; sono irrilevanze.
+
+Un caso assai emblematico di ciò è quello delle Brontë. La Brontë si trova nella
+
+posizione della pazza di un villaggio di campagna; le sue eccentricità
+
+costituiscono una fonte inesauribile di [[Innocent|innocente]] conversazione per quella quanto mai mite
+
+e bucolica cerchia, il mondo letterario. I gloriosi pettegoli della
+
+letteratura, come il signor Augustine Birrell e il signor Andrew Lang, non si stancano mai di
+
+raccogliere tutti gli scorci, gli aneddoti, i sermoni, le luci laterali,
+
+i fuscelli e le pagliuzze che andranno a comporre un museo Brontë. Sono
+
+gli autori vittoriani più discussi nella loro persona, e il
+
+riflettore della [[Biography|biografia]] ha lasciato pochi angoli in ombra nella buia vecchia
+
+[[house|casa]] dello Yorkshire. Eppure tutta questa indagine biografica,
+
+per quanto naturale e pittoresca, non è del tutto adatta alle Brontë.
+
+Poiché il genio delle Brontë fu deputato soprattutto ad affermare la suprema
+
+irrilevanza degli aspetti esteriori. Fino a quel momento la [[Truth|verità]] era sempre stata
+
+concepita come esistente più o meno nel [[Novel|romanzo]] di costume. Charlotte
+
+Brontë elettrizzò il mondo mostrando che una verità infinitamente più antica ed
+
+più elementare [[Truth|verità]] poteva essere trasmessa da un [[Novel|romanzo]] in cui nessuno,
+
+buono o cattivo, aveva maniera alcuna. La sua opera rappresenta la prima grande
+
+affermazione che la vita monotona della civiltà moderna è un travestimento tanto
+
+pacchiano e ingannevole quanto il costume di un «bal [[Masque|masque]]». Mostrò che
+
+possono esistere abissi dentro un'istitutrice ed [[eternities|eternità]] dentro un
+
+industriale; la sua eroina è la banale zitella, con l'abito di
+
+merino e l'[[Soul|anima]] di fiamma. È significativo notare che Charlotte
+
+Brontë, seguendo consapevolmente o inconsapevolmente la grande tendenza del suo
+
+genio, fu la prima a togliere all'eroina non soltanto l'
+
+oro e i diamanti artificiali della ricchezza e della moda, ma persino i naturali
+
+oro e diamanti della [[Beauty|bellezza]] fisica e della grazia. Istintivamente sentì
+
+che tutto l'esteriore doveva essere reso brutto affinché tutto l'
+
+interiore potesse essere reso [[Sublime|sublime]]. Scelse la più brutta delle donne nel
+
+più brutto dei secoli, e rivelò in esse tutti gli inferni e i cieli
+
+di [[Dante]].
+
+Si può dunque, credo, legittimamente dire che gli aspetti esteriori
+
+della vita delle Brontë, per quanto singolarmente pittoreschi in sé, contano
+
+meno degli aspetti esteriori di quasi ogni altro scrittore. È interessante
+
+sapere se Jane Austen avesse una qualche conoscenza delle vite degli
+
+ufficiali e delle dame eleganti che introdusse nei suoi capolavori.
+
+È interessante sapere se Dickens avesse mai visto un naufragio o
+
+fosse mai stato in un ospizio dei poveri. Poiché in questi autori molta della persuasione è
+
+trasmessa non sempre dall'aderenza ai fatti, ma sempre dalla loro presa.
+
+Ma tutto lo scopo, il senso e il significato dell'opera delle Brontë è
+
+che la cosa più futile dell'intero universo è il fatto. Una storia
+
+come «[[Jane Eyre]]» è in sé una [[Fable|favola]] tanto mostruosa che dovrebbe essere
+
+esclusa da un libro di fiabe. I personaggi non fanno ciò che
+
+dovrebbero fare, né ciò che farebbero, né, si potrebbe dire, tale è la
+
+follia dell'atmosfera, nemmeno ciò che intendono fare. La condotta
+
+di Rochester è così primordialmente e sovrumanamente ignobile che Bret Harte
+
+nella sua mirabile parodia la esagerò appena. «Poi, riprendendo il suo
+
+solito modo, mi scagliò gli stivali contro la testa e si ritirò», forse
+
+raggiunge qualcosa che somiglia alla caricatura. La scena in cui Rochester
+
+si traveste da vecchia zingara ha in sé qualcosa che davvero non si
+
+trova in nessun altro ramo dell'arte, se non nel finale della pantomima,
+
+dove l'Imperatore si trasforma in un pantalone. Eppure, malgrado questo vasto
+
+[[nightmare|incubo]] di illusione, morbosità e ignoranza del mondo, «Jane
+
+Eyre» è forse il libro più vero che sia mai stato scritto. La sua essenziale
+
+[[Truth|verità]] alla vita a volte fa trattenere il fiato. Poiché non è vero
+
+quanto alle maniere, che sono costantemente false, o ai fatti, che sono quasi
+
+sempre falsi; è vero rispetto all'unica cosa esistente che è vera,
+
+l'emozione, il minimo irriducibile, il germe indistruttibile. Non
+
+importerebbe un fuscello se una storia delle Brontë fosse cento volte più
+
+lunatica e inverosimile di «[[Jane Eyre]]», o cento volte più
+
+lunatica e inverosimile di «[[Wuthering Heights]]». Non importerebbe
+
+se George Read stesse a testa in giù, e la signora Read cavalcasse un drago, se
+
+Fairfax Rochester avesse quattro occhi e [[St John Rivers]] tre gambe, la storia
+
+resterebbe pur sempre la storia più vera del mondo. Il tipico
+
+personaggio delle Brontë è, in verità, una sorta di [[Monster|mostro]]. In lui tutto tranne l'
+
+essenziale è slogato. Le sue mani stanno sulle gambe e i suoi piedi sulle
+
+braccia, il suo naso è sopra gli occhi, ma il suo cuore è al posto giusto.
+
+La grande e duratura [[Truth|verità]] che il ciclo narrativo delle Brontë rappresenta
+
+è una certa importantissima [[Truth|verità]] sullo spirito perenne della giovinezza,
+
+la [[Truth|verità]] della stretta parentela tra terrore e gioia. L'eroina
+
+delle Brontë, vestita miseramente, mal istruita, impacciata da un'umiliante
+
+inesperienza, una sorta di brutta [[innocence|innocenza]], è tuttavia, per il fatto stesso della sua
+
+[[Solitude|solitudine]] e della sua goffaggine, colma della più grande delizia
+
+possibile a un essere umano, la delizia dell'attesa, la delizia di un'
+
+ardente e sgargiante ignoranza. Serve a mostrare quanto sia vano per
+
+l'umanità supporre che il piacere si possa raggiungere principalmente indossando
+
+l'abito da sera ogni sera, e avendo un palco a teatro a ogni prima
+
+[[Night|serata]]. Non è l'uomo del piacere ad avere il piacere; non è l'uomo
+
+di mondo ad apprezzare il mondo. L'uomo che ha imparato a fare tutte le
+
+cose convenzionali alla perfezione ha nel medesimo [[Time|tempo]] imparato a farle
+
+prosaicamente. È l'uomo goffo, il cui abito da sera non gli sta
+
+bene, i cui guanti non entrano, i cui complimenti non riescono,
+
+a essere davvero colmo delle antiche estasi della giovinezza. È abbastanza
+
+spaventato dalla società da godere realmente dei suoi trionfi. Possiede quell'elemento
+
+di [[Fear|paura]] che è uno degli eterni ingredienti della gioia. Questo spirito è
+
+lo spirito centrale del [[Novel|romanzo]] delle Brontë. È l'[[Epic|epopea]] dell'
+
+esaltazione dell'uomo timido. Come tale è di incalcolabile valore nella nostra
+
+[[Time|epoca]], la cui maledizione è che non prende la gioia con riverenza perché
+
+non la prende con timore. La squallida e insignificante istitutrice di
+
+Charlotte Brontë, dalla piccola prospettiva e dal piccolo credo, ebbe più
+
+commercio con le terribili ed elementari forze che muovono il mondo di
+
+quanto ne abbia una legione di poeti minori senza legge. Ella si accostò all'universo con vera
+
+semplicità, e, di conseguenza, con vera [[Fear|paura]] e delizia. Era, per
+
+così dire, timida dinanzi alla moltitudine delle [[Stars|stelle]], e in ciò aveva
+
+fatto proprio l'unica forza che può impedire al godimento di essere
+
+nero e sterile come la routine. La facoltà di essere timidi è la prima
+
+e la più delicata delle potenze del godimento. Il [[Fear|timore]] del Signore
+
+è il principio del piacere.
+
+Nel complesso, dunque, credo si possa giustamente dire che la
+
+cupa e selvaggia giovinezza delle Brontë nella loro cupa e selvaggia [[Home|dimora]] dello Yorkshire sia stata
+
+alquanto esagerata come fattore necessario della loro opera e della loro
+
+concezione. Le emozioni di cui trattarono erano emozioni universali,
+
+emozioni del mattino dell'esistenza, la gioia primaverile e il
+
+terrore primaverile. Ognuno di noi, da fanciullo o fanciulla, ha avuto qualche
+
+sogno di mezzanotte di ostacolo senza nome e minaccia indicibile, in cui
+
+vi era, sotto qualsivoglia forma imbecille, tutta la mortale tensione e
+
+il panico di «[[Wuthering Heights]]». Ognuno di noi ha avuto una fantasticheria sul nostro
+
+potenziale destino non un atomo più ragionevole di «[[Jane Eyre]]». E
+
+la [[Truth|verità]] che le Brontë vennero a dirci è la [[Truth|verità]] che molte
+
+acque non possono spegnere l'[[Love|amore]], e che la rispettabilità suburbana non può toccare
+
+o smorzare un segreto entusiasmo. Clapham, come ogni altra [[City|città]] terrena, è
+
+costruita sopra un vulcano. Migliaia di persone vanno avanti e indietro nel
+
+deserto di mattoni e malta, guadagnando meschini salari, professando una meschina
+
+religione, indossando un meschino vestiario, migliaia di donne che non hanno mai trovato
+
+alcuna espressione per la loro esaltazione o la loro [[Tragedy|tragedia]] se non continuare a
+
+lavorare sempre più duramente in occupazioni monotone e meccaniche, a
+
+sgridare bambini o cucire camicie. Ma tra tutte queste silenziose
+
+una d'un tratto trovò la parola, e pronunciò una risonante testimonianza, e il suo
+
+nome era Charlotte Brontë. Diramandosi intorno a noi da ogni lato, oggi,
+
+come un'enorme e raggiante figura geometrica si stendono gli infiniti rami della
+
+grande [[City|città]]. Vi sono momenti in cui siamo quasi colpiti da follia, come
+
+[[Well|ben]] potremmo esserlo, dalla molteplicità di quelle spaventose prospettive, la
+
+frenetica aritmetica di quella impensabile popolazione. Ma questo nostro
+
+pensiero non è in [[Truth|verità]] che una fantasia. Non vi sono [[Chains|catene]] di case;
+
+non vi sono folle di uomini. Il colossale diagramma di strade e case
+
+è un'illusione, il sogno d'oppio di un costruttore speculatore. Ciascuno di questi
+
+uomini è supremamente solitario e supremamente importante a se stesso. Ciascuna di
+
+queste case sta al centro del mondo. Non v'è una sola
+
+[[house|casa]] di tutti quei milioni che non sia parsa a qualcuno in un qualche
+
+[[Time|momento]] il cuore di tutte le cose e la meta del viaggio.
+
 
 
 <span class="atom-split" data-atom="story_03_the_optimism_of_byron" data-title="Twelve Types — THE OPTIMISM OF BYRON" data-chapter="THE OPTIMISM OF BYRON" data-kind="story"></span>
@@ -5080,6 +5370,318 @@ may emerge suddenly at the sight of the grass of a meadow or the spears
 of the enemy.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'OTTIMISMO DI BYRON
+
+Tutto congiura contro il nostro apprezzamento dello spirito e dell'età di Byron.
+
+L'età che ci è appena trascorsa è sempre come [[A Dream|un sogno]] quando ci destiamo
+
+al mattino, cosa incredibile e lontana secoli. E il mondo di
+
+Byron pare un mondo triste e sbiadito, un mondo strano e inumano, dove gli uomini
+
+erano romantici in favoriti, le dame vivevano, a quanto pare, in pergolati, e la
+
+parola stessa ha il suono d'un pezzo di scenografia teatrale. Rose e
+
+usignoli ricorrono nella loro poesia con la monotona eleganza d'un
+
+motivo di carta da parati. Il tutto è come un baccanale di morti, un baccanale con
+
+splendide vesti e volti ebeti.
+
+Ma quanto più acutamente e seriamente studiamo le storie degli uomini, tanto
+
+meno saremo pronti a servirci della parola «artificiale». Nulla al
+
+mondo è mai stato artificiale. Molti costumi, molte vesti, molte
+
+opere d'arte sono bollate d'artificiosità perché esibiscono [[Vanity|vanità]]
+
+e [[Self|autocoscienza]]: come se la [[Vanity|vanità]] non fosse cosa profonda ed elementare,
+
+come l'[[Love|amore]] e l'odio e la [[Fear|paura]] della [[Death|morte]]. La [[Vanity|vanità]] si può trovare nei
+
+deserti tenebrosi, nell'eremita e nelle fiere selvagge che strisciano attorno
+
+a lui. Può essere buona o cattiva, ma di certo non è artificiale: la [[Vanity|vanità]]
+
+è una voce che sale dall'abisso.
+
+Il fatto notevole è, tuttavia, e incide fortemente sull'attuale
+
+posizione di Byron, che quando una cosa ci è estranea, quando è
+
+remota e prodotto di qualche altra età o spirito, la riteniamo non
+
+selvaggia o terribile, ma soltanto artificiale. Vi sono molti esempi di
+
+ciò: uno calzante è il caso delle piante tropicali e degli [[Birds|uccelli]]. Quando vediamo
+
+alcune delle fioriture mostruose e sgargianti che arricchiscono le foreste
+
+equatoriali, non sentiamo che siano conflagrazioni della [[Nature|natura]]; silenziose
+
+esplosioni della sua energia spaventosa. Semplicemente stentiamo a credere
+
+che non siano [[Flowers|fiori]] di cera cresciuti sotto una campana di vetro. Quando vediamo alcuni
+
+degli [[Birds|uccelli]] tropicali, coi loro corpi minuti attaccati a becchi giganteschi,
+
+non sentiamo che siano bizzarrie del feroce [[Humour|umorismo]] della Creazione. Quasi
+
+crediamo che siano giocattoli usciti dalla scatola dei balocchi d'un [[Child|bambino]],
+
+artificiosamente intagliati e artificiosamente colorati. Così è per la grande
+
+convulsione della [[Nature|natura]] che fu nota come byronismo. Il vulcano non è ormai un
+
+vulcano spento; è il bastone morto d'un razzo. È ciò che resta
+
+non d'un [[Fire|fuoco]] naturale ma artificiale.
+
+Ma Byron e il byronismo furono qualcosa d'incommensurabilmente più grande di quanto
+
+sia rappresentato da una veduta come questa: il loro valore e significato reale
+
+sono davvero poco compresi. Il primo degli errori su Byron sta
+
+nel fatto che è trattato come un pessimista. Vero, egli trattava sé stesso
+
+come tale, ma un critico difficilmente può avere anche una lieve conoscenza di Byron
+
+senza sapere che egli aveva la minima misura di conoscenza di sé
+
+che mai sia toccata in sorte a un uomo intelligente. Il vero carattere di
+
+ciò che è noto come il pessimismo di Byron merita più studio di quanto ne meriterebbe
+
+qualsiasi pessimismo reale.
+
+È la costante peculiarità di questo nostro curioso mondo che quasi
+
+ogni cosa in esso è stata esaltata entusiasticamente e invariabilmente
+
+esaltata a scapito di tutto il resto.
+
+Uno dopo l'altro quasi ognuno dei fenomeni dell'universo è stato
+
+dichiarato [[Alone|il solo]] capace di rendere la vita degna d'essere vissuta. Libri,
+
+[[Love|amore]], affari, religione, alcol, [[Truth|verità]] astratta, emozione privata,
+
+denaro, semplicità, misticismo, duro lavoro, una vita vicina alla [[Nature|natura]], una vita
+
+vicina a Belgrave Square: ciascuna di esse è appassionatamente sostenuta
+
+da qualcuno come tanto buona da redimere il male d'un mondo altrimenti
+
+indifendibile. Così, mentre il mondo è quasi sempre condannato in
+
+sommario, è sempre giustificato, anzi esaltato, in un dettaglio dopo
+
+l'altro.
+
+L'esistenza è stata lodata e assolta da un [[Chorus|coro]] di pessimisti. L'
+
+opera di rendere grazie al Cielo è, per così dire, ripartita ingegnosamente
+
+fra loro. Schopenhauer è assegnato come una sorta di bibliotecario nella [[house|Casa]]
+
+di Dio, per cantare le lodi degli austeri piaceri della mente.
+
+Carlyle, come castaldo, assume il reparto del lavoro ed elogia una
+
+vita di fatica nei campi. Omar Khayyam è insediato nella cantina
+
+e giura che è l'unica stanza della [[house|casa]]. Persino il più nero dei
+
+pessimisti artisti gode della sua arte. Nel preciso istante in cui ha
+
+scritto qualche spudorata e terribile requisitoria contro la Creazione, il suo unico fremito
+
+di gioia per l'impresa si unisce al [[Chorus|coro]] universale di gratitudine, con
+
+il profumo del fiore selvatico e il [[Song|canto]] dell'uccello.
+
+Ora Byron ebbe una popolarità sensazionale, e quella popolarità era, per quanto
+
+riguarda parole e spiegazioni, fondata sul suo pessimismo. Era adorato
+
+da una schiacciante maggioranza, quasi ogni individuo della quale disprezzava
+
+la maggioranza del genere umano. Ma quando veniamo a considerare la questione un po'
+
+più a fondo, tendiamo in qualche misura a cessare di credere in questa
+
+popolarità del pessimista. La popolarità d'un pessimismo puro e non adulterato
+
+è una stranezza; è quasi una contraddizione in termini. Gli uomini
+
+non accoglierebbero la notizia del fallimento dell'esistenza o della
+
+armoniosa ostilità delle [[Stars|stelle]] con ardore o giubilo popolare più di quanto
+
+accenderebbero falò per l'arrivo del colera o [[Dance|danzerebbero]] un
+
+breakdown quando fossero condannati a essere impiccati. Quando il pessimista è
+
+popolare dev'essere sempre non perché mostra che tutte le cose sono cattive, ma
+
+perché mostra che alcune cose sono buone. Gli uomini possono unirsi solo a un [[Chorus|coro]]
+
+di lode, anche se è la lode della denuncia. L'uomo che è
+
+popolare dev'essere ottimista su qualcosa, anche se è ottimista soltanto
+
+riguardo al pessimismo. E questo era enfaticamente il caso di Byron e dei
+
+byronisti. La loro reale popolarità era fondata non sul fatto che
+
+biasimavano tutto, ma sul fatto che lodavano qualcosa. Essi
+
+ammucchiavano maledizioni sull'uomo, ma usavano l'uomo soltanto come contrasto. Le cose
+
+che volevano lodare per confronto erano le energie della [[Nature|natura]]. L'uomo era
+
+per loro ciò che le chiacchiere e la moda erano per Carlyle, ciò che le dispute filosofiche e
+
+religiose erano per Omar, ciò che l'intera corsa alla felicità pratica
+
+era per Schopenhauer: la cosa che dev'essere censurata affinché
+
+qualcun altro possa essere esaltato. Era soltanto un riconoscimento del
+
+fatto che non si può scrivere in [[chalk|gesso]] bianco se non su una lavagna.
+
+Certo è ridicolo sostenere seriamente che l'[[Love|amore]] di Byron per il
+
+desolato e l'inumano nella [[Nature|natura]] fosse il segno d'uno scetticismo vitale e d'una
+
+depressione. Quando un giovane può scegliere deliberatamente di passeggiare [[Alone|solo]] in
+
+[[Winter|inverno]] lungo il mare fragoroso, quando prova piacere nelle
+
+tempeste e nelle vette percosse, e nella sregolata [[Melancholy|malinconia]] della più antica
+
+terra, possiamo dedurre con la certezza della [[logic|logica]] che egli è molto giovane
+
+e molto felice. Vi è una certa oscurità che scorgiamo nel vino quando
+
+è visto nell'[[Shadow|ombra]]; la scorgiamo di nuovo nella [[Night|notte]] che ha appena sepolto un
+
+sfarzoso tramonto. Il vino pare nero, eppure al [[Time|tempo]] stesso
+
+potentemente e quasi impossibilmente rosso; il cielo pare nero, eppure al
+
+[[Time|tempo]] stesso una mescolanza fin troppo densa di porpora e verde. Tale era
+
+l'oscurità che avvolgeva la scuola byronica. L'oscurità per loro era
+
+una porpora fin troppo densa. Preferivano l'arcigna ostilità della
+
+terra perché in mezzo a tutto il freddo e l'oscurità i loro cuori
+
+fiammeggiavano come i loro stessi focolari.
+
+Le cose sono ben diverse con la più moderna scuola del [[Doubt|dubbio]] e del
+
+lamento. L'ultimo movimento del pessimismo è forse espresso nei disegni
+
+allegorici del signor Aubrey Beardsley. Qui abbiamo a che fare con un
+
+pessimismo che tende naturalmente non verso gli elementi più antichi del
+
+cosmo, ma verso le ultime e più fantastiche frivolezze della vita
+
+artificiale. Il byronismo tendeva verso il [[Desert|deserto]]; il nuovo pessimismo verso il
+
+ristorante. Il byronismo era una rivolta contro l'artificiosità; il nuovo
+
+pessimismo è una rivolta a suo favore. Il giovane byronico aveva
+
+un'affettazione di sincerità; il decadente, spingendosi un passo più a fondo nei
+
+viali dell'irreale, ha addirittura un'affettazione dell'affettazione. Ed
+
+è dalle loro leziosaggini e frivolezze che sappiamo che la loro
+
+sinistra [[philosophy|filosofia]] è sincera; nelle loro luci e ghirlande e nastri
+
+leggiamo la [[Despair|disperazione]] che li abita. Fu così, davvero, con Byron stesso;
+
+i suoi momenti davvero amari erano i suoi momenti frivoli. Continuò anno
+
+dopo anno a invocare il [[Fire|fuoco]] sul genere umano, chiamando il [[deluge|diluvio]] e il
+
+mare distruttore e tutte le ultime energie della [[Nature|natura]] a spazzar via
+
+le città della progenie dell'uomo. Ma per tutto questo la sua mente
+
+subconscia non era quella d'un disperato; al contrario, vi è qualcosa
+
+d'una sorta di sregolata [[Faith|fede]] in questo parlamentare con brutalità così immense e
+
+immemorabili. Non fu che nel [[Time|tempo]] in cui scrisse il «Don
+
+Juan» che egli perse davvero questo calore e questa giovialità interiori, e un improvviso
+
+grido d'ilare riso annunciò al mondo che Lord Byron era
+
+davvero diventato un pessimista.
+
+Una delle migliori prove al mondo di ciò che un poeta intende davvero è il suo
+
+metro. Può essere un ipocrita nella sua metafisica, ma non può essere un
+
+ipocrita nella sua prosodia. E per tutto il [[Time|tempo]] in cui il linguaggio di Byron è di
+
+orrore e vuoto, il suo metro è un balzante «pas de quatre». Può
+
+imputare all'esistenza le accuse più mortali, può condannarla col
+
+verdetto più desolante, ma non può mutare il fatto che in qualche passeggiata
+
+in un mattino di [[spring|primavera]], quando tutte le membra oscillano e tutto il [[Blood|sangue]]
+
+è vivo nel [[Body|corpo]], le labbra possono essere colte a ripetere:
+
+«Oh, non v'è gioia che il mondo possa dare pari a quella che toglie,
+
+quando il fulgore della prima giovinezza declina, della [[Beauty|bellezza]] nel greve [[Decay|disfacimento]];
+
+non è sulla guancia della giovinezza il rossore che sì presto svanisce,
+
+ma il tenero fiore del cuore è svanito prima che la giovinezza stessa sia trascorsa.»
+
+Quella recitazione automatica è la risposta all'intero pessimismo di Byron.
+
+La [[Truth|verità]] è che Byron apparteneva a una classe che si può chiamare degli
+
+ottimisti inconsapevoli, i quali sono spessissimo, in realtà, i più
+
+intransigenti pessimisti consapevoli, perché l'esuberanza della loro
+
+[[Nature|natura]] esige per avversario un drago grande quanto il mondo. Ma
+
+l'intero suo essere essenziale e inconsapevole era animoso e fiducioso,
+
+e quell'essere inconsapevole, a lungo mascherato e sepolto sotto artifici
+
+emotivi, balzò d'un tratto in primo piano di fronte a una fredda, dura
+
+necessità politica. In Grecia udì il grido della realtà, e nel
+
+[[Time|tempo]] in cui stava morendo, cominciò a vivere. Udì d'un tratto il richiamo di
+
+quella sepolta e subconscia felicità che è in tutti noi, e che
+
+può emergere d'un tratto alla vista dell'erba d'un prato o delle lance
+
+del nemico.
+
 
 
 <span class="atom-split" data-atom="story_06_rostand" data-title="Twelve Types — ROSTAND" data-chapter="ROSTAND" data-kind="story"></span>
@@ -5378,6 +5980,300 @@ answered in a thousand philosophies and religions with a single voice
 and in a sense most sacred and tremendous, 'Vive l'Empereur.'
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+ROSTAND
+
+Quando fu pubblicato il 'Cyrano de Bergerac', esso portava il titolo subordinato
+
+di [[Comedy|commedia]] eroica. Non abbiamo alcuna tradizione, nella letteratura inglese, che
+
+ci autorizzi a chiamare eroica una [[Comedy|commedia]], benché vi fosse una volta un
+
+poeta che chiamò divina una [[Comedy|commedia]]. Secondo la concezione moderna corrente, l'
+
+[[Hero|eroe]] ha il suo posto in una [[Tragedy|tragedia]], e l'unica specie di forza che gli è
+
+sistematicamente negata è la forza di riuscire. Che la potenza
+
+dello spirito di un uomo possa spingersi fino a mutare una [[Tragedy|tragedia]]
+
+in [[Comedy|commedia]] non è ammesso; nondimeno, quasi tutte le primitive
+
+leggende del mondo sono commedie, non solo nel senso che hanno
+
+un lieto fine, ma nel senso che si fondano su una certa
+
+ottimistica assunzione che l'[[Hero|eroe]] sia destinato a essere il distruttore del
+
+[[Monster|mostro]]. Cosa abbastanza singolare, questa idea moderna dell'essenziale
+
+carattere disastroso della vita, se seriamente considerata, si collega
+
+a una visione iper-estetica della [[Tragedy|tragedia]] e della [[Comedy|commedia]] dovuta in larga parte all'
+
+influenza della Francia moderna, da cui sono venute le grandi commedie eroiche del
+
+signor Rostand. Il genio francese ha un istinto per
+
+rimediare alla propria opera malvagia, e la Francia offre sempre il miglior rimedio alla
+
+'francesità'. L'idea di [[Comedy|commedia]] sostenuta in Inghilterra dalla scuola
+
+che presta la massima attenzione alle finezze tecniche dell'arte è una veduta
+
+che rende del tutto impossibile un'idea come quella della [[Comedy|commedia]] eroica.
+
+La concezione fondamentale nella mente della maggioranza dei nostri più giovani
+
+scrittori è che la [[Comedy|commedia]] sia, 'par excellence', una cosa fragile. È
+
+concepita come un mondo convenzionale della più assolutamente delicata e
+
+pacchiana fattura. Racconti come l''Happy
+
+Hypocrite' del signor Max Beerbohm sono concezioni che svanirebbero o cadrebbero in pura
+
+assurdità se guardati con un solo grado di troppa serietà. Ma la grande [[Comedy|commedia]],
+
+la [[Comedy|commedia]] di Shakespeare o di Sterne, non solo può, ma deve essere presa
+
+sul serio. Non vi è nulla a cui un uomo debba abbandonarsi con
+
+più [[Faith|fede]] e [[Self|auto]]-abbandono che alla genuina risata. In tali
+
+commedie si ride con gli eroi e non di loro. L'[[Humour|umorismo]] che
+
+impregna le storie di [[Falstaff]] e dello Zio Toby è un umorismo cosmico e
+
+filosofico [[Humour|umorismo]], una giovialità che scende fino agli abissi. Non è
+
+una lettura superficiale, non è nemmeno, a rigore, una lettura leggera.
+
+Le nostre simpatie sono coinvolte nei personaggi tanto quanto se fossero
+
+le vittime predestinate di una [[Greek Tragedy|tragedia greca]]. Il moderno scrittore di
+
+commedie si può dire che si vanti della fragilità dei suoi personaggi. Egli
+
+sembra sempre sul punto di ridurre in pezzi i suoi burattini. Quando John
+
+[[Oliver]] Hobbes scrisse per la prima [[Time|volta]] una [[Comedy|commedia]] di serie emozioni, ella
+
+la intitolò, con un disprezzo malamente celato per la propria opera, 'Una
+
+[[Comedy|commedia]] sentimentale.' Il fondamento di questa concezione dell'artificiosità
+
+della [[Comedy|commedia]] è un profondo pessimismo. La vita, agli occhi di questi lugubri
+
+buffoni, è essa stessa cosa del tutto tragica; la [[Comedy|commedia]] dev'essere vuota come
+
+una maschera ghignante. È un rifugio dal mondo, e nemmeno, a rigor di
+
+termini, una parte di esso. Il loro spirito è una sottile lastra di ghiaccio splendente sopra
+
+le eterne acque dell'amarezza.
+
+Il 'Cyrano de Bergerac' ci giunse come il nuovo ornamento di una vecchia [[Truth|verità]],
+
+che l'allegria fosse uno dei naturali [[Flowers|fiori]] del mondo, e non una delle
+
+sue piante esotiche. La leggerezza gigantesca, l'eloquenza fiammeggiante, i
+
+giochi di parole e le digressioni rabelaisiane si videro essere ancora una volta ciò che erano
+
+stati in Rabelais, i meri prorompimenti di una simpatia umana e di una spavalderia tanto
+
+antiche e solide quanto le [[Stars|stelle]]. Lo spirito umano esigeva uno spirito impetuoso
+
+e altero quanto la sua volontà. Tutto era espresso nelle parole di Cyrano nel
+
+suo più alto momento di felicità. 'Il me faut des géants.' Un aspetto essenziale
+
+di questa questione della [[Comedy|commedia]] eroica è la questione del dramma in
+
+rima. Non vi è nulla che offra un punto d'attacco così facile al
+
+realista drammatico quanto la condotta di un'opera in versi. Secondo i suoi
+
+canoni, è davvero assurdo rappresentare una serie di personaggi che affrontano
+
+qualche terribile crisi della loro vita rincorrendo rime come una brigata
+
+che gioca ai 'bouts-rimés'. Ai suoi occhi deve apparire alquanto ridicolo
+
+che due nemici, schernendosi a vicenda con insulti insopportabili, debbano
+
+cortesemente fornirsi l'un l'altro spaziature metriche e rime nette e
+
+convenienti. Ma tutta questa veduta poggia in ultimo sul
+
+fatto che poche persone, se pur alcune, comprendono oggi cosa s'intenda per un'
+
+opera poetica. È cosa singolare che quelle opere poetiche che
+
+sono oggi scritte in Inghilterra dai più avanzati studiosi del dramma
+
+seguano esclusivamente le linee di Maeterlinck, e usino il verso e la rima per
+
+l'ornamento di un tema profondamente tragico. Ma la rima ha una suprema
+
+appropriatezza per il trattamento della [[Comedy|commedia]] più alta. La terra della
+
+[[Comedy|commedia]] eroica è, per così dire, un paradiso di [[lovers|amanti]], in cui non è
+
+difficile immaginare che gli uomini possano parlare in poesia tutto il giorno. È assai
+
+più concepibile che il linguaggio degli uomini fiorisca naturalmente in queste
+
+forme armoniose, quando sono colmi dell'essenziale spirito della
+
+giovinezza, che quando siedono cupamente al cospetto dell'immemoriale
+
+destino. Il grande errore consiste nel supporre che la poesia sia una
+
+forma innaturale di linguaggio. A tutti noi piacerebbe parlare in poesia nel
+
+momento in cui viviamo davvero, e se non la parliamo, è perché
+
+abbiamo un impedimento nella parola. Non è il [[Song|canto]] la cosa angusta o
+
+artificiale, è la conversazione a essere un tentativo spezzato e balbettante
+
+di [[Song|canto]]. Quando vediamo uomini in una stravaganza spirituale, come
+
+Cyrano de Bergerac, parlare in rima, non è il nostro linguaggio travestito
+
+o distorto, ma il nostro linguaggio arrotondato e reso intero. Le rime si rispondono
+
+l'un l'altra come i sessi nei [[Flowers|fiori]] e nell'umanità si rispondono l'un l'altro.
+
+Gli uomini non parlano così, è vero. Anche quando sono ispirati o [[Love|innamorati]]
+
+dicono inezie. Ma la [[Comedy|commedia]] poetica non travisa il
+
+linguaggio neppure la metà di quanto il linguaggio travisi l'[[Soul|anima]]. Il signor
+
+Rostand mostrò ancor più della sua consueta perspicacia quando chiamò il 'Cyrano
+
+de Bergerac' una [[Comedy|commedia]], nonostante il fatto che, a rigore, finisca
+
+con la delusione e la [[Death|morte]]. L'essenza della [[Tragedy|tragedia]] è un crollo
+
+spirituale o un declino, e nella grande opera francese il sentimento
+
+spirituale sale incessantemente fino all'ultimo verso. Non sono i fatti
+
+in sé, ma il nostro sentire verso di essi, a fare la [[Tragedy|tragedia]] e la [[Comedy|commedia]],
+
+e la [[Death|morte]] è più gioiosa in Rostand della vita in Maeterlinck. La stessa
+
+apparente contraddizione vale nel caso del dramma
+
+'L'Aiglon', ora rappresentato con tanto [[success|successo]]. Benché l'[[Hero|eroe]]
+
+sia un debole, il soggetto un fiasco, il finale una [[Death|morte]] prematura e una
+
+[[Disillusionment|disillusione]] personale, tuttavia, a dispetto di questo tema, che avrebbe potuto
+
+essere scelto per le sue qualità deprimenti, l'inconquistabile peana della
+
+lode delle cose, l'ingovernabile gaiezza del [[Song|canto]] del poeta si gonfia così
+
+alta che alla fine sembra sommergere tutte le deboli voci dei
+
+personaggi in un unico fragoroso [[Chorus|coro]] di grandi cose e grandi uomini. Una
+
+moltitudine di motti potrebbe trarsi dall'opera per indicare e
+
+illustrare, non solo il suo spirito, ma molto dello spirito della vita
+
+moderna. Quando, nella visione del campo di Wagram, le orribili voci dei
+
+feriti gridano, 'Les corbeaux, les corbeaux,' il Duca, sopraffatto
+
+da un [[nightmare|incubo]] di orrende banalità, grida, 'Où, où sont les
+
+aigles?' Quell'antitesi potrebbe reggersi da [[Alone|sola]] come un'invocazione all'
+
+inizio del ventesimo secolo allo spirito della [[Comedy|commedia]] eroica. Quando
+
+a un ex-generale di Napoleone si chiede la ragione per cui tradì l'
+
+Imperatore, egli risponde, 'La fatigue,' e a ciò un veterano soldato semplice della
+
+Grande Armata si fa avanti, e gridando appassionatamente, 'Et nous?' riversa
+
+una terribile descrizione della vita vissuta dal soldato comune. Oggi
+
+quando il pessimismo è quasi altrettanto simbolo di ricchezza e moda quanto
+
+i gioielli o i sigari, quando i viziati eredi delle epoche sanno riassumere la vita in
+
+poche altre parole se non 'la fatigue,' potrebbe certo levarsi un grido dalla
+
+vasta massa dell'umanità comune fin dal principio 'et nous?' È questa
+
+potenzialità di entusiasmo tra la massa degli uomini a rendere la
+
+funzione della [[Comedy|commedia]] insieme comune e [[Sublime|sublime]]. 'Much Ado
+
+about Nothing' di Shakespeare è una grande [[Comedy|commedia]], perché dietro di essa è tutta la
+
+pressione di quell'[[Love|amore]] dell'[[Love|amore]] che è la giovinezza del mondo, che è
+
+comune a tutti i giovani, specie a coloro che giurano che moriranno
+
+scapoli e zitelle. '[[Love|Pene]] d'amor perdute' è colmo della stessa
+
+energia, e lì rientra ancor più decisamente nell'ambito del nostro
+
+soggetto, poiché è una [[Comedy|commedia]] in rima in cui tutti gli uomini parlano liricamente
+
+naturalmente come gli [[Birds|uccelli]] cantano nella [[Time|stagione]] degli amori. Ciò che l'[[Love|amore]] dell'[[Love|amore]] è
+
+per le commedie shakespeariane, quell'altra e più misteriosa umana
+
+passione, l'[[Love|amore]] della [[Death|morte]], è per 'L'Aiglon'. Se mai avremo
+
+in Inghilterra una nuova tradizione di [[Comedy|commedia]] poetica è difficile al presente
+
+dirlo, ma di certo non l'avremo mai finché non comprenderemo che la
+
+[[Comedy|commedia]] è edificata su eterne fondamenta nella [[Nature|natura]] delle cose,
+
+che non è cosa troppo lieve da afferrare, ma troppo profonda da scandagliare.
+
+Il signor Rostand, nella sua descrizione della Battaglia di Wagram, non
+
+esita a portare alle orecchie del Duca le spaventose voci della
+
+battaglia reale, di uomini dilaniati dai corvi, e soffocati nel [[Blood|sangue]], ma quando
+
+il Duca, atterrito da questi terribili richiami, chiede loro la loro ultima
+
+parola, tutti gridano insieme 'Vive l'Empereur!' Il signor Rostand,
+
+forse, non sapeva di scrivere un'[[Allegory|allegoria]]. Per me quel campo
+
+di Wagram è il campo della moderna guerra della letteratura. Non udiamo nulla
+
+se non le voci del [[Pain|dolore]]; il tutto è un unico fonografo d'orrore. È
+
+giusto che udiamo queste cose, è giusto che non una di esse
+
+sia messa a tacere; ma questi gridi d'angoscia non sono nella vita, come
+
+sono nell'arte moderna, le sole voci, sono le voci degli uomini, ma non
+
+la voce dell'uomo. Interrogati infine e seriamente sulla loro
+
+concezione del proprio destino, gli uomini hanno fin dal principio del [[Time|tempo]]
+
+risposto in mille filosofie e religioni con una sola voce
+
+e in un senso sacratissimo e tremendo, 'Vive l'Empereur.'
+
 
 
 <span class="atom-split" data-atom="story_10_savonarola" data-title="Twelve Types — SAVONAROLA" data-chapter="SAVONAROLA" data-kind="story"></span>
@@ -5636,6 +6532,260 @@ burnt them to ashes, if only he had been certain that the glow
 transfiguring the sky was the [[Dawn|dawn]] of a younger and wiser world.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+SAVONAROLA
+
+Savonarola è un uomo che probabilmente non comprenderemo mai finché non
+
+sapremo quale orrore possa annidarsi nel cuore della civiltà. E questo non lo
+
+sapremo finché non saremo civilizzati. Si può sperare, in un certo senso, di non
+
+comprendere mai Savonarola.
+
+I grandi liberatori degli uomini li hanno, per lo più, salvati da
+
+calamità che tutti riconosciamo come mali, da calamità che sono gli
+
+antichi nemici dell'umanità. I grandi legislatori ci salvarono dall'anarchia:
+
+i grandi medici ci salvarono dalla pestilenza: i grandi riformatori
+
+ci salvarono dalla fame. Ma esiste un male immenso e senza fondo
+
+al cui confronto tutti questi sono punture di pulce, la più desolante maledizione
+
+che possa abbattersi su uomini o nazioni, e non ha nome, se non lo chiamiamo
+
+appagamento. Savonarola non salvò gli uomini dall'anarchia, ma dall'ordine;
+
+non dalla pestilenza, ma dalla paralisi; non dalla fame, ma dal
+
+lusso. Uomini come Savonarola sono i testimoni del tremendo
+
+fatto psicologico che sta in fondo a tutti i nostri cervelli, ma per il quale nessun nome
+
+è mai stato trovato, che l'agio è il peggior nemico della felicità, e
+
+la civiltà potenzialmente la fine dell'uomo.
+
+Poiché immagino che l'elettrizzante sfida di Savonarola al lusso del suo
+
+tempo andasse assai più a fondo della semplice questione del peccato. I moderni
+
+ammiratori razionalisti di Savonarola, da George Eliot in giù,
+
+insistono, abbastanza giustamente, sulla solida giustificazione etica
+
+dell'ira di Savonarola, sul carattere orribile ed eccessivo dei
+
+crimini che contaminavano i palazzi del [[Renaissance|Rinascimento]]. Ma non è necessario che
+
+siano tanto ansiosi di dimostrare che Savonarola non fu affatto un [[ascetic|asceta]], che egli si limitò a
+
+spuntare le nere macchie della malvagità con il pedante
+
+illuminismo di un membro di una Società Etica. Probabilmente egli odiava davvero
+
+la civiltà del suo [[Time|tempo]], e non semplicemente i suoi peccati; ed è
+
+esattamente in questo che fu infinitamente più profondo di un moralista moderno.
+
+Egli vide che i crimini effettivi non erano i soli mali: che gioielli rubati
+
+e vino avvelenato e immagini oscene erano soltanto i sintomi;
+
+che la malattia era la completa dipendenza dai gioielli e dal vino e dalle
+
+immagini. Questa è una cosa costantemente dimenticata nel giudicare gli asceti
+
+e i puritani dei tempi antichi. Una denuncia di svaghi innocui non
+
+significava sempre un ignorante odio verso ciò che nessuno se non un gretto moralista
+
+chiamerebbe dannoso. Talvolta significava un odio straordinariamente illuminato
+
+verso ciò che nessuno se non un gretto moralista chiamerebbe innocuo. Gli asceti sono
+
+talvolta più avanti dell'uomo medio, così [[Well|come]] meno.
+
+Tale, almeno, era l'odio nel cuore di Savonarola. Egli muoveva
+
+guerra non contro banali peccati umani, ma contro un empio e ingrato
+
+quietismo, contro l'abituarsi alla felicità, il peccato mistico per cui
+
+tutta la creazione cadde. Egli predicava quella severità che è il
+
+segno distintivo della giovinezza e della [[Hope|speranza]]. Predicava quella prontezza, quella
+
+limpida agilità e vigilanza, che è necessaria per conquistare il piacere tanto quanto
+
+per conquistare la santità, tanto indispensabile in un [[Lover|amante]] quanto in un monaco. Un critico ha
+
+giustamente osservato che Savonarola non poteva essere fondamentalmente
+
+anti-estetico, dato che aveva amici quali [[Michael]] [[Angelo]], Botticelli,
+
+e Luca della Robbia. Il fatto è che questa [[Purification|purificazione]] e austerità
+
+sono ancor più necessarie all'apprezzamento della vita e del riso che
+
+a qualsiasi altra cosa. Non lasciar passare inosservato alcun uccello, compitare con pazienza
+
+le pietre e le erbacce, avere la mente come un magazzino di tramonti, richiede
+
+una disciplina nel piacere, e un'[[Education|educazione]] alla gratitudine.
+
+La civiltà che circondava Savonarola da ogni lato era una
+
+civiltà che aveva già preso la svolta sbagliata, la svolta che
+
+conduce a infinite invenzioni e a nessuna scoperta, in cui le cose nuove diventano
+
+vecchie con sconcertante rapidità, ma in cui nessuna cosa vecchia diventa mai nuova.
+
+La mostruosità dei crimini del [[Renaissance|Rinascimento]] non era un segno di
+
+[[Imagination|immaginazione]]; era un segno, come lo è ogni mostruosità, della perdita dell'
+
+[[Imagination|immaginazione]]. È solo quando un uomo ha davvero cessato di vedere un [[Horse|cavallo]] per
+
+ciò che è, che inventa un centauro, solo quando non riesce più a
+
+stupirsi di un bue, che adora il diavolo. La diavoleria è lo
+
+stimolante della fantasia stanca; è il bere d'acquavite dell'[[artist|artista]].
+
+Savonarola si dedicò al più arduo di tutti i compiti terreni, quello
+
+di far sì che gli uomini si volgessero indietro e si [[Wonder|meravigliassero]] delle semplicità che avevano imparato
+
+a ignorare. È strano che la più impopolare di tutte le dottrine sia
+
+la dottrina che dichiara divina la vita comune. La [[democracy|Democrazia]], di cui
+
+Savonarola fu un così focoso esponente, è il più arduo dei vangeli; non c'è
+
+nulla che tanto atterrisca gli uomini quanto il decreto che essi sono tutti re.
+
+Il [[Christianity|Cristianesimo]], nella mente di Savonarola, identico alla [[democracy|democrazia]], è il
+
+più arduo dei vangeli; non c'è nulla che colpisca gli uomini con tanta [[Fear|paura]] quanto
+
+il detto che essi sono tutti figli di Dio.
+
+Savonarola e la sua repubblica caddero. La droga del dispotismo fu somministrata
+
+al popolo, ed esso dimenticò ciò che era stato. Vi sono alcuni ai
+
+giorni nostri che nutrono un così strano rispetto per l'arte e le lettere, e per
+
+i meri uomini di genio, da concepire il regno dei Medici come un
+
+miglioramento rispetto a quello del grande repubblicano fiorentino. Sono uomini
+
+come questi e la loro civiltà che oggi dobbiamo [[Fear|temere]].
+
+Siamo circondati da molti lati dagli stessi sintomi di quelli che
+
+destarono l'inestinguibile ira di Savonarola: un edonismo più stanco
+
+della felicità di quanto un infermo sia stanco del [[Pain|dolore]], un senso artistico che cerca
+
+l'assistenza del crimine poiché ha esaurito la [[Nature|natura]]. In molte opere moderne
+
+troviamo accenni velati e orribili a un senso autenticamente [[Renaissance|rinascimentale]] della
+
+[[Beauty|bellezza]] del [[Blood|sangue]], la poesia dell'omicidio. La fallita e depravata
+
+[[Imagination|immaginazione]] non vede che un uomo vivo è assai più drammatico di uno
+
+morto. Insieme a ciò, come al [[Time|tempo]] dei Medici, va il
+
+ricadere tra le braccia del dispotismo, la fame dell'uomo forte
+
+che è ignota tra gli uomini forti. L'imperioso [[Hero|eroe]] è venerato come
+
+è venerato dai lettori delle 'Bow [[Bells]] Novelettes,' e per
+
+la stessa ragione: un profondo senso di debolezza personale. Quella tendenza a
+
+demandare i nostri doveri discende su di noi, ed è l'[[Soul|anima]] della [[Slavery|schiavitù]], tanto
+
+se per i suoi compiti servili impiega servi quanto imperatori. Contro tutto
+
+questo il grande repubblicano clericale si erge in eterna protesta,
+
+preferendo il proprio fallimento al [[success|successo]] del suo rivale. La contesa è ancora
+
+tra lui e [[Lorenzo]], tra le responsabilità della libertà e la
+
+licenza della [[Slavery|schiavitù]], tra i pericoli della [[Truth|verità]] e la sicurezza del
+
+[[Silence|silenzio]], tra il piacere della fatica e la fatica del piacere. I
+
+sostenitori di [[Lorenzo]] il Magnifico sono sicuramente tra noi, uomini per
+
+i quali persino nazioni e imperi esistono solo per soddisfare l'attimo, uomini per
+
+i quali l'ultima calda ora dell'[[Summer|estate]] vale più di una pungente e invernale
+
+[[spring|primavera]]. Essi hanno un'arte, una letteratura, una [[philosophy|filosofia]] politica, che
+
+sono tutte parimenti apprezzate per il loro effetto immediato sul gusto, non per
+
+ciò che promettono del destino dello spirito. Le loro statuette e
+
+i loro sonetti sono tondi e perfetti, mentre il '[[Macbeth]]' è al confronto un
+
+[[Fragment|frammento]], e il Mosè di [[Michael]] [[Angelo]] un accenno. Le loro campagne e
+
+battaglie sono sempre dette trionfanti, mentre Cesare e Cromwell piansero per
+
+molte umiliazioni. E la fine di tutto ciò è l'inferno della non-resistenza,
+
+l'inferno di un'insondabile mollezza, finché l'intera [[Nature|natura]] rincula
+
+nella [[Madness|follia]] e la camera della civiltà non è più soltanto un
+
+appartamento imbottito, ma una cella imbottita.
+
+Quest'ultima e peggiore delle miserie umane Savonarola la scorse da lontano, e piegò
+
+tutte le sue gigantesche energie a volgere il carro su un altro corso.
+
+Pochi compresero il suo scopo; alcuni lo chiamarono pazzo, altri
+
+ciarlatano, altri un nemico della gioia umana. Non avrebbero nemmeno
+
+compreso se egli lo avesse detto loro, se avesse detto che li stava salvando
+
+da una calamità di contentezza che avrebbe dovuto essere la fine tanto delle gioie quanto dei
+
+dolori. Ma vi sono oggi coloro che avvertono lo stesso silenzioso
+
+pericolo, e che si piegano alla stessa silenziosa resistenza. Anche di loro
+
+si suppone che stiano contendendo per qualche banale scrupolo politico.
+
+Il signor M'Hardy afferma, in difesa di Savonarola, che il numero di belle opere
+
+d'arte distrutte nel Rogo delle Vanità è stato molto
+
+esagerato. Confesso che [[Hope|spero]] che la pira contenesse cataste di
+
+incomparabili capolavori, se il sacrificio rese quell'unico momento reale
+
+più reale. Di una cosa sono certo, che l'amico di Savonarola, [[Michael]]
+
+[[Angelo]], avrebbe ammucchiato tutte le proprie statue una sopra l'altra, e
+
+le avrebbe ridotte in cenere, se solo fosse stato certo che il bagliore
+
+che trasfigurava il cielo era l'[[Dawn|alba]] di un mondo più giovane e più saggio.
+
 
 
 <span class="atom-split" data-atom="story_02_william_morris_and_his_school--part_01" data-title="Twelve Types — WILLIAM MORRIS AND HIS SCHOOL (part 1)" data-chapter="WILLIAM MORRIS AND HIS SCHOOL" data-kind="excerpt"></span>
@@ -5807,6 +6957,174 @@ universal has been the revolution in domestic art that almost every
 
 family in England has had its taste cunningly and treacherously
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+WILLIAM MORRIS E LA SUA SCUOLA
+
+È del tutto giusto che lo scoprimento del busto di William Morris
+
+si avvicini a una festa pubblica, poiché, mentre vi sono stati molti
+
+uomini di genio nell'era vittoriana più dispotici di lui, non ve ne sono
+
+stati nessuno così rappresentativo. Egli rappresenta non soltanto quella rapace
+
+fame di [[Beauty|bellezza]] che ora per la prima [[Time|volta]] è divenuta un serio
+
+problema nella vita sana dell'umanità, ma rappresenta anche quel
+
+nobile istinto di trovare la [[Beauty|bellezza]] nelle comuni necessità del
+
+lavoro artigiano, che le conferisce una struttura più salda e più ossuta. Il [[Time|tempo]]
+
+è passato in cui si riteneva irrilevante William Morris se
+
+descritto come un disegnatore di carte da parati. Se Morris fosse stato un cappellaio
+
+invece che un decoratore, saremmo divenuti gradualmente e penosamente
+
+consapevoli di un miglioramento nei nostri cappelli. Se fosse stato un sarto,
+
+avremmo d'un tratto trovato le nostre marsine strascicare a terra con
+
+la grandiosità di una veste medievale. Se fosse stato un calzolaio, avremmo
+
+scoperto, con non poca costernazione, che le nostre scarpe gradualmente
+
+si avvicinavano all'antico sandalo. Come parrucchiere, avrebbe
+
+inventato qualche acconciatura dei capelli degna d'essere la [[Crown|corona]] di [[Venus|Venere]]; come
+
+ferramenta, i suoi chiodi avrebbero avuto qualche nobile foggia, adatta a essere i
+
+chiodi della [[Cross|Croce]]. I limiti di William Morris, quali che
+
+fossero, non erano i limiti della comune decorazione. È vero che tutta
+
+la sua opera, persino la sua opera letteraria, era in qualche senso decorativa, aveva in
+
+qualche misura le qualità di una splendida carta da parati. I suoi personaggi, le sue
+
+storie, le sue vedute religiose e politiche avevano, nel senso più enfatico,
+
+lunghezza e larghezza senza spessore. Sembrava davvero credere
+
+che gli uomini potessero godere di una felicità perfettamente piatta. Non teneva conto
+
+delle inesplorate ed esplosive possibilità della [[Nature|natura]] umana, degli
+
+innominabili terrori, e delle speranze ancora più innominabili. Finché un uomo
+
+era aggraziato in ogni circostanza, finché aveva l'ispirante
+
+consapevolezza che il color castano dei suoi capelli spiccava contro
+
+la foresta azzurra un miglio più in là, sarebbe stato serenamente felice. Così sarebbe
+
+stato, senza [[Doubt|dubbio]], se fosse stato davvero adatto a un'esistenza decorativa; se
+
+fosse stato un pezzo di cartone squisitamente colorato.
+
+Ma sebbene Morris tenesse poco conto della terribile solidità della
+
+[[Nature|natura]] umana — tenesse poco conto, per così dire, delle figure umane a tutto
+
+tondo, è del tutto ingiusto rappresentarlo come un mero esteta. Egli
+
+percepì una grande necessità pubblica e la soddisfece eroicamente. La
+
+difficoltà con cui si misurò era così immensa che dovremo
+
+esserne separati da molti secoli prima di poterla davvero giudicare.
+
+Era il problema della elaborata e deliberata bruttezza del
+
+più consapevole di [[Self|sé]] dei secoli. Morris almeno vide l'assurdità
+
+della cosa. Sentiva che era mostruoso che l'uomo moderno, il quale era
+
+eminentemente capace di realizzare le più strane e contraddittorie
+
+bellezze, che poteva sentire a un tempo l'ardente aureola dell'[[ascetic|asceta]], e
+
+la colossale calma del dio ellenico, dovesse egli stesso, per un farsesco
+
+bathos, essere sepolto in una nera finanziera, e nascosto sotto un cilindro a tubo di stufa.
+
+Non riusciva a capire perché l'uomo innocuo che desiderava essere un [[artist|artista]] nel
+
+vestire dovesse essere condannato a essere, al più, un [[artist|artista]] in bianco e nero. È
+
+davvero difficile render conto della tenace maledizione della bruttezza che
+
+affligge tutto ciò che è prodotto dal più prospero dei secoli. In
+
+tutta la [[Nature|natura]] creata non v'è, forse, nulla di così completamente brutto come
+
+una cassetta delle lettere. La sua forma è la più priva di senso delle forme, la sua altezza e
+
+il suo spessore che si neutralizzano a vicenda; il suo colore è il più
+
+ripugnante dei colori — un rosso grasso e senza anima, un rosso senza un tocco di
+
+[[Blood|sangue]] o di [[Fire|fuoco]], come lo scarlatto dei peccati dei morti. Eppure non v'è
+
+alcuna ragione per cui simile bruttezza debba possedere un oggetto colmo di
+
+dignità civica, il tesoro-[[house|scrigno]] di mille [[Secrets|segreti]], la fortezza di
+
+mille anime. Se gli antichi Greci avessero avuto una tale istituzione, possiamo
+
+essere certi che sarebbe stata sormontata dalla severa, ma graziosa,
+
+figura del dio della corrispondenza. Se i cristiani medievali l'avessero
+
+posseduta, avrebbe avuto una nicchia colma dell'aurea aureola
+
+di San Rolando dei Francobolli. Così com'è, essa se ne sta a tutti
+
+i nostri angoli di strada, mascherando una delle più belle idee sotto
+
+una delle più assurde forme. È inutile negare che i
+
+miracoli della scienza non siano stati un incentivo all'arte e alla
+
+[[Imagination|immaginazione]] quale furono i miracoli della religione. Se agli uomini del dodicesimo
+
+secolo si fosse detto che il [[Lightning|fulmine]] era stato spinto per leghe
+
+sottoterra, e aveva trascinato alla sua coda distruttrice carichi di ridenti
+
+esseri umani, e se poi si fosse detto loro che le persone in questione alludevano a
+
+questo polverizzante portento chiamandolo allegramente «il Tubo da due soldi», avrebbero
+
+invocato il [[Fire|fuoco]] del Cielo su di noi come su una razza di deboli di mente
+
+atei. Probabilmente avrebbero avuto pienamente ragione.
+
+Questa chiara e fine percezione di ciò che si può chiamare l'elemento anestetico
+
+nell'era vittoriana fu, indubbiamente, l'opera di un grande
+
+riformatore: occorre un fine sforzo dell'[[Imagination|immaginazione]] per vedere un male
+
+che ci circonda da ogni lato. Il modo in cui Morris condusse
+
+la sua crociata può, considerate le circostanze, dirsi trionfante.
+
+I nostri tappeti cominciarono a fiorire sotto i nostri piedi come i prati in [[spring|primavera]],
+
+e i nostri finora prosaici sgabelli e sofà parvero mettere gambe e braccia
+
+a loro selvaggio arbitrio. Un elemento di [[Freedom|libertà]] e di rude dignità entrò
+
+con ornamenti semplici e robusti di rame e di ferro. Tanto delicata e
+
+universale è stata la rivoluzione nell'arte domestica che quasi ogni
+
+famiglia in Inghilterra ha avuto il proprio gusto astutamente e proditoriamente
 
 
 
@@ -5993,6 +7311,188 @@ we now live is, in spite of all the pessimists, not of the greyness of
 
 [[Death|death]], but the greyness of [[Dawn|dawn]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+migliorato, e se volgiamo lo sguardo ai salotti della prima età vittoriana lo facciamo
+
+solo per renderci conto della strana ma essenziale [[Truth|verità]] che l'arte, ovvero l'umana
+
+decorazione, ha, nove volte su dieci nella [[history|storia]], reso le cose più brutte
+
+di quanto fossero prima, dalla 'coiffure' di un selvaggio papuano alla
+
+carta da parati di un mercante britannico nel 1830.
+
+Ma per quanto grande e benefica fosse la rivoluzione estetica di Morris, vi
+
+era un limite ben preciso ad essa. Non risiedeva soltanto nel fatto che
+
+la sua rivoluzione era in [[Truth|verità]] una reazione, benché questa fosse una parziale
+
+spiegazione del suo parziale fallimento. Quando denunciava gli abiti
+
+delle dame moderne, 'imbottite come poltrone anziché drappeggiate
+
+come donne,' come si esprimeva con vigore, additava alla pratica
+
+[[Imitation|imitazione]] i costumi e l'artigianato del Medioevo. Oltre
+
+questo movimento retrogrado e imitativo non sembrava mai spingersi. Ora,
+
+gli uomini del [[Time|tempo]] di Chaucer avevano molte cattive qualità, ma vi era almeno
+
+una manifestazione di debolezza morale che non davano. Avrebbero
+
+riso all'idea di vestirsi alla maniera degli
+
+arcieri della battaglia di Senlac, o di dipingersi di un azzurro estetico,
+
+secondo il costume degli antichi Britanni. Non l'avrebbero affatto chiamato
+
+un movimento. Tutto ciò che era bello nel loro abbigliamento o nei loro modi
+
+scaturiva onestamente e naturalmente dalla vita che conducevano e preferivano
+
+condurre. E si può senz'altro sostenere che ogni reale progresso nella
+
+[[Beauty|bellezza]] dell'abito moderno debba [[spring|scaturire]] onestamente e naturalmente dalla
+
+vita che conduciamo e preferiamo condurre. Non siamo del tutto privi di indizi e
+
+speranze di un simile mutamento, nella crescente ortodossia dei rudi e atletici
+
+costumi. Ma se questo non può essere, non sarà surrogato né
+
+soddisfazione trasformare la vita in un interminabile ballo storico in
+
+maschera. Ma il limite dell'opera di Morris giaceva più in profondità di questo. Possiamo
+
+meglio suggerirlo con un metodo a lui congeniale. Di tutte le varie
+
+opere che compì, nessuna, forse, fu così splendidamente e solidamente
+
+preziosa quanto la sua grande protesta in favore delle favole e delle superstizioni dell'
+
+umanità. Ha il sommo merito di mostrare che le fiabe
+
+contengono la più profonda [[Truth|verità]] della terra, il vero registro del sentire umano
+
+verso le cose. Dettagli insignificanti possono essere inesatti, Jack può non aver
+
+arrampicato un fagiolo magico così alto, né ucciso un gigante così grande; ma non sono
+
+tali cose a rendere falsa una storia; è una classe assai diversa di
+
+cose a rendere ogni libro moderno di [[history|storia]] falso quanto il padre della
+
+menzogna; l'ingegnosità, l'[[Self|auto]]-coscienza, l'ipocrita imparzialità. Ci
+
+appare che di tutte le fiabe nessuna contenga una così vitale
+
+[[Truth|verità]] morale quanto l'antica storia, esistente in molte forme, della [[Beauty|Bella]] e la
+
+Bestia. Vi è scritta, con tutta l'autorità di una scrittura umana,
+
+l'eterna ed essenziale [[Truth|verità]] che finché non [[Love|amiamo]] una cosa in tutta la sua
+
+bruttezza non possiamo renderla bella. Questo era il punto debole di William
+
+Morris come riformatore: che cercava di [[Reform|riformare]] la vita moderna, e che
+
+odiava la vita moderna invece di amarla. La moderna [[London|Londra]] è davvero una bestia,
+
+grande abbastanza e nera abbastanza da essere la bestia dell'[[Apocalypse|Apocalisse]], fiammeggiante di
+
+un milione di occhi, e ruggente con un milione di voci. Ma se il poeta non
+
+può [[Love|amare]] questo favoloso [[Monster|mostro]] così com'è, sentire con qualche generosa
+
+eccitazione la sua massiccia e misteriosa 'joie-de-vivre', la vasta scala della
+
+sua anatomia di ferro e il battito del suo cuore tonante, non può e
+
+non muterà la bestia nel principe fatato. Lo svantaggio di Morris
+
+era che non era onestamente un [[Child|figlio]] del diciannovesimo secolo: non poteva
+
+comprenderne il fascino, e di conseguenza non poteva davvero
+
+svilupparlo. Una duratura testimonianza della sua tremenda influenza personale nel
+
+mondo estetico è la vitalità e il ricorrere delle Esposizioni Arts and Crafts,
+
+che sono impregnate della sua personalità come una cappella lo è di quella
+
+di un santo. Se ci guardiamo attorno tra gli oggetti esposti in una di queste mostre
+
+estetiche, saremo colpiti dalla grande massa di oggetti moderni che la
+
+scuola decorativa [[Leaves|lascia]] intatti. Vi è un nobile istinto a conferire
+
+il giusto tocco di [[Beauty|bellezza]] alle cose comuni e necessarie, ma le cose
+
+che vengono così toccate sono le cose antiche, le cose che sempre in
+
+qualche misura si raccomandavano all'[[Lover|amante]] della [[Beauty|bellezza]]. Vi sono
+
+bei cancelli, belle fontane, belle coppe, belle sedie,
+
+bei leggii. Ma non vi sono cose moderne rese belle.
+
+Non vi sono bei lampioni, belle cassette delle lettere, belle
+
+locomotive, belle biciclette. Lo spirito di William Morris non ha afferrato
+
+il secolo rendendone belle le più umili necessità. E
+
+ciò avvenne perché, con tutta la sua salute ed energia, non ebbe il
+
+supremo [[Courage|coraggio]] di affrontare la bruttezza delle cose; la [[Beauty|Bella]] rifuggì dalla
+
+Bestia e la fiaba ebbe un finale diverso.
+
+Ma proprio in questo, invero, risiedeva il più profondo titolo di Morris al nome di grande
+
+riformatore: che lasciò la sua opera incompiuta. Non vi è, forse, prova migliore
+
+che un uomo sia una mera meteora, solo sterile e brillante, del
+
+fatto che la sua opera sia compiuta alla perfezione. Un uomo come Morris richiama l'attenzione su
+
+bisogni che non può soddisfare. Negli anni a venire potremo forse avere una più nuova e
+
+più audace Esposizione Arts and Crafts. In essa non decoreremo l'
+
+armatura del dodicesimo secolo ma il macchinario del ventesimo. Un
+
+lampione sarà forgiato nobilmente in ferro ritorto, degno di custodire la
+
+santità del [[Fire|fuoco]]. Una cassetta postale sarà scolpita con figure emblematiche
+
+dei [[Secrets|segreti]] del [[Comradeship|cameratismo]] e del [[Silence|silenzio]] e dell'[[Honour|onore]] dello Stato.
+
+I segnali ferroviari, la più poetica di tutte le cose terrene, le colorate
+
+[[Stars|stelle]] della vita e della [[Death|morte]], saranno lampade di verde e cremisi degne del
+
+loro terribile e fedele servizio. Ma se mai questo graduale e
+
+genuino movimento del nostro [[Time|tempo]] verso la [[Beauty|bellezza]]--non all'indietro, ma
+
+in avanti--verrà davvero a compimento, Morris ne sarà il primo [[Prophet|profeta]].
+
+Poeta dell'[[Childhood|infanzia]] delle nazioni, artigiano nelle nuove onestà dell'arte,
+
+[[Prophet|profeta]] di una vita più gaia e più saggia, il suo entusiasmo pieno di sangue sarà
+
+ricordato quando la vita umana avrà nuovamente assunto colori sgargianti e
+
+dimostrato che questo doloroso grigio verdastro del crepuscolo estetico in cui
+
+ora viviamo non è, a dispetto di tutti i pessimisti, il grigiore della
+
+[[Death|morte]], ma il grigiore dell'[[Dawn|alba]].
 
 
 
@@ -6181,6 +7681,190 @@ battle and conquest we have got firmly rooted in our minds the idea (an
 
 idea fit for the philosophers of Bedlam) that we can best trample on a
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+POPE E L'ARTE DELLA [[Satire|SATIRA]]
+
+La teoria critica generale, comune in questo secolo e nel precedente, è che
+
+fosse molto facile, per gli imitatori di Pope, scrivere poesia inglese. Il
+
+distico classico era cosa che chiunque poteva fare. Per quanto ciò valga,
+
+si può a buon diritto rispondere invitando chiunque a provarci. Può essere più facile
+
+avere davvero spirito, che avere davvero, nel senso più ardito e duraturo,
+
+[[Imagination|immaginazione]]. Ma è incommensurabilmente più facile fingere di avere
+
+[[Imagination|immaginazione]] che fingere di avere spirito. Un uomo può concedersi una finta
+
+rapsodia, perché può essere il trionfo di una rapsodia l'essere
+
+inintelligibile. Ma un uomo non può concedersi una finta arguzia, perché è
+
+la rovina di un'arguzia l'essere inintelligibile. Un uomo può fingersi poeta:
+
+non può fingersi arguto più di quanto possa fingere di far uscire conigli
+
+da un cappello senza aver imparato a fare il prestigiatore. Perciò, si
+
+può sostenere, vi era una certa disciplina nell'antico distico antitetico
+
+di Pope e dei suoi seguaci. Se non consentiva la grande
+
+libertà di saggezza usata dalla minoranza dei grandi geni, neppure
+
+consentiva la grande libertà di follia usata dalla maggioranza dei
+
+piccoli scrittori. Un [[Prophet|profeta]] non poteva essere poeta a quei tempi, forse, ma
+
+almeno uno [[Fool|sciocco]] non poteva essere poeta. Se prendiamo, a titolo di
+
+esempio, un verso come quello di Pope
+
+'Condanna con tiepida lode, consenti con cortese sogghigno,'
+
+la prova è relativamente semplice. Un grande poeta non avrebbe scritto
+
+un verso simile, forse. Ma un poeta minore non ne sarebbe capace.
+
+Supponiamo che un poeta [[Lyric|lirico]] della nuova scuola dovesse davvero trattare
+
+un'idea come quella espressa nel verso di Pope sull'Uomo:
+
+'Un essere oscuramente saggio e rozzamente grande.'
+
+È davvero così certo che scenderebbe più a fondo nella questione di quanto
+
+faccia quella vecchia cantilena antitetica? Oso [[Doubt|dubitare]] che egli
+
+sarebbe davvero più saggio o più strano o più fantasioso o più profondo. L'unica
+
+cosa che egli sarebbe davvero, sarebbe più lungo. Invece di scrivere
+
+'Un essere oscuramente saggio e rozzamente grande,'
+
+il poeta contemporaneo, nel suo libro di versi elaboratamente ornato,
+
+produrrebbe qualcosa di simile a quanto segue:--
+
+'Una creatura
+
+Dal sembiante
+
+Più oscura, più oscura, più oscura dei cieli,
+
+Sì, oscuramente saggia, sì, oscuramente saggia:
+
+Oscuramente saggia come un fato senza forma
+
+E se egli è grande
+
+Se egli è grande, allora rozzamente grande,
+
+Rozzamente grande come un aratro che affonda,
+
+E oscuramente saggia, e oscuramente saggia.'
+
+Abbiamo davvero imparato a pensare più ampiamente? O abbiamo soltanto imparato a
+
+diluire più sottilmente i nostri pensieri? Ho l'oscuro sospetto che un poeta moderno
+
+potrebbe fabbricare una [[Lyric|lirica]] mirabile da quasi ogni verso di Pope.
+
+Vi è, naturalmente, un'idea nel nostro [[Time|tempo]] secondo cui la stessa antitesi
+
+del verso tipico di Pope sia un segno di artificiosità. Avrò
+
+occasione più d'una volta di rilevare che nulla al mondo è mai
+
+stato artificiale. Ma certo l'antitesi non è artificiale. Un elemento
+
+di [[Paradox|paradosso]] percorre l'intera esistenza stessa. Comincia nel
+
+regno della fisica e della metafisica ultime, nei due fatti che non
+
+possiamo immaginare uno spazio infinito, e che non possiamo immaginare uno
+
+spazio finito. Percorre le più intime complicazioni della
+
+divinità, in ciò che non possiamo concepire che [[Christ|Cristo]] nel deserto fosse
+
+veramente puro, se non concepiamo anche che desiderasse peccare. Percorre, allo
+
+stesso modo, tutte le minori questioni della morale, sicché non
+
+possiamo immaginare che il [[Courage|coraggio]] esista se non congiunto alla [[Fear|paura]], o
+
+che la magnanimità esista se non congiunta a qualche [[Temptation|tentazione]] alla
+
+meschinità. Se Pope e i suoi seguaci colsero quest'eco di naturale
+
+irrazionalità, non furono per questo più artificiali. Le loro antitesi
+
+erano pienamente in armonia con l'esistenza, che è essa stessa una contraddizione nei
+
+termini.
+
+Pope fu davvero un grande poeta; fu l'ultimo grande poeta della
+
+civiltà. Immediatamente dopo la caduta sua e della sua scuola vengono
+
+Burns e Byron, e la reazione verso il selvaggio e l'elementare.
+
+Ma per Pope la civiltà era ancora un esperimento entusiasmante. Le sue parrucche
+
+e i suoi merletti erano per lui ciò che le piume e i monili sono per un isolano dei Mari
+
+del Sud--il vero [[Romance|romanzesco]] della civiltà. E in tutte le forme d'arte
+
+che appartengono peculiarmente alla civiltà, egli fu supremo. In una
+
+in particolare fu supremo--la grande e civile arte della [[Satire|satira]]. E
+
+in questo siamo decaduti del tutto.
+
+Abbiamo avuto nel nostro [[Time|tempo]] una grande rinascita del culto della violenza e dell'
+
+ostilità. Il signor Henley e i suoi giovani hanno un numero infinito di
+
+epiteti furiosi con cui travolgere chiunque dissenta da loro.
+
+Non è posizione placida o tranquilla essere nemico del signor Henley,
+
+benché sappiamo che è certo più sicuro che esserne amico. E
+
+tuttavia, nonostante tutto ciò, questa gente non produce [[Satire|satira]]. Politica e
+
+sociale, la [[Satire|satira]] è un'arte perduta, come la ceramica e le vetrate. Può forse
+
+valere la pena di tentare d'indicarne una ragione.
+
+Può sembrare un'osservazione singolare dire che non siamo abbastanza generosi
+
+per scrivere grande [[Satire|satira]]. Questo, tuttavia, è all'incirca un modo assai
+
+accurato di descrivere il caso. Per scrivere grande [[Satire|satira]], per attaccare un
+
+uomo così che senta l'attacco e ne riconosca a metà la giustizia, è
+
+necessario avere una certa magnanimità intellettuale che coglie i
+
+meriti dell'avversario tanto [[Well|quanto]] i suoi difetti. Questo è, in verità, solo
+
+un altro modo di esprimere la semplice [[Truth|verità]] che per attaccare un esercito
+
+dobbiamo conoscere non solo i suoi punti deboli, ma anche i suoi punti di forza.
+
+L'Inghilterra, nella stagione e nello spirito presenti, fallisce nella [[Satire|satira]] per la stessa
+
+semplice ragione per cui fallisce in guerra: disprezza il nemico. In materia di
+
+battaglia e conquista abbiamo saldamente radicata nella mente l'idea (un'
+
+idea degna dei filosofi di Bedlam) che possiamo meglio calpestare un
 
 
 
@@ -9432,6 +11116,170 @@ maddening calm of oak or iron, which conquer without vengeance and are
 conquered without humiliation. The theory of Christian duty enunciated
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+parte della sua follia--stavo quasi per dire della sua [[innocence|innocenza]]. [[tolstoy|Tolstoj]], sentiamo,
+
+non si accontenterebbe di scagliare [[Satire|satira]] e denuncia contro 'Salomone in
+
+tutta la sua gloria.' Con feroce e inoppugnabile [[logic|logica]] andrebbe un passo
+
+oltre. Trascorrerebbe giorni e notti nei prati a strappare le
+
+sfrontate corone cremisi dai gigli del campo.
+
+La nuova raccolta di 'Racconti di [[tolstoy|Tolstoj]],' tradotta e curata dal signor
+
+R. Nisbet Bain, è atta a richiamare particolare attenzione su questo
+
+lato etico e [[ascetic|ascetico]] dell'opera di [[tolstoy|Tolstoj]]. In un senso, e quello
+
+il più profondo, l'opera di [[tolstoy|Tolstoj]] è, naturalmente, un genuino e nobile
+
+appello alla semplicità. L'angusta nozione che un [[artist|artista]] non possa insegnare è
+
+ormai piuttosto [[Well|bene]] sfatata. Ma la [[Truth|verità]] della faccenda è che un
+
+[[artist|artista]] insegna assai più con il suo mero sfondo e le sue suppellettili, il suo
+
+paesaggio, il suo costume, il suo idioma e la sua tecnica--tutta la parte della sua
+
+opera, insomma, di cui è probabilmente del tutto inconsapevole, che con
+
+gli elaborati e pomposi dettami morali che fatuamente immagina essere le sue
+
+opinioni. La vera distinzione tra l'etica dell'arte alta e l'
+
+etica dell'arte artefatta e didattica sta nel semplice fatto che la
+
+cattiva [[Fable|favola]] ha una morale, mentre la buona [[Fable|favola]] è una morale. E la vera
+
+morale di [[tolstoy|Tolstoj]] emerge di continuo in questi racconti, la grande morale
+
+che sta al cuore di tutta la sua opera, di cui è probabilmente
+
+inconsapevole, e che è assai verosimile che egli veementemente
+
+disapproverebbe. La curiosa fredda luce bianca del mattino che splende su tutti
+
+i racconti, la semplicità folclorica con cui 'un uomo o una donna' sono
+
+menzionati senza ulteriore identificazione, l'[[Love|amore]]--si potrebbe quasi dire
+
+la brama--per le qualità dei materiali bruti, la durezza del legno,
+
+e la morbidezza del fango, la radicata fede in una certa antica
+
+benevolenza seduta accanto alla culla stessa della razza dell'uomo--queste
+
+influenze sono veramente morali. Quando accostiamo a esse le strombazzanti e
+
+laceranti assurdità del [[tolstoy|Tolstoj]] didattico, che strilla per un'oscena
+
+purezza, che urla per una pace disumana, che fa a pezzi la vita umana in piccoli
+
+peccati con una mannaia, sogghignando su uomini, donne e bambini per rispetto
+
+verso l'umanità, combinando in un unico caos di contraddizioni un Puritano poco virile
+
+e un pedante incivile, allora, in verità, a stento sappiamo dove [[tolstoy|Tolstoj]]
+
+sia svanito. Non sappiamo che farci con questo piccolo e chiassoso moralista
+
+che abita un angolo di un grande e buon uomo.
+
+È difficile in ogni caso conciliare [[tolstoy|Tolstoj]] il grande [[artist|artista]] con
+
+[[tolstoy|Tolstoj]] il riformatore quasi velenoso. È difficile credere che un
+
+uomo che traccia in così nobili contorni la dignità della vita quotidiana dell'
+
+umanità consideri malvagio quel divino atto di [[Procreation|procreazione]] per cui quella
+
+dignità si rinnova di età in età. È difficile credere che un
+
+uomo che ha dipinto con così spaventosa onestà lo strazio
+
+del vuoto della vita dei poveri possa davvero invidiar loro ognuno dei
+
+loro pietosi piaceri, dal corteggiamento al tabacco. È difficile
+
+credere che un poeta in prosa che ha così potentemente esibito l'
+
+aria terrigena dell'uomo, l'essenziale parentela di un essere umano, con il
+
+paesaggio in cui vive, possa negare una virtù tanto elementare quanto quella
+
+che lega un uomo ai propri antenati e alla propria terra. È
+
+difficile credere che l'uomo che sente così acutamente la detestabile
+
+insolenza dell'oppressione non stenderebbe realmente, se ne avesse l'occasione,
+
+l'oppressore a terra con il pugno. Tutto, tuttavia, nasce dalla ricerca
+
+di una falsa semplicità, il proposito di essere, se posso esprimermi così, più
+
+naturali di quanto sia naturale essere. Non solo sarebbe più umano, sarebbe
+
+più umile da parte nostra accontentarci di essere complessi. La più vera
+
+parentela con l'umanità starebbe nel fare come l'umanità ha sempre fatto,
+
+accettando con un gusto sportivo la condizione a cui siamo chiamati,
+
+la stella della nostra felicità, e le sorti della terra in cui nascemmo.
+
+L'opera di [[tolstoy|Tolstoj]] ha un altro e più speciale significato. Essa
+
+rappresenta la riaffermazione di un certo terribile buon senso che
+
+caratterizzava le affermazioni più estreme di [[Christ|Cristo]]. È vero che non
+
+possiamo porgere la guancia a chi ci percuote; è vero che non possiamo dare il nostro
+
+mantello al ladro; la civiltà è troppo complicata, troppo vanagloriosa,
+
+troppo emotiva. Il ladro si vanterebbe, e noi arrossiremmo; in altre
+
+parole, il ladro e noi siamo egualmente sentimentali. Il comando di
+
+[[Christ|Cristo]] è impossibile, ma non è folle; è piuttosto [[Sanity|sanità]] predicata
+
+a un pianeta di lunatici. Se il mondo intero fosse colto d'improvviso da un
+
+senso dell'[[Humour|umorismo]] si troverebbe meccanicamente ad adempiere il Discorso
+
+della Montagna. Non sono i semplici fatti del mondo a frapporsi sulla
+
+via di quel compimento, ma le sue passioni di [[Vanity|vanità]] e
+
+[[Self|auto]]-esaltazione e morbosa sensibilità. È vero che non possiamo
+
+porgere la guancia a chi ci percuote, e la sola e sufficiente ragione è che
+
+non ne abbiamo il fegato. [[tolstoy|Tolstoj]] e i suoi seguaci hanno mostrato di
+
+avere il fegato, e anche se li riteniamo in errore, con questo segno
+
+essi vincono. La loro teoria ha la forza di una cosa perfettamente
+
+coerente. Rappresenta quella dottrina della mitezza e della non-resistenza che
+
+è l'ultima e più audace di tutte le forme di resistenza a ogni
+
+autorità esistente. È il grande sciopero dei Quaccheri che è più
+
+formidabile di molte sanguinose rivoluzioni. Se solo gli esseri umani
+
+riuscissero a conseguire una vera resistenza passiva sarebbero forti della
+
+spaventosa forza delle cose inanimate, sarebbero calmi della
+
+esasperante calma della quercia o del ferro, che vincono senza vendetta e sono
+
+vinti senza umiliazione. La teoria del dovere cristiano enunciata
+
 
 
 <span class="atom-split" data-atom="story_09_tolstoy_tolstoy_and_the_cult_of_simplici--part_03" data-title="Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY (part 3)" data-chapter="tolstoy TOLSTOY AND THE CULT OF SIMPLICI" data-kind="excerpt"></span>
@@ -9607,6 +11455,178 @@ by no means so striking as the confidence. To begin with, we must
 
 protest against a habit of quoting and paraphrasing at the same [[Time|time]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+da loro è che non dovremmo mai vincere con la forza, ma sempre, se possibile,
+
+vincere con la [[Persuasion|persuasione]]. Nella loro mitologia san Giorgio non sconfisse il
+
+drago: gli annodò un nastro rosa attorno al collo e gli porse una ciotola di
+
+latte. Secondo loro, un trattamento di costante gentilezza verso Nerone lo
+
+avrebbe mutato in qualcosa di cui Alfredo il
+
+Grande è appena una pallida immagine. In effetti, la condotta raccomandata da questa scuola per trattare
+
+la bovina stupidità e la bovina furia di questo mondo è riassunta con precisione
+
+nel celebre verso del signor Edward Lear:
+
+«C'era un vecchio che disse: "Come
+
+fuggirò da questa terribile vacca?
+
+Mi siederò su uno scaletto e continuerò a sorridere,
+
+finché non intenerirò il cuore di questa vacca."»
+
+La loro fiducia nella [[Nature|natura]] umana è davvero onorevole e magnifica;
+
+prende la forma del rifiuto di credere alla stragrande maggioranza del
+
+genere umano, persino quando esso si accinge a spiegare i propri moventi. Ma
+
+per quanto la maggior parte di noi tenderebbe con ogni probabilità, a prima vista, a
+
+considerare questa nuova setta di cristiani poco meno oltraggiosa di qualche
+
+rissosa e assurda setta della [[Reformation|Riforma]], cadremmo tuttavia in un
+
+singolare errore nel farlo. Il [[Christianity|Cristianesimo]] di [[tolstoy|Tolstoj]] è, quando giungiamo
+
+a considerarlo, uno degli episodi più elettrizzanti e drammatici della nostra
+
+moderna civiltà. Rappresenta un tributo alla religione cristiana
+
+più clamoroso della rottura dei sigilli o della caduta delle [[Stars|stelle]].
+
+Dal punto di vista di un razionalista, il mondo intero è reso
+
+quasi irrazionale dal solo fenomeno del Socialismo cristiano. Esso
+
+capovolge l'universo scientifico, e rende essenzialmente
+
+possibile che la chiave di ogni evoluzione sociale si trovi nel polveroso
+
+scrigno di qualche credo screditato. Non sarà inopportuno considerare questo
+
+fenomeno per ciò che realmente è.
+
+La religione di [[Christ|Cristo]] è stata, come molte cose vere, confutata un
+
+numero straordinario di volte. Fu confutata dai filosofi neoplatonici
+
+proprio nel momento in cui muoveva per la prima volta lungo
+
+la sua sorprendente e universale carriera. Fu confutata di nuovo da molti
+
+degli scettici del [[Renaissance|Rinascimento]] pochi anni prima che la sua seconda e
+
+supremamente impressionante incarnazione, la religione del [[Puritanism|Puritanesimo]], stesse per
+
+trionfare su molti re, e civilizzare molti continenti. Concordiamo tutti che
+
+queste scuole di negazione furono solo interludi nella sua [[history|storia]]; ma
+
+tutti crediamo naturalmente e inevitabilmente che la negazione dei nostri giorni
+
+sia davvero una disgregazione del cosmo teologico, un Armageddon, un
+
+Ragnarök, un crepuscolo degli dèi. L'uomo del diciannovesimo secolo,
+
+come uno scolaro di sedici anni, crede che il suo [[Doubt|dubbio]] e la sua depressione siano
+
+simboli della fine del mondo. Ai nostri giorni i grandi irreligiosi che
+
+non fecero altro che detronizzare Dio e cacciare gli angeli davanti a sé sono stati
+
+superati, distanziati, e fatti apparire ortodossi e banali. Una più nuova
+
+razza di scettici ha trovato qualcosa di infinitamente più eccitante da fare che
+
+inchiodare i coperchi su un milione di bare, e il [[Body|corpo]] su una sola
+
+[[Cross|croce]]. Hanno contestato non solo i credi elementari, ma le
+
+leggi elementari dell'umanità, la proprietà, il patriottismo, l'obbedienza civile. Hanno
+
+messo sotto accusa la civiltà tanto apertamente quanto i materialisti hanno
+
+messo sotto accusa la teologia; hanno dannato tutti i filosofi ancora più in basso
+
+di quanto abbiano dannato i santi. Migliaia di uomini moderni si muovono quieti
+
+e convenzionali tra i loro simili pur nutrendo opinioni sulla limitazione
+
+nazionale o sulla proprietà fondiaria che avrebbero fatto rabbrividire Voltaire come
+
+una monaca in ascolto di bestemmie. E l'ultima e più sfrenata fase di questa
+
+saturnale dello scetticismo, la scuola che si spinge più lontano tra le migliaia
+
+che si spingono tanto lontano, la scuola che nega la validità morale di quegli ideali
+
+di [[Courage|coraggio]] o obbedienza che sono riconosciuti perfino tra i pirati, questa
+
+scuola si fonda sulle parole letterali di [[Christ|Cristo]], come il dottor Watts o
+
+i signori Moody e Sankey. Mai nell'intera [[history|storia]] del mondo fu
+
+reso un tributo tanto tremendo alla vitalità di un antico credo.
+
+Al confronto, sarebbe cosa da poco se il Mar Rosso si fendesse
+
+in due, o se il sole si fermasse a mezzogiorno. Siamo di fronte al
+
+fenomeno di un gruppo di rivoluzionari il cui disprezzo per tutti gli
+
+ideali di famiglia e nazione desterebbe orrore in una cucina di ladri,
+
+che sanno liberarsi di quegli istinti elementari dell'uomo e del
+
+gentiluomo che aderiscono alle ossa stesse della nostra civiltà, e non riescono a liberarsi
+
+dell'influenza di due o tre remoti aneddoti orientali
+
+scritti in greco corrotto. Il fatto, una volta compreso, ha in sé
+
+qualcosa di sbalorditivo e ipnotico. Il più convinto razionalista è, in
+
+sua presenza, improvvisamente colpito da una strana e antica visione, vede
+
+le immense cosmogonie scettiche di quest'epoca come [[Dreams|sogni]] che seguono la via
+
+di mille eresie dimenticate, e crede per un istante che le
+
+oscure sentenze tramandate attraverso diciotto secoli possano, in verità, contenere
+
+in sé le rivoluzioni che abbiamo appena cominciato a sognare.
+
+Questo valore, che abbiamo sopra suggerito, appartiene indiscutibilmente ai
+
+tolstoiani, che possono essere grosso modo descritti come i nuovi quaccheri. Con il loro
+
+strano ottimismo, e il loro quasi spaventoso [[Courage|coraggio]] logico, essi offrono
+
+un tributo al [[Christianity|Cristianesimo]] che nessuna ortodossia potrebbe offrire. Non
+
+può che riuscire notevole assistere a una rivoluzione in cui tanto i governanti quanto i
+
+ribelli marciano sotto lo stesso simbolo. Ma l'effettiva teoria della
+
+non-resistenza in sé, con tutte le sue teorie affini, non è, credo,
+
+caratterizzata da quell'ovvietà e necessità intellettuale che i suoi
+
+sostenitori le attribuiscono. Un opuscolo dinanzi a noi ci mostra un numero straordinario
+
+di affermazioni sul Nuovo Testamento, la cui accuratezza non è
+
+affatto sorprendente quanto la sicurezza con cui sono avanzate. Per cominciare, dobbiamo
+
+protestare contro l'abitudine di citare e parafrasare allo stesso [[Time|tempo]].
 
 
 
@@ -10006,6 +12026,172 @@ be called boyish. It is warmed with all the colours of an incredible
 sunset. Rob Roy trapped in the Tolbooth, and confronted with Bailie
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+LA POSIZIONE DI SIR WALTER SCOTT
+
+Walter Scott è uno scrittore che proprio ora dovrebbe riemergere verso il suo
+
+alto posto nelle lettere, poiché indubbiamente le recenti, benché ora
+
+declinanti, scuole di critica severamente tecnica ed estetica gli sono state
+
+sfavorevoli. Fu uno scrittore caotico e diseguale, e se
+
+c'è una cosa in cui gli artisti sono migliorati dal suo [[Time|tempo]], è
+
+nella coerenza e nell'uniformità. Sarebbe forse scortese domandarsi
+
+se il livello del moderno uomo di lettere, paragonato a Scott,
+
+sia dovuto all'assenza di valli o all'assenza di [[Mountains|montagne]]. Ma in ogni
+
+caso, ai nostri giorni abbiamo imparato a disporre i nostri effetti letterari
+
+con cura, e il solo punto in cui restiamo inferiori a Scott è nella
+
+incidentale sventura di non avere nulla di particolare da disporre.
+
+Si dice che Scott sia trascurato dai lettori moderni; se è così, la faccenda
+
+potrebbe essere descritta più propriamente dicendo che i lettori moderni sono
+
+trascurati dalla [[Providence|Provvidenza]]. Il motivo di questa trascuratezza, per quanto
+
+esista, va cercato, suppongo, nel sentimento generale che, come
+
+la barba di [[Polonius|Polonio]], egli sia troppo lungo. Eppure è certo una cosa singolare
+
+che in letteratura [[Alone|soltanto]] una [[house|casa]] debba essere disprezzata perché è troppo
+
+grande, o un ospite biasimato perché è troppo generoso. Se il [[Romance|romanzesco]] è
+
+davvero un piacere, è difficile comprendere il divorante
+
+[[Desire|desiderio]] del lettore moderno di sbrigarsene, e se non è un piacere, è
+
+difficile comprendere il suo [[Desire|desiderio]] di averlo affatto. La mera dimensione, mi
+
+pare, non può essere un difetto. Il difetto deve risiedere in qualche
+
+sproporzione. Se alcune delle storie di Scott sono fiacche e lente, non è
+
+perché sono giganti ma perché sono gobbi o storpi.
+
+Scott era davvero assai lontano dall'essere uno scrittore perfetto, ma non
+
+credo si possa dimostrare che l'ampio ed elaborato disegno su cui
+
+le sue storie sono costruite fosse in alcun modo un'imperfezione. Egli disponeva le sue
+
+interminabili prefazioni e le sue colossali introduzioni proprio come un architetto
+
+progetta grandi cancelli e lunghi viali d'accesso a una [[house|casa]] davvero grande. Egli non
+
+condivideva il moderno [[Desire|desiderio]] di attraversare in fretta una storia. Egli
+
+godeva della narrazione come di una sensazione; non desiderava [[Swallow|inghiottire]] una storia
+
+come una pillola perché gli facesse bene in seguito. Desiderava assaporarla
+
+come un bicchiere di porto, perché gli facesse bene sul [[Time|momento]]. Il
+
+lettore siede a lungo ai suoi banchetti. I suoi personaggi hanno quell'aria di
+
+[[Immortality|immortalità]] che appartiene a quelli di Dumas e Dickens. Non dovremmo
+
+stupirci di incontrarli in un numero qualsiasi di seguiti. Scott, nel suo cuore
+
+più profondo, probabilmente avrebbe voluto scrivere una storia infinita senza
+
+né principio né fine.
+
+Walter Scott è un uomo grande, e, perciò, misterioso. Non sarà mai
+
+compreso finché non sarà compreso il [[Romance|Romanzesco]], e ciò accadrà solo quando
+
+il [[Time|Tempo]], l'Uomo e l'[[Eternity|Eternità]] saranno compresi. Dire che Scott ebbe più di
+
+qualsiasi altro uomo mai vissuto il senso del romanzesco pare, di questi
+
+tempi, un tributo lieve e superficiale. L'intera teoria moderna nasce
+
+da un errore fondamentale: l'idea che il [[Romance|romanzesco]] sia in qualche modo un
+
+trastullo con la vita, una finzione, una convenzione, una cosa che sta al
+
+di fuori. Nessuna genuina critica del [[Romance|romanzesco]] sorgerà mai finché non avremo
+
+afferrato il fatto che il [[Romance|romanzesco]] non sta al di fuori della vita ma
+
+assolutamente al centro di essa. Il centro dell'esistenza di ogni uomo è un
+
+sogno. La [[Death|Morte]], la malattia, la follia, sono meri accidenti materiali, come
+
+un mal di denti o una caviglia storta. Che queste brutali forze assedino sempre
+
+e spesso catturino la cittadella non prova che esse siano la cittadella.
+
+Il vanto del realista (nell'applicare ciò che i recensori chiamano il suo bisturi)
+
+è di incidere nel cuore della vita; ma pratica un'incisione assai superficiale
+
+se giunge solo tanto in profondità quanto le abitudini e le calamità e i peccati.
+
+Più in profondità di tutti questi giace la visione che un uomo ha di sé, spavalda e
+
+sentimentale come un romanzetto da un soldo. La letteratura del candore dissotterra
+
+innumerevoli debolezze ed elementi di illegalità che vengono chiamati
+
+[[Romance|romanzesco]]. Essa percepisce abitudini superficiali come l'omicidio e la dipsomania, ma
+
+non percepisce il più profondo dei peccati, il peccato della [[Vanity|Vanità]], la [[Vanity|Vanità]]
+
+che è la madre di tutti i [[Dreams|sogni]] a occhi aperti e delle avventure, l'unico peccato che
+
+non è condiviso con alcun compagno di bagordi, né sussurrato ad alcun sacerdote.
+
+Nel valutare, dunque, il fondamento della preminenza di Scott nel [[Romance|romanzesco]]
+
+dobbiamo assolutamente liberarci dell'idea che il [[Romance|romanzesco]] o
+
+l'avventura siano meramente cose materialistiche implicate nell'intrico di una
+
+trama o nella molteplicità di spade sguainate. Dobbiamo ricordare che esso è,
+
+come la [[Tragedy|Tragedia]] o la farsa, uno stato dell'[[Soul|anima]], e che, per qualche oscura ed
+
+elementare ragione che non potremo mai comprendere, questo stato dell'[[Soul|anima]]
+
+è evocato in noi dalla vista di certi luoghi o dalla contemplazione di
+
+certe crisi umane, da un ruscello che scroscia sotto un pesante e coperto
+
+ponte di legno, o da un uomo che affonda un coltello o una [[Sword|spada]] nel legno duro.
+
+Nella scelta di queste situazioni che catturano lo spirito del [[Romance|romanzesco]]
+
+come in una rete, Scott non è mai stato eguagliato né persino avvicinato. Le sue
+
+scene più belle ci toccano come frammenti di un ilare sogno. Hanno
+
+la stessa qualità spesso posseduta da quelle notturne
+
+commedie: quella di sembrare più umane della nostra vita da svegli, pur
+
+essendo meno possibili. Sir [[Arthur]] Wardour, con la figlia e il
+
+vecchio mendicante rannicchiati in un anfratto della scogliera mentre la [[Night|notte]] cala e la
+
+marea si chiude attorno a loro, si trovano in realtà nella più fredda e amara delle
+
+situazioni pratiche. Eppure l'intero episodio ha una qualità che può solo
+
+essere detta fanciullesca. È riscaldato da tutti i colori di un incredibile
+
+tramonto. Rob Roy intrappolato nel Tolbooth, e messo a confronto con Bailie
+
 
 
 <span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_02" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 2)" data-chapter="THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
@@ -10171,6 +12357,168 @@ Scott's most splendid traits is his difficulty, or rather incapacity,
 
 for despising any of his characters. He did not scorn the most revolting
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nicol Jarvie non sguaina [[Sword|spada]], non balza da alcuna [[Window|finestra]], non ostenta nessuno di quegli
+
+abbaglianti atti esteriori da cui dipende il [[Romance|romanzesco]] contemporaneo, eppure quel
+
+dialogo schietto e umoristico è colmo della [[philosophy|filosofia]] essenziale del
+
+[[Romance|romanzesco]], che è una scommessa quasi pari sull'uomo e sul destino. Forse
+
+la più profondamente avvincente di tutte le situazioni di Scott è quella in
+
+cui la famiglia del colonnello Mannering attende la carrozza che
+
+potrebbe o no giungere nella [[Night|notte]] a condurre uno sconosciuto a un principesco
+
+possesso. Eppure quasi tutta quella scena avvincente consiste in una
+
+ridicola conversazione sul cibo, e in un flirt tra un frivolo
+
+vecchio avvocato e una ragazza alla moda. Nulla possiamo dire su ciò che crea
+
+queste scene, se non che il [[Wind|vento]] soffia dove vuole, e che
+
+qui il [[Wind|vento]] soffia forte.
+
+È in questa qualità di ciò che si può chiamare spirito d'avventura spirituale
+
+che Scott si erge a un'altezza tanto diversa rispetto a tutta la
+
+schiera contemporanea di romanzieri che hanno seguito la guida di
+
+Dumas. Vi è stata, in verità, una grande e animatrice rinascita del
+
+[[Romance|romanzesco]] nel nostro [[Time|tempo]], ma essa è in parte frustrata in quasi ogni caso
+
+da questa radicata concezione secondo cui il [[Romance|romanzesco]] consiste nella vasta
+
+moltiplicazione degli episodi e nella violenta accelerazione della narrazione.
+
+Gli eroi di Mr Stanley Weyman non hanno quasi mai la spada fuori dalle
+
+loro mani; la più profonda presenza del [[Romance|romanzesco]] si sente assai meglio quando la
+
+[[Sword|spada]] è al fianco pronta a innumerevoli avventure troppo terribili per essere
+
+raffigurate. L'[[Hero|eroe]] di Stanley Weyman ha appena il [[Time|tempo]] di consumare la cena
+
+se non nell'atto di balzare da una [[Window|finestra]] o mentre l'altra sua mano è
+
+impegnata a vibrare stoccate con uno stocco. Negli eroi di Scott, invece,
+
+non v'è tratto tanto tipico o tanto degno d'[[Honour|onore]] quanto la loro
+
+disposizione a indugiare sui pasti. La convivialità del Chierico di
+
+Copmanhurst o di Mr Pleydell, e le cose tanto sostanziose che vengono
+
+descritti mentre mangiano, sono uno dei più perfetti tocchi poetici
+
+di Scott. Insomma, Mr Stanley Weyman è pervaso dalla convinzione che
+
+la sola essenza del [[Romance|romanzesco]] sia muoversi con insaziabile rapidità da
+
+episodio a episodio. Nel più autentico [[Romance|romanzesco]] di Scott vi è più del
+
+sentimento di «Oh, indugia ancora, tu sei così bello»; più di un certo
+
+patriarcale godimento delle cose come sono: della [[Sword|spada]] al fianco
+
+e della coppa di vino in mano. Il [[Romance|romanzesco]], in verità, non consiste affatto
+
+tanto nel vivere avventure quanto nell'essere pronti ad esse. Quanto
+
+poco il ragazzo vero si curi degli episodi in confronto agli arnesi e alle
+
+armi lo si può verificare dal fatto che la più popolare storia di
+
+avventura riguarda un uomo che visse per anni su un'isola [[Desert|deserta]]
+
+con due fucili e una [[Sword|spada]], che non dovette mai usare contro un nemico.
+
+Strettamente legata a ciò è una delle accuse più comunemente rivolte
+
+a Scott, particolarmente ai suoi tempi: l'accusa di una capricciosa e
+
+monotona insistenza sui dettagli d'armatura e di costume. Il critico
+
+dell'«Edinburgh Review» disse indignato che poteva tollerare una
+
+descrizione alquanto minuziosa dell'abbigliamento di Marmion, ma quando si
+
+giungeva a un resoconto altrettanto minuzioso dell'abbigliamento dei suoi paggi e
+
+valletti la mente non poteva più sopportarlo. L'unica cosa da dire di
+
+quel critico è che egli non era mai stato un bambino. Egli scioccamente
+
+immaginava che Scott apprezzasse il pennacchio e il pugnale di Marmion per amor di
+
+Marmion. Non essendo egli stesso romantico, non poteva capire che Scott
+
+apprezzava il pennacchio perché era un pennacchio, e il pugnale perché era un
+
+pugnale. Come un [[Child|bambino]], amava le armi di un [[Love|amore]] manuale e materialistico,
+
+come si ama la morbidezza della pelliccia o la freschezza del marmo. Una delle
+
+profonde verità filosofiche che sono quasi riservate ai bambini è
+
+questo [[Love|amore]] delle cose, non per il loro uso o la loro origine, ma per le loro proprie
+
+caratteristiche intrinseche; il [[Child|bambino]] col suo [[Love|amore]] per la durezza del legno, la
+
+umidità dell'[[Water|acqua]], la magnifica saponosità del sapone. Così era per
+
+Scott, che aveva in sé tanto del [[Child|bambino]]. Gli esseri umani erano forse
+
+i personaggi principali delle sue storie, ma non erano certo gli
+
+unici personaggi. Un'ascia da battaglia era un personaggio di rilievo, un [[Castle|castello]] aveva un
+
+carattere e modi propri. Una campana di chiesa aveva la sua parola da dire nella
+
+faccenda. Come un vero [[Child|bambino]], egli quasi ignorava la distinzione tra l'
+
+animato e l'inanimato. Una [[Sword|spada]] a due mani poteva essere portata soltanto da un
+
+servo in una processione, ma era qualcosa d'importante e incommensurabilmente
+
+affascinante: era una [[Sword|spada]] a due mani.
+
+Vi è in Scott una qualità suprema e continua che oggi è
+
+poco apprezzata. Uno dei valori che abbiamo davvero perduto nella
+
+narrativa recente è il valore dell'eloquenza. Il moderno [[artist|artista]] letterario è
+
+composto di quasi ogni uomo tranne l'oratore. Eppure Shakespeare e
+
+Scott si somigliano certamente in questo, che entrambi, se la letteratura
+
+fosse fallita, avrebbero potuto guadagnarsi da vivere come demagoghi di professione. Gli eroi
+
+feudali dei «Romanzi di Waverley» si ribattono l'un l'altro con una
+
+dignità appassionata, altera e tuttavia singolarmente umana, che difficilmente
+
+trova paragone nell'eloquenza politica se non nel «[[Julius Caesar|Giulio Cesare]]». Con una
+
+certa ardente imparzialità che smuove il [[Blood|sangue]], Scott distribuisce le sue
+
+nobili orazioni equamente tra santi e malvagi. Egli può negare a un [[Villain|malvagio]]
+
+ogni virtù o trionfo, ma non sopporta di negargli una parola
+
+efficace; rovinerà un uomo, ma non lo ridurrà al [[Silence|silenzio]]. In [[Truth|verità]], uno dei
+
+tratti più splendidi di Scott è la sua difficoltà, o piuttosto incapacità,
+
+nel disprezzare uno qualunque dei suoi personaggi. Egli non disdegnava il più ripugnante
 
 
 
@@ -10348,6 +12696,178 @@ never anything in the world that was really artificial. It had some
 motive or ideal behind it, and generally a much better one than we
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+malfattore come il realista d'oggi comunemente disdegna il proprio [[Hero|eroe]]. Benché
+
+la sua [[Soul|anima]] possa essere in stracci, ogni uomo di Scott sa parlare come un [[King|re]].
+
+Questa qualità, come ho detto, tristemente scarseggia nella narrativa dell'
+
+ora presente. Il realista, naturalmente, ripudierebbe la sola idea di
+
+mettere una lingua ardita e brillante in bocca a ogni uomo, ma perfino dove
+
+il momento della storia esige naturalmente l'eloquenza, l'eloquenza sembra
+
+congelata nel rubinetto. Prendete una qualsiasi opera narrativa contemporanea e volgetevi alla
+
+scena in cui il giovane socialista denuncia il milionario, e poi
+
+confrontate la stucchevole lezione sociologica tenuta da quel noioso incline al sacrificio di [[Self|sé]]
+
+con la travolgente gioia delle parole nella dichiarazione che Rob Roy fa di sé,
+
+o nella sfida di Athelstane a De Bracy. Quell'antico mare di umana passione
+
+sul quale le parole alte e le grandi frasi sono la splendente schiuma è proprio
+
+ora in bassa marea. Siamo giunti perfino al punto di congratularci
+
+con noi stessi perché possiamo vedere il fango e i mostri sul [[Bottom|fondo]]. In
+
+politica non v'è un solo uomo la cui posizione sia dovuta all'eloquenza in
+
+primo grado; il suo posto è preso da frizzi e repliche puramente
+
+intellettuali, come quelli di un bigliettaio d'omnibus. Nel discutere
+
+questioni come l'incendio delle fattorie in Sudafrica nessun critico della guerra
+
+usa il suo materiale come Burke o Grattan (forse con esagerazione) l'avrebbero
+
+usato: l'oratore si accontenta dei fatti e delle esposizioni dei
+
+fatti. In un'altra epoca egli si sarebbe potuto alzare e scagliare quel grande [[Song|canto]] in
+
+prosa, perfetto come prosa e tuttavia elevantesi in una cantilena, che Meg Merrilees
+
+scagliò a Ellangowan, ai governanti della Britannia: «Andate per la vostra strada, Laird
+
+di Ellangowan; andate per la vostra strada, Godfrey [[Bertram]]: oggi avete
+
+spento sette focolari fumanti. Vedete se il [[Fire|fuoco]] nel vostro salotto
+
+arde più lieto per questo. Avete strappato il tetto di sette case
+
+di contadini. Guardate se la vostra trave maestra sta più salda per questo. Potete
+
+stallare i vostri giovenchi nelle capanne di Dern-cleugh. Badate che la lepre
+
+non si acquatti sulla pietra del focolare di Ellangowan. Andate per la vostra strada, Godfrey
+
+[[Bertram]]».
+
+La ragione è, naturalmente, che questi uomini temono l'enfasi e Scott
+
+no. Un uomo non raggiungerà l'eloquenza se teme l'enfasi, proprio
+
+come un uomo non salterà una siepe se teme un fossato. Poiché lo scopo
+
+di ogni eloquenza è trovare il minimo comun denominatore delle anime degli uomini,
+
+cadere appena entro la naturale comprensione, essa non può ovviamente avere
+
+alcuna possibilità con un'[[Ambition|ambizione]] letteraria che mira a cadere appena al di fuori
+
+di essa. È del tutto giusto inventare sottili analisi e distaccate
+
+critiche, ma è irragionevole aspettarsi che siano punteggiate da
+
+boati di applauso popolare. È possibile concepire una folla che gridi
+
+un qualsiasi sentimento centrale e semplice, buono o cattivo, ma è impossibile
+
+pensare a una folla che gridi una distinzione di termini. In materia di
+
+eloquenza, l'intera questione è quella dell'effetto immediato della
+
+[[Greatness|grandezza]], quale è prodotto perfino da una bella enfasi. È assurdo
+
+chiamarla meramente superficiale; qui non v'è questione di superficialità;
+
+potremmo [[Well|bene]] anche dire superficiale una pietra che ci colpisce fra gli occhi
+
+meramente. La parola stessa «superficiale» si fonda su un fondamentale
+
+errore riguardo alla vita, l'idea che i ripensamenti siano i migliori. L'
+
+impressione superficiale del mondo è di gran lunga la più profonda. Ciò che
+
+davvero sentiamo, naturalmente e casualmente, riguardo all'aspetto dei cieli e degli alberi
+
+e al volto degli amici, questo e questo [[Alone|soltanto]] resterà quasi certamente
+
+la nostra [[philosophy|filosofia]] vitale fino al giorno della morte.
+
+L'enfasi di Scott, dunque, sarà sempre commovente per chiunque
+
+vi si accosti, come dovrebbe accostarsi a ogni letteratura, come un piccolo [[Child|bambino]].
+
+Potremmo facilmente scusare il critico contemporaneo che non ammira
+
+i melodrammi e le storie d'avventura, e Punch e Judy, se ammettesse
+
+che si tratta di una lieve carenza della sua sensibilità artistica. Al di là
+
+di ogni dubbio, denota una mancanza d'istinto letterario l'essere incapaci di
+
+semplificare la propria mente al primo segnale dell'avanzare del [[Romance|romanzesco]]. «Mi
+
+fai torto», disse Brian de Bois-Guilbert a Rebecca. «Molte leggi, molti
+
+comandamenti ho infranto, ma la mia parola, mai». «Muori», grida Balfour
+
+di Burley al [[Villain|malvagio]] in «Old [[Mortality]]». «Muori, senza nulla sperare,
+
+senza nulla credere...» «E senza nulla temere», replica l'altro. Questa è
+
+l'antica e onorevole nobile arte del vantarsi, come la praticavano i
+
+grandi eroi dell'antichità. L'uomo che non sa apprezzarla va di pari passo
+
+con l'uomo che non sa apprezzare il manzo o il claretto o un gioco con i
+
+bambini o una banda d'ottoni. Temono di rendersi ridicoli,
+
+e ignorano che tale trasformazione è già stata trionfalmente
+
+compiuta.
+
+Scott è separato, dunque, da gran parte della più tarda concezione della narrativa
+
+da questa qualità dell'eloquenza. Tutta la migliore e più raffinata opera del
+
+romanziere moderno (come l'opera di Mr Henry James) si occupa principalmente
+
+di quel discorso delicato e affascinante che scava sempre più a fondo
+
+come una talpa; ma abbiamo del tutto dimenticato quel discorso che
+
+si leva sempre più alto come un'onda e ricade in una fragorosa perorazione.
+
+Forse l'uomo più compiutamente brillante e tipico di questo decennio è
+
+Mr Bernard [[Shaw]]. Nella sua ammirevole commedia «Candida» è chiaramente parte
+
+del carattere del pastore socialista l'essere eloquente,
+
+ma egli non è eloquente, perché l'intera condizione mentale «G.B.S.»
+
+rende impossibile quella semplicità poetica che l'eloquenza richiede.
+
+Scott prende sul serio i suoi eroi e i suoi malvagi, il che è, dopo tutto, il
+
+modo in cui eroi e malvagi prendono sé stessi: specialmente i malvagi. È
+
+consuetudine chiamare artificiose queste antiche pose romantiche; ma la parola
+
+«artificioso» è l'ultima e più sciocca evasione della critica. Non vi
+
+fu mai al mondo nulla che fosse davvero artificioso. Aveva qualche
+
+motivo o ideale alle spalle, e generalmente uno assai migliore di quello che noi
+
 
 
 <span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_04" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 4)" data-chapter="THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
@@ -10451,141 +12971,3 @@ orribile perfezione, lasciandone fuori Walter Scott e quel
 strano vecchio mondo che è tanto confuso e tanto indifendibile e tanto
 
 ispiratore e tanto sano quanto lui.
-
-Fine dell'eBook Project Gutenberg di Dodici tipi, di G.K. Chesterton
-
-*** FINE DI QUESTO EBOOK PROJECT GUTENBERG DODICI TIPI ***
-
-***** Questo file dovrebbe chiamarsi 12491.txt o 12491.zip *****
-
-This and all associated files of various formats will be found in:
-
-http://www.gutenberg.net/1/2/4/9/12491/
-
-Prodotto da Robert Shimmin, Stephen [[Hope]] e il Team Distribuito Online di
-
-Correzione Bozze.
-
-Updated editions will replace the previous one--the old editions
-
-will be renamed.
-
-Creating the works from public domain print editions means that no
-
-one owns a United States copyright in these works, so the Foundation
-
-(and you!) can copy and distribute it in the United States without
-
-permission and without paying copyright royalties.  Special rules,
-
-set forth in the General Terms of Use part of this license, apply to
-
-copying and distributing Project Gutenberg-tm electronic works to
-
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-
-Gutenberg is a registered trademark, and may not be used if you
-
-charge for the eBooks, unless you receive specific permission.  If you
-
-do not charge anything for copies of this eBook, complying with the
-
-rules is very easy.  You may use this eBook for nearly any purpose
-
-such as creation of derivative works, reports, performances and
-
-research.  They may be modified and printed and given away--you may do
-
-practically ANYTHING with public domain eBooks.  Redistribution is
-
-subject to the trademark license, especially commercial
-
-redistribution.
-
-*** INIZIO: LICENZA COMPLETA ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-
-distribution of electronic works, by using or distributing this work
-
-(or any other work associated in any way with the phrase "Project
-
-Gutenberg"), you agree to comply with all the terms of the Full Project
-
-Gutenberg-tm License (available with this file or online at
-
-http://gutenberg.net/license).
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-
-electronic work, you indicate that you have read, understand, agree to
-
-and accept all the terms of this license and intellectual property
-
-accordo (di marchio/copyright).  Se non acconsentite a rispettare tutti
-
-i termini del presente accordo, dovete cessare l'uso e restituire o distruggere
-
-tutte le copie delle opere elettroniche Project Gutenberg-tm in vostro possesso.
-
-Se avete pagato una tariffa per ottenere una copia di, o l'accesso a, un'opera
-
-elettronica Project Gutenberg-tm e non acconsentite a essere vincolati dai
-
-termini del presente accordo, potete ottenere il rimborso dalla persona o
-
-dall'ente al quale avete versato la tariffa, secondo quanto stabilito al paragrafo 1.E.8.
-
-1.B.  «Project Gutenberg» è un marchio registrato.  Può essere
-
-usato o associato in qualsiasi modo a un'opera elettronica soltanto da persone che
-
-acconsentono a essere vincolate dai termini del presente accordo.  Vi sono alcune
-
-cose che potete fare con la maggior parte delle opere elettroniche Project Gutenberg-tm
-
-anche senza attenervi ai termini integrali del presente accordo.  Si veda il
-
-paragrafo 1.C più sotto.  Vi sono molte cose che potete fare con le opere elettroniche
-
-Project Gutenberg-tm se seguite i termini del presente accordo
-
-e contribuite a preservare il libero accesso futuro alle opere elettroniche
-
-Project Gutenberg-tm.  Si veda il paragrafo 1.E più sotto.
-
-1.C.  La Project Gutenberg Literary Archive Foundation («la Fondazione»
-
-o PGLAF) detiene un copyright di raccolta sulla collezione di opere elettroniche
-
-Project Gutenberg-tm.  Quasi tutte le singole opere della
-
-collezione sono di pubblico dominio negli Stati Uniti.  Se una
-
-singola opera è di pubblico dominio negli Stati Uniti e voi vi
-
-trovate negli Stati Uniti, non rivendichiamo alcun diritto di impedirvi di
-
-copiare, distribuire, eseguire, esporre o creare opere derivate
-
-basate sull'opera, purché siano rimossi tutti i riferimenti a Project Gutenberg.
-
-Naturalmente, [[Hope|speriamo]] che vorrete sostenere la missione
-
-Project Gutenberg-tm di promuovere il libero accesso alle opere elettroniche
-
-condividendo liberamente le opere Project Gutenberg-tm nel rispetto dei termini del
-
-presente accordo, così da mantenere il nome Project Gutenberg-tm associato
-
-all'opera.  Potete facilmente attenervi ai termini del presente accordo
-
-conservando quest'opera nel medesimo formato con l'allegata Licenza integrale Project

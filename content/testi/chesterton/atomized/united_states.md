@@ -374,6 +374,83 @@ for such good causes, when they cannot be lost by [[Fear|fear]], are often
 lost by favour.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cecil Edward Chesterton nacque il 12 novembre 1879; e vi è uno speciale, se pur
+secondario, senso in cui possiamo usare la frase che egli nacque combattente.
+Può parere, in qualche triste modo, una frivolezza dire che discuteva
+fin dalla culla. È certamente, nello stesso triste modo, un conforto ricordare
+una [[Truth|verità]] riguardo ai nostri rapporti: che discutevamo perpetuamente e che
+non litigammo mai. In un certo senso era la [[Truth|verità]] psicologica,
+immagino, che non litigammo mai perché discutevamo sempre.
+La sua lucidità e il suo [[Love|amore]] della [[Truth|verità]] mantennero le cose tanto sul piano
+della [[logic|logica]], che il resto dei nostri rapporti rimase, grazie a Dio,
+in solida simpatia; molto prima di quel [[Time|tempo]] posteriore in cui, in sostanza,
+la nostra discussione era divenuta un accordo. Né, credo, il
+processo fu privo di valore; poiché almeno imparammo ad argomentare in difesa
+del nostro accordo. Ma la retrospettiva merita ora un pensiero solo
+perché illustra una dualità che a lui pareva, ed è,
+assai semplice; ma che a molti è sconcertante nella sua stessa semplicità.
+Quando dico che la sua arma era la [[logic|logica]], la si confonderà correntemente
+con la formalità o persino con la freddezza: una sciocca superstizione raffigura sempre
+il logico come un pedante dal volto pallido. Egli era una prova vivente,
+una prova assai vivente, che è vero precisamente il contrario.
+Di fatto è generalmente l'uomo più caldo e più sanguigno che ha
+appetito per le definizioni astratte e persino per le distinzioni astratte.
+Egli aveva tutta la destrezza dialettica di un uomo geniale e generoso
+come Charles Fox. Sapeva padroneggiare quella chiarezza e serratezza più
+che legale che segnavano davvero le argomentazioni legali di un uomo geniale
+e generoso come Danton. Nel suo discorso pubblico meravigliosamente coraggioso,
+preferiva essere un dibattitore piuttosto che un oratore; in un certo senso sosteneva che nessun uomo aveva il diritto di essere
+un oratore senza essere prima un dibattitore. L'eloquenza, diceva,
+aveva il suo giusto posto quando la ragione aveva dimostrato che una cosa era giusta,
+ed era necessario dare agli uomini il [[Courage|coraggio]] di fare ciò che era giusto.
+Credo che egli non avesse mai bisogno dell'eloquenza di alcun uomo per averlo.
+Ma la sostituzione del sentimento alla ragione, nel luogo proprio
+della ragione, lo colpiva «come i musicisti sono colpiti da una nota falsa».
+Era la combinazione di questa integrità intellettuale con
+uno straordinario calore e semplicità negli affetti che costituiva
+il tratto saliente della sua personalità. Gli snob e gli apologeti servili
+del _régime_ a cui egli si opponeva sembrano pensare di poter espiare
+l'essere duri di cuore essendo molli di cervello. Egli rovesciò, se mai
+un uomo lo fece, quel rapporto negli organi. La condizione opposta
+copre davvero tutto ciò che si può dire di lui in questo breve studio;
+è la chiave non solo del suo carattere ma della sua carriera.
+Se razionalismo significasse essere razionali (cosa che quasi mai significa)
+egli potrebbe, a ogni tappa della sua vita, essere chiamato un razionalista arroventato.
+Così, per esempio, divenne assai presto socialista e si unì
+alla Società Fabiana, nel cui direttivo svolse una parte di rilievo
+per alcuni anni. Ma in seguito diede la spiegazione,
+assai caratteristica per coloro che sapevano comprenderla, che ciò che
+gli piaceva del socialismo di stampo fabiano era la sua durezza.
+Intendeva la durezza intellettuale; il fatto che la società evitava
+il sentimentalismo, e trattava in affermazioni e non in mere associazioni.
+Intendeva che sulla base fabiana un socialista era tenuto
+a credere nel socialismo, ma non nei sandali, nel libero [[Love|amore]],
+nella rilegatura dei libri e nel disarmo immediato. Ma aggiunse anche che,
+pur amando la loro durezza, ne detestava la moderazione.
+In altre parole, quando scoprì, o credette di scoprire,
+che la loro durezza intellettuale era combinata con la durezza morale,
+o piuttosto con la mortificazione morale, sentì tutto il ghiaccio intellettuale sciolto
+da una fiamma morale. Ebbe, per così dire, una reazione di realismo emotivo,
+in cui vide, tanto improvvisamente quanto gli uomini semplici sanno vedere le semplici verità,
+gli armeggioni della [[Reform|Riforma]] sociale come i congiurati dello Stato Servile.
+Egli era, sopra ogni cosa, un democratico oltre [[Well|che]] un socialista;
+e in quella setta intellettuale cominciò a sentirsi come se fosse
+il solo socialista che era anche democratico. La sua dogmatica,
+democratica convinzione basterebbe [[Alone|da sola]] a illustrare la falsità
+del contrasto tra la [[logic|logica]] e la vita. L'idea dell'uguaglianza umana
+esisteva con straordinaria chiarezza nel suo cervello, precisamente perché
+esisteva con straordinaria semplicità nel suo carattere.
+Le sue simpatie popolari, a differenza di tanti sentimenti popolari,
+sapevano davvero sopravvivere a qualsiasi intimità con la plebe; esse seguivano
+i poveri non solo nei pubblici comizi ma nelle osterie.
+Egli era letteralmente il solo uomo che io abbia mai conosciuto che non solo
+non fu mai uno snob, ma apparentemente non fu mai tentato di esserlo.
+Il fatto è quasi più importante della sua meravigliosa mancanza di [[Fear|paura]];
+poiché tali buone cause, quando non possono essere perdute per [[Fear|paura]], sono spesso
+perdute per favore.
+
 
 
 <span class="atom-split" data-atom="part--part_03" data-title="United_States (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
@@ -470,6 +547,98 @@ to note the subsequent incidents in the life of Mr. Isaacs,
 but I am here only concerned with incidents in the life of a
 more interesting person.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così giunse a sospettare che il socialismo fosse semplicemente [[Reform|riforma]]
+sociale, e che la [[Reform|riforma]] sociale fosse semplicemente [[Slavery|schiavitù]]. Ma il punto resta
+che, benché il suo atteggiamento verso di esso fosse ormai di rivolta, non era
+affatto una mera ripulsa emotiva. Egli, in verità, ripiegò su cose fondamentali,
+su una furia contro l'oppressione dei poveri, su una pietà per gli schiavi,
+e specialmente per gli schiavi contenti. Ma è il segno del suo tipo di mente
+che egli non abbandonò il socialismo senza una ragionata requisitoria contro di esso,
+e un ragionato sistema da opporgli. La teoria che sostituì al socialismo
+è quella che per comodità può essere chiamata Distributismo;
+la teoria che la proprietà privata è propria di ogni privato cittadino.
+Non è questo il luogo per la sua esposizione; ma sarà evidente che
+una tale [[conversion|conversione]] mette il [[convert|convertito]] in contatto con tradizioni assai più antiche
+della [[Freedom|libertà]] umana, quali si esprimono nella famiglia o nella corporazione.
+E fu press'a poco nello stesso [[Time|tempo]] che, avendo per qualche [[Time|tempo]] tenuto
+una posizione anglo-cattolica, egli entrò nella [[Catholic Church|Chiesa cattolica]] romana.
+È notevole, in connessione con l'argomento generale, che mentre
+le ragioni più profonde di un tale mutamento non concernono uno [[Sketch|schizzo]]
+come questo, egli fu ancora una volta caratteristicamente divertito e infastidito
+dai sentimentalisti, simpatizzanti od ostili, che supponevano
+fosse attratto dal rito, dalla musica e dal misticismo emotivo.
+Diceva a costoro, con loro qualche sconcerto, di essersi
+convertito perché Roma [[Alone|soltanto]] poteva soddisfare la ragione.
+Nel suo caso, naturalmente, come in quello di Newman e di innumerevoli altri,
+persone [[Well|ben]]intenzionate concepivano mille spiegazioni contorte o
+complicate, piuttosto che supporre che un uomo palesemente
+onesto credesse una cosa perché la riteneva vera.
+Egli stava ben presto per dare una più drammatica manifestazione del suo strano
+gusto per la [[Truth|verità]].
+
+L'attacco alla corruzione politica, il passaggio successivo e forse il più
+importante della sua vita, illustra ancora lo stesso punto,
+riguardo alla ragione e all'entusiasmo. Proprio perché sapeva
+che cosa il socialismo è e che cosa non è, proprio perché aveva almeno
+appreso ciò dalla durezza intellettuale dei fabiani,
+egli vide il punto in cui il socialismo fabiano non è duro ma molle.
+Il socialismo significa l'assunzione da parte dello Stato di tutti i mezzi
+di produzione, distribuzione e scambio. Per citare
+(come egli spesso citava con razionale compiacimento) le parole del
+signor Balfour, questo è socialismo e nient'altro è socialismo.
+A un pensiero tanto chiaro, è subito evidente che affidare una cosa
+allo Stato deve sempre significare affidarla agli statisti.
+Egli sapeva difendere il socialismo perché sapeva definire il socialismo;
+e non era né aiutato né ostacolato dalle nebulose associazioni di quella sorta
+di socialisti che perpetuamente difendevano ciò che non definivano mai.
+Tali uomini potevano avere una vaga visione di bandiere rosse e cravatte rosse sventolanti
+in un eterno tumulto al di sopra della caduta dei cilindri e delle [[Union]] Jacks;
+ma egli sapeva che il socialismo istituito significava socialismo ufficiale,
+e condotto da una qualche specie di funzionari. Tutte le forme primarie
+di proprietà privata dovevano essere date al [[government|governo]];
+e gli venne in mente, come naturale precauzione, di dare un'occhiata
+al [[government|governo]]. Prestò qualche attenzione ai tipi e ai metodi effettivi
+di quella classe governante e ufficiale, nel cui potere
+tram e commerci e negozi e case stavano già passando,
+tra fragorosi evviva fabiani per il progresso del socialismo.
+Guardò il moderno [[government|governo]] parlamentare; lo guardò
+razionalmente e fermamente e non senza riflessione.
+E la conseguenza fu che venne messo alla sbarra, e quasi
+messo in gattabuia, per averlo chiamato con il suo nome.
+
+In collaborazione con il signor Belloc aveva scritto «The Party System»,
+in cui è esposta la [[Nature|natura]] plutocratica e corrotta della nostra presente forma di governo.
+E quando il signor Belloc fondò l'_Eye-Witness_,
+come organo audace e indipendente della stessa specie di critica,
+egli servì come energico secondo in comando. Divenne in seguito
+direttore dell'_Eye-Witness_, che fu ribattezzato _New Witness_.
+Fu durante quest'ultimo periodo che si verificò il grande caso esemplare di corruzione
+politica; abbastanza [[Well|ben]] noto in Inghilterra, e purtroppo
+assai meglio noto in Europa, come lo scandalo Marconi. Narrarne
+le alterne segretezze e sensazioni sarebbe qui impossibile;
+ma una fallacia di moda al riguardo può essere con vantaggio smascherata.
+Esiste ancora una straordinaria convinzione che il _New Witness_
+denunciasse i Ministri per aver giocato in Borsa.
+Poteva essere sconveniente che i Ministri giocassero d'azzardo; ma il gioco d'azzardo era
+certo non un misfatto che avrebbe indurito con qualche speciale
+orrore un [[anti-puritan|Anti-Puritano]] tanto cordiale come l'uomo di cui scrivo.
+Il caso Marconi non sollevava la difficile etica del gioco d'azzardo,
+ma la perfettamente semplice etica delle commissioni segrete.
+L'accusa contro i Ministri era che, mentre un contratto [[government|governativo]]
+era in esame, essi tentarono di far denaro grazie a una soffiata segreta,
+data loro dallo stesso appaltatore [[government|governativo]] con cui il loro [[government|governo]]
+doveva presumibilmente trattare. Questo è ciò che il loro accusatore asseriva;
+ma non è a questo che essi tentarono di rispondere con un processo.
+Egli fu perseguito, non per ciò che aveva detto del [[government|governo]],
+ma per alcune cose secondarie che aveva detto dell'appaltatore [[government|governativo]].
+Quest'ultimo, il signor Godfrey Isaacs, ottenne un verdetto per diffamazione criminale;
+e il giudice inflisse una multa di 100 sterline. I lettori possono per caso
+aver notato i successivi episodi della vita del signor Isaacs,
+ma qui mi occupo soltanto degli episodi della vita di una
+persona più interessante.
 
 
 

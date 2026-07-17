@@ -14958,6 +14958,12 @@ HODDER AND STOUGHTON
 LIMITED [[London|LONDON]]
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+HODDER AND STOUGHTON
+
+LIMITED [[London|LONDRA]]
+
 
 
 <span class="atom-split" data-atom="story_02_mcmxxii" data-title="WhatISawInAmerica — MCMXXII" data-chapter="MCMXXII" data-kind="story"></span>
@@ -15003,6 +15009,11 @@ A MEDITATION IN BROADWAY              33
 IRISH AND OTHER INTERVIEWERS          47
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+UNA MEDITAZIONE A BROADWAY              33
+INTERVISTATORI IRLANDESI E ALTRI          47
+
 
 
 <span class="atom-split" data-atom="story_04_some_american_cities_63" data-title="WhatISawInAmerica — Some American Cities                  63" data-chapter="Some American Cities 63" data-kind="story"></span>
@@ -15011,6 +15022,11 @@ IRISH AND OTHER INTERVIEWERS          47
 SOME AMERICAN CITIES                  63
 IN THE AMERICAN COUNTRY               80
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+ALCUNE CITTÀ AMERICANE                63
+NELLA CAMPAGNA AMERICANA              80
 
 
 
@@ -15021,6 +15037,11 @@ THE AMERICAN BUSINESS MAN             97
 PRESIDENTS AND PROBLEMS              121
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'UOMO D'AFFARI AMERICANO             97
+PRESIDENTI E PROBLEMI              121
+
 
 
 <span class="atom-split" data-atom="story_06_prohibition_in_fact_and_fancy_145" data-title="WhatISawInAmerica — Prohibition In Fact And Fancy        145" data-chapter="Prohibition In Fact And Fancy 145" data-kind="story"></span>
@@ -15029,6 +15050,11 @@ PRESIDENTS AND PROBLEMS              121
 PROHIBITION IN FACT AND FANCY        145
 FADS AND PUBLIC OPINION              163
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL PROIBIZIONISMO TRA FATTI E FANTASIA        145
+LE MODE E L'OPINIONE PUBBLICA              163
 
 
 

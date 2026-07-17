@@ -9027,6 +9027,14 @@ except what they have trampled underfoot.
 = = = = = = = = = = = = = = = =
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Considererò questi diversi aspetti del [[Distributism|distributismo]] agricolo più o meno nell'ordine in cui li ho appena elencati; ma qui, nella nota preliminare, mi preme solo il fatto primario. Se potessimo creare un contadinesimo potremmo creare una popolazione conservatrice; e sarebbe un uomo audace colui che si assumesse l'incarico di dirci come la presente situazione industriale nelle grandi città possa produrre una popolazione conservatrice. Sono [[Well|ben]] consapevole che molti chiamerebbero il conservatorismo con nomi più volgari; e direbbero che i contadini sono stupidi, cocciuti e legati a un'esistenza noiosa e monotona. So che si dice che un uomo debba trovare monotono fare le venti cose che si fanno in una fattoria, mentre, naturalmente, trova sempre divertente e festoso fare la stessa cosa per ore e ore e giorno dopo giorno in fabbrica. So anche che le stesse persone fanno esattamente il commento opposto; e dicono che è egoistico e avaro da parte del contadino essere così intensamente interessato alla propria fattoria, invece di mostrare, come i proletari dell'industrialismo moderno, una lealtà disinteressata e romantica verso la fabbrica di qualcun altro, e un [[ascetic|ascetico]] [[Self-Sacrifice|auto-sacrificio]] nel fare profitti per qualcun altro. Dando a ciascuna di queste pretese del capitalismo moderno il loro giusto peso, è comunque lecito dire che in quanto il proprietario contadino è certamente tenace della proprietà contadina, si concentra sull'interesse o è contento della noia, a seconda dei casi, costituisce di fatto un solido blocco di proprietà privata su cui si può fare affidamento per resistere al comunismo; il che non solo non si può dire del proletariato, ma è molto più di quanto qualsiasi capitalista dica di loro. Non credo che il proletariato sia infestato dal bolscevismo (se il miele è una metafora appropriata per quella dottrina), ma se c'è qualche [[Truth|verità]] nelle paure dei giornali su questo argomento, sembrerebbe certamente che le grandi proprietà non possano impedire che ciò accada, mentre le piccole proprietà possono. Ma, di fatto, tutta l'esperienza va contro l'affermazione che i contadini siano selvaggi tetri e degradati, che strisciano a quattro zampe e mangiano erba come gli animali del campo. In tutto il mondo, per esempio, ci sono danze contadine; e le danze dei contadini sono come le danze di re e regine. La [[Dance|danza]] popolare è molto più maestosa e cerimoniale e piena di dignità umana rispetto alla [[Dance|danza]] aristocratica. In molte campagne moderne si possono ancora trovare i contadini nei grandi festival con cappelli come corone e gesti come un rituale religioso, mentre il [[Castle|castello]] o lo château di signori e dame è già pieno di gente che si muove a caso come scimmie al suono dei rumori fatti da negri. In tutta Europa i contadini hanno prodotto gli ricami e le artigianalità che sono state scoperte con delizia dagli artisti quando erano stati a lungo trascurati dagli aristocratici. Questa gente non è conservatrice solo in senso negativo; sebbene ci sia grande valore in ciò che è negativo quando è anche difensivo. Sono anche conservatori in senso positivo; conservano usanze che non periscono come le mode, e mestieri meno [[ephemeral|effimeri]] di quei movimenti artistici che smettono così presto di muoversi. I bolscevichi, credo, hanno inventato qualcosa che chiamano Arte Proletaria, su quale principio non riesco a immaginare; se non che sembrano avere un misterioso [[Pride|orgoglio]] nel chiamarsi proletari quando pretendono di non essere più proletari. Penso piuttosto che sia solo la riluttanza dei mezzo istruiti ad abbandonare l'uso di una parola lunga. Comunque, in questo mondo non è mai esistita una cosa come l'Arte Proletaria. Ma c'è stata con grande enfasi una cosa come l'Arte Contadina.
+
+Suppongo che ciò che si intende sia l'Arte Comunista; e questa [[Alone|parola]] da sola rivela molto. Suppongo che un'arte veramente comunitaria consisterebbe in cento uomini che si aggrappano a uno spazzolone enorme come una torre di assedio, e lo guidano su qualche vasta tela con curve, scossoni ed esitazioni maestose che esprimerebbero, in forme dai contorni oscuri, la mente composita della comunità. I contadini hanno prodotto arte perché erano comunitari ma non comunisti. La consuetudine e una tradizione collettiva davano [[unity|unità]] alla loro arte; ma ogni uomo era un [[artist|artista]] separato. È questa soddisfazione dell'istinto creativo nell'individuo che rende la contadina nel suo insieme contenta e quindi conservatrice. Una moltitudine di uomini sta in piedi sulle proprie gambe, perché stanno sulla loro terra. Ma nella nostra patria, ahimè, i proprietari terrieri non si sono mai appoggiati su nulla, se non su ciò che hanno calpestato sotto i piedi.
+
+= = = = = = = = = = = = = = = =
+
 
 
 <span class="atom-split" data-atom="story_08_vows_and_volunteers--part_01" data-title="Sanity — VOWS AND VOLUNTEERS (part 1)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
@@ -10518,6 +10526,42 @@ He is psychologically undercut, undersold, dumped upon, frozen out,
 flooded, swamped, and ruined; but not emancipated.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# III LA VACANZA DELLO SCHIAVO
+
+A volte ho suggerito che l'industrialismo di tipo americano,
+con le sue macchine e il suo trambusto meccanico, un giorno
+verrà conservato secondo un modello veramente americano; intendo dire nel modo
+delle Riserve degli Indiani Rossi.  Come lasciamo una porzione di foresta
+perché i selvaggi possano cacciare e pescare, così una civiltà superiore potrebbe
+lasciare una zona di fabbriche per coloro che si trovano ancora in uno stadio
+di tale infanzia intellettuale da voler davvero vedere girare le ruote.
+E come gli Indiani Rossi potrebbero ancora, immagino, raccontare i loro curiosi
+vecchi miti di un dio rosso che fumava la pipa o di un [[Hero|eroe]] rosso che rubò
+il [[Moon|sole]] e la [[history|luna]], così il semplice popolo nell'area industriale
+potrebbe continuare a parlare del proprio Outline of [[history|History]] e discutere
+dell'evoluzione dell'etica, mentre tutto intorno a loro una civiltà più matura si occupava di vera [[philosophy|storia]] e seria filosofia.
+Esito a ripetere questa fantasia qui; perché, dopotutto, le macchine sono
+la loro religione, o almeno superstizione, e non gradiscono che vengano trattate con leggerezza.  Ma penso che ci sia qualcosa da dire
+per l'idea di cui questa fantasia potrebbe essere una sorta di simbolo;
+l'idea che una società più saggia alla fine tratterebbe le macchine
+come tratta le armi, come qualcosa di speciale e pericoloso e forse
+più direttamente sotto un controllo centrale.  Ma comunque sia,
+penso che anche la fantasia più selvaggia di un industriale tenuto a bada come
+un barbaro dipinto sia molto più sana di una seria alternativa scientifica
+che spesso ci viene proposta.  Intendo dire quello che i suoi amici chiamano
+lo Stato dell'Ozio, in cui tutto dovrebbe essere fatto dalle macchine.
+È giusto dire una parola su questo suggerimento in confronto
+con il nostro.
+
+In pratica, sappiamo già cosa si intende per vacanza in un mondo di macchinari e produzione di massa. Significa che un uomo, dopo aver finito di girare una manovella, ha la scelta tra certi piaceri offerti a lui. Può, se gli piace, leggere un giornale e scoprire con interesse come il [[Crown|principe]] ereditario di Fontarabia sia sbarcato dal magnifico yacht Atlantis in mezzo a una folla festante; come certi grandi milionari americani stiano facendo grandi consolidamenti finanziari; come la Ragazza Moderna sia una creatura deliziosa, nonostante (o proprio per) i capelli corti e le gonne corte; e come la vera religione, a cui tutti guardiamo nelle Chiese, consista in simpatia e progresso sociale e nel sposare, divorziare o seppellire tutti senza riferimento al preciso significato della cerimonia. D'altra parte, se preferisce qualche altro divertimento, può andare al Cinema, dove vedrà una scena molto vivida e animata delle folle che festeggiano il [[Crown|principe]] ereditario di Fontarabia dopo l'arrivo dello yacht Atlantis; dove vedrà un film americano con le caratteristiche dei milionari americani, con tutte quelle contorsioni risolute del volto che accompagnano la loro realizzazione di grandi consolidamenti finanziari; dove non mancherà una eroina affascinante e vivace, riconoscibile come Ragazza Moderna per i suoi capelli corti e le gonne corte; e forse un clero gentile e buono (se ce n'è) che spiega in pantomima, con l'aiuto di alcune frasi stampate, che la vera religione è simpatia sociale e progresso e sposare e seppellire le persone a caso. Ma supponendo che i gusti dell'uomo siano distaccati dal dramma e dalle arti affini, può preferire la lettura di narrativa; e non avrà difficoltà a trovare un [[Novel|romanzo]] popolare su dubbi e difficoltà di un clero buono e gentile che scopre lentamente che la vera religione consiste in progresso e simpatia sociale, con l'aiuto di una Ragazza Moderna i cui capelli corti e gonne corte proclamano la sua indifferenza a tutte le sottili distinzioni su chi dovrebbe essere sepolto e chi divorziato; né, probabilmente, la storia mancherà di contenere un milionario americano che fa vasti consolidamenti finanziari, e certamente uno yacht e forse un [[Crown|principe]] ereditario. Ma ci sono ancora altri gusti per i quali si provvede nelle condizioni della pubblicità moderna e della ricerca del piacere. C'è la grande istituzione della radio o della trasmissione; e il vacanziero, allontanandosi dalla narrativa, dal giornalismo e dal dramma cinematografico, può preferire "ascoltare" un programma che conterrà le ultimissime notizie dei grandi consolidamenti finanziari fatti da milionari americani; che molto probabilmente conterrà piccole lezioni su come la Ragazza Moderna possa tagliarsi i capelli o accorciare le gonne; in cui può sentire gli stessi accenti di qualche grande predicatore popolare che proclama al mondo quella rivelazione della vera religione che consiste in simpatia e progresso sociale piuttosto che in dogma e credo; e in cui certamente sentirà il tuono stesso degli applausi che accolgono Sua Altezza Reale il [[Crown|principe]] ereditario di Fontarabia quando sbarca dal magnifico yacht Atlantis. C'è quindi davvero una scelta molto elaborata e [[Well|ben]] ordinata posta davanti a lui, per quanto riguarda i mezzi di intrattenimento.
+
+Ma anche la ricca varietà di metodi e approcci che si svela davanti a noi in questa alternativa sembra a qualcuno nascondere un certo elemento segreto e sottile di monotonia. Anche qui il cercatore di piacere può avere quella strana sensazione psicologica di aver già conosciuto la stessa cosa prima.
+Sembra esserci qualcosa di ricorrente nel tipo di argomento; suggestivo di qualcosa di rigido nel tipo di mente. Ora io penso che sia molto dubbio se si tratti davvero di una mente superiore. Se il cercatore di piacere fosse realmente un creatore di piacere per sé stesso, se fosse costretto a divertirsi invece di essere divertito, se in breve fosse obbligato a sedersi in una vecchia locanda e parlare-- sono davvero molto dubbio sul fatto che confinerebbe la sua conversazione interamente al [[Crown|principe]] ereditario di Fontarabia, alla pettinatura dei capelli, alla [[Greatness|grandezza]] di certi ricchi yankee e così via; e poi inizierebbe lo stesso ciclo di argomenti da capo. I suoi interessi potrebbero essere più locali, ma sarebbero più vivaci; la sua esperienza degli uomini più personale ma più varia; i suoi gusti e disgusti più capricciosi ma non così facilmente soddisfatti.
+Per fare un paragone, ai bambini moderni viene fatto giocare a giochi delle scuole pubbliche, e senza dubbio presto verrà loro fatto ascoltare l'elogio dei milionari alla radio e sui giornali. Ma i bambini lasciati a se stessi inventano quasi invariabilmente giochi propri, drammi propri, spesso interi regni immaginari e comuni propri. In altre parole, producono; fino a quando la concorrenza del monopolio non uccide la loro produzione.
+Il ragazzo che gioca ai ladri non è liberato ma ritardato nell'apprendimento su criminali americani, tutti di uno stesso modello meno pittoresco del suo. È psicologicamente sottoposto a concorrenza sleale, venduto sotto costo, sommerso, escluso, inondato, travolto e rovinato; ma non emancipato.
+
 
 
 <span class="atom-split" data-atom="story_13_the_holiday_of_the_slave--part_02" data-title="Sanity — THE HOLIDAY OF THE SLAVE (part 2)" data-chapter="THE HOLIDAY OF THE SLAVE" data-kind="excerpt"></span>
@@ -11432,6 +11476,98 @@ in our life and literature to make it necessary to offer a defence,
 if not an apology, whenever an argument depends upon this fundamental
 fact in life.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non pretendo di sapere molto sui franco-canadesi;
+ma so abbastanza per sapere che la maggior parte delle persone che parlano a ruota libera
+dell'Impero ne sanno ancora meno di me.  E il punto è che generalmente non cercano nemmeno di saperne di più.
+Il quadro molto vago che sempre evocano, di coloni che compiono
+meraviglie in tutti gli angoli del mondo, non include mai,
+di fatto, il tipo di cose che i franco-canadesi possono fare, o potrebbero
+forse mostrare agli altri come farle.  C'è in tutta questa
+moda della colonizzazione un tipo molto pericoloso di ipocrisia.
+La gente ha cercato di usare il Dominio d'Oltremare come [[Eldorado]] mentre lo
+usava ancora come Botany Bay.  Hanno mandato via persone che volevano
+sbarazzarsi, e poi hanno aggiunto l'insulto al danno rappresentando
+che i confini del mondo sarebbero stati lieti di averle.
+E hanno evocato una sorta di ritratto immaginario di una persona le cui virtù
+e anche vizi erano interamente adatti a fondare un Impero, sebbene
+apparentemente del tutto inadatti a fondare una famiglia.  Anche il linguaggio
+che usavano era fuorviante.  Parlavano di tali persone come coloni;
+ma l'ultima cosa che si aspettavano da loro era che si stabilissero.
+Si aspettava da loro un tipo di vaga rottura individualistica
+di nuovo terreno, per cui il mondo è sempre meno realmente interessato
+oggi. Hanno mandato un scomodo nipote a cacciare bisonti selvaggi nelle
+strade di Toronto; proprio come avevano mandato qualsiasi numero di irriducibili
+esuli irlandesi a combattere con i pellerossa selvaggi nelle strade di [[New York]].
+Hanno incessantemente ripetuto che ciò che il mondo vuole sono i pionieri,
+e non avevano mai nemmeno sentito dire che ciò che il mondo vuole sono i contadini.
+C'era una certa quantità di sincero e naturale sentimento riguardo
+all'esule errante che ereditava le nostre tradizioni.  Non c'era davvero
+nessuna pretesa che fosse impegnato a fondare le proprie tradizioni.
+Tutte le idee che accompagnano un solido status sociale erano assenti
+dalla discussione stessa; nessuno pensava alla continuità,
+ai costumi, alla religione o al folklore del futuro colonista.
+Soprattutto, nessuno lo ha mai concepito come avendo un forte senso
+di proprietà privata.  C'era nell'idea vaga di guadagnare
+qualcosa per l'Impero sempre, se non altro, l'idea di guadagnare ciò che apparteneva a qualcun altro.  Non sto ora discutendo
+quanto fosse sbagliato o se in alcuni casi potesse essere giusto;
+sto sottolineando che nessuno ha mai intrattenuto la nozione dell'
+altro tipo di diritto; il diritto speciale di ogni uomo al proprio.
+[[Doubt|Dubito]] che si possa citare una parola che lo enfatizzi anche
+dalla storia d'avventura più sana o dalla canzone jingoista più allegra [[Song|canzone]].
+Apprezzo pienamente tutto ciò che c'è in tali [[songs|canzoni]] o storie che è
+veramente sano o allegro.  Sto solo sottolineando che abbiamo trascurato qualcosa;
+e ora ne stiamo [[Suffering|soffrendo]] per la negligenza.
+E il peggio della negligenza era che non imparavamo nulla
+dai popoli che erano effettivamente dentro l'Impero
+che desideravamo glorificare:  niente dai franco-canadesi;
+niente affatto nemmeno dai poveri indiani.  Abbiamo ora raggiunto una crisi in cui abbiamo
+particolarmente bisogno di questi talenti trascurati; e non sappiamo nemmeno
+come impararli.  E la spiegazione di questo errore,
+come della maggior parte degli errori, è nella debolezza chiamata [[Pride|orgoglio]]:
+in altre parole, è nel tono assunto da persone come il Decano
+di San Paolo.
+
+Ora sarà necessario un ampio elemento di emigrazione nella soluzione per ricreare una classe contadina nel mondo moderno. Avrò più da dire sugli elementi dell'idea nella prossima sezione. Ma credo che qualsiasi schema del genere dovrà basarsi su uno spirito e un principio totalmente diversi, anzi diametralmente opposti a quello comunemente applicato all'emigrazione in Inghilterra oggi. Penso che abbiamo bisogno di una nuova ispirazione, di un nuovo appello, persino di una nuova lingua comune, prima che quella soluzione possa anche solo aiutare a risolvere qualcosa.
+Ciò di cui abbiamo bisogno è l'ideale della Proprietà, non semplicemente del Progresso - specialmente progresso sulla proprietà altrui. L'Utopia ha bisogno di più confini, non di meno. E questo perché siamo stati deboli nell'etica della proprietà ai margini dell'Impero che la nostra stessa società non difenderà la proprietà come gli uomini difendono un diritto.
+Il bolscevico è il seguito e la punizione del pirata.
+
+= = = = = = = = = = = = = = = =
+
+# II LA RELIGIONE DELLA PICCOLA PROPRIETÀ
+
+Oggi si parla molto degli svantaggi del decoro,
+soprattutto da parte di coloro che ci ripetono sempre che le donne della generazione precedente erano impotenti e indifese, per poi dimostrarlo descrivendo la tremenda e imponente tirannia della signora Grundy.
+Più o meno nello stesso modo, insistono sul fatto che le donne vittoriane fossero particolarmente
+morbide e sottomesse. E per loro è piuttosto sfortunato che, anche solo per dirlo,
+debbono introdurre il nome della [[Queen|regina]] Vittoria.
+Ma è soprattutto in relazione all'indecoroso nell'arte
+e nella letteratura che la questione si pone, ed è ora di moda
+ragionare come se non ci fosse affatto una base psicologica per la reticenza.
+Qui dovrebbe finire l'argomento; ma fortunatamente questi pensatori
+non sanno come arrivare alla fine di un ragionamento. Ho sentito
+sostenere che descrivere la violazione di un comandamento non è più dannoso che descriverne un altro; ma questa è ovviamente una fallacia.
+Esiste almeno un caso in psicologia per dire che certe
+immagini muovono l'[[Imagination|immaginazione]] indebolendo il carattere.
+Non esiste alcun caso per dire che la mera contemplazione di un kit di strumenti da scassinatore ci infiammerebbe tutti del [[Desire|desiderio]] di entrare nelle case altrui.
+Non c'è possibilità di fingere che la semplice vista dei mezzi per
+uccidere nostra zia nubile con uno scaccapolvere faccia realmente compiere il misfatto.
+Ma ciò che mi sembra più curioso in questa controversia è questo:
+mentre la nostra narrativa e il nostro giornalismo stanno ampiamente abbattendo
+le proibizioni per le quali c'era davvero un caso logico,
+nella considerazione della [[Nature|natura]] umana, sentono ancora molto largamente
+la pressione delle proibizioni per cui non è mai esistito alcun caso.
+E la cosa più curiosa nelle critiche che sentiamo rivolgere
+all'età vittoriana è che non sono mai dirette contro
+le convenzioni più arbitrarie di quell'epoca. Una di queste, che ricordo molto vividamente nella mia giovinezza, era la convenzione secondo cui c'è qualcosa di imbarazzante o sleale nel fatto che un uomo menzioni la propria religione.
+C'era lo stesso sentimento riguardo al fatto che menzionasse i propri soldi.
+Ora queste cose non possono essere difese con lo stesso argomento psicologico
+degli altri. Nessuno è spinto alla [[Madness|pazzia]] dalla semplice
+vista di un campanile, o trova emozioni incontrollabili che lo possiedono al pensiero del cappello di un arcidiacono. Eppure c'è ancora abbastanza di quella convenzione vittoriana davvero irrazionale che persiste
+nella nostra vita e letteratura da rendere necessario offrire una difesa,
+se non delle scuse, ogni volta che un argomento dipende da questo fatto fondamentale della vita.
 
 
 

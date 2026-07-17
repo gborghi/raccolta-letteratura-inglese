@@ -4186,6 +4186,228 @@ that can lift a man above the quicksands of his moods, and give him the
 mastery of [[Time|time]]."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Navi senza abilità marinara. Questa persona, che posso chiamare il Positivo
+
+# Barbaro, deve essere piuttosto più superficiale e aggiornato di quanto io possa
+
+Chiamatelo barbaro negativo. Alarico era un ufficiale nelle legioni romane:
+
+Ma per tutto ciò distrusse Roma. Nessuno pensa che gli eschimesi avrebbero potuto...
+
+# Non l'ha fatto con precisione, ma il barbarismo non è una questione di...
+
+# Metodi ma non obiettivi. Diciamo che questi vandali laccati hanno perfettamente...
+
+# Serio obiettivo di distruggere certe idee che, secondo loro, il mondo ha
+
+superati; senza i quali, pensiamo noi, il mondo morirà.
+
+È essenziale questa pericolosa peculiarità nel Prusso o Positivo
+
+# Il barbaro va catturato. Ha ciò che crede essere una nuova idea; e lui...
+
+Lo si applicherà a tutti. Di fatto è semplicemente falso.
+
+Generalizzazione; ma sta cercando di renderla generale. Questo non
+
+Applicabile al barbaro negativo: non si applica al russo o al
+
+I Serbi, anche se sono dei barbari. Se un contadino russo picchia il suo...
+
+La moglie, lo fa perché i suoi padri l'hanno fatto prima di lui: è probabile che...
+
+Battere meno piuttosto che di più mentre il passato svanisce. Non pensa come
+
+Il prussiano sostiene di aver fatto una nuova scoperta in fisiologia
+
+Scoprendo che una donna è più debole di un uomo. Se un serbo pugnala...
+
+# Rival senza parole: lo fa perché altri serbi l'hanno fatto.
+
+Può considerarlo persino come pietà, ma certamente non come progresso. Non lo fa
+
+Pensare, come il prussiano, di fondare una nuova scuola di orologeria
+
+Inizia prima della parola "Vai". Non pensa di essere in anticipo rispetto al
+
+Il mondo nel militarismo, semplicemente perché è indietro nei valori morali. No; il
+
+Il pericolo del prussiano è che è pronto a combattere per vecchi errori come se fossero...
+
+Erano nuove verità. In qualche modo aveva sentito parlare di certe superficialità
+
+Semplificazioni; e immagina che non ne abbiamo mai sentito parlare. E, come io
+
+# La sua follia limitata ma sincera si concentra principalmente su...
+
+il [[Desire|desiderio]] di distruggere due idee, le due radici gemelle della società razionale. La
+
+# Prima c'è l'idea di registrazione e promessa; la seconda è l'idea di
+
+riciprocità.
+
+È evidente che la promessa o l'estensione della responsabilità attraverso il [[Time|tempo]]...
+
+Ciò che principalmente ci distingue, non dico dai selvaggi, ma dai...
+
+Brutti e rettili. Questo è stato notato dall'astuzia dell'Antico Testamento.
+
+Quando riassunse l'oscura e irresponsabile enormità del Leviatano con queste parole
+
+«Farà un patto con te?» La promessa, come la [[Wheel|ruota]], è sconosciuta in
+
+La [[Nature|Natura]]: ed è il primo segno dell'uomo. Riferendosi solo alla civiltà umana
+
+All'inizio era la Parola.
+
+il voto è per l'uomo ciò che la [[Song|canzone]] è per l'uccello o il guaito per il cane; il suo
+
+La voce che lo rivela. Proprio come un uomo che non riesce a mantenere un appuntamento è...
+
+Non è adatto nemmeno per un duello, l'uomo che non sa rispettare gli appuntamenti
+
+con se stesso non è abbastanza sano neppure per il [[suicide|suicidio]]. Non è facile menzionare
+
+Qualsiasi cosa su cui si possa dire che l'enorme apparato della vita umana...
+
+Dipende. Ma se dipende da qualcosa, è da questo fragile cavo gettato da...
+
+dalle dimenticate colline di ieri alle invisibili [[Mountains|montagne]] di domani.
+
+Su quel singolo filo pende tutto da Armageddon a un almanacco,
+
+Da una rivoluzione riuscita al biglietto di ritorno. Su quel filo solitario
+
+il barbaro sta colpendo con forza, con un pugnale che per fortuna è ottuso.
+
+Chiunque può vedere questo [[Well|pozzo]] abbastanza bene, semplicemente leggendo gli ultimi negoziati.
+
+tra [[London|Londra]] e Berlino. I prussiani avevano fatto una nuova scoperta in
+
+La politica internazionale: spesso è utile fare promesse;
+
+Eppure stranamente scomodo da conservare. Erano affascinati, nel loro
+
+Un modo semplice di comunicare questa scoperta scientifica
+
+Al mondo. Pertanto promisero all'Inghilterra una promessa, a condizione che...
+
+Ha rotto una promessa e sulla condizione implicita che la nuova promessa...
+
+Potrebbe rompersi facilmente come il vecchio. Con grande stupore di
+
+# Prussia rifiutò questa ragionevole offerta! Credo che lo stupore fosse generale.
+
+La sincerità della Prussia
+
+Il barbaro sta cercando di tagliare quel filo di onestà e chiarezza nei registri,
+
+che sospende tutto ciò che gli uomini hanno creato.
+
+Gli amici della causa tedesca si sono lamentati degli asiatici e degli africani
+
+Sul confine stesso della barbarie sono state mosse contro di loro dall'India
+
+E Algeri. E, in circostanze normali, simpatizzerei con tali
+
+Una lamentela di un popolo europeo. Ma le circostanze non sono...
+
+# Ordinario: qui ancora il barbarismo unico della Prussia va più in profondità
+
+Più che le cosiddette barbarie. A proposito delle vere barbarie, è vero,
+
+Il Turco e lo Sciita avrebbero una risposta molto efficace al superiore teutone.
+
+La ragione generale e giusta per cui non si dovrebbero usare tribù non europee contro...
+
+# Gli europei sono come quelli descritti da Chatham contro l'uso degli indiani d'America: che
+
+# tali alleati potrebbero fare cose molto diaboliche, ma il povero turco forse no
+
+Chiedere ingiustamente, dopo un fine settimana in Belgio, quali altre cose diaboliche ci siano
+
+poteva fare più di quanto gli altamente colti tedeschi stessi stessero facendo.
+
+Tuttavia, come dicevo, la giustificazione di qualsiasi aiuto extra-europeo va...
+
+# più profondo di questi dettagli. Si basa sul fatto che anche gli altri...
+
+Civiltà, anche quelle inferiori e lontane, repellenti
+
+Le civiltà dipendono tanto quanto la nostra da questo principio primario su cui...
+
+la super-[[morality|moralità]] di Potsdam dichiara guerra aperta. Anche i selvaggi promettono
+
+# cose; e rispetta coloro che mantengono le promesse. Anche gli orientali scrivono
+
+# cose in basso: e anche se le scrivono da destra a sinistra, sanno che
+
+L'importanza di un pezzo di carta. Molti commercianti vi diranno che la parola
+
+Del cinese sinistro e quasi disumano, spesso la parola è buona come una promessa:
+
+E fu tra le palme e i padiglioni siriani che la grande proclamazione
+
+Aprì il Tabernacolo a chi giura in danno proprio e non muta.
+
+C'è senza dubbio un fitto labirinto di doppiogiochismo in Oriente, e forse
+
+Più astuzia nell'individuo asiatico che in quello tedesco. Ma noi
+
+Non stiamo parlando delle violazioni della [[morality|moralità]] umana in varie parti del
+
+mondo. Stiamo parlando di una nuova e disumana [[morality|moralità]] che nega
+
+# Il giorno dell'obbligo: i prussiani sono stati informati dai loro...
+
+Gli uomini di lettere sanno che tutto dipende dall'umore, e i loro politici lo sanno anch'essi
+
+Tutte le disposizioni si dissolvono di fronte alla «necessità». Questa è l'importanza
+
+Della frase del Cancelliere tedesco. Non ha addotto scuse particolari
+
+Il caso del Belgio, che potrebbe sembrare un'eccezione che conferma la...
+
+Regola. Egli sosteneva chiaramente, come se fosse un principio applicabile ad altri casi,
+
+che la vittoria era una necessità e l'[[Honour|onore]] un pezzo di carta. E lo è
+
+è evidente che la mezza istruita [[Imagination|immaginazione]] prussiana non riesce davvero a capire
+
+Oltre questo. Non riesce a vedere che se l'azione di tutti fosse interamente...
+
+Incalcolabile da un'ora all'altra, sarebbe non solo la fine di tutto
+
+# promesse, ma la fine di tutti i progetti. Nel non riuscire a vedere ciò,
+
+# Il filosofo di Berlino è davvero su un livello mentale inferiore all'arabo che
+
+Rispetta il sale, o il bramino che preserva la casta. E in questo...
+
+Nella nostra disputa abbiamo il diritto di venire con scimitarre così come sciabole, con archi
+
+così come i fucili, con l'[[Well|assegai]], il tomahawk e il boomerang, perché là
+
+In tutti questi c'è almeno un seme di civiltà intellettuale
+
+Gli anarchici ucciderebbero. E se ci trovassero nella nostra [[Last Stand|ultima resistenza]] assediata,
+
+Con spade così strane e seguendo insegne sconosciute, ci chiedono di
+
+Cosa combattiamo in una compagnia così singolare, sapremo cosa rispondere: "Noi"
+
+Lotta per la fiducia e l'appuntamento, per i ricordi fissi e il possibile
+
+Incontro tra uomini; per tutto ciò che rende la vita qualcosa di più che incontrollabile
+
+[[nightmare|incubo]]. Combattiamo per il lungo braccio dell'[[Honour|onore]] e del ricordo; per tutti
+
+Che può sollevare un uomo dalle sabbie mobili dei suoi umori e dargli la
+
+padronanza del [[Time|tempo]]."
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="TheAppOfTyranny — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
@@ -4684,6 +4906,168 @@ Hanoverian to turn into a Tartar. Any one who has the painful habit of
 personal thought, will perceive here at once the non-reciprocal principle
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Punti di interesse redentori in un contesto altrimenti poco illuminante
+
+aspetto. Il duello può essere difeso; il finto duello può essere difeso.
+
+Ciò che non può essere difeso è qualcosa di veramente peculiare della Prussia
+
+Sentiamo innumerevoli storie, alcune sicuramente vere. Potrebbe essere chiamato...
+
+Il duello monolaterale
+
+estrarre la [[Sword|spada]] contro un uomo che non ha una [[Sword|spada]], come un cameriere o un negoziante.
+
+# Un assistente o anche uno scolaro. Uno degli ufficiali del Kaiser nella...
+
+# Un incidente a Saberne: un uomo si dava da fare per aggredire un invalido. In tutti
+
+Su questi argomenti eviterei il sentimentalismo. Non dobbiamo perdere la calma.
+
+non solo per la pura crudeltà della cosa, ma anche per mantenere una rigorosa distinzione psicologica.
+
+Altri oltre ai soldati tedeschi hanno ucciso i difesi, per saccheggio o lussuria
+
+o per odio personale, come qualsiasi altro assassino. Il punto è che in nessun'altra parte...
+
+ma nella [[Germany|Germania]] prussiana qualsiasi teoria di [[Honour|onore]] è mescolata a cose del genere;
+
+Né più di quanto lo sia l'avvelenamento o il furto con le tasche. Niente francese, niente inglese.
+
+Un gentiluomo italiano o americano penserebbe di aver in qualche modo chiarito la sua...
+
+# il proprio carattere piantando la spada in qualche ridicolo fruttivendolo che
+
+# Non aveva nulla tra le mani se non un cetriolo. Sembra che la parola
+
+tradotto dal tedesco come "[[Honour|onore]]", deve davvero significare qualcosa di completamente
+
+Diverso in tedesco. Sembra voler dire qualcosa di più simile a ciò che dovremmo
+
+chiamano “prestigio”.
+
+Il fatto fondamentale è l'assenza dell'idea reciproca.
+
+Il prussiano non è abbastanza civile per il duello. Anche quando incrocia...
+
+I suoi pensieri non sono come i nostri, quando entrambi glorifichiamo...
+
+# La guerra: stiamo glorificando cose diverse. Le nostre medaglie sono forgiate come le sue.
+
+ma non significano la stessa cosa; i nostri reggimenti sono acclamati come i suoi,
+
+ma il pensiero nel cuore non è lo stesso; la [[Cross|croce]] di ferro è sul
+
+seno del suo [[King|re]], ma non è il segno del nostro Dio. Perché noi, ahimè, seguiamo
+
+il nostro Dio con molte ricadute e contraddizioni di [[Self|sé]], ma egli segue il suo
+
+# coerentemente. Attraverso tutti gli aspetti che abbiamo esaminato, la visione di
+
+I confini nazionali, la visione dei metodi militari, la visione personale
+
+Nel loro caso, insieme all'[[Honour|onore]] e alla legittima difesa, c'è qualcosa di atroce.
+
+Semplicità; qualcosa di troppo semplice per noi da capire: l'idea della gloria
+
+sta nel tenere l'acciaio e non nell'affrontarlo.
+
+Se fossero necessari ulteriori esempi, sarebbe facile fornirne centinaia di
+
+Loro. Per il momento lasciamo da parte la relazione tra uomo e uomo
+
+La cosa chiamata duello. Prendiamo la relazione tra uomo e donna,
+
+in quell'immortale duello che chiamiamo un [[Marriage|matrimonio]]. Anche qui troveremo
+
+Le altre civiltà cristiane puntano ad una certa uguaglianza, anche se
+
+L'equilibrio sia irrazionale o pericoloso. Così, i due estremi della
+
+Il trattamento delle donne potrebbe essere rappresentato da ciò che si definisce rispettabile
+
+classi in [[america|America]] e in Francia. In [[america|America]] scelgono il rischio di
+
+la [[Comradeship|camerateria]]; in Francia il compenso della cortesia. Nell'[[america|America]] è
+
+È praticamente possibile per un giovane gentiluomo di portare una giovane signora a...
+
+Ciò che lui chiama (con mio profondo rammarico) un giro piacevole; ma almeno l'uomo...
+
+# Va con la donna tanto quanto la donna va con l'uomo. In Francia i giovani
+
+La donna è protetta come una suora quando non è sposata, ma quando lo è...
+
+# madre è davvero una donna santa; e quando diventa nonna, è una...
+
+terrore sacro. In entrambi gli estremi la donna ottiene qualcosa in cambio dalla vita.
+
+C'è solo un posto in cui ottiene poco o nulla in cambio; ed è
+
+il nord della [[Germany|Germania]]. Francia e [[america|America]] mirano entrambe all'uguaglianza; la [[america|America]] lo fa
+
+somiglianza; la Francia per differenza. Ma il Nord della [[Germany|Germania]] è definitivamente
+
+Puntare alla disuguaglianza. La donna si alza, senza più irritazione di una...
+
+Il maggiordomo: l'uomo si siede senza più imbarazzo di un ospite. Questo è...
+
+L'affermazione rassegnata di inferiorità, come nel caso della spada e del...
+
+Commerciante: «Tu vai con le donne, non dimenticare la tua frusta», disse Nietzsche.
+
+Si noterà che non dice "poker", che potrebbe sembrare più...
+
+Naturalmente alla mente di un marito violento più comune o cristiano. Ma poi...
+
+il poker è parte della vita domestica e potrebbe essere praticato dalla moglie tanto quanto
+
+il marito. Infatti spesso lo è. La [[Sword|spada]] e la frusta sono le armi
+
+di una casta privilegiata.
+
+Dalla differenza più vicina di tutte, quella tra marito e moglie, passare a...
+
+La più lontana di tutte le differenze: quella delle razze remote e non correlate
+
+Chi raramente si sono visti in faccia e mai toccati l'un l'altro
+
+sangue]] altrui. Qui troviamo ancora lo stesso immutabile principio prussiano.
+
+Qualsiasi europeo potrebbe provare una genuina [[Fear|paura]] del Pericolo Giallo; e molti
+
+Gli inglesi, i francesi e i russi l'hanno sentito ed espresso. Molti potrebbero...
+
+# Dicono e hanno detto che il pagano cinese è molto pagano in effetti; se
+
+Avanza sempre contro di noi, calpesterà e torturerà e distruggerà completamente
+
+Distruggere come fanno gli orientali, non i occidentali
+
+Io [[Doubt|dubito]] della sincerità dell'Imperatore tedesco quando cercò di farci notare
+
+quanto sarebbe anormale e abominevole una campagna del genere da [[nightmare|incubo]], ipotizzando
+
+Ma ora arriva l'ironia comica, che non fallisce mai
+
+Seguire il tentativo del prussiano di essere filosofico. Per il Kaiser,
+
+Dopo aver spiegato ai suoi soldati l'importanza di evitare l'Oriente
+
+# Barbarie: li ha subito trasformati in barbari orientali. Ha detto
+
+# Loro, senza mezzi termini, sono Unni: e non lasciano nulla vivo o in piedi
+
+Dietro di loro. Di fatto, propose apertamente un nuovo corpo dell'esercito composto da indigeni
+
+I Tartari verso l'Estremo Oriente, entro un [[Time|tempo]] che potrebbe essere necessario per una persona disorientata
+
+Da Hannoveriano a Tataro: chiunque abbia l'abitudine dolorosa di...
+
+# Il pensiero personale rivelerà subito il principio non reciproco
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="TheAppOfTyranny — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
@@ -4817,6 +5201,136 @@ He breaks that [[Mirror|mirror]] in the mind, in which a man can see the face of
 
 friend or foe.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+di nuovo. Ridotta alle sue ossa di [[logic|logica]], significa semplicemente questo: “Io sono un
+
+Il tedesco e tu sei un cinese. Pertanto io, essendo tedesco, ho il diritto
+
+Essere cinesi. Ma non avete il diritto di essere cinesi, perché siete
+
+Solo un cinese». Questo è probabilmente il punto più alto cui il tedesco...
+
+la cultura è cresciuta.
+
+Il principio qui trascurato, che può essere chiamato Mutualità da chi lo...
+
+# Non capire e non amare la parola uguaglianza non offre una visione così chiara
+
+La distinzione tra i prussiani e gli altri popoli come fece il primo
+
+Il principio prussiano di un opportunismo infinito e distruttivo; o, in altri
+
+# Parole: il principio di essere senza principi. Nemmeno su questo secondo si può...
+
+Adottare una posizione così evidente riguardo alle altre civiltà o
+
+# Semi-civiltà del mondo: un'idea di giuramento e legame esiste
+
+# tribù più rozze nei continenti più oscuri. Ma si potrebbe sostenere che
+
+L'elemento più delicato e immaginativo della reciprocità: un cannibale
+
+In Borneo lo capisce quasi tanto poco quanto un professore a Berlino. A
+
+La serietà ristretta e unilaterale è il difetto dei barbari in tutto il mondo
+
+# Mondo. Questo potrebbe essere stato il significato, per quanto ne so, dell'occhio unico di...
+
+Il Ciclope: il barbaro non riesce a vedere le cose da ogni angolazione
+
+Da due punti di vista; e così diventa una bestia cieca e un divoratore di
+
+Gli uomini. Certamente non c'è miglior sintesi del selvaggio di questa.
+
+# che come abbiamo visto lo rende inadatto al duello. È l'uomo che non può
+
+Non [[Love|ama]] — e neppure odia — il prossimo come se stesso.
+
+Ma questa qualità della Prussia ha un effetto che riguarda...
+
+Stessa domanda delle civiltà inferiori. Risolve una volta per tutte
+
+meno della missione civilizzatrice della [[Germany|Germania]]. Evidentemente i Tedeschi sono i
+
+# Le ultime persone al mondo da affidare il compito. Sono come...
+
+# Miopi moralmente come fisicamente. Qual è la loro sofistica della "necessità"?
+
+Ma l'incapacità di immaginare il mattino dopo? Cosa ne pensano loro?
+
+# non reciprocità ma incapacità di immaginare, non un dio o un diavolo
+
+Ma semplicemente un altro uomo? Possono questi giudicare l'umanità? Uomini di due tribù
+
+In Africa non solo si sa che sono tutti uomini, ma si può capire
+
+Sono tutti uomini neri. Su questo sono seriamente d'accordo.
+
+Avanzata dell'intellettuale prussiano che non riesce a capire
+
+Siamo tutti uomini bianchi. L'occhio comune non riesce a percepire
+
+Nel germanico nord-orientale tutto ciò che lo contraddistingue in modo particolare
+
+Dalle classi più sbiadite del resto dell'umanità ariana. Egli è semplicemente...
+
+Un uomo bianco, con una tendenza al grigio o al sobrio. Eppure spiegherà,
+
+Nei documenti ufficiali seri, la differenza tra lui e noi è una
+
+La differenza tra la "razza superiore" e la "razza inferiore". Il crollo di...
+
+La [[philosophy|filosofia]] tedesca si manifesta sempre all'inizio piuttosto che alla fine di un
+
+Argomento: e qui il problema è che non c'è modo di testare quale sia
+
+È una razza superiore solo se chiedi quale sia la tua stessa razza. Se non puoi
+
+Scopri (come di solito accade) che ti ritrovi nell'assurda occupazione di
+
+scrivere la [[history|storia]] dei tempi preistorici. Ma suggerisco con tutta serietà
+
+che se i tedeschi possono dare la loro [[philosophy|filosofia]] agli ottentotti, c'è
+
+Nessun motivo per cui non dovrebbero dare la loro sensazione di superiorità
+
+# Ottentotti. Se riescono a distinguere sfumature così sottili tra il Gotico e...
+
+La Gallia: non c'è motivo per cui tonalità simili non possano elevare il selvaggio
+
+# Al di sopra degli altri selvaggi: perché un Ojibway non dovrebbe scoprire di esserlo
+
+Un colore più rosso dei Dakota; o qualsiasi negro nei Camerun dica che non lo è
+
+Così nero come è dipinto. Per questo principio di una razza del tutto non provata
+
+La supremazia è l'ultimo e peggiore rifiuto della reciprocità.
+
+Il prussiano invita tutti a ammirare la [[Beauty|bellezza]] dei suoi grandi occhi blu. Se essi
+
+# Se lo fanno, è perché hanno occhi inferiori; se non lo fanno, è perché...
+
+non hanno occhi.
+
+Dove il più misero residuo della nostra razza, smarrito e prosciugato in
+
+Deserti o sepolto per sempre sotto il crollo di civiltà degenerate
+
+debole [[Memory|memoria]] che gli uomini sono uomini, che i patti sono patti, che ci sono
+
+Due facce di una medaglia, o anche che ci vogliono due per litigare
+
+Il residuo ha il diritto di resistere alla Nuova Cultura, fino all'ultimo coltello e bastone
+
+La pietra spezzata. Perché il prussiano inizia tutta la sua cultura con quell'atto
+
+che è la distruzione di ogni pensiero creativo e azione costruttiva.
+
+Rompe quello [[Mirror|specchio]] nella mente, nel quale un uomo può vedere il proprio volto.
+
+amico o nemico.
 
 
 
@@ -4987,6 +5501,172 @@ the Hohenzollerns have never gone astray into the path of enlightenment.
 
 They have been in alliance with almost everybody off and on; with France,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+III
+
+L'APPETITO DELLA TIRANNIA
+
+L'Imperatore tedesco ha rimproverato questo paese per essersi alleato con
+
+Potere barbarico e semiorientale. Abbiamo già esaminato in che cosa...
+
+# Il senso in cui usiamo la parola "barbarico": è nel senso di chi è ostile a...
+
+La civiltà, non chi ne è carente. Ma quando ci spostiamo dalla
+
+Dall'idea del barbarico all'idea dell'orientale, il caso è ancora più...
+
+Curioso. Non c'è nulla di particolarmente tartaro negli affari russi, eccetto
+
+il fatto che la [[Russia]] espulse i tartari. L'invasore orientale occupò
+
+e ha opprimuto il paese per molti anni; ma lo stesso vale per la Grecia,
+
+della Spagna e persino dell'Austria. Se la [[Russia]] ha sofferto a causa dell'Oriente, essa ha
+
+Ha sofferto per resisterle: ed è piuttosto duro che proprio il miracolo...
+
+Della sua fuga si dovrebbe fare un mistero sulla sua origine. Giona può o non può
+
+È stato tre giorni dentro un pesce, ma questo non lo rende un uomo-pesce.
+
+E in tutti gli altri casi delle nazioni europee che sono sfuggite al mostruoso
+
+# Cattività: riconosciamo la purezza e continuità del tipo europeo
+
+considerate l'antica regola orientale come una ferita, ma non come una macchia.
+
+Uomini dal colore rame dall'Africa hanno dominato per secoli la religione e...
+
+il patriottismo degli spagnoli. Eppure non ho mai sentito dire che [[Don Quixote|Don Chisciotte]] fosse un
+
+Fiaba africana sullo stile dello Zio Remus. Non ho mai sentito dire che
+
+# Il nero intenso nei dipinti di Velázquez era dovuto all'ascendenza africana. In
+
+nel caso della Spagna, che è vicina a noi, possiamo riconoscere la [[Resurrection|resurrezione]]
+
+di una nazione cristiana e colta dopo il suo periodo di schiavitù. Ma la [[Russia]] è
+
+# piuttosto lontani; e coloro per cui le nazioni sono solo nomi sui giornali possono
+
+# davvero fantasioso, come l'amico del signor Baring, che tutte le chiese russe siano
+
+"Le moschee". Eppure la terra di Turgenev non è un deserto di faquiri; e anche...
+
+Il russo fanatico è orgoglioso di essere diverso dal mongolo quanto
+
+lo spagnolo fanatico era orgoglioso di essere diverso dal moro.
+
+La città di Reading offre poche opportunità per la pirateria
+
+# Il mare aperto: ma era il campo dei pirati ai tempi di Alfredo. Io...
+
+È difficile definire la gente del Berkshire mezzo danese solo perché...
+
+# Cacciarono i danesi. Insomma, una temporanea sommersione sotto la...
+
+# L'inondazione selvaggia fu la sorte di molti degli stati più civili
+
+Cristianità; ed è del tutto ridicolo sostenere che la [[Russia]], che
+
+# Chi ha lottato di più, probabilmente si è ripreso meno. Ovunque, senza dubbio, la
+
+L'Oriente ha steso una specie di smalto sui paesi conquistati, ma ovunque
+
+lo smalto si è screpolato. La vera [[history|storia]] è esattamente l'opposto di
+
+Proverbio economico inventato contro il moscovita. Non è vero dire
+
+"Graffia un russo e troverai un tartaro". Nell'ora più buia della
+
+Dominio barbarico: era più vero dire "Scava un Tataro e trovi un...
+
+"Russo". Era la civiltà che sopravvisse sotto tutto il barbarismo.
+
+Questo vitale [[Romance|romanzo]] di [[Russia|Rusia]], questa rivoluzione contro l'Asia, può essere provata
+
+in pura verità: non solo dall'attività quasi sovrumana della [[Russia]] durante
+
+la lotta, ma anche (cosa molto più rara nella storia umana) da parte sua
+
+# un comportamento coerente da allora. È l'unica grande nazione che ha...
+
+Ha davvero cacciato i mongoli dal suo paese e ha continuato a protestare
+
+Contro la presenza del mongolo nel suo continente. Sapendo ciò che aveva
+
+stata in [[Russia]], sapeva cosa sarebbe stato in Europa. Su questo punto perseguì una
+
+# Linea di pensiero logica che era, se mai, troppo poco comprensiva nei confronti della
+
+Energie e religioni dell'Oriente. Tutti gli altri paesi, si può dire, hanno
+
+Sono stati alleati dei Turchi, cioè dei Mongoli e dei Musulmani. I Francesi...
+
+Li usò come pedine contro l'Austria; gli inglesi li sostennero con entusiasmo
+
+Sotto il regime di Palmerston; anche i giovani italiani inviarono truppe a...
+
+La Crimea e la Prussia con il suo vassallo austriaco: oggi non c'è più bisogno di...
+
+parlare. Per il bene o per il male, è un fatto di [[history|storia]] che la [[Russia]] sia l'unica
+
+Potere in Europa che non ha mai sostenuto il Crescente contro la [[Cross|croce]].
+
+# Questo, senza dubbio, sembrerà una questione di poco conto; ma potrebbe diventare...
+
+Importante in condizioni particolari. Supponiamo, per esempio, che...
+
+C'era un principe potente in Europa che era andato
+
+# si è ostentatamente scomodato per rendere omaggio ai resti di
+
+# Tartaro, Mongo e Musulmano, lasciati come avamposto in Europa. Immaginate se ci fossero
+
+Un imperatore cristiano che non poteva nemmeno andare alla tomba del Crocifisso
+
+Senza fermarsi per congratularsi con l'ultimo e vivente crocifisso. Se c'è
+
+# Se fossi un imperatore che distribuisse armi, guide, mappe e istruttori di tiro a
+
+Se un uomo ci venisse a dire che è suo dovere difendere i resti dei mongoli nella cristianità, cosa dovremmo dirgli?
+
+Penso che almeno potremmo chiedergli cosa intendesse con la sua audacia, quando...
+
+Sostenere una potenza semi-orientale
+
+# Potere semi-orientale, lo neghiamo. Che abbia sostenuto un potere completamente orientale
+
+il potere non può essere negato - no, neppure dall'uomo che lo ha fatto.
+
+Ma qui va notata la differenza essenziale tra [[Russia]] e
+
+# La Prussia; specialmente da coloro che usano gli argomenti liberali comuni contro
+
+quest'ultima. La [[Russia]] ha una politica che persegue, se volete, attraverso
+
+male e bene; ma almeno in modo da produrre il bene così come il male. Che sia [[Well|così]].
+
+# Concediamo che la politica l'abbia resa oppressiva verso i finlandesi e gli...
+
+I polacchi -- sebbene i polacchi russi si sentano molto meno oppressi di quelli che...
+
+Polacchi prussiani. Ma è un mero dato storico che se la [[Russia]] è stata una
+
+# Despota per alcune piccole nazioni, liberatrice per altre. Ha fatto,
+
+# Fin dove le era possibile, liberare i serbi o i montenegrini. Ma
+
+Chi ha mai emancipato la Prussia, anche per caso? È davvero qualcosa...
+
+# straordinario che nelle permutazioni perpetue della politica internazionale
+
+I Hohenzollern non si sono mai smarriti nel sentiero dell'Illuminismo.
+
+Sono stati alleati di quasi tutti, ora con uno ora con l'altro; della Francia,
 
 
 
@@ -5381,6 +6061,174 @@ the German and the Englishman are not in the least alike--except in the
 
 sense that neither of them are negroes. They are, in everything good and
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV
+
+LA FUGA DELLA SCIAGURATEZZA
+
+Considerando il punto di vista prussiano abbiamo considerato cosa
+
+sembra essere principalmente un limite mentale: una specie di nodo nel cervello.
+
+Verso il problema della popolazione slava, della colonizzazione inglese, dei francesi
+
+Eserciti e rinforzi: lo stesso strano broncio filosofico.
+
+Per quanto posso capire, sembra dire: "È molto sbagliato che...
+
+Dovresti essere superiore a me, perché io sono superiore a te." Gli oratori
+
+# di questo sistema sembra avere una curiosa capacità di concentrare
+
+Intricati o contraddittori, talvolta in un solo paragrafo, o anche in
+
+# Frase singola. Ho già fatto riferimento alla celebre frase dell'Imperatore tedesco
+
+# Suggerimento per evitare il pericolo dell'essere unni
+
+Diventare Unni. Un esempio molto più forte è il suo ordine più recente ai suoi
+
+Truppe che toccano la guerra nel nord della Francia. Come molti sanno, le sue parole
+
+È mio comando Reale e Imperiale che tu concentri la tua
+
+# Energia, per il presente immediato, su un solo scopo:
+
+che tu rivolga tutta la tua abilità e tutto il valore dei miei soldati a
+
+# Prima annientare gli inglesi traditori, poi passare sopra il generale francese
+
+# "Esercito piccolo e spregevole". La scortesia della frase è comprensibile per un inglese
+
+# non posso ignorare; ciò che mi interessa è la mentalità; il filo di
+
+# Pensiero che riesce ad aggrovigliarsi anche nello spazio più breve
+
+L'esercito di French è insignificante, sembra chiaro che tutti...
+
+# Meglio non concentrarvi l'abilità e il valore dell'esercito tedesco
+
+Ma sugli alleati più grandi e meno spregevoli. Se tutta l'abilità fosse...
+
+# Il valore dell'esercito tedesco è concentrato su di esso, ma non viene trattato
+
+# Contemptibile. Ma il retore prussiano aveva due cose incompatibili
+
+Sentimenti nella sua mente; e insisteva nel dirli entrambi contemporaneamente.
+
+Voleva considerare l'esercito inglese una cosa piccola, ma voleva anche...
+
+Pensare alla sconfitta inglese come a una grande cosa. Voleva esultare, allo stesso tempo...
+
+# Momento di estrema debolezza degli inglesi durante l'attacco; e il
+
+la suprema abilità e il valore dei tedeschi nel respingere un tale attacco.
+
+In qualche modo deve essere reso un crollo comune e ovvio per l'Inghilterra; eppure...
+
+un trionfo audace e inaspettato per la [[Germany|Germania]]. Nel tentativo di esprimere queste
+
+# Concetti contraddittori contemporaneamente lo confondevano. Pertanto lui
+
+ordinò alla Germania di riempire tutte le sue valli e [[Mountains|montagne]] con gli spasmi morenti dei
+
+questo forficule quasi invisibile e lasciate che il sangue impuro di questo scarafaggio [[Blood|sangue]]
+
+arrossire il Reno fino al mare.
+
+Ma sarebbe ingiusto basare la critica sull'affermazione di chiunque
+
+Principe accidentale ed ereditario: e ciò è altrettanto chiaro nel caso di
+
+Dei filosofi che ci sono stati proposti come esempio, anche in Inghilterra
+
+I veri profeti del progresso. E nulla lo dimostra più chiaramente di...
+
+La curiosa confusa conversazione sulla razza e in particolare su quella teutonica
+
+La razza: il professor Harnack e altri ci rimproverano per...
+
+Capire, per aver spezzato "il legame del teutonismo": un legame che
+
+I prussiani hanno osservato rigorosamente sia la violazione che l'osservanza. Lo notiamo
+
+Nella loro aperta annessione di terre interamente abitate da neri, come ad esempio
+
+[[Denmark|Danimarca]]. Lo notiamo allo stesso modo nel loro immediato e gioioso riconoscimento del
+
+I capelli biondi e gli occhi azzurri dei Turchi. Ma è ancora l'astratto
+
+Il principio del professor Harnack che mi interessa di più; e seguendolo
+
+Ho la stessa complessità di indagine, ma la stessa semplicità del risultato.
+
+Confrontando la preoccupazione del [[The Professor|professore]] riguardo al «teutonismo» con la sua indifferenza
+
+Sulla Belgio, posso solo arrivare al seguente risultato: «Un uomo non deve mantenere
+
+una promessa che ha fatto. Ma un uomo deve mantenere una promessa che non ha fatto.”
+
+C'era certamente un trattato che legava la Gran Bretagna al Belgio; se era solo un
+
+# Un pezzo di carta. Se esisteva un trattato che legava la Gran Bretagna al teutonismo, eccolo qui.
+
+Per dir poco, un foglio di carta perso: quasi ciò che si potrebbe chiamare una...
+
+# Frammento di carta straccia. Anche qui i pendenti in questione mostrano...
+
+La perversione irrazionale che fa girare la testa. C'è l'obbligo e
+
+non c'è alcun obbligo: a volte sembra che la [[Germany|Germania]] e l'Inghilterra debbano
+
+manteniamo la [[Faith|fede]] gli uni con gli altri; a volte non è necessario che quella [[Germany|Germania]] mantenga la [[Faith|fede]] con
+
+chiunque e qualsiasi cosa; a volte che siamo [[Alone|soli]] tra i popoli europei a
+
+Quasi autorizzati ad essere tedeschi; talvolta, accanto a noi russi e
+
+I francesi quasi raggiungono una bellezza germanica di carattere, ma attraverso
+
+Tutto ciò che c'è, indefinito ma non ipocrita, questo senso di qualcosa di comune
+
+Tedeschismo.
+
+Il professor Haeckel, un altro dei testimoni sollevati contro di noi, raggiunse
+
+a qualche celebrità di un [[Time|tempo]] dimostrando la notevole somiglianza
+
+Tra due cose diverse stampando immagini doppie della stessa
+
+La contribuzione del professor Haeckel alla biologia, in questo caso, fu...
+
+Esattamente come il contributo del professor Harnack all'etnologia. Professore
+
+# Harnack sapeva cosa fosse un tedesco. Quando voleva immaginare cosa fosse un
+
+L'inglese è come se fotografasse sempre lo stesso tedesco. In
+
+In entrambi i casi c'è probabilmente sincerità così come semplicità. Haeckel era
+
+# così certi che le specie illustrate nell'embrione siano davvero strettamente...
+
+Collegato e interconnesso, gli sembrava una piccola cosa semplificarlo
+
+Per semplice ripetizione. Harnack è così sicuro che il tedesco e l'inglese
+
+# sono quasi uguali, che rischia davvero di generalizzare che lo siano
+
+Esattamente uguali. Fotografa, per così dire, lo stesso volto bello e sciocco
+
+Due volte; e lo chiama una straordinaria somiglianza tra cugini. Così lui
+
+Può dimostrare l'esistenza del teutonismo quasi con la stessa certezza di Haeckel
+
+Ha dimostrato la tesi più sostenibile della non esistenza di Dio. Ora
+
+Il tedesco e l'inglese non sono affatto simili, tranne per...
+
+# Senso che nessuno dei due è nero. Sono, in tutto ciò che è buono e...
 
 
 
@@ -6219,6 +7067,172 @@ exhibited at Frederick-William fair--on grounds as good as those quoted
 
 above. But I have put this particular case before you, as an [[artist]] rather
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Meno sani e meno capaci di libertà e risate che i peggiori
+
+# Parti del passato europeo e la ricerca di una forma per...
+
+Spiego brevemente perché lo pensiamo: ho pensato a te. Perché si tratta di una questione così...
+
+# Grande al punto che non so come esprimerlo se non con termini di artisti come
+
+voi, al servizio della [[Beauty|bellezza]] e della [[Faith|fede]] nella [[Freedom|libertà]]. La Prussia, almeno
+
+Non possono aiutarmi; credo che il signor Palmerston lo chiamasse un dannato paese
+
+professori. Il lord Palmerston, temo [[Fear|temo]], usava la parola «dannata» più o meno
+
+con leggerezza. Io lo uso con riverenza.
+
+Roma, nel suo momento più debole, è sempre stata un [[River|fiume]] che si snoda e si allarga
+
+e che irriga molti campi. Berlino, al suo apice, non sarà mai
+
+tutto fuorché un vortice che cerca il proprio centro e viene risucchiato.
+
+Ridurrebbe il resto dell'Europa come ha già ridotto tutto
+
+il resto della [[Germany|Germania]]. Esiste uno spirito di malato egoismo che alla fine
+
+Fa ruotare tutte le cose su un punto nel cervello. È uno spirito
+
+Espresso più spesso nei gergi che nelle lingue degli uomini. L'inglese
+
+Chiamatela una moda. Non so come la chiamino gli italiani; i prussiani la chiamano...
+
+la sua [[philosophy|filosofia]].
+
+Ecco un esempio che mi ha fatto pensare a te. Cosa proveresti?
+
+prima di tutto, diciamo, se avessi menzionato [[Michael|Michelangelo]] [[Angelo]]? Per il primo momento,
+
+Forse la noia: come mi sento quando gli americani mi chiedono di...
+
+Stratford-on-Avon. Ma, ammesso che il solo [[Fear|timore]] si placasse, sentireste
+
+Ciò che io e tutti gli altri possiamo sentire: potrebbe essere il senso del maestoso
+
+# Le mani dell'uomo sui lucchetti delle ultime porte della vita; grandi e terribili
+
+# mani come quelle del giovane che tiene in equilibrio la pietra sopra Firenze e
+
+# Guarda il cerchio delle colline. Potrebbe essere quel grande sollevamento di
+
+Fianco, petto e gola nella "Sch iava", che è come un terremoto
+
+Sollevare un intero paesaggio; potrebbe essere quella tremenda Madonna, la cui
+
+La [[Charity|carità]] è più forte della [[Death|morte]]. Comunque, i tuoi pensieri sarebbero qualcosa.
+
+degno del terribile paganesimo dell'uomo e della sua ancora più terribile [[Christianity|cristianità]].
+
+Chi se non Dio avrebbe potuto incidere [[Michael|Michelangelo]] [[Angelo]]; chi è arrivato così vicino a incidere?
+
+la Madre di Dio?
+
+La cultura tedesca affronta la questione come segue: "Michelangelo Buonarroti
+
+# (1475-1564).--(=Bernardo) antenato della famiglia, visse a Firenze intorno a
+
+Aveva due figli, Berlinghieri e Buonarrota. Per questo nome ricorrente
+
+# In seguito, la famiglia venne spesso chiamata... È una...
+
+Nome tedesco composto da Bona (Bohn) e Hrodo, Roto (Rohde, Rothe)
+
+# Bona e Rotto sono citati come nomi lombardi. Buonarrotti è forse il vecchio
+
+Beonrado Longobardo, corrispondente alla parola Bonroth. Nomi corrispondenti:
+
+Mackrodt, Osterroth, Leonard... E così via, e così via, e così via. Nel suo
+
+il volto che è sempre stato di colore [[Well|sano]]... gli occhi potrebbero essere definiti piccoli
+
+Piuttosto che grandi, del colore dell'osso, ma variabili con "macchie" di
+
+# Giallo e blu. Capelli e barba neri. Questi dettagli sono confermati
+
+Dai ritratti. Prima di tutto prendete il ritratto del Bugiardini
+
+# Museo Buonarroti: ecco l'apparenza "maculata" dell'iride
+
+Soprattutto nell'occhio destro; il sinistro può essere descritto come quasi del tutto...
+
+# blu". E così via, e così via, e così via. "Nel Museo Civico di Pavia, c'è un
+
+Ritratto fresco di mano ignota, dove questo rosso vivace è distintamente...
+
+Riconoscibile sul volto: considerando tutte queste caratteristiche fisiche...
+
+Considerazioni da un punto di vista antropologico
+
+# Sebbene di origine tedesca era un ibrido tra il Nord e...
+
+"La razza bruna dell'Occidente".
+
+Vi dareste la pena di provare che [[Michael|Michelangelo]] [[Angelo]] era un italiano?
+
+Quest'uomo prova di essere tedesco? Certo che no. L'unica
+
+L'impressione che questo uomo (un riconosciuto storico prussiano) produce su...
+
+la tua mente o la mia è che non gli importa di [[Michael|Michelangelo]] [[Angelo]]. Per te,
+
+Essere un italiano è quindi qualcosa di più che essere un italiano; e io essendo
+
+Un inglese, qualcosa di più di un inglese. Ma questo povero tizio
+
+# Non può essere altro che un prussiano. Scava e scava per trovare
+
+# Prussian morti nelle catacombe di Roma o sotto le rovine di Troia. Se lui
+
+# Trova un occhio blu da qualche parte e ne è contento. Non ha bisogno di altro.
+
+[[philosophy|filosofia]]. Ha un hobby: collezionare tedeschi. Probabilmente lo farebbe
+
+# Sarebbe vano da parte nostra sottolineare che potremmo provare qualsiasi cosa con la...
+
+# Un certo genio che trova il tedesco "rothe" in Buonarroti. Potremmo
+
+divertiamoci un mondo a privare la [[Germany|Germania]] di tutti i suoi geni di quel tipo. Noi
+
+Si potrebbe dire che Moltke doveva essere un italiano, dalla vecchia radice latina
+
+# _mol_ -- indica la dolcezza del carattere di quel generale. Potremmo dire
+
+Bismarck era francese, dato che il suo nome inizia con la popolare teatrale
+
+Il grido di "bis"! Potremmo dire che Goethe era un inglese, perché il suo nome...
+
+Inizia con il popolare grido sportivo «Avanti!» Ma la differenza finale
+
+la differenza tra noi e il professore prussiano è semplicemente che non siamo pazzi.
+
+Il padre di Federico il Grande, fondatore del più moderno
+
+Gli Hohenzollern erano pazzi. La loro [[Madness|pazzia]] consisteva nel rubare giganti; come un
+
+Imprenditore di spettacoli itinerante senza scrupoli. Chiunque superi i due metri d'altezza,
+
+Era chiamato il gigante russo o irlandese o cinese
+
+Il gigante ottentotto era in pericolo di essere rapito e imprigionato in un...
+
+Uniforme prussiana. È lo stesso tipo meschino di follia che sta agendo nei
+
+I professori prussiani come quello che ho citato non possono andare oltre.
+
+Più che l'idea di rubare giganti, non vi annoierò ora con tutti i...
+
+Altri giganti hanno cercato di rubare; basta dire che San Paolo...
+
+Leonardo da Vinci e lo stesso Shakespeare sono tra le mostruosità
+
+Esposizione alla fiera di Federico-Guglielmo -- per motivi altrettanto validi
+
+Ma ho posto questo caso particolare davanti a voi come un [[artist|artista]] piuttosto che
 
 
 
@@ -7351,129 +8365,3 @@ Sudafrica; che conosce tutti i suoi errori, che è gravato da tutti i suoi pecca
 E ti dice, Essere Impeccabile, con una [[Truth|verità]] profonda quanto la sua stessa [[Guilt|colpa]],
 
 e imperitura quanto il suo stesso ricordo, che tu non passerai per questa via."
-
-Fine di The Appetite of Tyranny del Project Gutenberg, di G.K. Chesterton
-
-*** FINE DI QUESTO EBOOK PROJECT GUTENBERG THE APPETITE OF TYRANNY ***
-
-***** Questo file dovrebbe chiamarsi 11605-8.txt o 11605-8.zip *****
-
-This and all associated files of various formats will be found in:
-
-http://www.gutenberg.net/1/1/6/0/11605/
-
-Prodotto da Robert Shimmin, Piotr Przemyslaw Karwasz e i PG Distributed
-
-Proofreaders
-
-Updated editions will replace the previous one--the old editions
-
-will be renamed.
-
-Creating the works from public domain print editions means that no
-
-one owns a United States copyright in these works, so the Foundation
-
-(and you!) can copy and distribute it in the United States without
-
-permission and without paying copyright royalties.  Special rules,
-
-set forth in the General Terms of Use part of this license, apply to
-
-copying and distributing Project Gutenberg-tm electronic works to
-
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-
-Gutenberg is a registered trademark, and may not be used if you
-
-charge for the eBooks, unless you receive specific permission.  If you
-
-do not charge anything for copies of this eBook, complying with the
-
-rules is very easy.  You may use this eBook for nearly any purpose
-
-such as creation of derivative works, reports, performances and
-
-research.  They may be modified and printed and given away--you may do
-
-practically ANYTHING with public domain eBooks.  Redistribution is
-
-subject to the trademark license, especially commercial
-
-redistribution.
-
-*** INIZIO: LICENZA COMPLETA ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-
-distribution of electronic works, by using or distributing this work
-
-(or any other work associated in any way with the phrase "Project
-
-Gutenberg"), you agree to comply with all the terms of the Full Project
-
-Gutenberg-tm License (available with this file or online at
-
-http://gutenberg.net/license).
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-
-electronic work, you indicate that you have read, understand, agree to
-
-and accept all the terms of this license and intellectual property
-
-accordo (di marchio/copyright).  Se non acconsentite a rispettare tutti
-
-i termini del presente accordo, dovete cessare l'uso e restituire o distruggere
-
-tutte le copie delle opere elettroniche Project Gutenberg-tm in vostro possesso.
-
-Se avete pagato una tariffa per ottenere una copia di, o l'accesso a, un'opera
-
-elettronica Project Gutenberg-tm e non acconsentite a essere vincolati dai
-
-termini del presente accordo, potete ottenere il rimborso dalla persona o
-
-dall'ente al quale avete versato la tariffa, secondo quanto stabilito al paragrafo 1.E.8.
-
-1.B.  «Project Gutenberg» è un marchio registrato.  Può essere
-
-usato o associato in qualsiasi modo a un'opera elettronica soltanto da persone che
-
-acconsentono a essere vincolate dai termini del presente accordo.  Vi sono alcune
-
-cose che potete fare con la maggior parte delle opere elettroniche Project Gutenberg-tm
-
-anche senza attenervi ai termini integrali del presente accordo.  Si veda il
-
-paragrafo 1.C più sotto.  Vi sono molte cose che potete fare con le opere elettroniche
-
-Project Gutenberg-tm se seguite i termini del presente accordo
-
-e contribuite a preservare il libero accesso futuro alle opere elettroniche
-
-Project Gutenberg-tm.  Si veda il paragrafo 1.E più sotto.
-
-1.C.  La Project Gutenberg Literary Archive Foundation («la Fondazione»
-
-o PGLAF) detiene un copyright di raccolta sulla collezione di opere elettroniche
-
-Project Gutenberg-tm.  Quasi tutte le singole opere della
-
-collezione sono di pubblico dominio negli Stati Uniti.  Se una
-
-singola opera è di pubblico dominio negli Stati Uniti e voi vi
-
-trovate negli Stati Uniti, non rivendichiamo alcun diritto di impedirvi di
-
-copiare, distribuire, eseguire, esporre o creare opere derivate
-
-basate sull'opera, purché siano rimossi tutti i riferimenti a Project Gutenberg.

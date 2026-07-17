@@ -1669,28 +1669,6 @@ through the [[Garden]] of Eden or opening a railway station at the New
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'eBook Project Gutenberg di Lord Kitchener, di G. K. Chesterton
-
-Questo eBook è destinato all'uso di chiunque, ovunque, senza alcun costo e con
-
-quasi nessuna restrizione di sorta.  Potete copiarlo, regalarlo o
-
-riutilizzarlo secondo i termini della Licenza Project Gutenberg inclusa
-
-con questo eBook o disponibile online all'indirizzo www.gutenberg.org
-
-Titolo: Lord Kitchener
-
-Autore: G. K. Chesterton
-
-Data di pubblicazione: 15 giugno 2008 [EBook #25795]
-
-Lingua: inglese  
-
-Codifica del set di caratteri: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LORD KITCHENER ***
-
 Prodotto da Irma Spehar e dall'Online Distributed
 
 Proofreading Team all'indirizzo http://www.pgdp.net (Questo file è stato

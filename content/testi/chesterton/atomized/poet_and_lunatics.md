@@ -8640,6 +8640,81 @@ is acting as his secretary.  It is to embody some mathematical
 theory about the elimination of limits and..."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Un fringuello giallo, immagino», osservò Garth.
+
+«Non sembra un martello», disse Gale con sonnolenza; «non ha una forma così strana».
+
+"Somaro!" disse Garth brevemente. "Ti aspettavi che sembrasse il martelletto di un banditore? Voi poeti, così forti riguardo alla [[Nature|Natura]], siete generalmente deboli in [[history|storia]] naturale. [[Well|Bene]], Mallow," aggiunse, rivolgendosi al suo compagno, "non hai nulla da [[Fear|temere]] da loro, se ti piace parlare con una voce normale. E questa tua [[house|casa]]?"
+
+«Non è mia», disse Mallow. «In realtà appartiene a un'antica amica di mia madre, una certa signora Verney, vedova. Come vede, il posto è andato in rovina perché i Verney sono sempre più poveri e non sanno cosa fare, ed ecco da dove nasce il problema. Ma ho trascorso lì dei momenti felici che probabilmente non avrò mai più».
+
+«La signora Verney era un personaggio così affascinante?» chiese il suo amico con dolcezza; «o posso permettermi di supporre che ci fosse una generazione emergente?»
+
+«Purtroppo per me è una generazione molto in ascesa», rispose Mallow.
+«Si eleva in una specie di piccola rivoluzione; e si eleva piuttosto sopra la mia testa.» Poi, dopo un [[Silence|silenzio]], disse con certa bruschezza: «Crede nelle dottoresse?»
+
+«Non credo in nessun medico», rispose Garth. «Sono un medico io stesso».
+
+«[[Well|Beh]], non sono esattamente dottoresse donne, credo, ma è qualcosa del genere», continuò Mallow; «studio della scienza psicologica e così via. Laura l'ha presa molto male ed aiuta un certo psicologo russo o altro».
+
+«Il suo stile narrativo è un po' approssimativo», osservò il dottor Garth, «ma immagino di poter dedurre che Laura sia una figlia della signora Verney e anche che Laura abbia qualche legame logico con i giorni felici che non torneranno.»
+
+"Supponga tutto e facciamola finita", rispose il giovane.
+"Sapete cosa voglio dire; ma la vera questione è questa:
+Laura ha tutte le nuove idee ed ha persuaso sua madre a scendere
+dal [[Horse|piedistallo]] della [[Poverty|povertà]] distinta in tutti i modi possibili.
+Non dico che non abbia ragione; ma come si è evoluta la situazione ci sono alcune
+strane complicazioni.  Per prima cosa, Laura non solo guadagna da vivere,
+ma lo fa nel laboratorio di questo misterioso moscovita;
+e in secondo luogo ha convinto sua madre ad accettare un ospite pagante.
+E l'ospite pagante è ancora una volta il misterioso moscovita che vuole
+riposarsi tranquillamente in campagna."
+
+"E immagino", disse il dottore, "che lei pensi che ci sia un po' troppo moscovita nella sua giovane vita?"
+
+"Di fatto si è trasferito nella [[house|casa]] ieri sera tardi,"
+continuò Mallow, "e immagino che sia proprio per questo che questa mattina mi sono ritrovato a vagare in questa direzione, con tutti voi alle calcagna.
+Ho detto che era un posto bellissimo e lo è davvero; ma non voglio dipingerlo né tanto meno visitarlo; eppure,
+avevo una vaga sensazione di voler essere da qualche parte nelle vicinanze."
+
+"E dato che non potevate liberarvi di noi, ci avete portato con voi",
+disse Garth sorridendo. "Ebbene, credo di poter capire tutto questo.
+Sapete qualcosa su questo professore russo?"
+
+«Non so nulla contro di lui», rispose l'altro.
+«È un uomo molto famoso sia nella scienza che in politica.
+Nei vecchi tempi è evaso da una [[Prison|prigione]] siberiana facendo saltare il muro con una bomba di sua costruzione; è una storia davvero emozionante, e deve essere almeno un uomo di [[Courage|coraggio]].
+Ha scritto un grande libro intitolato _La psicologia della libertà_, credo;
+e Laura è molto entusiasta delle sue idee. È una cosa piuttosto indescrivibile in generale; lei e io ci vogliamo molto bene, e non penso che mi scambi per uno [[Fool|stupido]], e non penso di essere uno [[Fool|stupido]].
+Ma ogni volta che ci siamo incontrati ultimamente è stato letteralmente come un incontro su una strada maestra, quando due persone vanno in direzioni opposte.
+E credo di sapere cosa sia; lei va sempre verso l'esterno, e io vado sempre verso l'interno. Più vedo il mondo, più uomini incontro o libri leggo o domande rispondo, più torno con convinzione rinnovata a quei luoghi dove sono nato o ho giocato da bambino, restringendo i miei cerchi come un uccello che torna al suo nido.
+Questo mi sembra il fine di tutti i viaggi, e specialmente del più ampio dei viaggi... [[Home|tornare a casa]]. Ma lei ha un'altra idea in mente.
+Non è solo che dice che quella vecchia [[house|casa]] di mattoni marroni è come una [[Prison|prigione]], o che le colline sono come mura che la chiudono; ammetto che le cose possano diventare piuttosto noiose in un posto del genere. C'è anche una teoria, credo presa dal suo amico psicologo.
+Dice che anche nella sua valle e nel suo [[Garden|giardino]], gli alberi crescono solo perché si irradiano verso l'esterno, che è il latino per ramificarsi.
+Dice che la stessa parola "radioso" dimostra che questo è il segreto della felicità.
+Ci sarà qualcosa di vero, immagino; ma io irradio verso l'interno, per così dire;
+per questo dipingo tutti i miei quadri di questo piccolo angolo del mondo.
+Se potessi dipingere questa valle, potrei passare a dipingere quel [[Garden|giardino]];
+e se solo potessi dipingere quel [[Garden|giardino]], potrei essere degno di dipingere
+l'edera sotto la sua [[Window|finestra]].»
+
+Hutton, che dormiva, si svegliò con uno sbadiglio fragoroso e alzandosi dal suo letto di [[Leaves|foglie]] vagabondò fino a dove il più laborioso Walton si era finalmente messo all'opera dall'altra parte della [[Hill|collina]]. Ma il poeta Gale giaceva ancora, fissando la sua confusione capovolta di cime d'albero. E l'unica risposta che diede a un ulteriore rimprovero da parte di Garth fu dire con voce grave: "Hanno scacciato quello giallo."
+
+«Chi ha scacciato che cosa?» chiese Mallow in tono piuttosto irritato.
+
+"Gli altri [[Birds|uccelli]] attaccarono quello giallo e lo scacciarono",
+disse il poeta.
+
+«Lo considerava un estraneo indesiderato, senza alcun [[Doubt|dubbio]]», disse Garth.
+
+"Il pericolo giallo", disse Gale e ricadde nei suoi [[Dreams|sogni]].
+
+Mallow aveva già ripreso il suo monologo:
+
+"Il nome di questa psicologa è Ivanhov e si dice che stia scrivendo un altro grande libro nella sua residenza fuori città; credo che lei funzioni da segretaria. Il libro dovrebbe incarnare una teoria matematica sull'eliminazione dei limiti..."
+
 
 
 <span class="atom-split" data-atom="story_02_the_yellow_bird--part_03" data-title="Poet and Lunatics — THE YELLOW BIRD (part 3)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>

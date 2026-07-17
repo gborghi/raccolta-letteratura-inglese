@@ -11920,6 +11920,16 @@ of the Crescent, was cast down and lying broken in the [[Snow|snow]].
 = = = = = = = = = = = = = = = =
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Forse è solo quando la civiltà diventa una malattia che diventa un'infezione. È possibile che sia solo quando diventa una malattia molto virulenta che diventa un'epidemia. Forse ancora questo è il significato sia del cosmopolitismo che dell'imperialismo. Comunque le tribù sedute accanto alle soleggiate fonti d'Africa non presero su di sé la [[Song|canzone]] quando Francesco d'Assisi si ergeva sulla stessa montagna del Medioevo, cantando il Cantico del Sole. Quando [[Michael|Michele]] [[Angelo]] scolpì una statua nella [[Snow|neve]], gli Eschimesi non lo imitarono, nonostante le loro grandi cave naturali o risorse. I Lapponi non fecero mai un modello dei Marmi di Elgin, con un fregio di renne invece che cavalli; né gli Ottentotti cercarono di dipingere Mumbo Jumbo come Raffaello aveva dipinto le Madonne. Ma molti re [[King|selvaggi]] indossarono un cilindro, e talvolta il barbaro è stato così degradato da aggiungervi anche un paio di pantaloni. Proiettili esplosivi e il brutale sistema delle fabbriche sono cose che numerosi nativi avanzati desiderano possedere. E fu questa riflessione, nata dal semplice piacere dell'occhio nella folla dai colori variopinti davanti a me, che riportò la mia mente al problema principale e al pericolo della nostra posizione in Palestina, su cui ho toccato più avanti in questo capitolo; il pericolo che è largamente alla base sia delle obiezioni giuste che di quelle ingiuste allo Zionismo. È la [[Fear|paura]] che l'Occidente, nel suo moderno umore mercantile, non mandi i suoi migliori ma i suoi peggiori. Il modo artigianale di dirlo, dal punto di vista dell'arabo, è che ciò significherà non tanto il commerciante inglese quanto l'usuraio ebreo. Scriverò altrove di tipi migliori di ebrei e delle verità che rappresentano realmente; ma l'usuraio ebreo è in un senso curioso e complesso il rappresentante di questo sfortunato [[Paradox|paradosso]]. Non è solo impopolare sia in Oriente che in Occidente, ma è impopolare in Occidente per essere orientale e in Oriente per essere occidentale. In Europa viene accusato di astuzia e segretezza asiatiche, e in Asia di volgarità ed esuberanza europee. Ho detto _a proposito_ dell'arabo che la dignità dell'orientale sta nella sua lunga veste; l'ebreo semplicemente mercantile è l'orientale che ha perso la sua lunga veste, il che porta a una pericolosa vivacità nelle gambe. Si affanna e si agita troppo; e in Palestina parte dell'impopolarità anche del miglior tipo di ebreo è semplicemente dovuta alla sua irrequietezza. Ma rimane una [[Fear|paura]] che non sarà questione del miglior tipo di ebreo, o del miglior tipo di influenza britannica. La stessa ignominiosa inversione che riproduce ovunque il camino della fabbrica senza la torre della chiesa, che diffonde un commercio cockney ma non una cultura cristiana, ha dato a molti uomini una vaga sensazione che l'influenza della civiltà moderna circonderà questi gruppi colorati e stracciati con qualcosa di altrettanto desolato e sbiadito, innaturale e deserto come la [[Snow|neve]] sconosciuta in cui stavano tremando mentre li osservavo. Sembrava esserci una sorta di sinistro presagio in questa strana visita che il nord aveva mandato loro; nel fatto che quando finalmente soffiò il vento del [[Wind|nord]], sparse su di loro solo questa polvere d'argento della [[Dust|morte]].
+
+Può darsi che questo umore più [[Melancholy|malinconico]] fosse accentuato da quel paesaggio pallido e da quei sentieri impraticabili. Non disprezzo la [[Snow|neve]]; al contrario, ne sono incantato; e se si fosse accumulata altrettanto profondamente davanti alla mia porta nel mio paese, l'avrei considerata il trionfo del Natale, una cosa tanto comica quanto il mio cane e la [[donkey|mula]]. Ma le persone con quegli stracci colorati non la gradivano; e gli effetti della neve non erano comici ma tragici. Le notizie che arrivavano sembravano in quella piccola città solitaria come quelle di una grande guerra, o addirittura di una grande sconfitta. Gli uomini giunsero a considerarla, così come hanno fin troppo spesso considerato la guerra, semplicemente come un'infelicità pura, e qui l'infelicità era davvero pura. Mentre la [[Snow|neve]] cominciava a sciogliersi, furono trovati dei cadaveri, le case furono irrimediabilmente sepolte, e persino il graduale sgombero delle strade portò solo notizie di piccoli villaggi solitari perduti tra le colline. Sembrava che un soffio della distruzione senza scopo che vaga nel mondo ci avesse attraversati; e non rimase altro compito agli uomini se non la stancante ricostruzione delle rovine e il conteggio dei morti.
+
+Solo mentre uscivo dalla Porta di Giaffa un uomo mi disse che l'albero dei cento morti, simbolo del califfato eterno della Mezzaluna, era stato abbattuto e giaceva spezzato nella [[Snow|neve]].
+
+= = = = = = = = = = = = = = = =
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="New Jerusalem — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
@@ -15422,6 +15432,66 @@ are at least looking up at the sky; and we know how the learned
 Germans would look down upon them, from their monstrous tower
 upon the [[Hill|hill]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XI
+
+IL SIGNIFICATO DELLA CROCIATA
+
+Ci sono tre esempi di opere occidentali sul grande versante orientale del Monte degli Ulivi; e formano una sorta di triangolo che illustra la [[Truth|verità]] riguardo alle diverse influenze dell'Occidente sull'Oriente. Alla base della [[Hill|collina]] c'è il [[Garden|giardino]] curato dai Francescani sul presunto sito del Getsemani, e che contiene l'ulivo secolare che si suppone sia l'albero terribile dell'agonia di [[Christ|Cristo]]. Data la grande età e la crescita lenta degli ulivi, la tradizione non è così irragionevole come alcuni possono supporre. Ma che sia o meno storicamente corretta, non è artisticamente sbagliata. L'istinto, se era solo un istinto, che ha spinto gli uomini a fissarsi su questa strana crescita di legno grigio e contorto, era un vero istinto immaginativo. Una delle strane qualità di questo strano albero meridionale è la sua durezza quasi sorprendente; colpire accidentalmente il ramo di un ulivo è come colpire una roccia. Con la sua superficie pietrosa, la statura stentata e le strane buche e cavità, spesso assomiglia più a una grotta che a un albero. Da qui non sembra così innaturale che venga trattato come una santa grotta; o che questa strana vegetazione rivendichi di stare in piedi per sempre come un monumento scolpito. Anche il fogliame argenteo tremolante o vibrante dell'ulivo vivente potrebbe [[Well|ben]] avere una leggenda simile a quella del pioppo; come se fosse diventato grigio per [[Fear|paura]] dall'apocalittico [[Paradox|paradosso]] di una visione divina della [[Death|morte]]. Un [[Child|bambino]] proveniente da uno dei villaggi mi disse, in un inglese stentato, che era il luogo dove Dio diceva le sue preghiere. Io per primo non potrei chiedere una dichiarazione più bella o più sfidante di tutto ciò che separa il cristiano dal musulmano o dall'ebreo; _credo quia impossibile_.
+
+Attorno a questo terribile luogo i francescani hanno fatto qualcosa che colpirà molte persone buone e riflessive come fantasticamente inadeguato; e che colpisce me come fantasticamente ma precisamente giusto. Hanno disposto il [[Garden|giardino]] semplicemente come un [[Garden|giardino]], in un modo che è del tutto naturale perché del tutto artificiale. Hanno fatto aiuole a forma di [[Stars|stelle]] e di lune, e le hanno colorate con [[Flowers|fiori]] come quelli nel cortile di una casetta. La combinazione di questi vividi motivi al sole con la terribile [[Shadow|ombra]] al centro è certamente un'incongruenza nel senso di un contrasto. Ma è un contrasto poetico, come quello di [[Birds|uccelli]] che nidificano in un tempio o di [[Flowers|fiori]] che crescono su una tomba. Il modo migliore di suggerire ciò che io per primo provo al riguardo sarebbe qualcosa di simile a questo; supponiamo d'immaginare una compagnia di bambini, come quelli che [[Christ|Cristo]] benedisse in Gerusalemme, poi posti permanentemente a custodia di un campo colmo del suo dolore; è probabile che, se potessero farne qualcosa, farebbero qualcosa di simile a questo. Potrebbero ritagliarlo in bizzarre forme e punteggiarlo di rosse pratoline o di gialle calendule. Davvero non so se vi sia nulla di meglio che gli adulti potrebbero fare, poiché qualunque cosa il più grande di essi potesse fare dovrebbe, dovrebbe apparire altrettanto piccola. "Oserò io, il moscerino che danza nel Tuo raggio, di essere reverente?" I francescani non hanno osato essere reverenti; hanno osato soltanto essere allegri. Può essere un'avventura troppo tremenda dell'[[Imagination|immaginazione]] immaginare [[Christ|Cristo]] in quel [[Garden|giardino]]. Ma non c'è la minima difficoltà a immaginarvi san Francesco; e questo è qualcosa da dire di un'istituzione che ha ottocento anni.
+
+Immediatamente sopra questo piccolo [[Garden|giardino]], che lo sovrasta e quasi lo incombe, sta uno sfarzoso edificio dorato con cupole d'oro e minareti scintillanti al sole, che colma una posizione splendida con quasi spudorato splendore; la chiesa russa costruita sulla parte superiore del [[Garden|giardino]], appartenente ai greco-ortodossi. Anche qui molti viaggiatori occidentali saranno turbati; e penseranno che quell'edificio dorato somigli troppo a un palazzo fatato di una pantomima. Ma anche qui io dissentirò da loro, benché forse meno fermamente. Può darsi che il piacere sia puerile piuttosto che infantile; ma posso immaginare un [[Child|bambino]] battere le mani alla sola vista di quelle grandi cupole simili a bolle d'oro contro il cielo azzurro. È un po' come il Palazzo di Aladino, ma ha un posto nell'arte come Aladino ha un posto nella letteratura; specialmente poiché si tratta di letteratura orientale. Quei saggi missionari in Cina che non ebbero timore di raffigurare i Dodici Apostoli in costume da cinesi avrebbero potuto costruire una chiesa simile in una terra di scintillanti moschee. E poiché si dice che il russo abbia in sé qualcosa del [[Child|bambino]] e qualcosa dell'orientale, uno stile così può essere assai sincero, e avere persino una certa semplicità nel suo splendore. È genuino nel suo genere; fu costruito per coloro cui piace; e coloro cui non piace possono guardare qualcos'altro. Questa sorta di cosa può dirsi pacchiana, ma non è ciò che io chiamo meretricio. Ciò che io chiamo veramente meretricio si può trovare ancora più in alto sul [[Hill|colle]]; che torreggia verso il cielo e domina tutte le valli.
+
+La natura della differenza, credo, merita di essere notata.
+L'Ospizio Tedesco, che serviva come una sorta di palazzo per l'
+Imperatore Tedesco, è un edificio molto grande con una torre molto alta,
+progettato, credo, con grande efficienza, solidità e comfort,
+e dotato di mille cose che ne segnalano la modernità
+rispetto alle cose intorno, al pittoresco [[Garden|giardino]]
+dei Francescani o al fantastico tempio dei Russi.
+È quello che posso solo descrivere come un edificio imponente; piuttosto come
+i più volgari degli spiritosi vittoriani parlavano di una bella donna.
+Definendolo un edificio imponente intendo dire che dalla cima della sua torre vertiginosa
+al [[Bottom|fondo]] delle sue fondamenta più profonde non c'è una linea
+né un colore di [[Beauty|bellezza]]. Questo fatto negativo, tuttavia, sarebbe nulla;
+potrebbe essere onestamente brutto e utilitario come una fabbrica o una [[Prison|prigione]];
+ma non lo è. È tanto pretenzioso quanto la cupola dorata sotto di esso;
+e il suo essere pretenzioso è malvagio, mentre quello dell'altra
+è buono e [[Innocent|innocente]]. Quello che mi infastidisce in esso è che non fu costruito da bambini,
+né tanto meno da selvaggi, ma da professori;
+e i professori potevano professare l'arte senza poterla praticare.
+Gli architetti sapevano tutto di un edificio romanico tranne
+come costruirlo. Si ha la sensazione che abbiano accumulato in quel punto
+tutto il sapere, l'organizzazione e le informazioni del mondo,
+per fare questa cosa particolare; e poi l'hanno fatta male.
+L'hanno fatta male, non per superstizione, né per fanatica
+esagerazione, né per ignoranza provinciale, ma per pura,
+profonda, interna incompetenza intellettuale; quell'incompetenza
+intellettuale che così spesso va di pari passo con l'[[Pride|orgoglio]] intellettuale.
+Citerò solo una questione su cento. Tutte le colonne
+nella Cappella del Kaiser sono in un certo senso molto adatte al loro posto;
+ognuna ha la testa gonfia. La colonna stessa è slanciata,
+ma il capitello non è solo grande ma sporgente; e sembra sporgere
+_verso il basso_, come se gravasse pesantemente su qualcosa di troppo
+slanciato per sostenerlo. Questo è falso, non rispetto a nessuna delle particolari
+scuole di architettura di cui i professori possono leggere nelle biblioteche,
+ma all'idea istintiva più interna dell'architettura stessa.
+Un capitello normanno può essere pesante perché la colonna normanna è spessa,
+e l'insieme esprime una massività e un riposo elefantini.
+E una colonna gotica può essere slanciata, perché la sua forza è energia;
+ed è espressa nella sua linea, che si protende verso l'alto come la vita
+di un albero, come il getto di una fontana o anche come lo scatto di un razzo.
+Ma una cosa slanciata in basso, ovviamente oppressa da una cosa gonfia sopra,
+suggerisce debolezza con uno di quegli errori miracolosi
+che sono esattamente sbagliati quanto i capolavori sono esattamente giusti.
+E a tutto ciò si aggiunge l'intollerabile intuizione; che i Russi
+e i Francescani, anche se gli attribuiamo una fantastica ignoranza,
+stanno almeno guardando il cielo; e sappiamo come i dotti
+Tedeschi li avrebbero guardati dall'alto, dalla loro mostruosa torre
+sulla [[Hill|collina]].
 
 
 

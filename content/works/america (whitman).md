@@ -22,6 +22,16 @@ tags:
 > [!abstract] 
 > Personifies America as an enduring towering Mother of equality, freedom and law, a patriotic celebration.
 
+## Testo / Text
+
+- [America](/testi/chesterton/atomized/america#america)
+
+## Parti / Parts
+
+- [Part 1](/testi/chesterton/atomized/america#part--part_01)
+- [Part 2](/testi/chesterton/atomized/america#part--part_02)
+- [Part 3](/testi/chesterton/atomized/america#part--part_03)
+
 ## Connections
 
 **Archetypes:** [[Great Mother]]

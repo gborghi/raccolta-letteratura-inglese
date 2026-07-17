@@ -6257,6 +6257,81 @@ In other words, he entered England as an Irishman.
 * * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma c'è una seconda causa che crea l'errore inglese
+che gli irlandesi siano deboli ed emotivi. Anche questa nasce
+dal fatto stesso che gli irlandesi sono lucidi e logici.
+Essendo logici, separano rigorosamente poesia e prosa;
+e come in prosa sono rigorosamente prosaici, così in poesia
+sono puramente poetici. In questo, come in una o due altre cose,
+somigliano ai francesi, che rendono i loro giardini belli
+perché sono giardini, ma i loro campi brutti perché sono solo campi.
+Un irlandese può amare [[Romance|l'avventura]], ma dirà,
+usando una frase frequente di Shaw, che è "solo [[Romance|avventura]]."
+Gran parte dell'energia inglese nella narrativa nasce
+dal fatto stesso che la loro narrativa li inganna a metà.
+Se Rudyard Kipling, per esempio, avesse scritto i suoi racconti brevi
+in Francia, sarebbero stati lodati come opere d'arte fredde e intelligenti,
+piuttosto crudeli, molto nervose e femminili;
+i racconti brevi di Kipling sarebbero stati apprezzati come quelli di Maupassant.
+In Inghilterra non furono apprezzati ma creduti.
+Furono presi sul serio da una nazione stupita come un vero
+ritratto dell'impero e dell'universo. Il popolo inglese
+si affrettò ad abbandonare l'Inghilterra in favore del signor Kipling e delle sue
+colonie immaginarie; si affrettò ad abbandonare [[Christianity|il cristianesimo]]
+in favore della versione piuttosto morbosa di giudaismo del signor Kipling.
+Un tale successo morale di un libro sarebbe quasi impossibile in Irlanda,
+perché la mente irlandese distingue tra vita e letteratura.
+Lo stesso signor Bernard [[Shaw]] riassunse questo come riassume tante
+cose in una frase compatta che pronunciò conversando
+con il sottoscritto: "Un irlandese ha due occhi."
+Voleva dire che con un occhio un irlandese vede che [[A Dream|un sogno]]
+è ispirato, affascinante o [[Sublime|sublime]], e con l'altro
+occhio che dopotutto è [[A Dream|un sogno]]. L'[[Humour|umorismo]] e il
+sentimento di un inglese lo portano a strizzare l'altro occhio.
+Altri due piccoli esempi illustreranno l'errore inglese.
+Prendiamo, per esempio, quella nobile [[Survival|sopravvivenza]] da un'età più nobile
+della politica: intendo l'oratoria irlandese. Gli inglesi immaginano
+che i politici irlandesi siano così testardi e poetici
+da dover riversare un torrente di parole ardenti.
+La [[Truth|verità]] è che gli irlandesi sono così lucidi e critici da considerare ancora la retorica come un'arte distinta, come facevano gli antichi.
+Così un uomo fa un discorso come suona un violino, non necessariamente
+senza sentimento, ma principalmente perché sa farlo.
+Un altro esempio della stessa cosa è quella qualità che viene
+sempre chiamata il fascino irlandese. Gli irlandesi sono gradevoli,
+non perché siano particolarmente emotivi, ma perché
+sono molto civilizzati. Blarney è un rituale; tanto
+rituale quanto baciare la pietra di Blarney.
+
+Infine, c'è una verità generale sull'Irlanda che potrebbe aver influenzato fin dall'inizio Bernard Shaw; e quasi certamente l'ha influenzato in modo positivo. L'Irlanda è un paese in cui i conflitti politici sono almeno genuini; riguardano qualcosa.
+Riguardano il patriottismo, la religione o il denaro:
+le tre grandi realtà. In altre parole, si occupano
+di quale commonwealth vive un uomo o di quale universo
+vive un uomo o di come deve riuscire a vivere in uno dei due.
+Ma non si occupano di quale dei due cugini ricchi
+nella stessa classe dirigente debba essere autorizzato a presentare lo stesso disegno di legge sui Consigli Parrocchiali; in Irlanda non esiste un sistema di partito.
+Il sistema dei partiti in Inghilterra è una macchina enorme e molto efficiente per prevenire i conflitti politici. Il sistema dei partiti
+è organizzato sullo stesso principio di una corsa a tre gambe:
+il principio che l'unione non sia sempre forza e non sia mai attività. Nessuno chiede ciò che vuole davvero.
+Ma in Irlanda il lealista è altrettanto pronto a tradire [[King|re]] come il feniano a tradire Gladstone;
+ogni uomo tradirà qualsiasi cosa tranne quella che desidera.
+Perciò accade che anche le follie o le frodi della politica irlandese siano più genuine come sintomi e più onorevoli come simboli
+delle ipocrisie pesanti del prospero parlamentare. Anche le bugie di Dublino e Belfast sono più vere dei luoghi comuni di Westminster.
+Hanno uno scopo; si riferiscono a una situazione.
+C'era più onestà, nel senso di attualità, nelle lettere di Piggott che negli articoli di fondo del TIMES su di esse.
+Quando Parnell disse con calma davanti alla Commissione Reale che aveva fatto un certo commento "per ingannare la [[house|Camera]]"
+dimostrò di essere uno degli uomini più veritieri del suo tempo.
+Uno statista britannico ordinario non avrebbe mai fatto tale confessione,
+perché si sarebbe abituato a commettere il crimine.
+Il sistema dei partiti stesso implica l'abitudine di dichiarare qualcosa
+diverso dalla reale [[Truth|verità]]. Un Leader della [[house|Camera]] significa
+un Misleader della [[house|Camera]].
+
+Bernard [[Shaw]] nacque al di fuori di tutto questo; e porta quella [[Freedom|libertà]] scritta in volto. Che cosa abbia sentito nell'infanzia, se un violento nazionalismo o un virulento unionismo, era comunque qualcosa che voleva l'applicazione di un certo principio, non la permanenza al potere di una certa cricca. Su di lui non si applica la grande generalizzazione gilbertiana; non nacque né come un piccolo liberale né come un piccolo conservatore. Non passò, come molti di noi, attraverso la fase in cui si è bravi sostenitori del proprio partito prima di affrontare l'arduo compito di diventare brave persone. Guardò le nostre elezioni generali con lo stesso stupore con cui un indiano d'America potrebbe guardare la regata tra [[Oxford]] e Cambridge, cieco davanti a tutte le sue irrilevanti sentimentalità e a molti dei suoi sentimenti legittimi. Bernard [[Shaw]] entrò in Inghilterra come uno straniero, un invasore, un conquistatore. In altre parole, entrò in Inghilterra come un irlandese.
+
+* * * *
+
 
 
 <span class="atom-split" data-atom="story_04_the_puritan--part_01" data-title="Shaw — THE PURITAN (part 1)" data-chapter="THE PURITAN" data-kind="excerpt"></span>
@@ -7490,6 +7565,93 @@ neglect to salute a passion so implacable and so pure.
 
 * * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In questa disputa non si può desiderare che [[Shaw]] sia nemmeno di un pollice meno sprezzante, perché la gente che chiama compassione "sentimentalismo" non merita altro che disprezzo. In questo caso non ci si rammarica nemmeno della sua freddezza; è un onorevole contrasto all'emozionalismo goffo degli ultrapatrioti e dei flagellomaniaci.
+La [[Truth|verità]] è che l'antiumanitario medio riesce ad indurire il cuore solo perché ha già ammorbidito la testa. È l'esatto contrario del sentimentalismo insistere sul fatto che un negro viene bruciato vivo, perché il sentimentalismo deve essere l'attaccamento a pensieri piacevoli. E nessuno, nemmeno un evoluzionista superiore, può considerare piacevole l'idea di un negro arso vivo.
+La cosa sentimentale è riscaldarsi le mani al [[Fire|fuoco]] negando l'esistenza del negro, e questa è l'abitudine dominante in Inghilterra, come è stato il compito principale di Bernard [[Shaw]] dimostrare. E su questo i brutalitarians lo odiano non perché sia tenero, ma perché è duro, perché non si lascia ammorbidire dalle scuse convenzionali; perché guarda le cose con durezza... e colpisce ancora più duramente.
+Un povero sciocco della reazione Henley-Whibley ha scritto che se volessimo essere conquistatori dovremmo essere meno teneri e più spietati. [[Shaw]] ha risposto con un'ironia veramente vendicativa: "Che luce getta questo principio sulla sconfitta del tenero Derviscio, dello Zulu compassionevole e del Boxer morboso di umanità per mano dei robusti selvaggi d'Inghilterra, Francia e [[Germany|Germania]]?".
+In quella frase un idiota viene cancellato e tutta la storia dell'Europa raccontata; ma è immensamente irrigidita dalla sua forma ironica. Allo stesso modo [[Shaw]] ha lavato via per sempre l'idea che i socialisti fossero sognatori deboli, che dicevano che le cose potessero essere solo perché lo desideravano.
+G.B.S., nel dibattito con un individualista, si è mostrato in genere molto più bravo come economista e molto meno abile come retore. In questo clima nacque una famosa Società Fabiana, di cui lui è ancora lo spirito guida: una società che rispondeva a tutte le accuse di idealismo irrealizzabile spingendo sia le sue dichiarazioni teoriche che i suoi negoziati pratici fino al limite del cinismo. Bernard [[Shaw]] era l'esperto letterario che scrisse la maggior parte dei suoi opuscoli. In uno di questi, tra sezioni come Riforma Fabiana della Temperanza [[Reform|riforma]], Istruzione Fabiana [[Education|istruzione]] e così via, c'era un capitolo intitolato con gravità "Scienza Naturale Fabiana", che affermava che nella causa socialista serviva più luce che calore.
+
+Così il distacco irlandese e l'austerità puritana fecero molto bene al paese e alle cause per cui combattevano.
+Ma c'era una cosa che non facevano; non fecero nulla per [[Shaw]] stesso riguardo ai suoi errori primari e alla sua reale limitazione.
+Il suo grande difetto era ed è la mancanza di sentimento democratico.
+E non c'era niente di democratico nemmeno nel suo [[Humanitarianism|umanitarismo]]
+o nel suo socialismo. Queste nuove e raffinate fedi tendevano piuttosto a rendere
+l'irlandese ancora più aristocratico, il puritano ancora più esclusivo.
+Essere socialisti significava guardare dall'alto in basso tutti i proprietari contadini
+della terra, specialmente i proprietari contadini della sua stessa isola.
+Essere un [[vegetarian|vegetariano]] era essere un uomo con una strana e misteriosa [[morality|moralità]],
+un uomo che pensava che il buon signore che arrostiva bue per i suoi vassalli
+fosse solo meno cattivo del cattivo signore che arrostiva i vassalli.
+Nessuna di queste vedute avanzate poteva essere ascoltata volentieri dal popolo comune;
+né in effetti [[Shaw]] era particolarmente ansioso di compiacere il popolo comune.
+Era la sua gloria che compativa gli [[Animals|animali]] come fossero uomini; era il suo difetto
+che compativa gli uomini solo troppo simili agli [[Animals|animali]]. Foulon disse
+della [[democracy|democrazia]], "Che mangino erba." [[Shaw]] disse, "Che mangino verdure."
+Aveva più benevolenza, ma quasi altrettanto disprezzo.
+"Non ho mai avuto alcun sentimento per le classi lavoratrici inglesi,"
+disse in un altro luogo, "tranne il [[Desire|desiderio]] di abolirle e sostituirle
+con persone sensate." Questo è l'aspetto antipatico della cosa;
+ma ne aveva un altro molto più nobile, che deve essere almeno seriamente riconosciuto prima di passare a cose molto più leggere.
+
+Bernard [[Shaw]] non è un democratico; ma è uno splendido repubblicano.
+La sfumatura di differenza tra questi termini lo descrive con precisione.
+E in Inghilterra c'è, dopotutto, una buona dose di vaga [[democracy|democrazia]],
+nel senso che vi è molto un vago senso di fratellanza,
+e non da nessuna parte più che tra la gente vecchio stile e persino reazionaria.
+Ma un repubblicano è un uccello raro, e nobile. [[Shaw]] è un repubblicano
+nel senso letterale e latino; gli importa di più della Cosa Pubblica
+che di qualsiasi cosa privata. L'interesse dello Stato per lui
+è una sincera sete dell'[[Soul|anima]], come lo era nelle piccole città pagane.
+Ora questa passione pubblica, questo puro appetito per l'ordine e l'equità,
+era scesa a un livello più basso, era quasi scomparsa del tutto
+nell'epoca precedente di [[Shaw]] più che in qualsiasi altro [[Time|periodo]].
+[[Individualism|Individualismo]] del peggior tipo era sulla cresta dell'onda; intendo dire
+l'[[Individualism|individualismo]] artistico, che è tanto più crudele, tanto più cieco
+e persino molto più irrazionale di quello commerciale.
+Il [[Decay|declino]] della società veniva lodato dagli artisti come il [[Decay|declino]] di un cadavere
+viene lodato dai vermi. L'esteta era tutto ricettività, come la pulce.
+La sua unica faccenda in questo mondo era nutrirsi dei suoi fatti e colori,
+come un parassita sul [[Blood|sangue]]. L'io era il tutto; e le lodi
+di esso venivano enunciate con ritmi sempre più folli da poeti la cui
+Elicona era l'assenzio e il cui Pegaso era l'[[nightmare|incubo]].
+Questo malato [[Pride|orgoglio]] non era nemmeno consapevole di un interesse pubblico,
+e avrebbe trovato tutti i termini politici del tutto insipidi
+e insignificanti. Non si trattava più di un uomo, un voto,
+ma di un uomo, un universo.
+
+Nel mio [[Time|tempo]] ho avuto la mia esperienza con la Società Fabiana, con il pedantismo dei piani e l'arroganza degli esperti; e non me ne pento ora.
+Ma quando ricordo quell'altro mondo contro cui essa alzò
+la sua borghese bandiera di pulizia e buon senso,
+non voglio chiudere questo capitolo senza rendere a quel mondo un [[Honour|omaggio]] decente.
+Datemi i tubi della fogna dei Fabiani piuttosto che le siringhe
+degli ultimi poeti; i tubi delle fogne hanno un odore più gradevole.
+Datemi anche quella benevolenza da ufficio che radunava gli uomini come bestie
+piuttosto che quell'arte squisita che li isolava come diavoli;
+datemi pure la soppressione de "Zaeo" piuttosto che il trionfo
+de "[[Salome|Salomé]]." E se sento che una tale confessione è dovuta a
+quei Fabiani che difficilmente avrebbero potuto essere altro che esperti
+in qualsiasi società, come il signor Sidney Webb o il signor Edward Pease,
+è ancora più dovuta al più grande dei Fabiani.
+Ecco un uomo che avrebbe potuto godere dell'arte tra gli artisti,
+che sarebbe stato lo spirito più arguto di tutti i FLÂNEURS; che
+avrebbe potuto fare epigrammi come diamanti e bere musica come vino.
+Invece ha lavorato in una macina di statistiche e riempito
+la sua mente con i dettagli più tetri e più luridi,
+in modo da poter discutere all'improvviso su
+macchine per cucire o fogne, sulla febbre tifoide o sui tubi da due pence.
+La solita teoria meschina dei motivi non copre il caso;
+non è [[Ambition|ambizione]], perché avrebbe potuto essere venti volte più
+in vista come umorista plausibile e popolare.
+È la vera e antica emozione della SALUS POPULI,
+quasi estinta nel nostro caos oligarchico; né io, per uno,
+mentre passo a molte questioni di discussione o contesa,
+trascurerò di salutare una passione così implacabile e pura.
+
+* * * *
 
 
 
@@ -11617,6 +11779,50 @@ about the Stuarts or the witches or the negroes, at least it
 would not be something that ten million men had said before.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+LE FASI SUCCESSIVE*
+
+# Scritto appositamente per questa edizione, 1935
+
+QUALCUNO mi ha suggerito di scrivere una serie con un titolo come "Secondi Pensieri"; una riconsiderazione delle vecchie controversie.
+Che i secondi pensieri siano migliori o no, [[Fear|temo]] che non siano sempre i più luminosi.  Normalmente non ci viene in mente
+che la parola "revisione" contiene la parola scintillante "visione".
+E può darsi che una visione non arrivi due volte, anche se si tratta solo della prima impressione di un povero letterato sul (a volte) deprimente argomento della letteratura del suo [[Time|tempo]].
+Ma se i secondi pensieri non sono sempre i più luminosi,
+si può sostenere che siano generalmente i più ampi.
+E nel fare queste note sulle fasi successive di
+Mr. Bernard [[Shaw]], conosco la necessità dell'ampiezza; perché ho discusso con lui quasi tutta la vita; e la campagna è
+sempre dipesa dalla tattica del aggiramento o dell'accerchiamento,
+che significa essere più ampio del tuo nemico.
+
+La prima gioia del conflitto è congratularsi con il signor Bernard [[Shaw]]
+per il fatto che egli sia ancora non solo vivissimo, ma anche scalmanato.
+In alcuni casi, come quello del capitalismo, penso che stia calciando
+qualcosa che merita benissimo di essere calciato. In altri casi, come
+quello del cattolicesimo, credo che stia calciando contro i denti acuti;
+come un'altra persona molto controversa sulla [[Road|strada]] per Damasco.
+Ma almeno è delizioso, dopo questo lasso di anni,
+offrirsi di essere scalciati da uno ancora capace
+di quel gesto troppo trascurato.
+
+Nello stesso modo mi è stato chiesto di aggiungere un post scriptum al mio lungo libro polemico e persino invettivo sul mio amico Mr. Bernard [[Shaw]]. All'inizio ho indietreggiato con orrore, perché sembrava comportasse due condizioni particolarmente terribili. La prima era che avrei dovuto leggere tutte le opere successive di Mr. Bernard [[Shaw]]. Il secondo e molto più spaventoso dovere era che avrei dovuto rileggere una delle mie opere precedenti. Non pretenderò di aver adempiuto a uno qualsiasi di questi doveri nei dettagli.
+Un bugiardo deve avere buona [[Memory|memoria]], per ricordare ciò che ha detto; ma un bigotto, un fanatico, un uomo fissato in un sistema dogmatico di [[Faith|fede]] (come Bernard [[Shaw]] e me stesso) non deve preoccuparsi di ricordare ciò che ha scritto. Sa che tutto era vero; perché non ha cambiato il suo test fondamentale di [[Truth|verità]]. Così si scopre che i politici rileggono con ansia i loro vecchi discorsi; ma i preti sono serenamente liberi dal peso di leggere le loro vecchie prediche. Mr. [[Shaw]] e io concordiamo sul fatto che l'accordo sia più pratico dell'apprezzamento.
+In altre parole, siamo d'accordo sul fatto che valga la pena dissentire. Questo non è ciò che si intende per convenire di differire; perché significa convenire di disputare.
+
+Il cielo sa quanto tempo fa sia che io scrissi questo pezzo piuttosto grezzo e giovanile di controversia; che il signor Bernard [[Shaw]], con la sua tipica magnanimità, descrisse dicendo: «Questo libro è, come tutti si aspettavano che fosse, lo studio critico migliore che io abbia finora prodotto». E il primo fatto da accogliere con una specie di gioia astratta, per tutti coloro che sono interessati alla Vita anche se non si preoccupano di chiamarla Forza Vitale, è l'energia gioiosa e l'entusiasmo con cui Bernard [[Shaw]] ha coperto quell'ampio tratto di [[Time|tempo]] con il suo passo da gigante. Egli ottiene ancora il più nobile trionfo naturale dell'uomo, che è trovare l'esuberanza semplicemente nell'esistenza. Questa è una vittoria che compensa più che altro ciò che può essere criticato sul lato puramente teorico. Bernard [[Shaw]] è un vecchio che è ancora giovane; in un'epoca in cui i giovani sono per la maggior parte molto vecchi. C'è una vera vittoria per le sue eccentricità negative, quando possiamo ancora vederlo fare festa con l'acqua fredda e i cavoli, mentre uomini che potrebbero essere suoi nipoti o pronipoti si rendono infelici con cocktail e champagne. In qualsiasi senso lo chiamiamo scettico, nessuno potrebbe mai chiamarlo pessimista; ed egli ha vissuto abbastanza a lungo da vedere una razza di giovani che sono troppo pessimisti anche per chiamarsi pessimisti. Quel primo fatto [[Alone|solo]] deve essere affermato alla sua grande gloria; qualunque cosa si voglia intendere per essere un pacifista nella Grande Guerra, egli non è mai stato un sconfessionista nella Guerra Santa, che è stata chiamata la Battaglia della Vita. [[Hope|Speranza]], convinzione sincera, lo spirito combattivo-- queste sono cose non così abbondanti tra i giovani del nostro [[Time|tempo]], che non possiamo mancare di salutarle nel principale veterano letterario dell'epoca.
+
+La seconda grande qualità che ha sempre posseduto e non ha mai perso è questa: ed è un [[Paradox|paradosso]]. Ha ampiamente difeso ciò che sono chiamate le Idee Moderne; eppure non è noioso.
+Le Idee Moderne in questione hanno ormai quasi duecento anni, quando non sono semplicemente vecchie quanto il mondo; e poiché sono espresse da tutti gli altri, la loro noia è devastante.
+[[Shaw]] ha raramente permesso che fossero noiose; perché ha coltivato una certa arte o manovra, che può essere chiamata l'Attacco a Sorpresa.
+Assedia il vecchio [[Castle|castello]], sia delle convenzioni che delle convinzioni, ma non lo scalda mai dallo stesso lato dei suoi altri nemici.
+Un ottimo esempio di ciò è stato il dramma di Sant'Joan.
+Quanti deserti di opere noiose avrebbero potuto disseminare il mondo, sul tema anticlericale ordinario sviluppato dall'anticlericale ordinario che denuncia i chierici che condannano l'eroina popolare e patriottica. E quale [[Wind|vento]] di refrigerio, disperdendo tutti questi rifiuti, trovare un anticlericale abbastanza intelligente da basare il suo caso sulla difesa dei chierici, invece che sul denunciarli. Allora può trarre la deduzione che il clericalismo nel suo meglio era destinato a condannare un'eroina; perché un'eroina era destinata ad essere eretica.
+Il nuovo argomento è altrettanto fallace del vecchio; ma quale confortante sollievo trovare una tale prodezza in un Modernista che ha davvero un nuovo argomento! Perché al di fuori di questa affascinante perversità di G. B. S., i Modernisti hanno reso il mondo moderno un [[Desert|deserto]] di monotonia polverosa e ripetizione noiosa.
+[[Shaw]] continua a dire molte sciocchezze, e alcune temo io che siano sciocchezze serie; ma sempre qualcosa che ci risveglia con bravura e non ci manda semplicemente a [[Sleep|dormire]] per familiarità.
+Non sentirete mai quella amabile voce irlandese dire, insieme a cento voci sul palco o alla radio: "La mente moderna ha certamente superato i credi e i dogmi come ha superato il cannibalismo e la tirannia degli Stuart; e le istituzioni non adatte alle nostre condizioni moderne..."
+Non lo sentirete mai intonare quelle parole antiche e quasi patetiche: "Quando ricordiamo che i nostri antenati bruciavano streghe, che tolleravano la [[Slavery|schiavitù]] dei negri, fino al genio di John Brown e di [[Abraham Lincoln]]..." Se Bernard [[Shaw]] dicesse qualcosa sugli Stuart o sulle streghe o sui negri, almeno non sarebbe qualcosa che dieci milioni di uomini hanno detto prima.
+
 
 
 <span class="atom-split" data-atom="story_09_the_later_phases--part_02" data-title="Shaw — THE LATER PHASES (part 2)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
@@ -12281,6 +12487,84 @@ had never even heard.  Our specialists are very fortunate.
 Reputations are ruined for ever by that sort of thing, when it
 happens on the Continent.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Comunque, quasi tutti erano pacifisti poco dopo la guerra.
+Dobbiamo perdonare i nostri nemici.  Dobbiamo perdonare praticamente
+tutti tranne i nostri amici -- e specialmente i nostri Alleati.
+In fin dei conti, era altrettanto facile attribuire il militarismo ai francesi
+quanto ai tedeschi, o agli eschimesi del resto; e si poteva
+pretesamente sostenere che tutti i soldati francesi fossero neri.
+[[Well|Beh]], sembra quasi crudele insistere sul seguito.
+Proprio quando il mondo stava davvero muovendosi verso lo Stato Mondiale,
+proprio quando tutti concordavano che Bernard [[Shaw]] avesse ragione
+nel denunciare quella guerra o qualsiasi guerra, proprio quando l'idea che
+la Prussia non fosse l'Inghilterra e che i Junker fossero davvero pericolosi
+era completamente ricoperta del disprezzo che meritava --
+è apparsa improvvisamente la grande Seconda Battuta d'Arresto alla enorme
+riunione umanitaria, che avrebbe dimostrato che tutti
+erano uguali agli altri, solo di più.  Ricordai,
+con un sorriso [[Melancholy|malinconico]], come il signor Bernard [[Shaw]] si fosse sforzato
+di provare a mio fratello che la Prussia non esisteva davvero
+nella [[history|storia]]; che Federico il Grande e Luigi XIV
+erano molto simili, specialmente Luigi XIV.
+E poi è arrivato lo shock che ha cambiato tutta la politica
+dell'Occidente.  Capi elmetti d'acciaio e truppe d'[[Storm|assalto]] hanno spazzato via un'intera
+vasta civiltà come una [[Storm|tempesta]].  Il mondo ha risuonato di
+selvagge lodi della Guerra in quanto tale, quali non si erano udite
+da tempi barbarici, se mai.  E dove è successo tutto questo?
+È scoppiato nella popolazione nera di [[Paris|Parigi]] ?
+Era una caratteristica del militarismo spietato del Belgio,
+o della Gran Bretagna e dell'[[america|America]] e degli altri Alleati?  No, la seconda
+battuta d'arresto è avvenuta esattamente dove mio fratello ed io e tutto
+il nostro gruppo avevamo sempre detto che sarebbe successo:
+nei paesi prussianizzati che sono una cosa aliena nel Cristianesimo.
+È accaduto in [[Germany|Germania]], nonostante l'influenza diffusa
+delle opere del signor Bernard [[Shaw]].
+
+In breve, in quella grande differenza tra il signor [[Shaw]] e me stesso,
+che è nata dalla Grande Guerra e si è sviluppata dopo che il mio libro era stato scritto,
+non ho mai avuto alcun vero [[Doubt|dubbio]] di avere ragione io e torto lui;
+e ne ho ancora meno adesso. Ma spero di aver sempre
+riconosciuto che egli è stato in modo evidente coraggioso e splendido sinceramente;
+e spesso avrei voluto essere nella minoranza con lui, come durante la
+guerra boera, forse [[Well|bene]] avrebbe potuto desiderare di essere nella minoranza con me.
+Perché non c'è alcun [[Doubt|dubbio]] che gli piaccia trovarsi in una minoranza; e preferisca,
+se possibile, trovarsi in una minoranza di uno. Non mi scuso per aver
+messo prima questa questione della [[philosophy|filosofia]] politica e della politica estera.
+È il grande evento storico su cui molte cose dipenderanno;
+possibilmente anche le cose artistiche, etiche e spirituali,
+che ora considererò.
+
+Ci sono sempre stati molti che dicevano che [[Shaw]] non poteva essere preso sul serio; che era troppo frivolo;
+ma il mio istinto è stato sempre che fosse troppo serio.
+Non c'è nulla di Rabelais nella sua risata;
+e anche nel comportarsi in modo immorale, non sarebbe mai indecente.
+C'è un certo [[Puritanism|puritanesimo]] anche in quello che molti chiamerebbero i suoi lapsus,
+teorici o pratici, nella [[philosophy|filosofia]] del nudismo.
+Ha dato espressione provocatoria e pratica a una vaga ma
+molto diffusa idea moderna che nulla dovrebbe essere nascosto;
+sia sotto forma di essere fotografati come un modello d'[[artist|arte]],
+o di pubblicare le lettere d'[[Love|amore]] di un'attrice con cui
+tutto il mondo era innamorato.  Si tratta di atti di cattivo gusto;
+ma non di incoerenza e certamente non solo di leggerezza.
+Fanno tutti parte della teoria; ed è una teoria molto sottile e insufficiente.
+Il nudista sente l'obbligo del nudismo
+più seriamente di quanto un uomo normale senta l'obbligo
+di indossare i vestiti.  Ecco perché non ho mai potuto pensare che
+i lapsus di [[Shaw]] in questo modo fossero immoralità che invalidassero il
+rispetto o l'[[Friendship|amicizia]].  Ma è giusto dire che la sua
+coerenza intellettuale era molto gonfiata dalla [[Vanity|vanità]].
+Bisogna ammettere che gran parte di [[Shaw]] potrebbe essere riscritta come Show;
+nel senso di fare sfoggio.  Il carattere non sarebbe completo
+senza questa debolezza quasi infantile; ma, ancora una volta, ha un tocco
+di innocenza [[innocence|infantile]].  Non c'è nulla di vizioso in [[Shaw]],
+anche quando capita che abbia teorie viziate sulla virtù.
+Ma qui passerò dalla questione della sua [[morality|moralità]]
+alla più importante questione della sua religione.
+
+La dottrina generale di [[Shaw]], o la sua visione del cosmo, lui la chiama Evoluzione Creatrice; e bisogna anzitutto notare il valore genuino e il coraggio controverso di questa distinzione. Prima di tutto vuole distinguere l'Evoluzione Creatrice dal darwinismo; che si può chiamare evoluzione cieca o casuale. Usando i termini tecnici delle enciclopedie popolari, [[Shaw]] sostiene Lamarck contro Darwin. È meglio dire (liberandoci per un momento dalla passione scientifica moderna di invocare l'autorità, o semplicemente i nomi degli autorevoli) che [[Shaw]] concepisce la volontà come una potenza quasi divina che dirige l'evoluzione; anche se non è solo la volontà divina, ma anche quella umana, animale e persino vegetale: un sforzo simile alla volontà nel verme o addirittura nell'erba. In questo senso ha pieno diritto di chiamare la sua evoluzione creatrice; in un certo senso sarebbe creatrice anche senza un creatore. Ha ugualmente ragione a definirla una contraddizione netta dell'evoluzione involontaria e indeterminata di Darwin. Perché quello che oggi si chiama Determinismo significa l'assenza di determinazione. Vuole dire, freddamente e seriamente, che nessun dio, angelo, animale o pianta ha mai deciso di fare qualcosa. La teoria della Selezione Naturale di Darwin è indubbiamente un capitolo di incidenti. Il guaio è che, come in qualche romanzo dei suoi coetanei vittoriani, è anche un capitolo di coincidenze. L'[[Hero|eroe]] che incontra la [[Time|eroina]] per la prima volta proprio nel momento in cui può salvarla dai ladri; la madre che parla al primo vagabondo stracciato che si rivela suo figlio e l'erede scomparso da tempo: queste sono coincidenze moderate e probabili rispetto alla coincidenza che Darwin esige a ogni passo del suo ragionamento, che gli [[Animals|animali]] sviluppino organi utili in quel momento mentre nello stesso istante crescono organi che saranno utili secoli dopo; che una stranezza accidentale dia a una creatura un trionfo completo quando tutte le altre sue stranezze o qualità ordinarie sono altrettanto probabili di travolgerla nella sconfitta: queste sono coincidenze adatte non tanto al [[Novel|romanzo]] vittoriano quanto al [[Melodrama|melodramma]] vittoriano. Questi fatti sono sempre più riconosciuti in Europa; e la difesa ufficiale del darwinismo si sta assottigliando anche in Inghilterra. Ha avuto il suo crollo più clamoroso nell'incredibile episodio dell'incontro tra Sir [[Arthur]] Keith e Mr. Belloc. Se l'opinione pubblica fosse illuminata sulle ultime novità scientifiche, quell'incontro sarebbe riconosciuto come una battaglia decisiva. Mr. Wells aveva suggerito che non ci fosse reazione scientifica contro Darwin. Mr. Belloc gli ha dato più di venti nomi e citazioni scientifiche contrarie; tra cui uno di Vialleton. Mr. Wells sembrava sufficientemente rassicurato dal trovare che il tipografo aveva sbagliato a scrivere il nome di Vialleton in una pagina particolare. Era facile accontentarlo. Sir [[Arthur]] Keith ha fatto qualche tentativo di affrontare la questione in discussione; e il suo contributo è stato un netto contraddittorio: ha detto che Vialleton non aveva mai detto nulla del genere. È allora emerso, con [[Wonder|meraviglia]] del mondo, che Mr. Belloc, quel modesto dilettante, parlava dell'ultimo e più importante libro di Vialleton, di cui Sir [[Arthur]] Keith, quell'insigne specialista, non aveva mai neanche sentito parlare. I nostri specialisti hanno molta fortuna. Le reputazioni vengono rovinate per sempre da cose del genere quando succedono sul Continente.
 
 
 

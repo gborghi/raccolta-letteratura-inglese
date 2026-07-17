@@ -10111,6 +10111,92 @@ of [[Paris]].  The other was a journalist, astray in foreign parts,
 who had resolutely refused to see them.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Scipione e i bambini
+
+Di recente mi sono trovato nella città di Tarragona; famosa per il suo aceto che invia saggiamente all'estero, piuttosto che per il vino, che beve ancora più saggiamente in casa. Ho ordinato una discreta quantità del vino; ho omesso di ordinare l'aceto.
+Queste cose sono un'allegoria; perché c'è qualcosa dello stesso contrasto tra il gusto acido della politica dei partiti, specialmente la politica anticlericale, che è tutto ciò che viene esportato sui giornali inglesi dalla Spagna, e il ricco e gioioso raccolto della vita popolare e dell'umorismo, di cui nessuno può cogliere il gusto se non andando in Spagna. Ho sempre notato che nelle notizie non c'è mai nulla di nuovo; e le cose che il viaggiatore riconosce non sono mai quelle che il giornalista riporta.
+Per esempio, la cosa che mi ha colpito per prima e per ultima in Spagna è stata i bambini spagnoli; specialmente i piccoli maschi spagnoli, e la loro relazione con i padri spagnoli dei piccoli maschi spagnoli. L'amore tra padri e figli in questo paese è uno dei grandi poemi della cristianità; ha, come un gioiello sconcertante, cento aspetti belli, e specialmente quell'aspetto supremamente bello: che è un pugno negli occhi per quel vecchio pedante di Freud.
+
+Ero seduto a un tavolo di caffè con un altro viaggiatore inglese,
+e stavo guardando un bambino con arco e frecce,
+che scagliava dardi molto casuali in tutte le direzioni, e periodicamente
+si voltava trionfante e si gettava tra le braccia di suo padre,
+che era un cameriere. Quella parte della scena si ripeteva ovunque,
+con padri di ogni tipo sociale e mestiere.
+E non serve a nulla dirmi che tali umanità devono essere peculiari
+ai progressisti ed illuminati catalani, in quanto questo episodio
+è accaduto in una città catalana, perché mi ricordo di aver notato
+il fatto per la prima volta a Toledo e poi ancora più chiaramente a Madrid.
+E non serve a nulla dirmi che gli spagnoli sono tutti cupi e
+duri e crudeli, perché ho visto i bambini; ho anche visto
+i genitori. Potrei essere incline a chiamarli bambini viziati;
+tranne che sembra come se non potessero essere viziatii.
+Posso anche osservare che un elemento che mi perseguita in modo particolare,
+nella penisola spagnola, è l'elemento molto elusivo chiamato Libertà.
+Nessuno sembra avere il prurito di interferire; nessuno è mosso
+da quel grande motto di tanta legislazione sociale: "Vai a vedere
+cosa sta facendo Tommy e digli che non deve farlo". Considerando cosa stava facendo
+Tommy, sono abbastanza sicuro che nella maggior parte dei paesi progressisti,
+qualcuno gli direbbe di non farlo. Scoccò una freccia che colpì
+suo padre; probabilmente perché mirava a qualcos'altro.
+Scoccò una freccia che colpì me; ma sono un bersaglio AMPIO.
+Il suo arco e la sua arcata erano del tutto inadeguati; e non sarebbero stati
+tollerati nella scuola di tiro con l'arco scientifica in cui senza dubbio
+sarebbe stato immediatamente arruolato in qualsiasi stato in cui lo sport
+è preso sul serio come dovrebbe essere. Mentre lo fissavo,
+e alcuni altri bambini si erano radunati, anche per fissarlo,
+il viaggiatore inglese interruppe il mio sogno dicendo improvvisamente:
+
+«Che cosa c'è da vedere a Tarragona?»
+
+Mi venne subito voglia di rispondere e quasi lo feci
+
+"Ma certo, il ragazzo con l'arco e le frecce! C'è anche il cameriere."
+
+Ma mi sono fermato in tempo, ricordando la strana filosofia del turismo; e poi ho trovato la mia mente piuttosto vuota. Non sapevo quasi nulla della città, e lo dissi. Dissi che la Cattedrale era molto bella; e poi aggiunsi con crescente vaghezza: «Temo di non sapere assolutamente nulla di Tarragona. Ho un'idea vaga che Scipione sia stato sepolto qui o nato qui. Non riesco nemmeno a ricordare quale».
+
+«Chi è stato sepolto o nato?» chiese pazientemente.
+
+«Scipione», dissi con un senso di debolezza sempre più forte;
+poi aggiunsi come per una fiacca autodifesa: «Africano».
+
+Chiese se intendessi dire che l'uomo era un africano. Temevo,
+in ogni caso, che la parola ‘africano' non evocasse immediatamente
+davanti alla sua [[Imagination|immaginazione]] la figura di Sant'Agostino; o anche di Annibale.
+Avrebbe più probabilmente suggerito a lui un negro nero come il carbone.
+Così dissi che ero sicuro che non fosse un africano; credevo
+fosse un romano; certamente era un generale romano; e pensavo
+che fosse troppo presto nella [[history|storia]] perché un generale romano appartenesse davvero a quello che in seguito divennero le province romane.
+Avevo sempre capito che Cartagine, o l'influenza cartaginese,
+prevalesse praticamente su tutte queste parti in quel [[Time|periodo]].
+E anche mentre dicevo queste parole mi venne un pensiero, come una luce accecante
+e persino devastante.
+
+Il viaggiatore era molto giustamente annoiato.  Dopo il misterioso
+modo di fare della sua specie, non si annoiava delle visite turistiche,
+ma si annoiava con la [[history|storia]]; specialmente l'antica [[history|storia]].
+Non gliene faccio una colpa; mi domando solo perché un uomo annoiato
+dalla [[history|storia]] dovrebbe prendersi infinita briga per visitare i luoghi storici.
+Era palesemente uno di quelli che pensano che tutte quelle cose siano accadute
+tanto tempo fa che non possono fare molta differenza ora.
+Ma mi era improvvisamente venuto in mente che questo esempio piuttosto remoto
+potesse davvero, forse, fare una grande differenza adesso.
+Ho cercato di dirglielo; e deve essersi fatto l'impressione
+che fossi pazzo furioso.
+
+"Non farebbe la stessa impressione," chiesi, "se quel bambino fosse gettato in una fornace come cerimonia religiosa quando la sua famiglia va in [[Sunday|chiesa]] di domenica? È quello che faceva Cartagine; adorava Moloch e sacrificava gruppi di neonati come rituale religioso regolare. È quello che fece Scipione l'Africano; sconfisse Cartagine quando essa aveva quasi sconfitto il mondo. In qualche modo, mi sembra di percepire una fine sfumatura di differenza."
+
+Il mio compagno non rispose e io continuai a osservare l'arciere;
+e sebbene [[Apollo]] fosse un dio pagano, sono felice che un tale dio del sole
+abbia ucciso il serpente punico; e che ancora prima della [[Faith|Fede]], quelle antiche
+frecce abbiano abbattuto Moloch per tutti noi.
+
+LA VERITÀ NASCOSTA
+
+Il seguente episodio si è verificato l'altro giorno fuori da un caffè affollato a [[Paris|Parigi]]. Si è verificato anche fuori da mezza dozzina di altri caffè a [[Paris|Parigi]] e da mezzo milione di altri caffè sparsi in circa due terzi della cristianità. L'episodio, o qualcosa di simile, era così naturale da sembrare banale in quei luoghi; e probabilmente nessuno lo ha notato tranne due persone sedute vicino a quel piccolo tavolo. Una di loro era una ricca signora americana che aveva visto le attrazioni turistiche di [[Paris|Parigi]]. L'altra era un giornalista, smarrito in terre straniere, che si era risolutamente rifiutato di vederle.
+
 
 
 <span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_07" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 7)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>

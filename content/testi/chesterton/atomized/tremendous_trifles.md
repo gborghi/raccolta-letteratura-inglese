@@ -6051,6 +6051,22 @@ The world will never starve for want of wonders; but only
 for want of [[Wonder|wonder]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I
+
+Tremende inezie
+
+C'era una [[Time|volta]] due bambini che vivevano per lo più nel [[Garden|giardino]] anteriore, perché la loro villetta era un modello. Il [[Garden|giardino]] anteriore era grande all'incirca quanto il tavolo da pranzo; consisteva di quattro strisce di ghiaia, un quadrato di zolla erbosa con alcuni misteriosi pezzi di sughero ritti nel mezzo e un'aiuola con una fila di margherite rosse. Una mattina, mentre giocavano in quel romantico terreno, un individuo di passaggio, probabilmente il lattaio, si sporse oltre la ringhiera e li coinvolse in una conversazione filosofica. I bambini, che chiameremo Paul e Peter, erano quanto meno vivamente interessati alle sue osservazioni. Poiché il lattaio (che era, non ho bisogno di dirlo, una fata) faceva il proprio dovere in quello stato di vita offrendo loro, secondo le regole, qualunque cosa scegliessero di chiedere. E Paul accettò l'offerta con una bruschezza da uomo d'affari, spiegando che aveva a lungo desiderato essere un gigante per poter scavalcare a grandi passi continenti e oceani e visitare il Niagara o l'Himalaya in una passeggiata pomeridiana dopo pranzo. Il lattaio, estraendo una bacchetta dal taschino, la agitò in modo frettoloso e sbrigativo; e in un istante la villetta modello con il suo [[Garden|giardino]] anteriore fu come una minuscola casa di bambola ai colossali piedi di Paul. Egli se ne andò a grandi passi con la testa sopra le nuvole per visitare il Niagara e l'Himalaya. Ma quando giunse all'Himalaya, la trovò piuttosto piccola e dall'aria sciocca, come la piccola montagnola di sughero nel [[Garden|giardino]]; e quando trovò il Niagara non era più grande del rubinetto aperto nel bagno. Vagò intorno al mondo per parecchi minuti cercando qualcosa di davvero grande e trovando ogni cosa piccola, finché, per pura noia, si sdraiò su quattro o cinque praterie e si addormentò. Sfortunatamente la sua testa era proprio all'esterno della capanna di un intellettuale uomo dei boschi, che ne uscì in quel momento con un'ascia in una mano e un libro di [[philosophy|filosofia]] neocattolica nell'altra. L'uomo guardò il libro e poi il gigante, e poi di nuovo il libro. E nel libro c'era scritto: «Si può sostenere che il male dell'[[Pride|orgoglio]] consista nell'essere sproporzionati rispetto all'universo». Così l'uomo dei boschi posò il libro, prese l'ascia e, lavorando otto ore al giorno per circa una settimana, tagliò la testa del gigante; e questa fu la sua fine.
+
+Tale è la severa ma salutare [[history|storia]] di Paul. Ma Peter, abbastanza stranamente, fece esattamente la richiesta opposta; disse di aver a lungo desiderato essere un pigmeo alto circa mezzo pollice; e naturalmente lo divenne immediatamente. Quando la trasformazione fu compiuta si ritrovò in mezzo a un'immensa pianura, coperta da un'alta giungla verde e sopra la quale, a intervalli, [[Rose|sorgevano]] strani alberi ciascuno con una testa simile al sole nelle immagini simboliche, con giganteschi raggi d'argento e un enorme cuore d'oro. Verso il centro di questa prateria si ergeva una montagna di forma così romantica e impossibile, eppure di tale pietrosa altezza e dominio, che sembrava un qualche episodio della fine del mondo. E lontano, sul debole orizzonte, poteva scorgere la linea di un'altra foresta, più alta e ancora più mistica, di un terribile color cremisi, come una foresta in [[Fire|fiamme]] per sempre. Si mise in cammino per le sue avventure attraverso quella pianura colorata; e non ne è ancora giunto alla fine.
+
+Tale è la storia di Peter e Paul, che contiene tutte le più alte qualità di una fiaba moderna, compresa quella di essere del tutto inadatta ai bambini; e in verità il motivo per cui l'ho introdotta non è infantile, ma piuttosto pieno di sottigliezza e reazione. È in realtà il motivo quasi disperato di scusare o attenuare le pagine che seguono. Peter e Paul sono le due influenze primarie sulla letteratura europea di oggi; e mi sia permesso di esporre la mia preferenza nella sua forma più favorevole, anche se posso farlo solo con ciò che le bambine chiamano raccontare una storia.
+
+Non ho quasi bisogno di dire che il pigmeo sono io. L'unica scusa per i frammenti che seguono è che mostrano ciò che si può ottenere con un'esistenza banale e i sacri occhiali dell'esagerazione. L'altra grande teoria letteraria, quella che in Inghilterra è grosso modo rappresentata dal signor Rudyard Kipling, è che noi moderni dobbiamo riconquistare lo slancio primordiale sparpagliandoci per tutto il mondo, abituandoci al viaggio e alla varietà geografica, essendo a [[Home|casa]] ovunque, ossia non essendo a [[Home|casa]] in nessun luogo. Si conceda pure che un uomo in redingote sia uno spettacolo straziante; e i due metodi alternativi rimangono comunque. La scuola del signor Kipling ci consiglia di andare in Africa centrale per trovare un uomo senza redingote. La scuola cui appartengo suggerisce che dovremmo fissare fermamente lo sguardo sull'uomo finché non vediamo l'uomo dentro la redingote. Se lo fissiamo abbastanza a lungo, potrà persino essere indotto a togliersi la giacca davanti a noi; e questo è un complimento assai più grande del togliersi il cappello. In altre parole, possiamo, fissando la nostra attenzione quasi ferocemente sui fatti che ci stanno realmente davanti, costringerli a trasformarsi in avventure; costringerli a cedere il loro significato e ad adempiere il loro misterioso scopo. Lo scopo della letteratura di Kipling è mostrare quante cose straordinarie un uomo possa vedere se è attivo e cammina a grandi passi da un continente all'altro come il gigante della mia storia. Ma l'obiettivo della mia scuola è mostrare quante cose straordinarie perfino un uomo pigro e ordinario possa vedere se riesce a spronarsi alla sola attività del vedere. A questo scopo ho preso la persona più pigra di mia conoscenza, cioè me stesso; e ho tenuto un ozioso diario di quelle strane cose in cui mi sono imbattuto per caso, camminando in un'area assai limitata a un'andatura assai indolente. Se qualcuno dice che si tratta di faccende piccolissime discusse in un linguaggio assai grande, non posso che complimentarmi garbatamente con lui per aver colto la battuta. Se qualcuno dice che sto facendo [[Mountains|montagne]] dai monticelli di talpa, confesso con [[Pride|orgoglio]] che è così. Non riesco a immaginare forma di manifattura più riuscita e produttiva di quella di fare [[Mountains|montagne]] dai monticelli di talpa. Ma aggiungerei questo fatto non trascurabile, che i monticelli di talpa sono [[Mountains|montagne]]; basta diventare un pigmeo come Peter per scoprirlo.
+
+Ho i miei dubbi su tutto questo reale valore dell'alpinismo, del raggiungere la cima di ogni cosa e del dominare con lo sguardo ogni cosa. [[Satan|Satana]] fu la più celebre delle guide alpine, quando condusse Gesù sulla cima di un monte altissimo e gli mostrò tutti i regni della terra. Ma la gioia di [[Satan|Satana]] nello stare su una vetta non è una gioia della grandezza, bensì una gioia nel contemplare la piccolezza, nel fatto che tutti gli uomini sembrino [[Insects|insetti]] ai suoi piedi. È dalla valle che le cose sembrano grandi; è dal piano che le cose sembrano alte; io sono un [[Child|figlio]] del piano e non ho bisogno di quella celebre guida alpina. Leverò i miei occhi ai monti, donde viene il mio aiuto; ma non leverò la mia carcassa ai monti, a meno che non sia assolutamente necessario. Tutto sta in un atteggiamento della mente; e in questo momento io sono in un atteggiamento comodo. Me ne starò seduto immobile e lascerò che le meraviglie e le avventure si posino su di me come mosche. Ce ne sono in abbondanza, ve l'assicuro. Il mondo non morirà mai di fame per mancanza di prodigi; ma soltanto per mancanza di [[Wonder|meraviglia]].
+
 
 
 <span class="atom-split" data-atom="chapter_03" data-title="Tremendous Trifles — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
@@ -6206,6 +6222,36 @@ Southern England is not only a grand peninsula, and a tradition
 and a civilisation; it is something even more admirable.
 It is a piece of [[chalk]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+II
+
+Un pezzo di [[chalk|gesso]]
+
+Ricordo un mattino splendido, tutto azzurro e argento, durante le vacanze d'[[Summer|estate]], quando a malincuore mi strappai dal compito di non fare nulla di particolare, mi misi un cappello di qualche foggia, raccolsi un bastone da passeggio e infilai in tasca sei gessetti dai colori vivacissimi. Andai poi in cucina (che, insieme al resto della [[house|casa]], apparteneva a una vecchia signora molto squadrata e assennata di un villaggio del Sussex), e chiesi alla proprietaria e occupante della cucina se avesse della carta da pacchi. Ne aveva parecchia; anzi, ne aveva troppa; e fraintese lo scopo e la ragion d'essere della carta da pacchi. Sembrava avere l'idea che, se una persona voleva carta da pacchi, doveva volerci incartare dei pacchi; il che era l'ultima cosa che desideravo fare; anzi, è una cosa che ho scoperto essere al di là delle mie capacità mentali. Perciò si soffermò a lungo sulle varie qualità di robustezza e [[Endurance|resistenza]] del materiale. Le spiegai che volevo soltanto disegnarci sopra, e che non desideravo affatto che i disegni durassero; e che dal mio punto di vista, dunque, si trattava non di tenace consistenza, ma di superficie reattiva, cosa relativamente irrilevante in un pacco. Quando comprese che volevo disegnare, si offrì di sommergermi di carta da lettere, supponendo evidentemente che facessi i miei appunti e la mia corrispondenza su vecchi involucri di carta da pacchi per motivi di economia.
+
+Cercai allora di spiegare la sfumatura logica piuttosto delicata, che non solo mi piaceva la carta da pacchi, ma mi piaceva la qualità del bruno nella carta, proprio come mi piaceva la qualità del bruno nei boschi d'ottobre, o nella birra, o nei ruscelli di torba del Nord. La carta da pacchi rappresenta il crepuscolo primordiale della prima fatica della creazione, e con uno o due [[chalk|gessi]] dai colori vivaci vi si possono far risaltare punti di [[Fire|fuoco]], scintille d'oro, e rosso [[Blood|sangue]], e verde marino, come le prime fiere [[Stars|stelle]] che scaturirono dalla divina oscurità. Tutto questo dissi (con noncuranza) alla vecchia signora; e misi la carta da pacchi in tasca insieme ai gessetti, e forse ad altre cose. Suppongo che ognuno debba aver riflettuto su quanto siano primordiali e poetiche le cose che si portano in tasca; il temperino, per esempio, il prototipo di tutti gli strumenti umani, il bambino della [[Sword|spada]]. Una volta progettai di scrivere un libro di [[Poems|poesie]] interamente sulle cose che avevo in tasca. Ma scoprii che sarebbe stato troppo lungo; e l'età dei grandi poemi epici è passata.
+
+. . . . .
+
+Con il mio bastone e il mio coltello, i miei gessetti e la mia carta da pacchi, uscii verso i grandi downs. Strisciai attraverso quei colossali contorni che esprimono la migliore qualità dell'Inghilterra, perché sono allo stesso [[Time|tempo]] morbidi e forti. La loro levigatezza ha lo stesso significato della levigatezza dei grandi cavalli da tiro, o della levigatezza del faggio; dichiara, a dispetto delle nostre teorie timide e crudeli, che i potenti sono misericordiosi. Mentre il mio occhio spaziava sul paesaggio, il paesaggio era benevolo come una qualsiasi delle sue casette, ma quanto a potenza era come un terremoto. I villaggi nell'immensa valle erano al sicuro, si vedeva, per secoli; eppure il sollevarsi dell'intera terra era come il sollevarsi di un'unica onda enorme pronta a spazzarli via tutti.
+
+Attraversai un'onda di viva zolla erbosa dopo l'altra, cercando un posto dove sedermi a disegnare. Non immaginate, per l'amor del cielo, che stessi per [[Sketch|abbozzare]] dalla [[Nature|natura]]. Stavo per disegnare diavoli e serafini, e ciechi vecchi dèi che gli uomini adoravano prima dell'[[Dawn|alba]] del diritto, e santi in vesti di cremisi adirato, e mari di uno strano verde, e tutti i simboli sacri o mostruosi che stanno così [[Well|bene]] a colori vivaci sulla carta da pacchi. Valgono assai più la pena di essere disegnati della [[Nature|natura]]; e sono anche assai più facili da disegnare. Quando una mucca passò trascinandosi nel campo accanto a me, un mero [[artist|artista]] avrebbe potuto disegnarla; ma io sbaglio sempre le zampe posteriori dei quadrupedi. Così disegnai l'[[Soul|anima]] della mucca; che vidi lì chiaramente camminare davanti a me alla luce del sole; e l'[[Soul|anima]] era tutta di porpora e argento, e aveva sette corna e il mistero che appartiene a tutte le bestie. Ma sebbene io non potessi, con un pastello, trarre il meglio dal paesaggio, non ne consegue che il paesaggio non stesse traendo il meglio da me. E questo, credo, è l'errore che la gente commette a proposito dei vecchi poeti che vissero prima di Wordsworth, e che si supponeva non si curassero molto della [[Nature|natura]] perché non la descrivevano molto.
+
+Preferivano scrivere di grandi uomini piuttosto che di grandi colline; ma sedevano sulle grandi colline per scriverne. Rendevano assai meno riguardo alla [[Nature|natura]], ma ne assorbivano, forse, assai di più. Dipingevano le bianche vesti delle loro sante vergini con l'accecante [[Snow|neve]] che avevano fissato tutto il giorno. Blasonavano gli scudi dei loro paladini con la porpora e l'oro di molti tramonti araldici. Il verde di mille verdi [[Leaves|foglie]] si raccoglieva nella viva verde figura di [[Robin Hood]]. L'azzurro di una ventina di cieli dimenticati diveniva le azzurre vesti della Vergine. L'ispirazione entrava come raggi di sole e usciva come [[Apollo]].
+
+. . . . .
+
+Ma mentre sedevo scarabocchiando queste sciocche figure sulla carta da pacchi, cominciò ad [[Dawn|albeggiarmi]] in mente, con mio grande disgusto, che avevo lasciato un [[chalk|gesso]], e per giunta un [[chalk|gesso]] quanto mai squisito ed essenziale. Frugai in tutte le mie tasche, ma non riuscii a trovare alcun [[chalk|gesso]] bianco. Ora, coloro che hanno familiarità con tutta la [[philosophy|filosofia]] (anzi, la religione) che si esprime nell'arte del disegnare sulla carta da pacchi, sanno che il bianco è positivo ed essenziale. Non posso evitare di osservare qui un significato morale. Una delle sagge e tremende verità che quest'arte della carta da pacchi rivela è questa: che il bianco è un colore. Non è una mera assenza di colore; è una cosa splendente e affermativa, fiera come il rosso, netta come il nero. Quando, per così dire, la matita diventa incandescente di rosso, disegna rose; quando diventa incandescente di bianco, disegna [[Stars|stelle]]. E una delle due o tre sfidanti verità della migliore [[morality|moralità]] religiosa, del vero [[Christianity|cristianesimo]], per esempio, è esattamente questa stessa cosa; l'asserzione principale della [[morality|moralità]] religiosa è che il bianco è un colore. La virtù non è l'assenza dei vizi o l'evitare i pericoli morali; la virtù è una cosa viva e distinta, come il [[Pain|dolore]] o un particolare odore. La [[Mercy|misericordia]] non significa non essere crudeli o risparmiare alla gente la [[Revenge|vendetta]] o la punizione; significa una cosa semplice e positiva come il sole, che o si è vista o non si è vista.
+
+La castità non significa astensione dal peccato sessuale; significa qualcosa di fiammeggiante, come Giovanna d'Arco. In una parola, Dio dipinge in molti colori; ma non dipinge mai così magnificamente, direi quasi così sgargiantemente, come quando dipinge in bianco. In un certo senso la nostra epoca ha compreso questo fatto, e lo ha espresso nel nostro cupo costume. Perché se fosse davvero vero che il bianco fosse una cosa vuota e incolore, negativa e non impegnativa, allora il bianco sarebbe usato al posto del nero e del grigio per l'abito funebre di questo periodo pessimistico. Vedremmo gentiluomini di [[City|città]] in redingote di immacolato lino argenteo, con cilindri bianchi come meravigliosi gigli di gala. Il che non è il caso.
+
+Intanto, non riuscivo a trovare il mio [[chalk|gesso]].
+
+. . . . .
+
+Sedevo sulla [[Hill|collina]] in una sorta di [[Despair|disperazione]]. Non c'era città più vicina di Chichester in cui fosse anche solo lontanamente probabile che esistesse una cosa come un fornitore di colori per [[artist|artisti]]. Eppure, senza il bianco, i miei assurdi piccoli disegni sarebbero stati tanto privi di senso quanto lo sarebbe il mondo se non vi fossero brave persone. Mi guardai attorno stupidamente, spremendomi il cervello in cerca di espedienti. Poi all'improvviso mi alzai in piedi e scoppiai a ridere fragorosamente, ancora e ancora, tanto che le mucche mi fissarono e convocarono un comitato. Immaginate un uomo nel Sahara che si rammarichi di non avere sabbia per la sua clessidra. Immaginate un gentiluomo in mezzo all'oceano che desideri aver portato con sé un po' d'[[Water|acqua]] salata per i suoi esperimenti chimici. Ero seduto su un immenso magazzino di [[chalk|gesso]] bianco. Il paesaggio era fatto interamente di [[chalk|gesso]] bianco. Il [[chalk|gesso]] bianco si ammucchiava per miglia e miglia finché non incontrava il cielo. Mi chinai e staccai un pezzo dalla roccia su cui sedevo; non segnava così [[Well|bene]] come i gessetti da negozio; ma dava l'effetto. E rimasi lì in estasi di piacere, comprendendo che questa Inghilterra meridionale non è soltanto una grandiosa penisola, e una tradizione, e una civiltà; è qualcosa di ancora più ammirevole. È un pezzo di [[chalk|gesso]].
 
 
 
@@ -6503,6 +6549,50 @@ I heard the dull click of the balls touching, and ran into
 the [[house]] like one pursued.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IV
+
+LA PARTITA PERFETTA
+
+Abbiamo tutti incontrato l'uomo che dice che gli sono capitate certe cose strane, ma che in realtà non crede fossero [[Supernatural|soprannaturali]]. La mia posizione è l'opposto di questa. Io credo nel [[Supernatural|soprannaturale]] come questione di intelletto e ragione, non come questione di esperienza personale. Non vedo [[Ghosts|fantasmi]]; vedo soltanto la loro intrinseca probabilità. Ma è interamente una questione di mera intelligenza, e nemmeno delle emozioni; i miei nervi e il mio [[Body|corpo]] sono del tutto di questa terra, molto terreni. Ma su persone di questo temperamento un unico episodio bizzarro lascerà spesso un'impressione particolare. E la circostanza più bizzarra che mi sia mai capitata mi è capitata poco tempo fa. Consistette in niente meno che nel giocare una partita, e giocarla piuttosto [[Well|bene]] per una diciassettina di minuti consecutivi. Il [[Ghost|fantasma]] di mio nonno mi avrebbe stupito meno.
+
+In uno di questi pomeriggi azzurri e ardenti mi ritrovai, con mio inesprimibile stupore, a giocare a un gioco chiamato croquet. Avevo immaginato che appartenesse all'epoca di Leach e di Anthony Trollope, e avevo trascurato di provvedermi di quei lunghissimi e lussureggianti favoriti che sono davvero essenziali a una simile scena. Vi giocai con un uomo che chiameremo Parkinson, e con il quale ebbi una discussione semifilosofica che durò per tutta la contesa. È profondamente radicato nella mia mente che ebbi la meglio nella discussione; ma è certo e fuori discussione che ebbi la peggio nella partita.
+
+«Oh, Parkinson, Parkinson!», esclamai, dandogli affettuose pacche sul capo con un maglio, «quanto sei davvero lontano dal puro [[Love|amore]] dello sport... tu che sai giocare. Siamo solo noi che giochiamo male ad [[Love|amare]] il Gioco in sé. Tu [[Love|ami]] la gloria; tu [[Love|ami]] l'applauso; tu [[Love|ami]] la voce sismica della vittoria; tu non [[Love|ami]] il croquet. Non [[Love|ami]] il croquet finché non [[Love|ami]] essere sconfitto al croquet. Siamo noi, i pasticcioni, ad adorare l'occupazione in astratto. Siamo noi per i quali essa è arte per l'arte. Se ci è dato di vedere il volto del Croquet in persona (se posso esprimermi così) ci accontentiamo di vederne il volto rivolto verso di noi con ira. Il nostro gioco è detto dilettantesco; e portiamo con orgoglio il nome di dilettanti, perché "amateur" non è che il francese per [[lovers|amanti]]. Accettiamo tutte le avventure dalla nostra Signora, le più disastrose o le più tediose. Attendiamo fuori dai suoi cancelli di ferro (alludo agli archetti), tentando invano di entrare. Le nostre devote palle, impetuose e piene di cavalleria, non si lasceranno confinare entro i pedanti confini del mero campo da croquet. Le nostre palle cercano l'[[Honour|onore]] agli estremi confini della terra; spuntano nelle aiuole e nella serra; le si ritrova nel [[Garden|giardino]] anteriore e nella via accanto. No, Parkinson! Il buon pittore ha abilità. È il cattivo pittore che ama la propria arte. Il buon musicista ama essere musicista, il cattivo musicista ama la musica. Con una così pura e disperata passione io venero il croquet. [[Love|Amo]] il gioco in sé. [[Love|Amo]] il parallelogramma d'erba tracciato col [[chalk|gesso]] o col nastro, come se i suoi limiti fossero le frontiere della mia sacra Patria, i quattro mari della Britannia. [[Love|Amo]] il semplice oscillare dei magli, e il click delle palle è musica. I quattro colori sono per me sacramentali e simbolici, come il rosso del [[Martyrdom|martirio]], o il bianco del giorno di Pasqua. Tu perdi tutto questo, mio povero Parkinson. Devi consolarti dell'assenza di questa visione con la meschina consolazione di poter passare attraverso gli archetti e colpire il paletto».
+
+E agitai il mio maglio nell'aria con una graziosa gaiezza.
+
+«Non ti dispiacere troppo per me», disse Parkinson, con il suo semplice sarcasmo. «Col [[Time|tempo]] mi passerà. Ma mi pare che quanto più un uomo ama un gioco, tanto più vorrebbe giocarlo bene. Ammesso che il piacere della cosa in sé venga per primo, non viene forse il piacere del [[success|successo]] naturalmente e inevitabilmente dopo? Oppure, prendi la tua stessa similitudine del Cavaliere e della sua Dama-[[Love|amore]]. Ammetto che il gentiluomo vuole anzitutto e soprattutto essere alla presenza della dama. Ma non ho ancora mai sentito di un gentiluomo che desiderasse avere l'aria di un perfetto somaro quando vi si trovava».
+
+«Forse no; benché generalmente ne abbia l'aria», risposi. «Ma la [[Truth|verità]] è che c'è una fallacia nella similitudine, per quanto fosse mia. La felicità cui l'[[Lover|amante]] mira è una felicità infinita, che può essere estesa senza limite. Quanto più egli è amato, normalmente parlando, tanto più sarà gioioso. È decisamente vero che quanto più forte è l'[[Love|amore]] di entrambi gli [[lovers|amanti]], tanto più forte sarà la felicità. Ma non è vero che quanto più forte è il gioco di entrambi i giocatori di croquet, tanto più forte sarà la partita. È logicamente possibile... (seguimi attentamente qui, Parkinson!)... è logicamente possibile giocare a croquet troppo [[Well|bene]] per goderne affatto. Se tu potessi far passare questa palla azzurra attraverso quell'archetto lontano con la stessa facilità con cui potresti raccoglierla con la mano, allora non la faresti passare attraverso quell'archetto più di quanto la raccoglieresti con la mano; non varrebbe la pena di farlo. Se potessi giocare in modo infallibile non giocheresti affatto. Nel momento in cui la partita è perfetta la partita svanisce».
+
+«Non credo, tuttavia», disse Parkinson, «che tu corra alcun pericolo immediato di operare quel genere di distruzione. Non credo che il tuo croquet svanirà per la propria impeccabile eccellenza. Per il momento sei al sicuro».
+
+Lo carezzai di nuovo col maglio, feci rotolare qua e là una palla, mi schermai dietro un archetto, e ripresi il filo del mio discorso.
+
+La lunga, calda serata si era andata gradualmente chiudendo, e a quel [[Time|momento]] era quasi crepuscolo. Nel [[Time|tempo]] in cui ebbi enunciato altri quattro principi fondamentali, e il mio compagno ebbe attraversato altri cinque archetti, la penombra volgeva al buio.
+
+«Dovremo rinunciare», disse Parkinson, mancando una palla quasi per la prima [[Time|volta]], «non riesco a vedere niente».
+
+«Nemmeno io», risposi, «ed è un conforto riflettere che non riuscirei a colpire nulla anche se lo vedessi».
+
+Con ciò colpii una palla con un colpo secco, e la mandai via nel buio verso il punto dove la figura ombrosa di Parkinson si muoveva nella calda foschia. Parkinson emise immediatamente un grido forte e drammatico. La situazione, in verità, lo richiedeva. Avevo colpito la palla giusta.
+
+Stordito dallo stupore, attraversai il terreno tenebroso, e colpii di nuovo la mia palla. Passò attraverso un archetto. Non riuscivo a vedere l'archetto; ma era l'archetto giusto. Rabbrividii da capo a piedi.
+
+Le parole erano del tutto inadeguate, così mi trascinai pesantemente dietro quella palla impossibile. Di nuovo la colpii lontano nella [[Night|notte]], in quella che supponevo fosse la vaga direzione del paletto del tutto invisibile. E nel [[Silence|silenzio]] di morte udii il paletto tintinnare mentre la palla lo colpiva pesantemente.
+
+Gettai a terra il mio maglio. «Non lo sopporto», dissi. «La mia palla è andata a segno tre volte. Queste cose non sono di questo mondo».
+
+«Raccogli il tuo maglio», disse Parkinson, «fai un altro tiro».
+
+«Ti dico che non oso. Se facessi un altro archetto come quello vedrei tutti i diavoli danzare là sulla benedetta erba».
+
+«Perché diavoli?», chiese Parkinson; «potrebbero essere solo fate che si prendono gioco di te. Ti stanno inviando la "Partita Perfetta", che non è una partita».
+
+Mi guardai attorno. Il [[Garden|giardino]] era pieno di un'ardente oscurità, in cui i deboli barlumi avevano l'aspetto del [[Fire|fuoco]]. Attraversai l'erba come se mi bruciasse, raccolsi il maglio, e colpii la palla da qualche parte... da qualche parte dove poteva esserci un'altra palla. Udii il sordo click delle palle che si toccavano, e corsi verso [[house|casa]] come uno inseguito.
+
 
 
 <span class="atom-split" data-atom="chapter_06" data-title="Tremendous Trifles — Chapter 5" data-chapter="Chapter 06" data-kind="chapter"></span>
@@ -6642,6 +6732,37 @@ sanities and certainties which I had defended earlier in the day.
 In any case it gave me pleasure to remember that my sense of reality,
 though it had rocked for an instant, had remained erect.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+V
+
+Lo Straordinario [[cabman|Vetturino]]
+
+Di [[Time|tempo]] in [[Time|tempo]] ho introdotto in questa rubrica di giornale la narrazione di episodi realmente accaduti. Non intendo insinuare che sotto questo aspetto essa sia [[Alone|sola]] fra le rubriche di giornale. Intendo solo dire che ho scoperto che il mio significato veniva meglio espresso da qualche [[Parable|parabola]] pratica tratta dalla vita quotidiana che da qualsiasi altro metodo; perciò mi propongo di narrare l'episodio dello straordinario [[cabman|vetturino]], che mi è capitato soltanto tre giorni fa, e che, per quanto in apparenza insignificante, suscitò in me un momento di genuina emozione ai confini della [[Despair|disperazione]].
+
+Il giorno in cui incontrai lo strano [[cabman|vetturino]] avevo pranzato in un piccolo ristorante a Soho in compagnia di tre o quattro dei miei migliori amici. I miei migliori amici sono tutti o scettici senza fondo o credenti del tutto incontrollabili, sicché la nostra discussione a pranzo si volse alle idee più ultime e terribili. E l'intera argomentazione si ridusse alla fine a questo: che la questione è se un uomo possa essere certo di qualcosa. Io penso che possa esserne certo, perché se (come dissi al mio amico, brandendo furiosamente una bottiglia vuota) è impossibile intellettualmente concepire la certezza, che cos'è questa certezza che è impossibile concepire? Se non ho mai sperimentato una cosa come la certezza non posso nemmeno dire che una cosa non è certa. Similmente, se non ho mai sperimentato una cosa come il verde non posso nemmeno dire che il mio naso non è verde. Potrebbe essere verde quanto più è possibile, per quel che ne so, se davvero non ho alcuna esperienza del verde. Così ci gridammo l'un l'altro e facemmo tremare la stanza; perché la metafisica è l'unica cosa integralmente emotiva. E la differenza tra noi era assai profonda, perché era una differenza quanto all'oggetto dell'intera faccenda chiamata apertura mentale o apertura dell'intelletto. Poiché il mio amico diceva di aprire il proprio intelletto come il sole apre i ventagli di una palma, aprendosi per amore dell'aprirsi, aprendosi infinitamente per sempre. Ma io dissi che aprivo il mio intelletto come aprivo la bocca, allo scopo di richiuderla di nuovo su qualcosa di solido. Lo stavo facendo in quel momento. E come giustamente feci notare, avrebbe un aspetto assai sciocco se continuassi ad aprire la bocca all'infinito, per sempre ed eternamente.
+
+. . . . .
+
+Ora, quando questa discussione fu finita, o almeno quando fu interrotta (perché non sarà mai finita), me ne andai con uno dei miei compagni, il quale nella confusione e nella relativa follia di elezioni generali era in qualche modo diventato membro del Parlamento, e viaggiai con lui in una vettura dall'angolo di Leicester-square all'ingresso dei membri della [[house|Camera]] dei Comuni, dove la polizia mi accolse con una tolleranza del tutto insolita. Se pensassero che egli fosse il mio custode o che io fossi il suo custode è una discussione tra noi che ancora continua.
+
+È necessario in questa narrazione conservare la massima esattezza di dettaglio. Dopo aver lasciato il mio amico alla [[house|Camera]] presi la vettura per qualche centinaio di iarde fino a un ufficio in Victoria-street che dovevo visitare. Scesi poi e gli offrii più della sua tariffa. La guardò, ma non con quella scontrosa [[Doubt|diffidenza]] e con quella generale disposizione a tentare il colpo che non sono ignote fra i vetturini normali. Ma questo non era un normale, forse nemmeno umano, [[cabman|vetturino]]. La guardò con uno stupore ottuso e infantile, chiaramente del tutto genuino. «Sa, signore», disse, «mi ha dato solo 1 scellino e 8 pence?». Osservai, con una certa sorpresa, che lo sapevo. «Ora lei sa, signore», disse in modo gentile, supplichevole, ragionevole, «lei sa che quella non è la tariffa da Euston». «Euston», ripetei vagamente, perché in quel momento la parola mi suonava come Cina o Arabia. «Che diamine c'entra Euston?». «Mi ha chiamato proprio fuori dalla stazione di Euston», cominciò l'uomo con stupefacente precisione, «e poi ha detto...». «Di che cosa in nome del Tartaro state parlando?», dissi con cristiana longanimità; «vi ho preso all'angolo sud-ovest di Leicester-square». «Leicester-square», esclamò, sciogliendo una sorta di cateratta di disprezzo, «ma se oggi non siamo nemmeno stati vicino a Leicester-square. Mi ha chiamato fuori dalla stazione di Euston, e ha detto...». «Siete pazzo voi, o lo sono io?», chiesi con scientifica calma.
+
+Guardai l'uomo. Nessun [[cabman|vetturino]] disonesto comune penserebbe di creare una menzogna così solida e colossale e creativa. E quest'uomo non era un [[cabman|vetturino]] disonesto. Se mai un volto umano fu pesante e semplice e umile, e con due grandi occhi azzurri sporgenti come quelli di una rana, se mai (in breve) un volto umano fu tutto ciò che un volto umano dovrebbe essere, era il volto di quel risentito e rispettoso [[cabman|vetturino]]. Guardai su e giù per la strada; un crepuscolo insolitamente scuro sembrava scendere. E per un secondo il vecchio [[nightmare|incubo]] dello scettico posò il dito sul mio nervo. Che cos'era la certezza? Era qualcuno certo di qualcosa? Cielo! pensare al monotono solco degli scettici che continuano a chiedersi se possediamo una vita futura. La domanda eccitante per il vero scetticismo è se possediamo una vita passata. Che cos'è un minuto fa, considerato razionalisticamente, se non una tradizione e un'immagine? L'oscurità si faceva più profonda dalla [[Road|strada]]. Il [[cabman|vetturino]] mi diede con calma i dettagli più minuziosi del gesto, delle parole, del complesso ma coerente corso d'azione che avevo adottato da quella notevole occasione in cui l'avevo chiamato fuori dalla stazione di Euston. Come facevo a sapere (direbbero i miei amici scettici) di non averlo chiamato fuori da Euston. Ero fermo nella mia affermazione; egli era del tutto altrettanto fermo nella sua. Era evidentemente un uomo tanto onesto quanto me, e membro di una professione assai più rispettabile. In quel momento l'universo e le [[Stars|stelle]] oscillarono di un capello dal loro equilibrio, e le fondamenta della terra furono smosse. Ma per la stessa ragione per cui credo nella [[democracy|Democrazia]], per la stessa ragione per cui credo nel libero arbitrio, per la stessa ragione per cui credo nel carattere fisso della virtù, la ragione che potrebbe esprimersi solo dicendo che non scelgo di essere un pazzo, continuai a credere che questo onesto [[cabman|vetturino]] avesse torto, e gli ripetei che l'avevo davvero preso all'angolo di Leicester-square. Egli ricominciò con la stessa evidente e ponderosa sincerità: «Mi ha chiamato fuori dalla stazione di Euston, e ha detto...».
+
+E in quel momento sopravvenne sui suoi lineamenti una sorta di spaventosa trasfigurazione di vivo stupore, come se fosse stato illuminato come una lampada dall'interno. «Ma, le chiedo scusa, signore», disse. «Le chiedo scusa. Le chiedo scusa. Mi ha preso da Leicester-square. Ora ricordo. Le chiedo scusa». E con ciò questo stupefacente uomo fece schioccare la frusta con un colpo secco sul suo [[Horse|cavallo]] e se ne andò via sferragliando. L'intero colloquio, davanti allo stendardo di San Giorgio lo giuro, è rigorosamente vero.
+
+. . . . .
+
+Guardai lo strano [[cabman]] mentre si rimpiccioliva nella distanza
+e nelle brume. Non so se avessi ragione nell'immaginare
+che, per quanto il suo volto fosse sembrato tanto onesto, vi fosse qualcosa
+di ultraterreno e demoniaco in lui, quando lo si vedeva di spalle.
+Forse era stato mandato a tentarmi dalla mia adesione a quelle
+sanità e certezze che avevo difeso poco prima nella giornata.
+In ogni caso mi diede piacere ricordare che il mio senso della realtà,
+per quanto avesse vacillato per un istante, era rimasto eretto.
 
 
 
@@ -6794,6 +6915,32 @@ me even a kind of unnatural youth; I hungered for something untried.
 So to open a new chapter in my life I got into a hansom cab.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VI
+
+Un incidente
+
+Qualche [[Time|tempo]] fa scrissi in queste colonne un articolo intitolato «Lo straordinario [[cabman|vetturino]]». Sono ora in grado di offrire la mia esperienza di una vettura ancora più straordinaria. La cosa straordinaria di quella vettura era che io non le piacevo; mi scaraventò fuori violentemente in mezzo allo Strand. Se i miei amici che leggono il DAILY NEWS sono romantici (e ricchi) quanto li ritengo, presumo che questa esperienza non sia rara. Suppongo che vengano tutti scaraventati fuori dalle vetture, per tutta [[London|Londra]]. Tuttavia, poiché vi sono alcune persone, verginali e remote dal mondo, che non hanno ancora avuto questa lussuosa esperienza, darò un breve resoconto della psicologia di me stesso quando il mio hansom si scontrò con la fiancata di un omnibus a motore, e, [[Hope|spero]], lo ferii.
+
+Non ho bisogno di soffermarmi sull'essenziale [[Romance|poesia]] dell'hansom: quell'unica cosa moderna davvero nobile che la nostra epoca, quando sarà giudicata, porrà gravemente accanto al Partenone. È davvero moderno in quanto è insieme segreto e veloce. Il mio particolare hansom era moderno sotto questi due aspetti; era anche molto moderno nel fatto che andò a finir male. Ma è anche inglese; non lo si trova all'estero; appartiene a un bel paese romantico dove quasi tutti fingono di essere più ricchi di quanto siano, e agiscono come se lo fossero. È comodo, eppure è temerario; e quella combinazione è l'[[Soul|anima]] stessa dell'Inghilterra. Ma benché avessi sempre colto tutte queste buone qualità in un hansom, non ne avevo sperimentato tutte le possibilità, o, come dicono i moderni, tutti gli aspetti di quel veicolo. La mia enunciazione dei meriti di un hansom era sempre stata fatta quando esso stava nel verso giusto. Lasciatemi dunque spiegare come mi sentii quando caddi da un hansom per la prima e, sono felice di credere, l'ultima [[Time|volta]]. Policrate gettò un anello nel mare per propiziarsi le Parche. Io ho gettato un hansom nel mare (se mi passate una metafora piuttosto violenta) e le Parche sono, ne sono certo, propiziate. Anche se mi dicono che non amano sentirselo dire.
+
+Ieri pomeriggio viaggiavo in un hansom giù per una delle vie in pendenza verso lo Strand, leggendo uno dei miei ammirevoli articoli con continuo piacere, e con sorpresa ancor più continua, quando il [[Horse|cavallo]] cadde in avanti, arrancò un attimo sulle pietre che raschiavano, si rialzò barcollando sulle zampe, e proseguì. I cavalli delle mie vetture fanno spesso questo, e ho imparato a gustare i miei articoli a qualsiasi angolazione del veicolo. Così non vidi nulla di strano nel modo in cui il [[Horse|cavallo]] riprese ad andare. Ma lo vidi improvvisamente nei volti di tutte le persone sul marciapiede. Erano tutte rivolte verso di me, ed erano tutte colpite da [[Fear|paura]] all'improvviso, come da una bianca fiamma dal cielo. E un uomo corse a metà sulla [[Road|strada]] con un movimento del gomito come per parare un colpo, e cercò di fermare il [[Horse|cavallo]]. Allora capii che le redini erano perdute, e l'attimo dopo il [[Horse|cavallo]] era come una vivente folgore. Cerco di descrivere le cose esattamente come mi apparvero; molti dettagli posso averli mancati o mal riferiti; molti dettagli possono, per così dire, essere impazziti nella corsa giù per la [[Road|strada]]. Ricordo che una volta definii una delle mie esperienze narrate in questo giornale «Un [[Fragment|Frammento]] di fatto». Questo è, in ogni caso, un [[Fragment|frammento]] di fatto. Nessun fatto potrebbe essere più frammentario del genere di fatto che mi aspettavo di essere in [[Bottom|fondo]] a quella via.
+
+. . . . .
+
+Credo nel predicare ai convertiti; perché ho generalmente scoperto che i convertiti non comprendono la propria religione. Così ho sempre sostenuto in questo giornale che la [[democracy|democrazia]] ha un significato più profondo di quanto i democratici comprendano; ossia, che le cose comuni e popolari, i proverbi, e i detti ordinari hanno sempre in sé qualcosa di non compreso dalla maggior parte di coloro che li ripetono. Eccone uno. Abbiamo tutti sentito parlare dell'uomo che è in pericolo momentaneo, e che vede l'intera sua vita passargli davanti in un attimo. Nel senso freddo, letterale e comune delle parole, questa è ovviamente una fragorosa menzogna. Nessuno può pretendere che in un incidente o in una crisi mortale abbia ricordato minuziosamente tutti i biglietti che avesse mai preso per Wimbledon, o tutte le volte che avesse mai passato il pane nero e il burro.
+
+Ma in quei pochi istanti, mentre la mia vettura sfrecciava verso il traffico dello Strand, scoprii che c'è una [[Truth|verità]] dietro questa frase, come c'è dietro tutte le frasi popolari. Ebbi davvero, in quel breve e stridulo periodo, una rapida successione di un certo numero di punti di vista fondamentali. Ebbi, per così dire, circa cinque religioni in quasi altrettanti secondi. La mia prima religione fu il puro Paganesimo, che fra gli uomini sinceri è descritto più brevemente come estrema [[Fear|paura]]. Poi succedette uno stato mentale del tutto reale, ma per il quale non è mai stato trovato un nome proprio. Gli antichi lo chiamavano Stoicismo, e credo che debba essere ciò che certi pazzi tedeschi intendono (se intendono qualcosa) quando parlano di Pessimismo. Era un'accettazione vuota e aperta della cosa che accade... come se si fosse andati oltre il suo valore. E poi, curiosamente, venne un sentimento contrario molto forte... che le cose contavano moltissimo, eppure che erano qualcosa di più che tragiche. Era un sentimento, non che la vita fosse priva d'importanza, ma che la vita fosse troppo importante per poter mai essere qualcosa di diverso dalla vita. [[Hope|Spero]] che questo fosse il [[Christianity|cristianesimo]]. In ogni caso, avvenne nel momento in cui andammo a schiantarci contro l'omnibus.
+
+Mi parve che l'hansom si rovesciasse semplicemente sopra di me, come un enorme cappuccio o cappello. Mi ritrovai poi a strisciar fuori da sotto di esso in atteggiamenti così indegni che devono aver aggiunto enormemente a quella grande causa alla quale la Lega [[anti-puritan|Anti-Puritana]] e io ci siamo recentemente consacrati. Intendo la causa dei piaceri del popolo. Quanto al mio contegno quando emersi, ho due confessioni da fare, ed entrambe le faccio meramente nell'interesse della scienza mentale. La prima è che, mentre ero stato in uno stato d'animo del tutto pio il momento prima della collisione, quando mi rimisi in piedi e scoprii di essermela cavata con un taglio o due cominciai (come san Pietro) a bestemmiare e imprecare. Un uomo mi porse un giornale o qualcosa che avevo lasciato cadere. Ricordo distintamente di aver consegnato quel giornale a uno stato di irrimediabile rovina spirituale. Ora me ne dispiace molto, e chiedo scusa sia all'uomo sia al giornale. Non ho la minima idea di quale fosse il significato di questa innaturale ira; la menziono come confessione psicologica. Fu immediatamente seguita da estrema ilarità, e feci così tante sciocche battute al poliziotto che egli si disonorò con continue risate davanti a tutti i ragazzini della via, che fino ad allora lo avevano preso sul serio.
+
+. . . . .
+
+C'è un'altra cosa strana in questa faccenda che pure menziono come curiosità del cervello umano o deficienza di cervello. A intervalli di circa ogni tre minuti continuavo a ricordare al poliziotto che non avevo pagato il [[cabman|vetturino]], e che speravo non perdesse il suo denaro. Egli disse che sarebbe andato tutto bene, e che l'uomo sarebbe comparso. Ma fu solo circa mezz'ora dopo che d'improvviso mi colpì con uno shock intollerabile il pensiero che l'uomo potesse concepibilmente aver perduto più di mezza [[Crown|corona]]; che egli fosse stato in pericolo tanto [[Well|quanto]] me. Avevo istintivamente considerato il [[cabman|vetturino]] come qualcosa di innalzato al di sopra degli incidenti, un dio. Feci immediatamente delle indagini, e sono felice di dire che parvero essere state superflue.
+
+Ma d'ora in poi comprenderò sempre con una più oscura e più delicata [[Charity|carità]] coloro che pagano la decima della menta, dell'aneto e del cumino, e trascurano le cose più gravi della legge; ricorderò come una volta fui davvero torturato dal dovere mezza [[Crown|corona]] a un uomo che avrebbe potuto essere morto. Alcuni ammirevoli uomini in camice bianco all'ospedale di Charing [[Cross]] fasciarono la mia piccola ferita, e uscii di nuovo nello Strand. Sentivo su di me perfino una sorta di innaturale giovinezza; avevo fame di qualcosa di non sperimentato. Così, per aprire un nuovo capitolo nella mia vita, salii su un hansom.
+
 
 
 <span class="atom-split" data-atom="chapter_08" data-title="Tremendous Trifles — Chapter 7" data-chapter="Chapter 08" data-kind="chapter"></span>
@@ -6937,6 +7084,22 @@ and wonderfully God's image is made, stand on one leg.
 If you want to realise the splendid vision of all visible things--
 wink the other eye.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VII
+
+I vantaggi di avere una gamba sola
+
+Un mio amico che rendeva visita a una povera donna in lutto e andava cercando qualche frase di conforto che non risultasse né insolente né fiacca, disse infine: «Credo che si possa sopravvivere a questi grandi dolori e persino uscirne migliori. Ciò che logora è la piccola preoccupazione.» «È proprio così, signora,» rispose la vecchia con enfasi, «e ben lo so io, che ne ho avute dieci.» È forse in questo senso che è più vero che le piccole preoccupazioni sono le più logoranti. Nel suo significato più vago la frase, benché contenga una [[Truth|verità]], contiene anche qualche possibilità di [[Self-Deception|autoinganno]] ed errore. Chi ha insieme piccoli guai e grandi ha il diritto di dire che trova i piccoli i più amari; ed è indubbiamente vero che la schiena curva sotto carichi incredibili può avvertire una lieve aggiunta a quei carichi; un gigante che regge la terra e tutta la sua creazione animale potrebbe pur trovare un peso nella cavalletta. Ma temo che la massima secondo cui le preoccupazioni più piccole sono le peggiori sia talvolta usata o abusata dalla gente, perché costoro non hanno altro che le preoccupazioni più minute. La dama può scusarsi del suo inveire contro la spiegazzata foglia di [[Rose|rosa]] riflettendo con quanta straordinaria dignità porterebbe la [[Crown|corona]] di spine—se dovesse. Il gentiluomo può permettersi di maledire il pranzo e dire a se stesso che si comporterebbe assai meglio se si trattasse di pura fame. Non occorre negare che la cavalletta sulla spalla dell'uomo sia un peso; ma non occorre nutrire molto rispetto per il gentiluomo che va sempre gridando che preferirebbe avere un elefante, quando sa che non ci sono elefanti nel paese. Possiamo concedere che una pagliuzza possa spezzare la schiena del cammello, ma ci piace sapere che è davvero l'ultima pagliuzza e non la prima.
+
+Concedo che chi ha subìto gravi torti ha un reale diritto di lagnarsi, purché si lagni di qualcos'altro. È un fatto singolare che, se sono sani di mente, quasi sempre si lagnano di qualcos'altro. Parlare in modo del tutto ragionevole dei propri torti del tutto reali è il modo più rapido per uscire di senno. Ma le persone con grandi guai parlano dei piccoli, e l'uomo che si duole della spiegazzata foglia di [[Rose|rosa]] ha assai spesso la carne piena di spine. Ma se un uomo ha comunemente una vita quotidiana assai limpida e felice, allora credo che siamo giustificati nel chiedergli che non faccia [[Mountains|montagne]] di monticelli di talpa. Non nego che i monticelli di talpa possano talvolta essere importanti. I piccoli fastidi hanno questo di malvagio, che possono essere più repentini perché più invisibili; non gettano alcuna [[Shadow|ombra]] dinanzi a sé, non hanno atmosfera. Nessuno ebbe mai una premonizione mistica che stava per inciampare in uno sgabello. Guglielmo III morì cadendo su un monticello di talpa; non suppongo che, con tutte le sue svariate capacità, sarebbe riuscito a cadere da una montagna. Ma, fatta la tara di tutto questo, ripeto che possiamo chiedere a un uomo felice (non a Guglielmo III) di sopportare i puri disagi, e persino di farne parte della sua felicità. Di [[Pain|dolore]] positivo o di [[Poverty|povertà]] positiva qui non parlo. Parlo di quelle innumerevoli limitazioni accidentali che di continuo si attraversano sul nostro cammino—il maltempo, la reclusione in questa o quella [[house|casa]] o stanza, il fallire di appuntamenti o accordi, l'attesa alle stazioni ferroviarie, la posta perduta, il trovare mancanza di puntualità quando vogliamo puntualità, o, ciò che è peggio, il trovare puntualità quando non la vogliamo. È dei piaceri poetici che se ne possono trarre che io canto—canto con fiducia perché ho di recente sperimentato i piaceri poetici che nascono dal dover sedere su una sola sedia con un piede slogato, con l'unica alternativa di stare ritto su una gamba come una cicogna—la cicogna è una similitudine poetica; perciò l'ho adottata con entusiasmo.
+
+Per apprezzare qualsiasi cosa dobbiamo sempre isolarla, anche se la cosa stessa simboleggia qualcosa di diverso dall'isolamento. Se desideriamo vedere che cosa sia una [[house|casa]], dev'essere una [[house|casa]] in qualche paesaggio disabitato. Se desideriamo raffigurare ciò che un uomo realmente è, dobbiamo raffigurare un uomo [[Alone|solo]] in un [[Desert|deserto]] o su una scura sabbia marina. Finché è una figura sola, egli significa tutto ciò che significa l'umanità; finché è solitario, significa la società umana; finché è solitario, significa socievolezza e [[Comradeship|cameratismo]]. Aggiungete un'altra figura e il quadro è meno umano—non più. Uno è compagnia, due è nessuno. Se volete simboleggiare l'edificare umano, disegnate una sola scura torre all'orizzonte; se volete simboleggiare la luce, non vi sia stella nel cielo. Anzi, per tutta quella stagione stranamente illuminata che chiamiamo il nostro giorno non v'è che una sola stella nel cielo—una grande, fiera stella che chiamiamo il sole. Un solo sole è splendido; sei soli sarebbero soltanto volgari. Una sola Torre di Giotto è [[Sublime|sublime]]; una fila di Torri di Giotto sarebbe soltanto come una fila di bianchi paletti. La poesia dell'arte sta nel contemplare la torre singola; la poesia della [[Nature|natura]] nel vedere l'albero singolo; la poesia dell'[[Love|amore]] nel seguire la donna singola; la poesia della religione nell'adorare la stella singola. E così, nella stessa pensosa lucidità, trovo la poesia di tutta l'anatomia umana nello stare ritto su una sola gamba. Per esprimere una compiuta e perfetta gambosità, la gamba deve stare in [[Sublime|sublime]] isolamento, come la torre nel deserto. Come dice tanto finemente Ibsen, la gamba più forte è quella che sta più [[Alone|sola]].
+
+Questa gamba solitaria su cui mi poso ha tutta la semplicità di qualche colonna dorica. Gli studiosi di architettura ci dicono che l'unico uso legittimo di una colonna è sostenere un peso. Questa mia colonna adempie la sua legittima funzione. Sostiene un peso. Essendo di consistenza animale e organica, può persino migliorare nel processo, e durante questi pochi giorni in cui sono così disegualmente bilanciato, l'impotenza o la dislocazione dell'una gamba può trovar compenso nella stupefacente forza e classica [[Beauty|bellezza]] dell'altra. La signora Mountstuart Jenkinson, nel [[Novel|romanzo]] del signor George Meredith, potrebbe passare da un momento all'altro e, vedendomi nell'atteggiamento da cicogna, esclamerebbe, con pari ammirazione e più letterale esattezza: «Egli ha una gamba.» Notate come questa celebre frase letteraria sostenga la mia tesi intorno all'isolamento di ogni cosa ammirevole. La signora Mountstuart Jenkinson, volendo comporre un quadro netto e perfetto della grazia umana, disse che Sir Willoughby Patterne aveva una gamba. Ella glissò delicatamente e celò il fatto goffo e offensivo che egli in realtà ne aveva due. Due gambe erano superflue e irrilevanti, un riflesso e una confusione. Due gambe avrebbero confuso la signora Mountstuart Jenkinson come due Monumenti a [[London|Londra]]. Che, avendo avuto una gamba buona, ne dovesse avere un'altra—questo sarebbe stato usare vane ripetizioni come fanno i Gentili. Ella ne sarebbe rimasta sconcertata come se egli fosse stato un centopiedi.
+
+Ogni pessimismo ha per suo oggetto un segreto ottimismo. Ogni rinuncia alla vita, ogni negazione del piacere, ogni tenebra, ogni austerità, ogni desolazione ha per suo vero fine questa separazione di qualcosa affinché possa essere goduto in modo acuto e perfetto. Provo gratitudine per la lieve slogatura che ha introdotto questa misteriosa e affascinante divisione fra uno dei miei piedi e l'altro. Il modo per [[Love|amare]] qualcosa è rendersi conto che la si potrebbe perdere. In uno dei miei piedi posso sentire quanto sia forte e splendido un piede; nell'altro posso rendermi conto di quanto assai diversamente sarebbe potuto essere. La morale della cosa è del tutto esilarante. Questo mondo e tutti i nostri poteri in esso sono assai più tremendi e belli di quanto persino noi sappiamo, finché qualche incidente non ce lo rammenta. Se desiderate percepire quella felicità sconfinata, limitatevi anche solo per un istante. Se desiderate rendervi conto di quanto tremendamente e mirabilmente sia fatta l'immagine di Dio, state ritti su una gamba sola. Se volete rendervi conto della splendida visione di tutte le cose visibili—strizzate l'altro occhio.
 
 
 
@@ -7087,6 +7250,152 @@ we may as [[Well|well]] drive back to Besançon."
 Only as the [[Stars|stars]] came out among those immortal hills I wept
 for Walham Green.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VIII
+
+La fine del mondo
+
+Da qualche [[Time|tempo]] andavo vagando per le vie tranquille della curiosa
+città di Besançon, che sorge come una sorta di penisola
+in un ferro di [[Horse|cavallo]] di [[River|fiume]]. Dalle guide potete apprendere
+che vi nacque Victor Hugo, e che è
+una piazzaforte militare dotata di molti forti, presso la frontiera francese.
+Ma dalle guide non apprenderete che le tegole stesse
+sui tetti paiono di una tinta più bizzarra e più delicata
+di quelle di tutte le altre città del mondo;
+che le tegole sembrano le piccole nuvole di qualche strano tramonto,
+o le squame lucenti di qualche strano pesce.
+Non vi diranno che in questa città l'occhio non può
+posarsi su alcuna cosa senza trovarla in qualche modo attraente
+e persino fatata, un volto scolpito all'angolo d'una strada, un baluginare
+di verdi campi attraverso un'arcata tozza, o qualche inatteso
+colore per lo smalto d'una guglia o d'una cupola.
+
+. . . . .
+
+Scendeva la sera e nella sua luce tutti questi colori
+così semplici eppure così sottili parevano sempre più accordarsi
+e comporre una fiaba. Mi sedetti un poco fuori d'un caffè
+con una fila di alberelli da giocattolo davanti, e di lì a poco
+il conducente d'una vettura di piazza (come diremmo noi) venne allo stesso luogo.
+Era uno di quei francesi grandissimi e scuri, un tipo non
+comune eppure tipico di Francia; il francese rabelaisiano,
+enorme, olivastro, dal volto paonazzo, una botte di vino ambulante; era una specie
+di [[Falstaff]] meridionale, se si può immaginare [[Falstaff]] come qualcosa di diverso da un inglese.
+E, in verità, c'era una differenza vitale, tipica di due nazioni.
+Poiché mentre [[Falstaff]] si sarebbe scosso dall'ilarità come
+una gigantesca gelatina, pieno della farsa grossolana delle strade di [[London|Londra]],
+questo francese era piuttosto solenne e dignitoso che altro —
+come se il piacere fosse una sorta di religione pagana. Dopo un po'
+di conversazione, tutta pervasa dell'ammirevole cortesia e uguaglianza
+della civiltà francese, mi propose senza né premura
+né imbarazzo di condurmi con la sua vettura per un'ora di
+scarrozzata sulle colline oltre la città. E benché si facesse tardi
+acconsentii; poiché c'era una lunga [[Road|strada]] bianca sotto un'arcata
+e attorno a una [[Hill|collina]] che mi trascinava come un lungo cordone bianco.
+Passammo per la robusta e tozza porta costruita dai Romani,
+e ricordo la coincidenza come una sorta di presagio: mentre
+uscivamo dalla [[City|città]] udii simultaneamente i tre suoni
+che sono la trinità di Francia. Compongono ciò che un poeta chiama
+«una trinità aggrovigliata», e non intendo dipanarla io.
+Qualunque cosa significhino quelle tre cose, come o perché coesistano;
+se possano conciliarsi o forse siano già conciliate;
+i tre suoni che udii allora per caso tutti insieme compongono
+il mistero francese. Poiché la banda d'ottoni nei giardini del Casinò dietro
+di me suonava con una sorta di appassionata leggerezza qualche motivo sfrenato
+d'un'opera comica parigina, e mentre questo avveniva udii
+anche le trombe sulle colline sovrastanti, che narravano di terribili fedeltà
+e di uomini sempre in armi alla porta di Francia; e udii anche,
+più fievole di questi suoni e attraverso tutti essi, l'Angelus.
+
+. . . . .
+
+Dopo questa coincidenza di simboli ebbi il curioso senso d'aver
+lasciato la Francia alle mie spalle, o forse persino il mondo civile.
+E, in verità, c'era nel paesaggio qualcosa di abbastanza
+selvaggio da incoraggiare una simile fantasia. Ho visto forse
+[[Mountains|montagne]] più alte, ma non ho mai visto rocce più alte;
+non ho mai visto altezza tanto vicina, tanto brusca e sensazionale,
+schegge di roccia che si ergevano come le guglie delle chiese,
+dirupi che precipitavano improvvisi e diritti come [[Satan|Satana]] cadde dal cielo.
+C'era pure una qualità nella scarrozzata che non era soltanto sbalorditiva,
+ma piuttosto sconcertante; una qualità che molti devono aver notato
+se hanno guidato o cavalcato rapidamente su per strade di montagna.
+Intendo un senso di gigantesca rotazione, come dell'intera
+terra che gira attorno al proprio capo. È del tutto inadeguato
+dire che le colline si [[Rose|levavano]] e s'abbassavano come onde enormi.
+Piuttosto le colline parevano volteggiarmi attorno come le enormi vele
+d'un mulino a vento, una vasta [[Wheel|ruota]] di mostruose ali arcangeliche.
+Mentre procedevamo e salivamo nel viola addensante del tramonto questa
+vertigine cresceva, confondendo le cose in alto con quelle in basso.
+Ampie pareti di roccia boscosa si stagliavano sopra il mio capo come un tetto.
+Le fissavo finché mi figuravo di fissare in basso una
+pianura boscosa. Sotto di me pendii di verde precipitavano giù verso il [[River|fiume]].
+Li fissavo finché mi figuravo che s'innalzassero fino al cielo.
+Il viola s'oscurava, la [[Night|notte]] s'avvicinava; pareva soltanto scavare più netti
+gli abissi e innalzare più su le guglie di quel paesaggio da [[nightmare|incubo]].
+Sopra di me nel crepuscolo c'era l'enorme massa nera del conducente,
+e la sua schiena larga e vuota era misteriosa come la schiena
+della [[Death|Morte]] nel quadro di Watts. Sentii che stavo diventando
+troppo fantastico, e cercai di parlare di cose ordinarie.
+Gridai al conducente in francese: «Dove mi state portando?»
+ed è fatto letterale e solenne che egli mi rispose nella stessa
+lingua senza voltarsi: «Alla fine del mondo».
+
+Non risposi. Lo lasciai trascinare il veicolo su per vie oscure
+e ripide, finché vidi luci sotto un basso tetto di alberelli
+e due bambini, uno stranamente bello, che giocavano a palla.
+Poi ci ritrovammo a riempire la stretta via principale
+d'un minuscolo [[Hamlet|villaggio]], e sul muro della sua locanda era scritto
+a grandi lettere, LE BOUT DU MONDE — la fine del mondo.
+
+Il conducente e io ci sedemmo fuori da quella locanda senza una parola, come se tutte
+le cerimonie fossero naturali e sottintese in quel luogo estremo.
+Ordinai pane per entrambi, e vino rosso, che era buono ma
+non aveva nome. Dall'altra parte della [[Road|strada]] c'era una piccola chiesa
+semplice con una [[Cross|croce]] in cima e un gallo in cima alla [[Cross|croce]].
+Questa mi parve un'ottima fine del mondo; se la storia
+del mondo finiva qui, finiva [[Well|bene]]. Poi mi chiesi se io stesso
+sarei stato davvero contento di finire qui, dove di certo
+c'erano le cose migliori della Cristianità — una chiesa e giochi
+di bambini e terra onesta e una taverna dove gli uomini parlano con gli uomini.
+Ma mentre pensavo un singolare [[Doubt|dubbio]] e [[Desire|desiderio]] crebbe lentamente in me,
+e alla fine balzai in piedi.
+
+«Non siete soddisfatto?» chiese il mio compagno. «No», dissi,
+«non sono soddisfatto nemmeno alla fine del mondo».
+
+Poi, dopo un [[Silence|silenzio]], dissi: «Perché, vedete, ci sono due
+fini del mondo. E questa è la fine sbagliata del mondo;
+almeno quella sbagliata per me. Questa è la fine francese del mondo.
+Io voglio l'altra fine del mondo. Portatemi all'altra fine
+del mondo».
+
+«L'altra fine del mondo?» chiese. «E dov'è?»
+
+«È a Walham Green», sussurrai con voce rauca. «La vedete
+sugli omnibus di [[London|Londra]]. "World's End e Walham Green".
+Oh, so quanto sia bella questa; [[Love|amo]] le vostre vigne e la vostra
+libera contadinanza, ma voglio la fine inglese del mondo.
+Vi [[Love|amo]] come un fratello, ma voglio un [[cabman|vetturino]] inglese,
+che sia buffo e mi chieda quanto "fa" la sua corsa. Le vostre trombe
+mi agitano il [[Blood|sangue]], ma voglio vedere un poliziotto di [[London|Londra]].
+Portatemi, oh, portatemi a vedere un poliziotto di [[London|Londra]]».
+
+Egli stava del tutto scuro e immobile contro la fine del tramonto,
+e non riuscivo a dire se avesse capito o no.
+Risalii nella sua carrozza.
+
+«Capirete», dissi, «se mai sarete un [[Exile|esule]] anche
+soltanto per piacere. Il [[Child|fanciullo]] alla madre, l'uomo alla sua patria,
+come disse un tempo un vostro connazionale. Ma poiché, forse, è
+una scarrozzata un po' troppo lunga fino alla fine inglese del mondo,
+tanto vale [[Well|allora]] tornare in vettura a Besançon».
+
+Solo mentre le [[Stars|stelle]] spuntavano tra quelle colline immortali piansi
+per Walham Green.
 
 
 
@@ -7357,6 +7666,137 @@ hygienic reason, if he has some scientific explanation, he may get
 up a hypochondriac.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+X
+
+Sullo starsene a letto
+
+Stare a letto sarebbe un'esperienza del tutto perfetta e suprema
+se solo si avesse una matita colorata abbastanza lunga da disegnare sul soffitto.
+Questo, tuttavia, non fa parte in genere dell'attrezzatura
+domestica presente in casa. Io penso che la cosa
+si potrebbe realizzare con parecchi secchi di Aspinall e una scopa.
+Solo che, se si lavorasse in modo davvero ampio e magistrale,
+e si stendesse il colore a grandi velature, esso potrebbe gocciolare di nuovo
+sul proprio volto in fiotti di colore ricco e mescolato come una
+strana pioggia fatata; e ciò avrebbe i suoi svantaggi.
+Temo che sarebbe necessario attenersi al bianco e nero
+in questa forma di composizione artistica. A tale scopo, in verità,
+il soffitto bianco sarebbe della massima utilità possibile; anzi,
+è l'unico uso che io concepisca per un soffitto bianco.
+
+Ma senza il bell'esperimento dello stare a letto forse non l'avrei
+mai scoperto. Per anni sono andato in cerca
+di qualche spazio vuoto in una [[house|casa]] moderna su cui disegnare.
+La carta è troppo piccola per qualsiasi disegno davvero allegorico;
+come dice Cirano di Bergerac, «Il me faut des géants».
+Ma quando cercai di trovare questi ampi e nitidi spazi nelle stanze
+moderne come quelle in cui tutti viviamo, fui continuamente deluso.
+Trovai un infinito ricamo e una complicazione di piccoli oggetti
+appesi come una tenda di fini maglie tra me e il mio [[Desire|desiderio]].
+Esaminai le pareti; le trovai con mia sorpresa già
+coperte di carta da parati, e trovai la carta da parati
+già coperta di immagini insignificanti, tutte recanti
+una ridicola somiglianza l'una con l'altra. Non riuscivo a capire
+perché un simbolo arbitrario (un simbolo apparentemente del tutto
+privo di qualsiasi significato religioso o filosofico)
+dovesse così essere cosparso su tutte le mie belle pareti come una sorta
+di vaiolo. La [[Bible|Bibbia]] deve riferirsi alle carte da parati, io penso,
+quando dice: «Non usate vane ripetizioni, come fanno i Gentili».
+Trovai il tappeto di Turchia una massa di colori privi di senso,
+piuttosto come l'Impero turco, o come il dolciume detto
+Rahat Lukum turco. Non so esattamente che cosa il Rahat Lukum
+sia davvero; ma suppongo che siano Massacri macedoni.
+Ovunque andassi sconsolato, con la mia matita o il mio pennello,
+trovavo che altri m'avevano inspiegabilmente preceduto,
+guastando le pareti, le tende e i mobili con i loro
+disegni infantili e barbarici.
+
+. . . . .
+
+In nessun luogo trovai uno spazio davvero libero per schizzare, finché in questa occasione
+prolungai oltre il limite dovuto il processo dello stare disteso supino
+a letto. Allora la luce di quel bianco cielo irruppe sulla mia vista,
+quell'ampiezza di puro bianco che è invero quasi la definizione
+del Paradiso, poiché significa purezza e significa anche [[Freedom|libertà]].
+Ma ahimè! come tutti i cieli, ora che è visto lo si trova
+[[Unattainable|irraggiungibile]]; appare più austero e più distante
+del cielo azzurro fuori dalla [[Window|finestra]]. Poiché la mia proposta di dipingervi
+sopra con l'estremità setolosa d'una scopa è stata scoraggiata —
+non importa da chi; da una persona esclusa da ogni diritto politico —
+e persino la mia proposta minore di mettere l'altra estremità della scopa nel
+[[Fire|fuoco]] della cucina e ridurla a carbone non è stata concessa.
+Eppure sono certo che fu da persone nella mia posizione che venne tutta
+l'ispirazione originaria per coprire i soffitti dei palazzi
+e delle cattedrali con un tripudio di angeli caduti o dèi vittoriosi.
+Sono sicuro che fu soltanto perché [[Michael|Michelangelo]] [[Angelo|Buonarroti]] era intento
+all'antica e onorevole occupazione dello stare a letto che
+egli mai comprese come il tetto della Cappella Sistina potesse esser fatto
+in una tremenda [[Imitation|imitazione]] d'un dramma divino che poteva recitarsi soltanto
+nei cieli.
+
+Il tono comunemente assunto oggi verso la pratica dello stare a letto
+è ipocrita e malsano. Di tutti i segni della modernità
+che paiono significare una sorta di decadenza, non ve n'è alcuno più minaccioso
+e pericoloso dell'esaltazione di questioni di condotta piccolissime e secondarie
+a spese di quelle grandissime e primarie,
+a spese dei legami eterni e della tragica [[morality|moralità]] umana.
+Se c'è una cosa peggiore del moderno indebolimento della morale maggiore,
+è il moderno rafforzamento della morale minore. Così si ritiene
+più annientante accusare un uomo di cattivo gusto che di cattiva etica.
+La pulizia non è più prossima alla santità di questi tempi, poiché la pulizia
+è resa essenziale e la santità è considerata un'offesa.
+Un commediografo può attaccare l'istituto del [[Marriage|matrimonio]] purché
+non travisi i costumi della società, e io ho incontrato
+pessimisti ibseniani che ritenevano male bere birra ma
+bene bere acido prussico. Specialmente è così nelle questioni d'igiene;
+notoriamente questioni come lo stare a letto. Invece d'esser considerato,
+come dovrebbe esserlo, come una questione di comodità e adattamento
+personali, è giunto a esser considerato da molti come se fosse
+parte della morale essenziale l'alzarsi presto al mattino.
+È in complesso parte della saggezza pratica; ma non c'è nulla
+di buono in esso né di cattivo nel suo contrario.
+
+. . . . .
+
+Gli avari si alzano presto al mattino; e gli scassinatori, mi si informa,
+si alzano la [[Night|notte]] prima. È il grande pericolo della nostra società
+che tutti i suoi meccanismi possano farsi più fissi mentre il suo spirito si fa
+più volubile. Le azioni e le disposizioni minori d'un uomo dovrebbero
+esser libere, flessibili, creative; le cose che dovrebbero esser immutabili
+sono i suoi principi, i suoi ideali. Ma da noi è vero il contrario;
+le nostre opinioni mutano di continuo; ma il nostro pranzo non muta.
+Ora, io vorrei che gli uomini avessero concezioni forti e radicate,
+ma quanto al loro pranzo, lo prendano talvolta in [[Garden|giardino]],
+talvolta a letto, talvolta sul tetto, talvolta in cima
+a un albero. Argomentino pure dai medesimi primi principi,
+ma lo facciano in un letto, o in una barca, o in una mongolfiera.
+Questa allarmante crescita delle buone abitudini significa in realtà un'enfasi eccessiva
+su quelle virtù che la mera consuetudine può garantire, significa troppo poca
+enfasi su quelle virtù che la consuetudine non può mai garantire del tutto,
+le improvvise e splendide virtù della pietà ispirata o del candore ispirato.
+Se mai quell'appello brusco ci viene rivolto, possiamo fallire.
+Un uomo può abituarsi ad alzarsi alle cinque del mattino all'[[Clock|orologio]].
+Un uomo non può molto [[Well|bene]] abituarsi a esser bruciato per le sue opinioni;
+il primo esperimento è di solito fatale. Prestiamo un po' più
+d'attenzione a queste possibilità dell'eroico e dell'inatteso.
+Oserei dire che quando uscirò da questo letto compirò qualche gesto
+d'una virtù quasi terribile.
+
+Per coloro che studiano la grande arte di starsene a letto v'è un'enfatica
+ammonizione da aggiungere.  Anche per coloro che possono svolgere il proprio lavoro a letto
+(come i giornalisti), e ancor più per coloro il cui lavoro non può svolgersi
+a letto (come, per esempio, i ramponieri di professione delle balene),
+è ovvio che l'indulgenza deve essere assai occasionale.
+Ma non è questa l'ammonizione che intendo.  L'ammonizione è questa:
+se proprio ve ne state a letto, badate di farlo senza alcuna ragione o
+giustificazione di sorta.  Non parlo, s'intende, dei gravemente malati.
+Ma se un uomo sano se ne sta a letto, che lo faccia senza uno straccio di scusa;
+allora si alzerà uomo sano.  Se lo fa per qualche ragione secondaria
+igienica, se ha qualche spiegazione scientifica, potrà alzarsi
+ipocondriaco.
+
 
 
 <span class="atom-split" data-atom="chapter_12" data-title="Tremendous Trifles — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
@@ -7504,6 +7944,149 @@ The same thing was done, if I remember right, by the
 Founder of [[Christianity]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XI
+
+I dodici uomini
+
+L'altro giorno, mentre meditavo sulla [[morality|moralità]] e sul signor H. Pitt, fui,
+per così dire, ghermito e messo in un banco di giuria a giudicare le persone.
+Il ghermire richiese alcune settimane, ma a me parve qualcosa di improvviso
+e arbitrario. Fui messo in questo banco perché abitavo a Battersea,
+e il mio nome cominciava con la C. Guardandomi attorno, vidi che c'erano
+anche convocate e presenti in [[Court|tribunale]] intere folle e processioni
+di uomini, tutti abitanti a Battersea, e tutti col nome che cominciava
+per C.
+
+Pare che convochino sempre i giurati in questo travolgente
+modo alfabetico. A un solo colpo ufficiale, per così dire,
+Battersea è spogliata di tutte le sue C, e lasciata a cavarsela
+come può col resto dell'alfabeto. Un Cumberpatch
+manca da una via — un Chizzolpop da un'altra —
+tre Chucksterfield da Chucksterfield [[house|House]]; i bambini
+gridano per un assente Cadgerboy; la donna all'angolo
+della via piange per il suo Coffintop, e non vuol esser consolata.
+Ci sistemiamo con giovialità disinvolta ai nostri posti
+(poiché siamo una razza ardita e spericolata, noi C di Battersea),
+e ci viene somministrato un giuramento in modo del tutto inudibile
+da un individuo che somiglia a un chirurgo dell'Esercito nella sua seconda [[Childhood|infanzia]].
+Comprendiamo, tuttavia, che dobbiamo [[Well|bene]] e fedelmente giudicare la causa
+tra il nostro sovrano signore il [[King|Re]] e il prigioniero alla sbarra,
+nessuno dei quali ha ancora fatto la sua comparsa.
+
+. . . . .
+
+Proprio mentre mi domandavo se il [[King|Re]] e il prigioniero
+non stessero forse giungendo a un'amichevole intesa in qualche
+[[house|osteria]] attigua, la testa del prigioniero appare sopra
+la barriera del banco degli imputati; è accusato di rubare biciclette,
+ed è l'immagine vivente d'un mio grande amico.
+Entriamo nel merito del furto delle biciclette.
+[[Well|Bene]] e fedelmente giudichiamo la causa tra il [[King|Re]]
+e il prigioniero nella faccenda delle biciclette.
+E giungiamo alla conclusione, dopo una breve ma ragionevole
+discussione, che il [[King|Re]] non è in alcun modo implicato.
+Poi passiamo a una donna che trascurava i suoi bambini,
+e che ha l'aria d'essere stata trascurata da qualcuno o da qualcosa.
+E io sono tra quelli che immaginano che qualcosa lo fosse stato.
+
+Per tutto il [[Time|tempo]] in cui l'occhio coglieva queste lievi apparenze
+e la mente pronunciava questi lievi giudizi, c'era nel
+cuore una barbarica pietà e [[Fear|paura]] che gli uomini non hanno mai
+saputo esprimere dal principio, ma che è la forza dietro
+metà dei [[Poems|poemi]] del mondo. Lo stato d'animo non può neppure adeguatamente
+esser suggerito, se non fievolmente da questa affermazione: che la [[Tragedy|tragedia]]
+è la più alta espressione dell'infinito valore della vita umana.
+Mai ero stato tanto vicino al [[Pain|dolore]]; e mai tanto lontano
+dal pessimismo. Ordinariamente, non avrei affatto parlato di queste
+oscure emozioni, poiché parlarne è troppo difficile;
+ma le menziono ora per una ragione specifica e particolare
+alla cui enunciazione procederò subito.
+Esprimo questi sentimenti perché dalla loro fornace
+venne una curiosa realizzazione d'una [[Truth|verità]] politica o sociale.
+Vidi con una strana e indescrivibile chiarezza che cosa
+una giuria realmente sia, e perché non dobbiamo mai lasciarla andare.
+
+L'andamento della nostra epoca fino a questo [[Time|tempo]] è stato costantemente verso
+lo specialismo e il professionismo. Tendiamo ad avere soldati addestrati
+perché combattono meglio, cantanti addestrati perché cantano meglio,
+danzatori addestrati perché [[Dance|danzano]] meglio, ridenti appositamente istruiti
+perché ridono meglio, e così via all'infinito.
+Il principio è stato applicato al diritto e alla politica da innumerevoli
+scrittori moderni. Molti fabiani hanno insistito che una parte maggiore
+del nostro lavoro politico dovrebbe esser svolta da esperti.
+Molti legalisti hanno dichiarato che la giuria non addestrata dovrebbe essere
+del tutto soppiantata dal Giudice addestrato.
+
+. . . . .
+
+Ora, se questo nostro mondo fosse davvero ciò che si dice ragionevole,
+non so se ci sarebbe da trovar difetto in questo.
+Ma il vero risultato di ogni esperienza e il vero fondamento
+d'ogni religione è questo. Che le quattro o cinque cose
+che è più praticamente essenziale che un uomo conosca,
+sono tutte quelle che la gente chiama paradossi. Vale a dire,
+che benché tutti le troviamo nella vita come mere pure verità,
+pure non possiamo facilmente enunciarle a parole senza renderci colpevoli
+di apparenti contraddizioni verbali. Una di esse, per esempio,
+è la irreprensibile ovvietà che l'uomo che trova più
+piacere per sé è spesso l'uomo che meno lo insegue.
+Un'altra è il [[Paradox|paradosso]] del [[Courage|coraggio]]; il fatto che il modo
+per evitare la [[Death|morte]] è non averne troppa avversione.
+Chiunque sia abbastanza incurante delle proprie ossa da scalare qualche promettente
+dirupo sopra la marea può salvare le proprie ossa per quell'incuranza.
+Chiunque perderà la propria vita, quello stesso la salverà;
+affermazione del tutto pratica e prosaica.
+
+Ora, uno di questi quattro o cinque paradossi che dovrebbero esser insegnati
+a ogni lattante che balbetta al ginocchio materno è il seguente:
+che più un uomo guarda una cosa, meno la sa vedere,
+e più un uomo apprende una cosa meno la conosce.
+L'argomento fabiano dell'esperto, che l'uomo addestrato
+dovrebbe essere l'uomo di cui ci si fida, sarebbe assolutamente inconfutabile
+se fosse davvero vero che un uomo il quale studia una cosa e la pratica
+ogni giorno andasse vedendo sempre più del suo significato.
+Ma non è così. Va vedendo sempre meno del suo significato.
+Allo stesso modo, ahimè! tutti andiamo ogni giorno, se non ci
+pungoliamo continuamente verso la gratitudine e l'[[Humility|umiltà]],
+vedendo sempre meno del significato del cielo o delle pietre.
+
+. . . . .
+
+Ora è cosa terribile segnare un uomo per la vendetta degli uomini.
+Ma è cosa a cui un uomo può abituarsi, come può abituarsi
+ad altre cose terribili; può persino abituarsi al sole.
+E la cosa orribile di tutti i funzionari legali, anche i migliori,
+di tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
+non è che siano malvagi (alcuni di loro sono buoni), non che
+siano stupidi (parecchi di loro sono assai intelligenti), è semplicemente
+che vi si sono abituati.
+
+A rigore essi non vedono il prigioniero al banco; tutto ciò che
+vedono è il solito uomo nel solito posto. Non vedono
+il tremendo [[Court|tribunale]] del giudizio; vedono solo la loro bottega.
+Perciò, l'istinto della civiltà cristiana ha assai saggiamente
+dichiarato che nei loro giudizi si debba a ogni occasione
+infondere [[Blood|sangue]] fresco e pensieri freschi dalle strade.
+Entrino uomini capaci di vedere il [[Court|tribunale]] e la folla,
+e le facce rozze dei poliziotti e dei criminali professionisti,
+le facce consunte dei perdigiorno, le facce irreali degli
+avvocati gesticolanti, e di veder tutto ciò come si vede un quadro nuovo
+o un dramma finora mai visto.
+
+La nostra civiltà ha deciso, e assai giustamente deciso,
+che stabilire la [[Guilt|colpevolezza]] o l'[[innocence|innocenza]] degli uomini è cosa troppo
+importante per esser affidata a uomini addestrati. Essa desidera luce su
+quella tremenda faccenda, chiede uomini che di legge non sanno più di quanto ne sappia io,
+ma che sanno sentire le cose che io sentii nel banco di giuria.
+Quando vuole catalogare una biblioteca, o scoprire il sistema solare,
+o qualsiasi inezia di quel genere, consuma specialisti.
+Ma quando desidera che si faccia qualcosa di davvero serio,
+raccoglie dodici degli uomini comuni che stanno lì attorno.
+La stessa cosa fu fatta, se ben ricordo, dal
+Fondatore del [[Christianity|Cristianesimo]].
+
 
 
 <span class="atom-split" data-atom="chapter_13" data-title="Tremendous Trifles — Chapter 12" data-chapter="Chapter 13" data-kind="chapter"></span>
@@ -7650,6 +8233,149 @@ of the [[Wind|wind]] have ceased simultaneously.  So I suppose there
 are still modern philosophers who will maintain that the trees
 make the [[Wind|wind]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XII
+
+Il [[Wind|Vento]] e gli alberi
+
+Sto seduto sotto alti alberi, con un gran [[Wind|vento]] che ribolle come risacca
+attorno alle loro cime, sicché il loro vivo carico di [[Leaves|foglie]] oscilla
+e rugge in qualcosa che è al tempo stesso esultanza e agonia.
+Mi sento, in effetti, come se stessi davvero seduto sul [[Bottom|fondo]]
+del mare tra semplici àncore e cime, mentre sopra il mio capo
+e sopra il verde crepuscolo dell'[[Water|acqua]] risuonava l'eterno impeto
+delle onde e il travaglio e lo schianto e il naufragio di navi tremende.
+Il [[Wind|vento]] strattona gli alberi come se potesse svellerli con la radice
+e tutto fuori dalla terra come ciuffi d'erba. Oppure, per tentare ancora
+un'altra disperata figura retorica per questa indicibile energia,
+gli alberi si tendono e si lacerano e si sferzano come se fossero
+una tribù di draghi ciascuno legato per la coda.
+
+Mentre guardo questi giganti sbilanciati torturati da un'invisibile
+e violenta stregoneria, una frase mi torna alla mente.
+Ricordo un ometto di mia conoscenza che una volta camminava
+nel Battersea Park sotto cieli così squarciati e alberi così agitati.
+Non gli piaceva affatto il [[Wind|vento]]; gli soffiava troppo in faccia;
+lo costringeva a chiudere gli occhi; e gli soffiava via il cappello, di cui
+era molto fiero. Aveva, per quanto ricordo, circa quattro anni.
+Dopo essersi lamentato ripetutamente dell'irrequietezza atmosferica, disse
+infine a sua madre: «[[Well|Beh]], perché non porti via gli alberi,
+e allora non ci sarà più [[Wind|vento]]».
+
+Nulla potrebbe essere più intelligente o naturale di questo errore.
+Chiunque guardasse per la prima [[Time|volta]] gli alberi potrebbe immaginare
+che fossero davvero vasti e [[titanic|titanici]] ventagli, i quali col loro solo
+sventolìo agitassero l'aria intorno a sé per miglia. Nulla, dico,
+potrebbe essere più umano e scusabile della credenza che siano
+gli alberi a fare il [[Wind|vento]]. In verità, la credenza è così umana
+e scusabile che è, di fatto, la credenza di circa
+novantanove filosofi, riformatori,
+sociologi e politici su cento della grande età in cui viviamo.
+Il mio piccolo amico era, in effetti, molto simile ai principali pensatori moderni;
+solo molto più simpatico.
+
+. . . . .
+
+Nel piccolo apologo o [[Parable|parabola]] che egli ha così l'[[Honour|onore]]
+d'inventare, gli alberi stanno per tutte le cose visibili
+e il [[Wind|vento]] per l'invisibile. Il [[Wind|vento]] è lo spirito
+che soffia dove vuole; gli alberi sono le cose materiali
+del mondo che sono soffiate dove lo spirito vuole.
+Il [[Wind|vento]] è [[philosophy|filosofia]], religione, rivoluzione; gli alberi sono
+città e civiltà. Sappiamo che c'è un [[Wind|vento]]
+soltanto perché gli alberi su qualche lontana [[Hill|collina]] all'improvviso impazziscono.
+Sappiamo che c'è una vera rivoluzione soltanto perché tutti
+i comignoli impazziscono lungo l'intero orizzonte della [[City|città]].
+
+Proprio come il profilo frastagliato d'un albero si fa d'un tratto più
+frastagliato e si leva in creste fantastiche o code lacerate,
+così la [[City|città]] umana si leva sotto il [[Wind|vento]] dello spirito in templi vacillanti
+o guglie improvvise. Nessun uomo ha mai visto una rivoluzione.
+Folle che dilagano per i palazzi, [[Blood|sangue]] che cola giù per i rigagnoli,
+la ghigliottina levata più in alto del trono, una [[Prison|prigione]]
+in rovina, un popolo in armi — queste cose non sono la rivoluzione,
+ma i risultati della rivoluzione.
+
+Non potete vedere un [[Wind|vento]]; potete solo vedere che c'è un [[Wind|vento]].
+Così, del pari, non potete vedere una rivoluzione; potete solo vedere che
+c'è una rivoluzione. E non c'è mai stata nella [[history|storia]]
+del mondo una vera rivoluzione, brutalmente attiva e decisiva,
+che non fosse preceduta da inquietudine e nuovo dogma nel regno
+delle cose invisibili. Tutte le rivoluzioni cominciarono con l'esser astratte.
+La maggior parte delle rivoluzioni cominciarono con l'esser assai pedantemente astratte.
+
+Il [[Wind|vento]] è alto sopra il mondo prima che un ramoscello sull'albero si sia mosso.
+Così dev'esserci sempre una battaglia nel cielo prima che ci sia
+una battaglia sulla terra. Poiché è lecito pregare
+per la venuta del regno, è lecito anche pregare per
+la venuta della rivoluzione che ristabilisca il regno.
+È lecito [[Hope|sperare]] di udire il [[Wind|vento]] del Cielo tra gli alberi.
+È lecito pregare: «Venga la tua ira sulla terra come
+è nel Cielo».
+
+. . . . .
+
+Il grande dogma umano, dunque, è che il [[Wind|vento]] muove gli alberi.
+La grande eresia umana è che gli alberi muovono il [[Wind|vento]].
+Quando la gente comincia a dire che le circostanze materiali hanno
+[[Alone|da sole]] creato le circostanze morali, allora essa ha precluso
+ogni possibilità di serio mutamento. Poiché se le mie circostanze
+mi hanno reso interamente stupido, come posso essere certo persino che io
+abbia ragione nel mutare quelle circostanze?
+
+L'uomo che rappresenta ogni pensiero come un accidente dell'ambiente
+sta semplicemente demolendo e screditando tutti i suoi stessi pensieri —
+compreso quello. Trattare la mente umana come dotata d'un'autorità
+ultima è necessario a qualsiasi genere di pensiero, persino al libero pensiero.
+E nulla sarà mai riformato in questa età o in questo paese finché
+non comprenderemo che il fatto morale viene per primo.
+
+Per esempio, la maggior parte di noi, suppongo, ha visto in stampa e udito
+nei circoli di dibattito un'interminabile discussione che intercorre tra socialisti
+e astemi totali. Questi ultimi dicono che il bere conduce alla [[Poverty|povertà]];
+i primi dicono che la [[Poverty|povertà]] conduce al bere. Non posso che [[Wonder|stupirmi]] che
+l'una o l'altra parte si accontenti di spiegazioni fisiche così semplici.
+Certo è ovvio che la cosa che tra il proletariato inglese
+conduce alla [[Poverty|povertà]] è la stessa che conduce al bere;
+l'assenza d'una forte dignità civica, l'assenza d'un istinto
+che resista alla degradazione.
+
+Quando avrete scoperto perché enormi tenute inglesi non furono già
+da tempo spezzettate in piccoli poderi come la terra di Francia, avrete
+scoperto perché l'inglese è più dedito all'ubriachezza del francese.
+L'inglese, tra il suo milione di deliziose virtù, ha davvero
+questa qualità, che a rigore si può chiamare «dalla mano alla bocca», poiché sotto
+la sua influenza la mano d'un uomo cerca automaticamente la propria bocca,
+invece di cercare (come talora dovrebbe) il naso del suo oppressore.
+E un uomo che dice che la disuguaglianza inglese nella terra è dovuta solo
+a cause economiche, o che l'ubriachezza d'Inghilterra è dovuta solo
+a cause economiche, dice qualcosa di così assurdo che non può
+davvero aver pensato ciò che diceva.
+
+Eppure cose altrettanto assurde di questa si dicono
+e si scrivono sotto l'influenza di quel grande spettacolo
+d'impotenza infantile, la teoria economica della [[history|storia]].
+Abbiamo gente che rappresenta tutti i grandi moventi storici
+come economici, e poi deve urlare a squarciagola
+per indurre la moderna [[democracy|democrazia]] ad agire per moventi economici.
+Gli estremi politici marxisti in Inghilterra si esibiscono
+come una piccola, eroica minoranza, che tenta invano d'indurre il mondo
+a fare ciò che, secondo la loro teoria, il mondo fa sempre.
+La [[Truth|verità]] è, s'intende, che ci sarà una rivoluzione sociale
+nel momento in cui la cosa avrà cessato d'essere puramente economica.
+Non potrete mai avere una rivoluzione per istituire una [[democracy|democrazia]].
+Dovete avere una [[democracy|democrazia]] per avere una rivoluzione.
+
+. . . . .
+
+Mi alzo da sotto gli alberi, poiché il [[Wind|vento]] e la lieve
+pioggia sono cessati. Gli alberi si ergono come pilastri dorati
+in una chiara luce solare. L'agitarsi degli alberi e il soffiare
+del [[Wind|vento]] sono cessati simultaneamente. Sicché suppongo che ci
+siano ancora filosofi moderni i quali sosterranno che gli alberi
+fanno il [[Wind|vento]].
 
 
 
@@ -7940,6 +8666,138 @@ The slave says scientifically and contentedly, "Am I even worthy
 of these [[Chains|chains]]?"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XIV
+
+Nel paese a rovescio
+
+La settimana scorsa, in un'oziosa metafora, presi il ruzzolare degli alberi
+e la segreta energia del [[Wind|vento]] come tipici del mondo visibile
+che si muove sotto la violenza dell'invisibile. Presi questa metafora
+soltanto perché mi capitava di scrivere l'articolo in un bosco.
+Nondimeno, ora che ritorno a Fleet Street (che a me pare,
+lo confesso, assai migliore e più poetica di tutti i boschi selvaggi
+del mondo), sono stranamente ossessionato da questo paragone accidentale.
+Le figure della gente paiono una foresta e la loro [[Soul|anima]] un [[Wind|vento]].
+Tutte le personalità umane che mi parlano o mi fanno cenno paiono avere
+questo carattere fantastico dell'orlo della foresta contro il cielo.
+Quell'uomo che mi parla, che cos'è se non un albero articolato?
+Quel conducente d'un furgone che agita le mani selvaggiamente verso di me per dirmi
+di togliermi di mezzo, che cos'è se non un fascio di rami mossi
+e ondeggianti da un [[Wind|vento]] spirituale, un oggetto silvestre che posso continuare
+a contemplare con calma? Quel poliziotto che alza la mano
+per avvertire tre omnibus del pericolo che corrono nell'incontrare
+la mia persona, che cos'è se non un arbusto scosso per un istante da quella
+raffica di legge umana che è cosa più forte dell'anarchia?
+A poco a poco questa impressione dei boschi svanisce. Ma questo
+contrasto in bianco e nero tra il visibile e l'invisibile, questo profondo
+senso che l'unica credenza essenziale è la credenza nell'invisibile contro
+il visibile, mi è d'un tratto e clamorosamente riportato alla mente.
+Proprio nel momento in cui Fleet Street s'è fatta più familiare (cioè
+più sconcertante e luminosa), il mio occhio coglie un manifesto d'un vivo violetto,
+su cui vedo scritte a grandi lettere nere queste notevoli parole:
+«I commessi di negozio dovrebbero sposarsi?»
+
+. . . . .
+
+Quando vidi quelle parole ogni cosa avrebbe potuto [[Well|benissimo]]
+capovolgersi. Gli uomini di Fleet Street avrebbero potuto
+camminare sulle mani. La [[Cross|croce]] di
+San Paolo avrebbe potuto pendere nell'aria a rovescio.
+Poiché mi rendo conto d'esser davvero entrato in un paese a rovescio;
+sono entrato nel paese dove gli uomini credono davvero, definitivamente,
+che l'agitarsi degli alberi faccia il [[Wind|vento]]. Vale a dire,
+credono che le circostanze materiali, per quanto nere
+e contorte, siano più importanti delle realtà spirituali,
+per quanto potenti e pure. «I commessi di negozio dovrebbero sposarsi?» Sono
+perplesso al pensiero di che cosa alcune epoche e scuole della [[history|storia]] umana
+avrebbero fatto d'una simile domanda. Gli asceti dell'Oriente
+o d'alcuni periodi della Chiesa antica avrebbero pensato
+che la domanda significasse: «Non sono i commessi di negozio troppo santi,
+troppo d'un altro mondo, persino per sentire le emozioni dei sessi?»
+Ma suppongo che non sia questo che il manifesto purpureo intende.
+In alcune città pagane avrebbe potuto significare: «Si permetterà a schiavi tanto vili
+come i commessi di negozio persino di propagare la loro abietta stirpe?»
+Ma suppongo che non sia questo che il manifesto purpureo intendeva.
+Dobbiamo affrontare, [[Fear|temo]], la piena follia di ciò che davvero significa.
+Significa davvero che una parte del genere umano sta chiedendo
+se le relazioni primarie dei due sessi umani siano particolarmente
+buone per i negozi moderni. Il genere umano sta chiedendo se Adamo
+ed Eva siano del tutto adatti a Marshall e Snelgrove.
+Se questo non è a rovescio, non riesco a immaginare che cosa lo sarebbe.
+Chiediamo se l'istituzione universale migliorerà la nostra
+(voglia Iddio) temporanea istituzione. Eppure ho conosciuto molte
+domande siffatte. Per esempio, ho conosciuto un uomo che chiedeva sul serio:
+«La [[democracy|Democrazia]] aiuta l'Impero?» Il che è come dire:
+«L'arte è favorevole agli affreschi?»
+
+Dico che molte domande siffatte vengono poste.
+Ma se mai il mondo ne rimanesse a corto, posso suggerire
+un gran numero di domande esattamente dello stesso genere,
+fondate esattamente sullo stesso principio.
+
+«I piedi migliorano gli stivali?» — «Il pane è meglio quando
+è mangiato?» — «I cappelli dovrebbero avere teste dentro?» — «La gente rovina
+una città?» — «I muri rovinano le carte da parati?» — «Le cravatte
+dovrebbero cingere i colli?» — «Le mani fanno male ai bastoni da passeggio?» — «Il bruciare
+distrugge la legna da ardere?» — «La pulizia fa bene al sapone?» — «Il
+cricket può davvero migliorare le mazze da cricket?» — «Prenderemo spose
+con le nostre fedi nuziali?» e cento altre.
+
+Nessuna di queste domande differisce affatto per portata intellettuale
+o valore intellettuale dalla domanda che io
+ho citato dal manifesto purpureo, o da una qualsiasi delle tipiche
+domande poste da metà degli zelanti economisti dei nostri tempi.
+Tutte le domande che pongono sono di questo carattere;
+sono tutte tinte di questa medesima iniziale assurdità.
+Non chiedono se il mezzo sia adatto al fine; chiedono tutte
+(con profondo e penetrante scetticismo) se il fine sia adatto
+al mezzo. Non chiedono se la coda si addica al cane.
+Chiedono tutte se un cane sia (secondo i più alti canoni artistici)
+l'appendice più ornamentale che si possa mettere all'estremità d'una coda.
+In breve, invece di chiedere se le nostre disposizioni moderne,
+le nostre strade, i commerci, gli affari, le leggi e le istituzioni concrete siano
+adatti all'idea primordiale e permanente d'una sana vita umana,
+non ammettono affatto quella sana vita umana nella discussione,
+se non d'un tratto e per caso in momenti sporadici;
+e allora chiedono soltanto se quella sana vita umana sia adatta
+alle nostre strade e ai nostri commerci. La perfezione può essere raggiungibile o
+[[Unattainable|irraggiungibile]] come fine. Può essere o non essere possibile parlare
+dell'imperfezione come d'un mezzo verso la perfezione. Ma di certo supera
+ogni tolleranza parlare della perfezione come d'un mezzo verso l'imperfezione.
+La Nuova Gerusalemme può essere una realtà. Può essere [[A Dream|un sogno]].
+Ma di certo è troppo oltraggioso dire che la Nuova Gerusalemme
+è una realtà sulla [[Road|strada]] per Birmingham.
+
+. . . . .
+
+Questa è la più enorme e al [[Time|tempo]] stesso la più segreta
+delle moderne tirannie del materialismo. In teoria la cosa dovrebbe
+essere abbastanza semplice. Un essere umano davvero umano metterebbe sempre
+le cose spirituali al primo posto. Una statua di Dio che cammina e parla
+si ritrova a un particolare momento impiegata come commesso di negozio.
+Egli ha in sé una potenza di terribile [[Love|amore]], una promessa di paternità,
+una sete d'una qualche fedeltà che unifichi la vita, e nell'ordinario
+corso delle cose si chiede: «Fino a che punto le condizioni esistenti
+di coloro che assistono nei negozi s'accordano col mio evidente ed [[Epic|epico]] destino
+in materia d'[[Love|amore]] e di [[Marriage|matrimonio]]?» Ma qui, come ho detto,
+subentra la potenza quieta e schiacciante del materialismo moderno.
+Gli impedisce d'insorgere in ribellione, come altrimenti farebbe.
+Parlando perpetuamente d'ambiente e di cose visibili,
+parlando perpetuamente d'economia e di necessità fisica,
+dipingendo e ridipingendo un perpetuo quadro di ferrei
+macchinari e motori spietati, di rotaie d'acciaio, e di
+torri di pietra, il materialismo moderno produce infine questa
+tremenda impressione in cui la [[Truth|verità]] è enunciata a rovescio.
+Infine il risultato è raggiunto. L'uomo non dice come
+avrebbe dovuto dire: «Dovrebbero gli uomini sposati sopportare d'essere moderni
+commessi di negozio?» L'uomo dice: «I commessi di negozio dovrebbero sposarsi?»
+Il trionfo ha completato l'immensa illusione del materialismo.
+Lo schiavo non dice: «Sono queste [[Chains|catene]] degne di me?»
+Lo schiavo dice scientificamente e con soddisfazione: «Sono io persino degno
+di queste [[Chains|catene]]?»
+
 
 
 <span class="atom-split" data-atom="chapter_16" data-title="Tremendous Trifles — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
@@ -8073,6 +8931,136 @@ I cannot tell you all the things that were in my pocket.
 I can tell you one thing, however, that I could not find in my pocket.
 I allude to my railway ticket.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XV
+
+Ciò che trovai in tasca
+
+Una volta, quand'ero molto giovane, incontrai uno di quegli uomini che hanno
+fatto l'Impero ciò che è — un uomo in cappotto d'astrakan,
+con baffi d'astrakan — baffi stretti, neri, ricciuti.
+Se s'infilasse i baffi insieme al cappotto o se la sua volontà napoleonica
+gli consentisse non solo di farsi crescere i baffi al posto consueto,
+ma anche di farsi crescere baffetti su tutti i vestiti, non lo so.
+Ricordo soltanto che mi disse le seguenti parole: «Un uomo non può
+farsi strada oggigiorno bighellonando con le mani in tasca».
+Ribattei con la del tutto ovvia frivolezza che forse un uomo si faceva
+strada tenendo le mani nelle tasche altrui; al che egli cominciò
+a discutere di Evoluzione Morale, sicché suppongo che ciò che dissi avesse qualche
+[[Truth|verità]]. Ma l'episodio ora mi ritorna alla mente, e si collega
+a un altro episodio — se lo si può chiamare episodio —
+che mi accadde proprio l'altro giorno.
+
+Ho borseggiato una sola volta in vita mia, e allora
+(forse per qualche distrazione) borseggiai me stesso.
+Il mio atto può davvero con qualche ragione esser così descritto.
+Poiché nel prendere le cose dalla mia stessa tasca provai almeno una
+delle più tese e frementi emozioni del ladro; ebbi una completa
+ignoranza e una profonda curiosità su ciò che vi avrei trovato.
+Forse sarebbe l'esagerazione dell'elogio dirmi una persona ordinata.
+Ma so sempre rendere abbastanza soddisfacentemente conto di tutti i miei averi.
+So sempre dire dove si trovino, e che cosa ne abbia fatto,
+purché sappia tenerli fuori dalle tasche. Se una volta qualcosa scivola
+in quegli ignoti abissi, gli rivolgo un mesto addio virgiliano.
+Suppongo che le cose che ho lasciato cadere nelle tasche
+siano ancora là; la stessa presunzione s'applica alle cose
+che ho lasciato cadere in mare. Ma considero le ricchezze accumulate
+in entrambi questi abissi senza fondo con la stessa reverente ignoranza.
+Ci dicono che nell'ultimo giorno il mare renderà i suoi morti;
+e suppongo che nella stessa occasione lunghe file di
+cose straordinarie verranno correndo fuori dalle mie tasche.
+Ma ho del tutto dimenticato che cosa siano; e non
+c'è davvero nulla (eccetto il denaro) che mi sorprenderà affatto
+di trovare tra esse.
+
+. . . . .
+
+Tale, almeno, è stato finora il mio stato d'[[innocence|innocenza]].
+Qui desidero soltanto rievocare brevemente le speciali, straordinarie
+e finora inaudite circostanze che mi indussero a
+[[Blood|sangue]] freddo, e in sano intelletto, a rovesciarmi le tasche.
+Ero rinchiuso in un vagone di terza classe per un [[Journey|viaggio]] piuttosto lungo.
+L'[[Time|ora]] volgeva alla sera, ma avrebbe potuto essere qualsiasi ora,
+poiché tutto ciò che somigliava a terra o cielo o luce o ombra
+era cancellato come da un gran pennello bagnato da un'immota
+cortina di pioggia del tutto incolore. Non avevo libri né giornali.
+Non avevo nemmeno una matita e un foglietto di carta con cui
+scrivere un [[Epic|epos]] religioso. Non c'erano avvisi pubblicitari
+sulle pareti del vagone, altrimenti mi sarei potuto tuffare
+nello studio, poiché qualsiasi raccolta di parole stampate è del tutto
+sufficiente a suggerire infinite complessità d'ingegnosità mentale.
+Quando mi trovo di fronte alle parole «Sapone Sunlight» posso
+esaurire tutti gli aspetti del Culto del Sole, [[Apollo]], e la poesia dell'[[Summer|Estate]]
+prima di passare al meno congeniale argomento del sapone.
+Ma non c'era parola stampata né immagine da nessuna parte; non c'era
+nulla se non nudo legno dentro il vagone e nuda pioggia fuori.
+Ora nego con la massima energia che qualsiasi cosa sia, o possa
+essere, priva d'interesse. Così fissai le giunture delle pareti e dei sedili,
+e cominciai a pensare intensamente all'affascinante argomento del legno.
+Proprio mentre avevo cominciato a capire perché, forse, fosse che [[Christ|Cristo]]
+era un falegname, piuttosto che un muratore, o un fornaio,
+o qualsiasi altra cosa, d'un tratto mi drizzai in piedi, e ricordai
+le mie tasche. Portavo con me un ignoto tesoro.
+Avevo un British Museum e una collezione di South Kensington
+di ignoti curiosità appesi tutt'intorno a me in diversi punti.
+Cominciai a tirar fuori le cose.
+
+. . . . .
+
+La prima cosa in cui m'imbattei consisteva in mucchi e cataste di
+biglietti del tram di Battersea. Ce n'erano abbastanza da equipaggiare una caccia alla volpe cartacea.
+Cadevano giù a rovesci come coriandoli. In primo luogo, s'intende,
+essi toccarono le mie emozioni patriottiche, e mi portarono le [[Tears|lacrime]] agli occhi;
+inoltre mi fornirono il materiale stampato che mi occorreva,
+poiché trovai sul loro retro alcuni brevi ma incisivi
+saggietti scientifici su una certa specie di pillola.
+Comparativamente parlando, nella mia indigenza d'allora, quei biglietti
+si potevano considerare una piccola ma [[Well|ben]] scelta biblioteca scientifica.
+Se il mio [[Journey|viaggio]] ferroviario fosse continuato (il che allora pareva probabile) all'[[Time|epoca]]
+per qualche mese ancora, potevo immaginarmi lanciato
+negli aspetti controversi della pillola, componendo repliche
+e controrepliche pro e contro sui dati fornitimi.
+Ma dopo tutto era la qualità simbolica dei biglietti a
+commuovermi di più. Poiché con la stessa certezza con cui la [[Cross|croce]] di San Giorgio
+significa patriottismo inglese, quei brandelli di carta significavano tutto
+quel patriottismo municipale che è ora, forse, la più grande
+[[Hope|speranza]] d'Inghilterra.
+
+La cosa seguente che tirai fuori fu un temperino. Un temperino,
+non c'è bisogno che lo dica, richiederebbe tutto per sé un grosso libro pieno
+di meditazioni morali. Un coltello tipizza una delle più
+primarie di quelle pratiche origini sulle quali, come su bassi,
+spessi cuscini, riposa tutta la nostra civiltà umana.
+I metalli, il mistero della cosa detta ferro e della cosa
+detta acciaio, mi condussero via mezzo intontito in una sorta di sogno.
+Vidi dentro le viscere d'un legno fioco e umido, dove il primo
+uomo fra tutte le comuni pietre trovò la strana pietra.
+Vidi una vaga e violenta battaglia, in cui asce di pietra
+si spezzavano e coltelli di pietra si scheggiavano contro qualcosa
+di lucente e nuovo nella mano d'un uomo disperato.
+Udii tutti i martelli su tutte le incudini della terra.
+Vidi tutte le spade della guerra feudale e tutte le piaghe della guerra industriale.
+Poiché il coltello è solo una corta [[Sword|spada]]; e il temperino
+è una [[Sword|spada]] segreta. Lo aprii e guardai quella brillante
+e terribile lingua che chiamiamo lama; e pensai che
+forse essa era il simbolo del più antico dei bisogni dell'uomo.
+Un momento dopo seppi che avevo torto; poiché la cosa
+che venne fuori dopo dalla mia tasca fu una scatola di fiammiferi.
+Allora vidi il [[Fire|fuoco]], che è più forte persino dell'acciaio, l'antica,
+feroce cosa femminile, la cosa che tutti [[Love|amiamo]], ma che non osiamo toccare.
+
+La cosa seguente che trovai fu un pezzo di [[chalk|gesso]]; e vidi
+in esso tutta l'arte e tutti gli affreschi del mondo.
+La seguente fu una moneta di modestissimo valore; e vidi in essa
+non solo l'immagine e la soprascritta del nostro Cesare,
+ma tutto il [[government|governo]] e l'ordine dall'inizio del mondo.
+Ma non ho spazio per dire quali fossero gli elementi nella lunga e
+splendida processione di simboli poetici che venne riversandosi fuori.
+Non posso dirvi tutte le cose che erano nella mia tasca.
+Posso dirvi una cosa, tuttavia, che non riuscii a trovare in tasca.
+Alludo al mio biglietto ferroviario.
 
 
 
@@ -8229,6 +9217,158 @@ good things--I charge you to avaunt and haunt this [[house]] no more."
 Whether or no it was the result of the exorcism, there is no [[Doubt|doubt]]
 that he definitely went away.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XVI
+
+La nonna del Drago
+
+L'altro giorno incontrai un uomo che non credeva nelle fiabe.
+Non intendo dire che non credesse negli episodi in esse narrati —
+che non credesse che una zucca potesse trasformarsi in
+una carrozza. Sì, egli nutriva davvero questa curiosa incredulità.
+E, come tutte le altre persone che abbia mai incontrato che la nutrivano,
+era del tutto incapace di darmene una ragione intelligente.
+Provò con le leggi della [[Nature|natura]], ma presto vi rinunciò.
+Poi disse che le zucche erano immutabili nell'esperienza ordinaria,
+e che tutti facevamo affidamento sulla loro zuccosità infinitamente protratta.
+Ma gli feci notare che questo non era un atteggiamento che
+adottiamo specialmente verso i prodigi impossibili, ma semplicemente
+l'atteggiamento che adottiamo verso tutti gli avvenimenti insoliti.
+Se fossimo certi dei miracoli non ci faremmo affidamento.
+Le cose che accadono assai di rado le lasciamo tutti fuori dai
+nostri calcoli, siano esse miracolose o no.
+Non m'aspetto che un bicchiere d'[[Water|acqua]] si trasformi in vino;
+ma nemmeno m'aspetto che un bicchiere d'[[Water|acqua]] sia avvelenato con
+acido prussico. Non agisco, nelle ordinarie relazioni d'affari,
+partendo dal presupposto che il direttore sia una fata; ma nemmeno
+agisco partendo dal presupposto che sia una spia russa, o l'erede perduto
+del Sacro Romano Impero. Ciò che presupponiamo nell'azione non è
+che l'[[Natural Order|ordine naturale]] sia immutabile, ma semplicemente che è
+molto più sicuro scommettere sugli avvenimenti non comuni che su quelli comuni.
+Ciò non intacca la credibilità d'alcun racconto attestato
+su una spia russa o su una zucca mutata in carrozza.
+Se avessi visto una zucca mutarsi in un'automobile Panhard
+coi miei stessi occhi, ciò non mi indurrebbe affatto di più
+a presumere che la stessa cosa accadrebbe di nuovo. Non dovrei
+investire largamente in zucche con un occhio al commercio d'automobili.
+Cenerentola ottenne dalla fata un abito da ballo; ma non suppongo
+che badasse ai propri vestiti tanto meno dopo di ciò.
+
+Ma l'opinione che le fiabe non possano essere realmente accadute,
+per quanto folle, è comune. L'uomo di cui parlo non credeva
+nelle fiabe in un senso ancora più sbalorditivo e perverso.
+Egli pensava davvero che le fiabe non dovessero esser raccontate
+ai bambini. Questo è (come una credenza nella [[Slavery|schiavitù]] o nell'annessione)
+uno di quegli errori intellettuali che giacciono assai vicino
+agli ordinari peccati mortali. Vi sono certi rifiuti che,
+per quanto possano esser compiuti in ciò che si dice coscienziosamente,
+recano tuttavia tanto del loro intero orrore nell'atto stesso,
+che un uomo, nel compierli, deve non solo indurire ma anche lievemente
+corrompere il proprio cuore. Uno di essi fu il rifiuto del latte alle giovani
+madri quando i loro mariti erano in campo contro di noi.
+Un altro è il rifiuto delle fiabe ai bambini.
+
+. . . . .
+
+L'uomo era venuto a trovarmi in relazione a qualche sciocca società
+di cui sono entusiasta membro; era un giovanotto dal colorito fresco,
+miope, come un curato smarrito troppo
+incapace persino di trovar la via per la Chiesa d'Inghilterra.
+Aveva una curiosa cravatta verde e un collo lunghissimo;
+incontro sempre idealisti dal collo lunghissimo.
+Forse è che la loro eterna [[Aspiration|aspirazione]] leva lentamente le loro
+teste sempre più vicine alle [[Stars|stelle]]. O forse ha qualcosa
+a che vedere col fatto che tanti di loro sono vegetariani:
+forse stanno lentamente evolvendo il collo della giraffa così da
+poter mangiare tutte le cime degli alberi ai Kensington Gardens.
+Queste cose sono in ogni senso al di sopra di me. Tale, comunque, era il
+giovanotto che non credeva nelle fiabe; e per una curiosa
+coincidenza egli entrò nella stanza proprio quand'io avevo appena finito
+di scorrere una pila di narrativa contemporanea, e avevo cominciato
+a leggere le «Fiabe di Grimm» come naturale conseguenza.
+
+I romanzi moderni mi stavano davanti, tuttavia, in cataste; e potete
+immaginare da voi i loro titoli. C'erano «La Sue di periferia: un racconto
+di psicologia», e anche «La Sue psicologica: un racconto di periferia»;
+c'erano «Trixy: un temperamento», e «Odio-per-l'uomo: una monocromia», e tutte
+quelle belle cose. Le lessi con vero interesse, ma, per quanto strano,
+alla fine me ne stancai, e quando vidi le «Fiabe di Grimm»
+posate per caso sul tavolo, lanciai un grido d'indecente gioia.
+Qui almeno, qui finalmente, si poteva trovare un po' di buon senso.
+Aprii il libro, e i miei occhi caddero su queste splendide e appaganti
+parole: «La nonna del Drago». Quello almeno era ragionevole;
+quello almeno era vero. «La nonna del Drago!» Mentre [[rolling|rigiravo]]
+questo primo assaggio d'ordinaria realtà umana sulla lingua,
+alzai d'un tratto lo sguardo e vidi questo [[Monster|mostro]] con una cravatta verde in piedi
+sulla soglia.
+
+. . . . .
+
+Ascoltai ciò che egli disse della società con sufficiente cortesia,
+lo [[Hope|spero]]; ma quando incidentalmente accennò che non credeva
+nelle fiabe, proruppi senza più controllo. «Uomo», dissi,
+«chi siete voi per non dover credere nelle fiabe?
+È assai più facile credere a Barbablù che credere a voi.
+Una barba blu è una disgrazia; ma vi sono cravatte verdi che sono peccati.
+È di gran lunga più facile credere a un milione di fiabe
+che credere a un solo uomo cui non piacciono le fiabe.
+Preferirei baciare Grimm invece d'una [[Bible|Bibbia]] e giurare su tutte
+le sue storie come se fossero i trentanove articoli, piuttosto che dire
+seriamente e dal fondo del cuore che possa esistere un uomo come voi;
+che voi non siate qualche [[Temptation|tentazione]] del diavolo o qualche illusione
+del vuoto. Guardate queste parole semplici, casalinghe, pratiche.
+"La nonna del Drago", va tutto bene; è razionale
+quasi fino all'orlo del razionalismo. Se c'era un drago,
+egli aveva una nonna. Ma voi — voi non avevate nonna!
+Se ne aveste conosciuta una, essa vi avrebbe insegnato ad [[Love|amare]] le fiabe.
+Non avevate padre, non avevate madre; nessuna causa naturale può spiegarvi.
+Voi non potete esistere. Io credo a molte cose che non ho visto;
+ma di cose come voi si può dire: "Beato colui che ha
+visto e tuttavia ha dubitato"».
+
+. . . . .
+
+Mi parve che egli non mi seguisse con sufficiente delicatezza,
+sicché moderai il tono. «Non vedete», dissi, «che le fiabe
+nella loro essenza sono del tutto solide e schiette;
+ma che questa eterna finzione sulla vita moderna è nella sua
+[[Nature|natura]] essenzialmente incredibile? Il folclore significa che l'[[Soul|anima]]
+è sana, ma che l'universo è selvaggio e pieno di prodigi.
+Il realismo significa che il mondo è insulso e pieno di routine, ma che
+l'[[Soul|anima]] è malata e urlante. Il problema della fiaba è —
+che cosa farà un uomo sano d'un mondo fantastico? Il problema
+del [[Novel|romanzo]] moderno è — che cosa farà un pazzo d'un mondo insulso?
+Nelle fiabe il cosmo impazzisce; ma l'[[Hero|eroe]] non impazzisce.
+Nei romanzi moderni l'[[Hero|eroe]] è pazzo prima ancora che il libro cominci,
+e soffre della dura fermezza e crudele [[Sanity|sanità di mente]] del cosmo.
+Nell'eccellente racconto de "La nonna del Drago", in tutti gli altri
+racconti di Grimm, si presuppone che il giovane che parte per i suoi
+viaggi avrà in sé tutte le verità sostanziali; che sarà coraggioso,
+pieno di [[Faith|fede]], ragionevole, che rispetterà i suoi genitori,
+manterrà la parola, soccorrerà un tipo di gente, sfiderà un altro tipo,
+"parcere subjectis et debellare", ecc. Poi, avendo presupposto
+questo centro di [[Sanity|sanità di mente]], lo scrittore si diletta immaginando
+che cosa accadrebbe se il mondo intero impazzisse tutt'intorno,
+se il sole diventasse verde e la [[Moon|luna]] blu, se i cavalli avessero sei zampe
+e i giganti due teste. Ma la vostra letteratura moderna prende la follia
+come suo centro. Perciò, perde l'interesse persino della follia.
+Un pazzo non è sorprendente a sé stesso, perché è del tutto serio;
+è questo che lo rende pazzo. Un uomo che pensa d'essere
+un pezzo di vetro è a sé stesso insulso come un pezzo di vetro.
+Un uomo che pensa d'essere un pollo è a sé stesso comune come un pollo.
+È soltanto la [[Sanity|sanità di mente]] che può vedere persino una selvaggia poesia nella follia.
+Perciò, questi saggi vecchi racconti resero l'[[Hero|eroe]] ordinario e
+il racconto straordinario. Ma voi avete reso l'[[Hero|eroe]] straordinario
+e il racconto ordinario — così ordinario — oh, così tanto ordinario».
+
+Lo vidi che ancora mi fissava fisso. Qualche nervo mi si spezzò dentro
+sotto lo sguardo ipnotico. Balzai in piedi e gridai: «Nel nome
+di Dio e della [[democracy|Democrazia]] e della nonna del Drago — nel nome di tutte le
+cose buone — t'ingiungo di vàttene e di non infestare più questa [[house|casa]]».
+Che fosse o no il risultato dell'esorcismo, non v'è alcun [[Doubt|dubbio]]
+che egli se ne andò davvero.
 
 
 
@@ -8833,6 +9973,38 @@ which washes the whole world, and which, [[Alone|alone]] of all things God
 has made, was big enough to drown him.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XX
+
+Il gigante
+
+Talvolta immagino che ogni grande [[City|città]] debba essere stata costruita di [[Night|notte]]. Almeno, è soltanto di [[Night|notte]] che ogni parte di una grande [[City|città]] è grande. Ogni architettura è grande architettura dopo il tramonto; forse l'architettura è davvero un'arte notturna, come l'arte dei fuochi d'artificio. Almeno, penso che molti di quei mestieri più nobili che lavorano di [[Night|notte]] (giornalisti, poliziotti, ladri, gestori di chioschi del caffè, e quegli entusiasti fuorviati che si rifiutano di tornare a [[Home|casa]] prima del mattino) devono aver spesso ammirato qualche nera mole d'edificio con una [[Crown|corona]] di merli o una cresta di guglie, per poi scoppiare in [[Tears|lacrime]] allo spuntare del giorno, scoprendo che non era altro che la bottega d'un merciaio con enormi lettere dorate sulla facciata.
+
+. . . . .
+
+Ebbi una sensazione di questo genere l'altro giorno, mentre mi trovavo a vagabondare nei Temple Gardens verso la fine del crepuscolo. Mi sedetti su una panchina dando le spalle al [[River|fiume]], scegliendo per caso un luogo tale che un enorme angolo e la facciata d'un edificio, sporgenti dallo Strand, mi sovrastavano come un incubo. Oso dire che, se domani prendessi lo stesso posto alla luce del giorno, troverei l'impressione del tutto falsa. Alla luce del sole la cosa potrebbe apparire quasi distante; ma in quella semioscurità pareva quasi che le mura stessero per crollarmi addosso. Mai prima d'allora avevo avuto con tanta forza quel senso che rende gli uomini pessimisti in politica, il senso della disperata altezza dei luoghi alti della terra. Quella mole di ricchezza e di potere, quale che fosse il suo nome, saliva sopra e oltre di me come una rupe che nessun essere vivente potrebbe scalare. Ebbi la sensazione irrazionale che quella cosa dovesse essere combattuta, che io dovessi combatterla; e che non potessi offrire all'occasione nient'altro che un indolente giornalista con un bastone da passeggio.
+
+Quasi nel momento in cui ebbi questo pensiero, due finestre si illuminarono in quella faccia nera e cieca. Fu come se due occhi si fossero aperti nell'enorme volto d'un gigante addormentato; gli occhi erano troppo ravvicinati, e gli davano l'aria d'un ghigno bestiale. E, per caso di quella luce o di qualche altra, potei ora leggere le grandi lettere che si spaziavano lungo la facciata; era il Babylon Hotel. Era il simbolo perfetto di tutto ciò che vorrei abbattere con le mie mani, se potessi. Eretto da un ladro scoperto, è congegnato per essere la [[Home|dimora]] alla moda e lussuosa dei ladri non scoperti. Nella [[house|casa]] dell'uomo vi sono molte magioni; ma esiste una classe d'uomini che non si sentono a proprio agio in nessun luogo, tranne che nel Babylon Hotel o nel carcere di Dartmoor. Quella grande faccia nera, che mi fissava con i suoi occhi fiammeggianti troppo ravvicinati, quello era davvero il gigante d'ogni [[Epic|epica]] e d'ogni fiaba. Ma, ahimè! io non ero l'ammazzagiganti; l'ora era venuta, ma non l'uomo. Mi risedetti sulla panchina (avevo avuto un impulso selvaggio di arrampicarmi sulla facciata dell'albergo e gettarmi dentro una delle finestre), e cercai di pensare, come pensano tutte le persone perbene, a ciò che si possa realmente fare. E per tutto il [[Time|tempo]] quel muro opprimente si ergeva davanti a me, e afferrava i cieli come una [[house|casa]] degli dèi.
+
+. . . . .
+
+È notevole che in tante grandi guerre siano stati i vinti a vincere. I popoli che alla fine della guerra rimanevano nella condizione peggiore erano generalmente quelli che rimanevano nella condizione migliore alla fine di tutta la faccenda. Per esempio, le [[Crusades|Crociate]] si conclusero con la sconfitta dei cristiani. Ma non si conclusero con il declino dei cristiani; si conclusero con il declino dei Saraceni. Quell'immensa onda profetica del potere musulmano, che aveva incombuto nei cieli stessi sopra le città della cristianità, quell'onda fu spezzata, e non tornò mai più avanti. I crociati avevano salvato [[Paris|Parigi]] nell'atto di perdere Gerusalemme. Lo stesso vale per quell'[[Epic|epica]] della guerra repubblicana nel diciottesimo secolo alla quale noi liberali dobbiamo il nostro credo politico. La [[French Revolution|Rivoluzione francese]] si concluse con la sconfitta: i re tornarono attraversando un tappeto di morti a Waterloo. La Rivoluzione aveva perduto la sua ultima battaglia; ma aveva raggiunto il suo primo scopo. Aveva scavato un abisso. Il mondo non è più stato lo stesso da allora. Nessuno, dopo di ciò, è più stato capace di trattare i poveri come un semplice selciato.
+
+Queste gemme di Dio, i poveri, sono ancora trattati come mere pietre della strada; ma come pietre che talvolta possono volare. Se piacerà a Dio, io e voi potremo vedere alcune di quelle pietre volare di nuovo prima di vedere la [[Death|morte]]. Ma qui mi limito a rilevare l'interessante fatto che il conquistato quasi sempre conquista. Sparta uccise Atene con un colpo finale, ed essa rinacque. Sparta se ne andò vittoriosa, e morì lentamente delle proprie ferite. I boeri persero la guerra sudafricana e guadagnarono il Sudafrica.
+
+E questo è davvero tutto ciò che possiamo fare quando combattiamo qualcosa di realmente più forte di noi: possiamo infliggergli la sua ferita di [[Death|morte]] in un momento; esso infligge a noi la [[Death|morte]] alla fine. È già qualcosa se riusciamo a scuotere e a scrollare lo slancio irriflessivo e l'enorme [[innocence|innocenza]] del male; proprio come un ciottolo sui binari può far vacillare il rapido scozzese. È sufficiente, per i grandi martiri e criminali della [[French Revolution|rivoluzione francese]], aver sorpreso per tutto il [[Time|tempo]] la segreta debolezza del forte. Hanno destato e messo a saltare e a fremere per sempre nella sua cripta il codardo nel cuore dei re.
+
+. . . . .
+
+Quando Jack l'Ammazzagiganti vide realmente per la prima volta il gigante, la sua esperienza non fu quale generalmente si è supposto. Se vi va di ascoltarla, vi racconterò la vera storia di Jack l'Ammazzagiganti. Per cominciare, la cosa più tremenda che Jack sentì dapprima riguardo al gigante fu che egli non era un gigante. Veniva avanzando a grandi passi attraverso un'interminabile pianura boscosa, e contro il suo remoto orizzonte il gigante era una figura assai piccola, come una figura in un quadro: sembrava soltanto un uomo che camminasse sull'erba. Poi Jack fu colpito nel ricordare che l'erba che l'uomo calpestava era una delle più alte foreste di quella pianura. L'uomo si avvicinava sempre più, facendosi sempre più grande, e nell'istante in cui superò la statura possibile dell'umanità Jack quasi gridò. Il resto fu un'intollerabile [[Apocalypse|apocalisse]].
+
+Il gigante aveva l'unica spaventosa qualità di un miracolo: quanto più diveniva incredibile, tanto più diveniva solido. Quanto meno si poteva credere in lui, tanto più chiaramente lo si poteva vedere. Era insopportabile che tanta parte del cielo fosse occupata da un solo volto umano. I suoi occhi, che erano sporgenti come bovindi, si fecero più grandi ancora, e non v'era metafora che potesse contenere la loro grandezza; eppure erano ancora occhi umani. L'intelletto di Jack se n'era andato del tutto sotto quell'enorme ipnotismo del volto che riempiva il cielo; la sua ultima [[Hope|speranza]] era sommersa, i suoi cinque sensi tutti immobili di terrore.
+
+Ma si ergeva ancora in lui una sorta di fredda cavalleria, una dignità di [[Honour|onore]] defunto che non voleva dimenticare la piccola e futile [[Sword|spada]] nella sua mano. Si slanciò contro uno dei piedi colossali di quella torre umana, e quando le giunse ben vicino l'osso della caviglia si inarcò sopra di lui come una [[Cave|caverna]]. Allora piantò la punta della sua [[Sword|spada]] contro il piede e vi si appoggiò con tutto il suo peso, finché essa penetrò fino all'elsa e ruppe l'elsa, e poi si spezzò proprio sotto di essa. E fu chiaro che il gigante sentì una specie di puntura, poiché afferrò il suo gran piede nella sua gran mano per un istante; e poi, riabbassandolo, si chinò e fissò il suolo finché non ebbe scorto il suo nemico.
+
+Poi raccolse Jack fra un grosso dito e il pollice e lo scagliò via; e mentre Jack volava nell'aria si sentì come se stesse volando di sistema in sistema attraverso l'universo delle [[Stars|stelle]]. Ma, poiché il gigante lo aveva gettato via con noncuranza, egli non urtò una pietra, bensì colpì il molle fango sul bordo di un [[River|fiume]] lontano. Là giacque privo di sensi per parecchie ore; ma quando si ridestò il suo orribile conquistatore era ancora in vista. Se ne andava a grandi passi attraverso la pianura vuota e boscosa verso il punto in cui essa terminava nel mare; e a questo [[Time|tempo]] era ormai soltanto molto più alto di ciascuna delle colline. Egli si faceva invero sempre più piccolo; ma solo come una montagna davvero alta si fa infine sempre più piccola quando la lasciamo su un treno in corsa. Mezz'ora dopo era d'un colore azzurro vivo, come sono le colline lontane; ma il suo profilo era ancora umano e ancora gigantesco. Poi la grande figura azzurra parve giungere all'orlo del grande mare azzurro, e proprio nel farlo mutò atteggiamento. Jack, stordito e sanguinante, si sollevò faticosamente su un gomito per guardare. Il gigante afferrò ancora una volta la propria caviglia, vacillò due volte come in un [[Wind|vento]], e poi si rovesciò nel gran mare che lava il mondo intero, e che, [[Alone|solo]] fra tutte le cose che Dio ha fatto, era abbastanza grande da annegarlo.
+
 
 
 <span class="atom-split" data-atom="chapter_22" data-title="Tremendous Trifles — Chapter 21" data-chapter="Chapter 22" data-kind="chapter"></span>
@@ -8962,6 +10134,32 @@ of the Forest:  I had seen an elf.  The trees thronged behind my path;
 I have never seen him again; and now I shall not see him,
 because he died last Tuesday.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXI
+
+Un grand'uomo
+
+La gente accusa il giornalismo di essere troppo personale; ma a me è sempre parso fin troppo impersonale. Lo si accusa di strappare i veli dalla vita privata; ma a me sembra che stia sempre calando veli diafani e tuttavia accecanti tra uomo e uomo. La stampa scandalistica viene rimproverata di esporre fatti che sono privati; vorrei che la stampa scandalistica facesse qualcosa di così prezioso. Sono precisamente i tocchi individuali decisivi che essa non fornisce mai; e prova di ciò è che, dopo aver incontrato un uomo un milione di volte sui giornali, è sempre uno shock totale e un capovolgimento incontrarlo nella vita reale. Il giornalista scandalistico pare non avere alcuna facoltà di cogliere il primo fresco fatto intorno a un uomo, quello che domina tutte le impressioni successive. Per esempio, prima di incontrare Bernard [[Shaw]] avevo sentito dire che parlava con uno sfrenato [[Desire|desiderio]] di [[Paradox|paradosso]] o con un ghignante odio del sentimento; ma non seppi, finché non aprì bocca, che parlava con un accento irlandese, il che è più importante di tutte le altre critiche messe insieme.
+
+Il giornalismo non è abbastanza personale. Lungi dallo scavare le personalità private, non riesce nemmeno a riferire le personalità evidenti che stanno in superficie. Ora, vi è un'impressione viva e persino corporea di questo genere, che tutti abbiamo provato quando abbiamo incontrato grandi poeti o politici, ma che non trova mai la via dei giornali. Intendo l'impressione che essi siano molto più vecchi di quanto pensassimo. Colleghiamo i grandi uomini ai loro grandi trionfi, che generalmente avvennero alcuni anni or sono, e molte reclute entusiaste dello smilzo Napoleone di Marengo devono essersi trovate al cospetto del grasso Napoleone di Lipsia.
+
+Ricordo di aver letto su un giornale il resoconto di come un certo politico emergente affrontò la [[house|Camera]] dei Lord con l'entusiasmo quasi d'un fanciullo. Descriveva come la sua «prode voce giovanile» risuonasse fra le travi. Ricordo anche che lo incontrai qualche giorno dopo, ed era considerevolmente più vecchio di mio padre. Menziono questa [[Truth|verità]] per un solo scopo: tutta questa generalizzazione conduce a un unico fatto — il fatto che una volta incontrai un grand'uomo più giovane di quanto mi aspettassi.
+
+. . . . .
+
+Ero disceso oltre il muro boscoso, provenendo dai villaggi intorno a Epsom, per un sentiero malfermo tra gli alberi verso la valle in cui giace Dorking. Un caldo raggio di sole si faceva strada attraverso il fogliame; un sole che, pur essendo d'oro senza santità, aveva assunto la qualità della sera. Era un sole di quelli che rammentano all'uomo che il sole comincia a tramontare un istante dopo il [[Noon|mezzogiorno]]. Pareva affievolirsi via via che il bosco si infittiva e la [[Road|strada]] sprofondava.
+
+Provavo una sensazione peculiare di simili discese intricate; sentivo che le cime degli alberi che si chiudevano sopra di me erano le cose fisse e reali, certe come il livello del mare; ma che la solida terra veniva meno a ogni istante sotto i miei piedi. In breve quello splendido sole si mostrava soltanto a chiazze, come [[Stars|stelle]] fiammeggianti e soli nella cupola del cielo verde. Intorno a me, in quel crepuscolo di smeraldo, si ergevano tronchi d'alberi d'ogni tipo, dritto o contorto; era come una cappella sorretta da colonne d'ogni stile d'architettura terrestre e ultraterrena.
+
+Senza volerlo, la mia mente si riempì di fantasie sulla [[Nature|natura]] della foresta; sull'intera [[philosophy|filosofia]] del mistero e della forza. Poiché il significato dei boschi è la combinazione dell'energia con la complessità. Una foresta non è affatto rozza o barbara; è soltanto densa di delicatezza. Forme uniche che un [[artist|artista]] copierebbe, o che un filosofo osserverebbe per anni se le trovasse in una pianura aperta, sono qui mescolate e confuse; ma non è una tenebra di deformità. È una tenebra di vita; una tenebra di perfezione. E cominciai a pensare quanto gran parte della più alta oscurità umana sia simile a questa, e quanto gli uomini l'abbiano fraintesa. La gente vi dirà, per esempio, che la teologia divenne elaborata perché era morta. Credetemi, se fosse stata morta non sarebbe mai divenuta elaborata; è solo l'albero vivo che mette troppi rami.
+
+. . . . .
+
+Questi alberi si diradarono e si allontanarono l'uno dall'altro, e sbucai in un'erba folta e in una [[Road|strada]]. Ricordo la mia sorpresa che la sera fosse così inoltrata; avevo la fantasia che quella valle avesse un tramonto tutto per sé. Percorsi quella [[Road|strada]] seguendo le indicazioni che mi erano state date, e oltrepassai il cancello in una tenue palizzata, oltre la quale il bosco mutava solo debolmente in un [[Garden|giardino]]. Era come se la curiosa cortesia e finezza di quel personaggio che stavo per incontrare emanasse da lui sulla valle; poiché sentivo su tutte queste cose il dito di quella qualità che gli antichi inglesi chiamavano «faërie»; è la qualità che non potranno mai comprendere coloro che pensano al passato come a qualcosa di meramente brutale; è un'antica eleganza quale si trova negli alberi. Attraversai il [[Garden|giardino]] e vidi un vecchio seduto accanto a un tavolo, che appariva piuttosto piccolo nella sua grande poltrona. Era già un invalido, e i suoi capelli e la barba erano entrambi bianchi; non come la [[Snow|neve]], perché la [[Snow|neve]] è fredda e pesante, ma come qualcosa di piumoso, o persino fiero; erano piuttosto bianchi come il bianco pappo del cardo. Gli giunsi ben vicino; egli mi guardò mentre tendeva la sua mano fragile, e vidi d'improvviso che i suoi occhi erano sorprendentemente giovani. Era l'unico grand'uomo del vecchio mondo che io abbia incontrato a non essere una semplice statua sulla propria [[Grave|tomba]].
+
+Era sordo e parlava come un torrente. Non parlava dei libri che aveva scritto; era di gran lunga troppo vivo per questo. Parlava dei libri che non aveva scritto. Srotolò un fascio purpureo di romanzi che non aveva mai avuto il [[Time|tempo]] di vendere. Mi chiese di scrivere per lui una delle storie, come l'avrebbe chiesto al lattaio, se avesse parlato con il lattaio. Era una storia splendida e frenetica, una sorta di farsa astronomica. Trattava tutta d'un uomo che si precipitava alla Royal Society con l'unico modo possibile di evitare una cometa distruttrice della terra; e mostrava come, persino in questa immane impresa, l'uomo venisse ostacolato ogni due minuti dalle proprie debolezze e vanità; come perdesse un treno per un'inezia o venisse cacciato in gattabuia per rissa. Questa è solo una di esse; ve n'erano altre dieci o venti. Un'altra, ricordo confusamente, era una versione della caduta di Parnell; l'idea che un uomo del tutto onesto potesse essere segreto per puro [[Love|amore]] della segretezza, del solitario [[Self|autocontrollo]]. Uscii da quel [[Garden|giardino]] con una confusa sensazione del milione di possibilità della letteratura creativa. La sensazione crebbe mentre il mio cammino ripiegava nel bosco; poiché un bosco è un palazzo con un milione di corridoi che si [[Cross|incrociano]] dappertutto. Avevo davvero la sensazione di aver visto la qualità creativa; che è [[Supernatural|soprannaturale]]. Avevo visto ciò che Virgilio chiama il Vecchio della Foresta: avevo visto un elfo. Gli alberi si affollarono dietro il mio sentiero; non l'ho mai più rivisto; e ora non lo rivedrò, perché è morto martedì scorso.
 
 
 
@@ -9121,6 +10319,59 @@ Have you ever heard of a thing called the New theology?"
 
 He smiled and said that he had not.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXII
+
+Il barbiere ortodosso
+
+Quei pensatori che non riescono a credere in alcun dio spesso affermano che l'[[Love|amore]] dell'umanità sarebbe di per sé sufficiente per loro; e forse lo sarebbe, se lo possedessero. Vi è una cosa assai reale che si può chiamare l'[[Love|amore]] dell'umanità; ai nostri [[Time|tempi]] esso esiste quasi interamente fra coloro che si chiamano gli incolti; e non esiste affatto fra le persone che ne parlano.
+
+Un piacere positivo nell'essere alla presenza di un qualsiasi altro essere umano è cosa notevole soprattutto, per esempio, nelle masse nel giorno di festa; ecco perché esse sono molto più vicine al Cielo (nonostante le apparenze) di qualsiasi altra parte della nostra popolazione.
+
+Ricordo di aver visto una folla di operaie salire su un treno vuoto a una stazione di campagna lungo la via. Ce n'erano circa venti; salirono tutte in una sola carrozza; e lasciarono del tutto vuoto tutto il resto del treno. Questo è il vero [[Love|amore]] dell'umanità. Questo è il piacere ben definito nell'immediata prossimità dei propri simili. Solo questo greve, rozzo, reale [[Love|amore]] degli uomini sembra mancare del tutto in coloro che propongono l'[[Love|amore]] dell'umanità come sostituto di ogni altro [[Love|amore]]; onorevoli, razionalistici idealisti.
+
+Ricordo [[Well|bene]] l'esplosione di gioia umana che segnò l'improvviso partire di quel treno; tutte le operaie che non trovavano posto a sedere (e dovevano essere la maggioranza) sfogavano i loro sentimenti saltando su e giù. Ora, non ho mai visto alcun idealista razionalista far questo. Non ho mai visto venti filosofi moderni stiparsi in una sola carrozza di terza classe per il puro piacere di stare insieme. Non ho mai visto venti signori McCabe tutti in una sola carrozza e tutti a saltare su e giù.
+
+Alcuni esprimono il [[Fear|timore]] che i volgari gitanti invadano tutti i luoghi belli, come Hampstead o Burnham Beeches. Ma il loro [[Fear|timore]] è irragionevole; poiché i gitanti preferiscono sempre gitare insieme; si ammassano quanto più possono; hanno una soffocante passione di filantropia.
+
+. . . . .
+
+Ma fra gli aspetti minori e più miti dello stesso principio, non ho esitazione a collocare il problema del barbiere loquace. Prima che un uomo moderno parli con autorità dell'amare gli uomini, io insisto (insisto con violenza) che egli debba sempre compiacersi assai quando il suo barbiere cerca di parlargli. Il suo barbiere è l'umanità: lo [[Love|ami]] dunque. Se non se ne compiace, non accetterò alcun surrogato sotto forma di interesse per il Congo o per il futuro del Giappone. Se un uomo non sa [[Love|amare]] il suo barbiere che ha veduto, come [[Love|amerà]] i giapponesi che non ha veduto?
+
+Si rimprovera al barbiere che egli comincia parlando del tempo; così fanno tutti i duchi e i diplomatici, solo che ne parlano con ostentata stanchezza e indifferenza, mentre il barbiere ne parla con una stupefacente, anzi incredibile, freschezza d'interesse. Gli si obietta che dice alla gente che sta diventando calva. Vale a dire, le sue stesse virtù gli vengono rinfacciate; lo si biasima perché, essendo uno specialista, è uno specialista sincero, e perché, essendo un bottegaio, non è del tutto uno schiavo. Ma l'unica prova di simili cose è l'esempio; perciò proverò l'eccellenza della conversazione dei barbieri con un caso specifico. Perché nessuno mi accusi di tentare di provarla con mezzi fittizi, tengo a dire assai seriamente che, benché io dimentichi il linguaggio esatto impiegato, la conversazione seguente fra me e un umano (spero), vivente barbiere ebbe davvero luogo pochi giorni fa.
+
+. . . . .
+
+Ero stato invitato a un ricevimento in [[Home|casa]] per incontrare i Premier coloniali, e, per non essere scambiato per qualche bandito di boscaglia solo in parte redento, uscito dall'interno dell'Australia, entrai in un negozio nello Strand per farmi radere. Mentre subivo la tortura, l'uomo mi disse:
+
+«Pare che ci sia molto sui giornali intorno a questa nuova rasatura, signore. Pare che ci si possa radere con qualsiasi cosa—con un bastone o una pietra o un palo o un attizzatoio» (qui cominciai per la prima [[Time|volta]] a scorgere un'intonazione sarcastica) «o una pala o un——»
+
+Qui esitò in cerca di una parola, e io, benché non sapessi nulla della faccenda, lo aiutai con suggerimenti nella stessa vena retorica.
+
+«O un uncino da bottoni,» dissi, «o uno schioppo o un ariete o un'asta di pistone——»
+
+Riprese, rinfrancato da questo aiuto: «O un bastone da tenda o un candeliere, o un——»
+
+«Uno spazzavacche,» suggerii con entusiasmo, e proseguimmo in questo estatico duetto per qualche [[Time|tempo]]. Poi gli chiesi di che si trattasse, ed egli me lo disse. Spiegò la cosa con eloquenza e per esteso.
+
+«La parte buffa,» disse, «è che la cosa non è affatto nuova. Se ne parla fin da quando ero ragazzo, e da molto prima. C'è sempre l'idea che il rasoio si potrebbe in qualche modo evitare. Ma nessuno di quei progetti approdò mai a nulla; e io per primo non credo che questo ci riuscirà.»
+
+«Ebbene, quanto a ciò,» dissi, alzandomi lentamente dalla sedia e cercando di infilarmi la giacca a rovescio, «non so come possa stare la faccenda nel caso vostro e della vostra nuova rasatura. La rasatura, con tutto il rispetto per voi, è cosa triviale e materialistica, e in tali cose talvolta si fanno invenzioni sorprendenti. Ma ciò che dite mi rammenta, in qualche oscura e sognante maniera, qualcos'altro. Lo rammento specialmente quando mi dite, con tanta evidente esperienza e sincerità, che la nuova rasatura non è realmente nuova. Amico mio, la razza umana tenta sempre questo espediente di rendere ogni cosa interamente facile; ma la difficoltà che essa toglie da una cosa la trasferisce su un'altra. Se un uomo non ha la fatica di preparare il mento di un altro uomo, suppongo che qualche altro uomo abbia la fatica di preparare qualcosa di assai curioso da mettere sul mento di un uomo. Sarebbe bello se potessimo essere rasati senza disturbare nessuno. Sarebbe ancor più bello se potessimo andare non rasati senza infastidire nessuno——
+
+'Ma, o saggio amico, sommo Barbiere dello Strand,
+Fratello, né tu né io abbiamo fatto il mondo.'
+
+Chiunque l'abbia fatto, che è più saggio, e noi lo [[Hope|speriamo]] migliore di noi, lo fece sotto strane limitazioni, e con dolorose condizioni di piacere.
+
+Nel primo e più oscuro dei suoi libri sta ferocemente scritto che un uomo non potrà mangiare la sua torta e insieme conservarla; e per quanto tutti gli uomini parlassero finché le [[Stars|stelle]] fossero vecchie, resterebbe pur vero che un uomo che ha perduto il suo rasoio non potrebbe radersi con esso. Ma di tanto in tanto gli uomini balzano su con il nuovo qualcosa e dicono che tutto si può ottenere senza sacrificio, che il male è bene purché si sia soltanto illuminati, e che non v'è reale differenza fra l'essere rasati e il non esserlo. La differenza, dicono, è solo una differenza di grado; tutto è evolutivo e relativo. La rasatezza è immanente nell'uomo. Ogni chiodo da due soldi è un Rasoio in Potenza. Le persone superstiziose del passato (dicono) credevano che una quantità di setole nere sporgenti ad angolo retto dal viso fosse un fatto positivo. Ma l'alta critica ci istruisce meglio. Le setole sono meramente negative. Sono un'[[Shadow|Ombra]] dove dovrebbe esserci la Rasatura.
+
+«[[Well|Ebbene]], tutto va avanti, e suppongo che tutto significhi qualcosa. Ma un bambino è il Regno di Dio, e se cercate di baciare un bambino, egli saprà se siete rasati o no. Forse sto confondendo l'essere rasati con l'essere salvati; le mie simpatie democratiche mi hanno sempre indotto a mangiarmi le acca. Fra un istante potrei suggerire che le capre rappresentino i perduti perché le capre hanno lunghe barbe. Questo sta diventando decisamente troppo allegorico.»
+
+«Nondimeno,» aggiunsi, mentre pagavo il conto, «sono stato davvero profondamente interessato a ciò che mi avete detto sulla Nuova Rasatura. Avete mai sentito parlare di una cosa chiamata la Nuova teologia?»
+
+Egli sorrise e disse di no.
 
 
 
@@ -9287,6 +10538,38 @@ for it is beyond human power to act a great poem upon so great a scale.
 You can only represent very big ideas in very small spaces.
 My toy theatre is as philosophical as the drama of Athens.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXIII
+
+Il teatrino dei giocattoli
+
+C'è una sola ragione per cui tutte le persone adulte non giocano con i giocattoli; ed è una ragione giusta. La ragione è che giocare con i giocattoli richiede molto più [[Time|tempo]] e fatica di qualsiasi altra cosa. Giocare come intendono giocare i bambini è la cosa più seria del mondo; e non appena abbiamo piccoli doveri o piccoli dolori dobbiamo abbandonare in qualche misura un piano di vita così enorme e ambizioso. Abbiamo forza sufficiente per la politica e il commercio e l'arte e la [[philosophy|filosofia]]; non abbiamo forza sufficiente per il gioco. Questa è una [[Truth|verità]] che riconoscerà chiunque, da [[Child|bambino]], abbia mai giocato con qualsiasi cosa; chiunque abbia giocato con i mattoncini, chiunque abbia giocato con le bambole, chiunque abbia giocato con i soldatini di stagno. Il mio lavoro giornalistico, che frutta denaro, non è perseguito con una persistenza così tremenda come quel lavoro che non fruttava nulla.
+
+. . . . .
+
+Prendete il caso dei mattoncini. Se pubblicate domani un libro in dodici volumi (sarebbe proprio da voi) su «La teoria e la pratica dell'architettura europea», la vostra opera potrà essere laboriosa, ma è fondamentalmente frivola. Non è seria come è seria l'opera di un [[Child|bambino]] che accatasta un mattoncino sull'altro; per la semplice ragione che se il vostro libro è un cattivo libro nessuno potrà mai, in ultima analisi e interamente, provarvi che è un cattivo libro. Mentre se il suo equilibrio di mattoncini è un cattivo equilibrio di mattoncini, esso semplicemente crollerà. E se so qualcosa dei bambini, egli si metterà al lavoro solennemente e mestamente per ricostruirlo. Mentre, se so qualcosa degli autori, nulla vi indurrebbe a riscrivere il vostro libro, o anche solo a ripensarci, se poteste evitarlo.
+
+Prendete il caso delle bambole. È molto più facile prendersi cura di una causa educativa che di una bambola. È altrettanto facile scrivere un articolo sull'[[Education|educazione]] quanto scriverne uno sul croccante o sui tram o su qualsiasi altra cosa. Ma è quasi altrettanto difficile badare a una bambola quanto badare a un [[Child|bambino]]. Le bambine che incontro nelle stradine di Battersea adorano le loro bambole in un modo che ricorda non tanto il gioco quanto l'idolatria. In alcuni casi l'[[Love|amore]] e la cura del simbolo artistico sono divenuti in realtà più importanti della realtà umana che esso, suppongo, era in origine inteso a simboleggiare.
+
+Ricordo una bambina di Battersea che spingeva la sua grossa sorellina, cacciata dentro una carrozzina da bambola. Interrogata su tale condotta, rispose: «Non ho una bambolina, e la Bimba fa finta di essere la mia bambolina.» La [[Nature|Natura]] imitava davvero l'arte. Dapprima una bambola era stata un sostituto di un [[Child|bambino]]; poi un [[Child|bambino]] era un mero sostituto di una bambola. Ma questo apre altri temi; il punto qui è che una simile devozione occupa la maggior parte del cervello e la maggior parte della vita; quasi come se fosse davvero la cosa che si suppone essa simboleggi. Il punto è che l'uomo che scrive sulla maternità è semplicemente un pedagogo; la [[Child|bambina]] che gioca con una bambola è una madre.
+
+Prendete il caso dei soldati. Un uomo che scrive un articolo di strategia militare è semplicemente un uomo che scrive un articolo; uno spettacolo orrendo. Ma un ragazzo che conduce una campagna con soldatini di stagno è come un Generale che conduce una campagna con soldati vivi. Egli deve, fino al limite delle sue giovanili facoltà, pensare alla cosa; mentre il corrispondente di guerra non ha affatto bisogno di pensare. Ricordo un corrispondente di guerra che osservò, dopo la cattura di Methuen: «Questa rinnovata attività da parte di Delarey è probabilmente dovuta alla sua penuria di rifornimenti.» Lo stesso critico militare aveva menzionato pochi paragrafi prima che Delarey era incalzato da una colonna che lo inseguiva al comando di Methuen. Methuen inseguiva Delarey; e l'attività di Delarey era dovuta alla sua penuria di rifornimenti. Altrimenti sarebbe rimasto del tutto fermo mentre veniva inseguito. Io corro dietro a [[Jones]] con un'accetta, e se egli si volta e cerca di sbarazzarsi di me, l'unica spiegazione possibile è che egli ha un saldo assai esiguo presso i suoi banchieri. Non posso credere che un qualsiasi ragazzo che gioca ai soldati sarebbe tanto idiota. Ma d'altronde chiunque giochi a qualsiasi cosa deve essere serio. Mentre, come ho fin troppe buone ragioni per sapere, se scrivete un articolo potete dire qualsiasi cosa vi passi per la testa.
+
+. . . . .
+
+In breve, dunque, ciò che trattiene gli adulti dall'unirsi ai giochi dei bambini è, generalmente parlando, non il fatto che non vi trovino piacere; è semplicemente che non hanno agio per essi. È che non possono permettersi il dispendio di fatica e [[Time|tempo]] e considerazione per un disegno così grandioso e [[Grave|grave]]. Io stesso ho tentato per qualche [[Time|tempo]], da un po' a questa parte, di completare una recita in un piccolo teatrino di giocattoli, il tipo di teatrino che si soleva chiamare Penny Plain e Twopence Coloured; solo che disegnai e colorai io stesso le figure e le scene. Sicché ero libero dall'obbligo degradante di dover pagare un penny o due; dovevo soltanto pagare uno scellino a foglio per il buon cartoncino e uno scellino a scatola per scadenti colori ad [[Water|acqua]]. Il tipo di palcoscenico in miniatura che intendo è probabilmente familiare a tutti; non è mai altro che uno sviluppo del palcoscenico che Skelt fabbricò e Stevenson celebrò.
+
+Ma benché io abbia lavorato assai più duramente al teatrino di quanto abbia mai lavorato a qualsiasi racconto o articolo, non riesco a finirlo; il lavoro sembra troppo gravoso per me. Devo interrompere e dedicarmi a impieghi più leggeri; come le biografie dei grandi uomini. La recita di «San Giorgio e il Drago», sulla quale ho consumato l'olio di mezzanotte (dovete colorare la cosa a luce di lampada, perché è così che verrà veduta), manca ancora, ahimè, nel modo più vistoso, di due ali del Palazzo del Sultano, e anche di un qualche modo comprensibile e praticabile di alzare il sipario.
+
+Tutto ciò mi dà un sentimento che tocca il vero significato dell'[[Immortality|immortalità]]. In questo mondo non possiamo avere il puro piacere. Ciò in parte perché il puro piacere sarebbe pericoloso per noi e per i nostri vicini. Ma in parte perché il puro piacere è cosa fin troppo faticosa. Se mai sarò in un altro e migliore mondo, [[Hope|spero]] di avere [[Time|tempo]] sufficiente per giocare con nient'altro che teatrini di giocattoli; e [[Hope|spero]] di avere energia sufficiente, divina e sovrumana, per recitarvi almeno una recita senza intoppi.
+
+. . . . .
+
+Nel frattempo la [[philosophy|filosofia]] dei teatrini di giocattoli merita la considerazione di chiunque. Tutte le morali essenziali che gli uomini moderni hanno bisogno di apprendere potrebbero dedursi da questo giocattolo. Considerato artisticamente, esso ci rammenta il principio cardine dell'arte, il principio che più corre pericolo di essere dimenticato ai nostri [[Time|tempi]]. Intendo il fatto che l'arte consiste nella limitazione; il fatto che l'arte è limitazione. L'arte non consiste nel dilatare le cose. L'arte consiste nel ridurre le cose, come io ho ridotto con un paio di forbici le mie bruttissime figure di San Giorgio e del Drago. Platone, che amava le idee definite, amerebbe il mio drago di cartone; poiché, benché la creatura abbia pochi altri meriti artistici, è quanto meno draghesca. Il filosofo moderno, che ama l'infinito, è liberissimo di prendersi un foglio del semplice cartone. La cosa più artistica dell'arte teatrale è il fatto che lo spettatore guarda l'intera cosa attraverso una [[Window|finestra]]. Questo è vero anche dei teatri inferiori al mio; anche al [[Court]] Theatre o all'His Majesty's voi guardate attraverso una [[Window|finestra]]; una [[Window|finestra]] insolitamente grande. Ma il vantaggio del piccolo teatro sta appunto in questo, che voi guardate attraverso una piccola [[Window|finestra]]. Non ha forse ciascuno notato quanto dolce e sorprendente appaia un qualsiasi paesaggio quando lo si vede attraverso un arco? Questa forma robusta e quadra, questo escludere ogni altra cosa non è solo un aiuto alla [[Beauty|bellezza]]; è l'essenziale della [[Beauty|bellezza]]. La parte più bella di ogni quadro è la cornice.
+
+Questo vale specialmente per il teatrino di giocattoli; che, riducendo la scala degli eventi, può introdurre eventi assai più grandi. Perché è piccolo, potrebbe facilmente rappresentare il terremoto in Giamaica. Perché è piccolo, potrebbe facilmente rappresentare il Giorno del Giudizio. Esattamente nella misura in cui è limitato, in quella misura potrebbe giocare agevolmente con città che crollano o con [[Stars|stelle]] che cadono. Nel frattempo i grandi teatri sono obbligati a essere parsimoniosi perché sono grandi. Quando avremo compreso questo fatto, avremo compreso qualcosa della ragione per cui il mondo è sempre stato ispirato dapprima da piccole nazionalità. La vasta [[philosophy|filosofia]] greca poteva entrare più agevolmente nella piccola [[City|città]] di Atene che nell'immenso Impero di Persia. Nelle strette vie di Firenze [[Dante]] sentiva che c'era posto per il Purgatorio e il Paradiso e l'Inferno. Sarebbe stato soffocato dall'Impero Britannico. I grandi imperi sono necessariamente prosaici; poiché è al di là dell'umano potere recitare un grande poema su scala così grande. Si possono rappresentare idee molto grandi solo in spazi molto piccoli. Il mio teatrino di giocattoli è tanto filosofico quanto il dramma di Atene.
 
 
 
@@ -9739,6 +11022,74 @@ But the sea would not stop for me any more than for Canute;
 and as for the German band, that would not stop for anybody.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XXVI
+
+I due rumori
+
+Per tre giorni e tre notti il mare aveva caricato l'Inghilterra come Napoleone la caricò a Waterloo. La frase è istintiva, perché fin laggiù, all'ultima grigia linea del mare, non v'era che l'aspetto di squadroni al galoppo, impetuosi, ma con un comune proposito. Il mare avanzava come cavalleria, e quando toccava la riva apriva gli occhi fiammeggianti e le lingue assordanti dell'artiglieria. Vidi il peggiore assalto di [[Night|notte]], su un lungomare balneare dove il mare batteva sulle porte dell'Inghilterra con i martelli del terremoto, e un bianco fumo saliva nei neri cieli. Là si poteva pienamente rendersi conto di quale tremenda cosa sia davvero un'onda. Parlo come tutti della rapidità impetuosa di un'onda. Ma la cosa orribile di un'onda è la sua orrenda lentezza. Solleva il suo carico d'[[Water|acqua]] faticosamente: in quel modo insieme lento e sdrucciolevole con cui un Titano potrebbe sollevare un carico di roccia e poi lasciarlo infine scivolare per frantumarsi in un urto di [[Dust|polvere]]. Dinanzi a me quella [[Night|notte]] le onde non erano come [[Water|acqua]]: erano come mura di [[City|città]] che crollavano. Il frangente si [[Rose|levò]] dapprima come se non volesse assalire la terra; voleva solo assalire le [[Stars|stelle]]. Per un [[Time|tempo]] si ergeva nell'aria naturalmente come una torre; poi il suo contorno si guastava un poco, come una torre che un giorno potrebbe cadere. Quando cadeva era come se una santabarbara saltasse in aria.
+
+. . . . .
+
+Non ho mai visto un mare simile. Per tutto il [[Time|tempo]] soffiava attraverso la terra uno di quei venti rigidi e soffocanti contro cui ci si può appoggiare come a un muro. Ci si aspettava che qualsiasi cosa venisse deformata da un istante all'altro; il lampione spezzato come uno stelo verde, l'albero turbinato via come una pagliuzza. Io stesso sarei certamente stato deformato, se avessi posseduto una qualche forma da deformare; poiché camminavo lungo il ciglio del terrapieno di pietra sopra il mare nero e battente e non riuscivo a liberarmi dell'idea che fosse un'invasione dell'Inghilterra. Ma mentre camminavo lungo questo ciglio, fui alquanto sorpreso di scoprire che, avvicinandomi a un certo punto, un altro rumore si mescolava all'incessante cannonata del mare.
+
+Da qualche parte sul retro, in qualche luogo di svago o casinò o locale di divertimento, un'intrepida banda d'ottoni suonava contro il frastuono cosmico. Non so quale banda fosse. A giudicare dal chiassoso imperialismo britannico della maggior parte delle arie che suonava, direi che fosse una banda tedesca. Ma non v'era [[Doubt|dubbio]] sulla sua energia, e quando le giunsi proprio sotto essa davvero sovrastava la [[Storm|tempesta]]. Suonava cose come «Tommy Atkins» e «You Can Depend on Young Australia», e molte altre di cui non conosco le parole, ma che credo sarebbero «John, Pat, and Mac, With the [[Union]] Jack», o quel bel poema, benché non scritto, «Wait till the Bull Dog gets a bite of you». Ora, io per primo detesto l'imperialismo, ma ho molta simpatia per il jingoismo. E c'era qualcosa di così commovente in questo intatto e [[Innocent|innocente]] vanto sotto la brutale minaccia della [[Nature|Natura]] che esso creava, se posso esprimermi così, due melodie nella mia mente. È tanto ovvio e tanto allegro essere ottimisti sull'Inghilterra, specie quando si è ottimisti—e inglesi. Ma attraverso tutti quegli ottoni gloriosi giungeva la voce dell'invasione, il sottofondo di quel tremendo mare. Feci una cosa sciocca. Poiché non riuscivo a esprimere il mio pensiero in un articolo, cercai di esprimerlo in un poema—un cattivo poema. Chiamatelo come vi pare. Potrebbe intitolarsi «[[Doubt|Dubbio]]», o «Brighton». Potrebbe intitolarsi «Il Patriota», o ancora «La banda tedesca». Io lo chiamerei «Le due voci», ma quel titolo è stato preso per un poema assai inferiore. Ecco come cominciava——
+
+"Dicono che il sole ti posa sui ginocchi
+Lampada a difender le tue terre dal male,
+Dicono che muti i sette mari
+In piccoli ruscelli intorno al tuo podere.
+Odo il mare e il nuovo [[Song|canto]]
+che imperatrice ti chiama tutto il giorno.
+
+"(O caduta e insozzata! O tu che giaci
+Morente nelle paludi—tu non morrai,
+I tuoi ricchi hanno [[Secrets|segreti]], e cupida brama,
+I tuoi poveri son cacciati qua e là come [[Dust|polvere]],
+Svuotati d'ira e di stupore—
+E Dio è uscito dai loro occhi,
+Le tue coorti si spezzano—i tuoi capitani giacciono,
+Io ti dico: tu non morrai.)"
+
+Poi mi ripresi un poco, ricordando che dopotutto esiste un'Inghilterra rurale che gli imperialisti non hanno mai scoperto. L'Impero Britannico può annettersi ciò che gli pare, non annetterà mai l'Inghilterra. Non ha nemmeno scoperto l'isola, e tanto [[Alone|meno]] l'ha conquistata. Ripresi le due melodie con una maggiore simpatia per la prima——
+
+"Conosco le lucenti piogge battesimali,
+[[Love|Amo]] i tuoi teneri cieli tormentati,
+Conosco i tuoi piccoli viottoli che salgono,
+Spiano dentro il Paradiso,
+Dal focolare aperto al frutteto fresco,
+Quanto generosa e bella.
+
+"(O strozzata e senza un grido,
+O strangolata e trafitta, tu non morrai,
+La spaventosa parola è sulle tue mura,
+Il mare d'oriente al mare d'occidente chiama,
+Le [[Stars|stelle]] muoiono nel cielo,
+Tu non morrai; tu non morrai.)"
+
+Poi i due grandi rumori crebbero assordanti insieme, il rumore del pericolo dell'Inghilterra e il più forte rumore della placidità dell'Inghilterra. È colpa loro se l'ultima strofa fu scritta un poco rozzamente e a caso——
+
+"Ti vedo come sorridi in maestà
+Dritto dal Peak fino a Plymouth Bar,
+Non hai bisogno di dirmi che sei grande,
+So quanto più che grande tu sia.
+So che cosa fu William Shakespeare,
+Ho veduto Gainsborough e l'erba.
+
+(O indotta a credere a una menzogna,
+O mia folle madre, no, non morire,
+Tu i cui occhi si volgono ovunque fuorché al dentro,
+Il cui peccato è [[innocence|innocenza]] di peccato,
+I cui occhi, accecati da raggi a [[Noon|mezzogiorno]],
+Sanno vedere i granelli sulla [[Moon|luna]],
+Tu il tuo [[Lover|amante]] ancora inseguirai.
+Verso qualunque estremo manicomio ti accolga
+Io ti sosterrò, io stesso.
+Tu che sei morta. Tu non morrai.)"
+
+Ma il mare non volle fermarsi per me più di quanto facesse per Canuto; e quanto alla banda tedesca, quella non si sarebbe fermata per nessuno.
+
 
 
 <span class="atom-split" data-atom="chapter_28" data-title="Tremendous Trifles — Chapter 27" data-chapter="Chapter 28" data-kind="chapter"></span>
@@ -9886,6 +11237,30 @@ But that is because a very just people would have shot them long ago,
 from mere native good feeling.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XXVII
+
+Alcuni poliziotti e una morale
+
+L'altro giorno fui quasi arrestato da due poliziotti eccitati in un bosco dello Yorkshire. Ero in vacanza, e ero impegnato in quella ricca e intricata massa di piaceri, doveri e scoperte che, per tener lontani i profani, mascheriamo col nome essoterico di Nulla. Nel momento in questione stavo lanciando un grosso coltello svedese contro un albero, esercitandomi (ahimè, senza [[success|successo]]) in quell'utile trucco del lancio del coltello con cui gli uomini si assassinano l'un l'altro nei romanzi di Stevenson.
+
+D'un tratto la foresta fu piena di due poliziotti; c'era qualcosa nel loro aspetto in mezzo al verde bosco, e nel loro rapporto con esso, che mi rammentava, non so come, qualche lieta [[Comedy|commedia]] elisabettiana. Chiesero che cosa fosse il coltello, chi fossi, perché lo lanciassi, quale fosse il mio indirizzo, il mestiere, la religione, le opinioni sulla guerra giapponese, il nome del gatto preferito, e così via. Dissero anche che stavo danneggiando l'albero; il che, mi dispiace dirlo, non era vero, perché non riuscivo a colpirlo. La peculiare importanza filosofica, tuttavia, dell'incidente fu questa. Dopo una mezz'ora di animata conversazione, l'esibizione di una busta, una poesia incompiuta, che fu letta con grande cura e, spero, con qualche profitto, e uno o due altri sottili colpi [[Detective|investigativi]], il più anziano dei due cavalieri si convinse che io ero davvero ciò che dichiaravo di essere, che ero un giornalista, che ero al DAILY NEWS (questo fu il colpo decisivo; furono scossi da un terrore comune a tutti i tiranni), che vivevo in un luogo determinato come dichiarato, e che alloggiavo presso persone determinate nello Yorkshire, le quali si dava il caso fossero ricche e [[Well|ben]] note nei dintorni.
+
+Di fatto il poliziotto a capo divenne infine così gioviale e complimentoso che finì col dichiararsi un lettore delle mie opere. E quando ciò fu detto, tutto fu sistemato. Mi assolsero e mi lasciarono passare.
+
+«Ma,» dissi, «che ne è di quest'albero straziato? Fu in soccorso di quella Driade, legata alla terra, che vi precipitaste come cavalieri erranti. Voi, gli umanitari più alti, non vi lasciate ingannare dall'apparente immobilità delle cose verdi, un'immobilità simile all'immobilità della cateratta, un [[Silence|silenzio]] precipitoso e fragoroso. Voi sapete che un albero non è che una creatura legata al suolo per una sola gamba. Voi non lascerete che gli assassini coi loro pugnali svedesi versino il verde [[Blood|sangue]] di un tal essere. Ma se è così, perché non sono in arresto; dove sono i miei ceppi? Tirate fuori, da qualche parte delle vostre persone, la mia paglia ammuffita e la mia [[Window|finestra]] sbarrata. I fatti dei quali vi ho appena convinti, che il mio nome è Chesterton, che sono un giornalista, che vivo col [[Well|ben]] noto e filantropico signor Blank di Ilkley, non possono avere nulla a che fare con la questione se io mi sia reso colpevole di crudeltà verso i vegetali. L'albero non è meno danneggiato, anche se può riflettere con un cupo [[Pride|orgoglio]] che fu ferito da un gentiluomo legato alla stampa liberale. Le ferite nella corteccia non si rimarginano più rapidamente perché inflitte da persone che alloggiano presso il signor Blank di Ilkley. Quell'albero, la rovina del suo antico [[Self|sé]], il relitto di ciò che un tempo fu un gigante della foresta, ora scheggiato e abbattuto dalla bruta superiorità di un coltello svedese, quella [[Tragedy|tragedia]], poliziotto, non può essere cancellata nemmeno alloggiando per parecchi altri mesi presso qualche persona ricca. È incredibile che voi non abbiate alcun titolo legale per arrestare anche le persone più auguste e alla moda con questa accusa. Perché, se così fosse, perché mai vi siete immischiati con me?»
+
+La parte ulteriore e più ampia di questo discorso la rivolsi al bosco silenzioso, poiché i due poliziotti erano svaniti quasi altrettanto rapidamente di come erano venuti. È del tutto possibile, s'intende, che fossero fate. In tal caso il carattere alquanto illogico della loro visione del delitto, della legge e della responsabilità personale troverebbe una luminosa e fatata spiegazione; forse, se mi fossi attardato nella radura fino al sorgere della luna, avrei potuto vedere cerchi di minuscoli poliziotti danzare sull'erba; o correre qua e là con cinture di lucciole, arrestando le cavallette per aver danneggiato i fili d'erba. Ma prendendo l'ipotesi più ardita, che fossero davvero poliziotti, mi trovo in una certa difficoltà. Ero certamente accusato di qualcosa che era o un reato o non lo era. Fui rilasciato perché provai di essere ospite in una grande [[house|casa]]. L'inferenza sembra penosamente chiara; o non è una prova d'infamia lanciare un coltello in un bosco solitario, oppure è una prova d'[[innocence|innocenza]] conoscere un uomo ricco. Supponete una persona assai povera, ancor più povera di un giornalista, uno sterratore o un bracciante non qualificato, che vaga in cerca di lavoro, cambiando spesso alloggio, mancando spesso, forse, il pagamento dell'affitto. Supponete che si fosse inebriato della verde allegria dell'antico bosco. Supponete che avesse lanciato coltelli contro gli alberi e non sapesse dare alcuna descrizione di una dimora, salvo che era stato cacciato dall'ultima. Mentre camminavo verso [[Home|casa]] attraverso un crepuscolo nuvoloso e purpureo, mi domandavo come se la sarebbe cavata lui.
+
+Morale. Noi inglesi ci vantiamo sempre di essere assai illogici; non c'è gran male in ciò. Non c'è sottile male spirituale nel fatto che la gente si vanti sempre dei propri vizi; è quando comincia a vantarsi delle proprie virtù che diventa insopportabile. Ma va detto questo, che l'illogicità nella vostra costituzione o nei vostri metodi legali può divenire assai pericolosa se per caso vi è qualche gran vizio nazionale o qualche [[Temptation|tentazione]] nazionale di cui molti approfittano nel caos. Similmente, un ubriacone dovrebbe avere regole e orari rigidi; un uomo temperante può obbedire ai propri istinti.
+
+Prendete qualche assurda anomalia del diritto britannico—il fatto, per esempio, che un uomo cessando di essere Membro del Parlamento debba diventare Steward dei Chiltern Hundreds, una carica che, credo, in origine era intesa a tenere a bada certi banditi selvaggi presso i Chiltern, ovunque essi siano. Ovviamente questo tipo di illogicità non conta molto, per la semplice ragione che non v'è gran [[Temptation|tentazione]] ad approfittarne. Gli uomini che si ritirano dal Parlamento non hanno alcun furioso impulso a dar la caccia ai banditi sulle colline. Ma se vi fosse un reale pericolo che saggi, canuti, venerabili politici, prendendo congedo dalla vita pubblica, [[Desire|desiderassero]] fare questo (se, per esempio, ci fosse denaro in ciò), allora chiaramente, se continuassimo a dire che l'illogicità non conta, quando (di fatto) Sir [[Michael]] Hicks-Beach impiccasse ogni giorno bottegai dei Chiltern e ne confiscasse la proprietà, saremmo assai sciocchi. L'illogicità conterebbe, perché sarebbe divenuta una scusa per l'indulgenza. Sono solo i molto buoni che possono vivere vite dissolute.
+
+Ora, questo è esattamente ciò che è presente nei casi d'indagine di polizia come quello narrato sopra. In simili cose entra un gran peccato nazionale, un peccato assai più grande dell'ubriachezza—l'abitudine di rispettare un gentiluomo. Lo snobismo ha, come l'ubriachezza, una sorta di grande poesia. E lo snobismo ha questa peculiare e diabolica qualità del male, di essere dilagante fra persone assai gentili, dal cuore e dalla casa aperti. Ma è il nostro grande vizio inglese; da sorvegliare più ferocemente del vaiolo. Se un uomo volesse udire la cosa peggiore e più malvagia d'Inghilterra riassunta in casuali parole inglesi, non la troverebbe in alcuna turpe bestemmia o rissa scurrile. La troverebbe nel fatto che il miglior tipo di lavoratore, quando vuol lodare qualcuno, lo chiama «un gentiluomo». Non gli viene mai in mente che tanto varrebbe [[Well|bene]] chiamarlo «un marchese», o «un consigliere privato»—che egli sta semplicemente nominando un rango o una classe, non un'espressione per un uomo buono. E questa perenne [[Temptation|tentazione]] a una vergognosa ammirazione deve, e credo davvero, di continuo insinuarsi e distorcere e [[Poison|avvelenare]] i nostri metodi di polizia.
+
+In questo caso dobbiamo essere logici ed esatti; poiché dobbiamo vigilare su noi stessi. Il potere della ricchezza, e quel potere nella sua forma più vile, va crescendo nel mondo moderno. Un popolo assai buono e giusto, senza questa [[Temptation|tentazione]], potrebbe non aver bisogno, forse, di stabilire regole e sistemi chiari per premunirsi contro il potere dei nostri grandi finanzieri. Ma ciò è perché un popolo assai giusto li avrebbe fucilati da tempo, per puro schietto istinto.
+
 
 
 <span class="atom-split" data-atom="chapter_29" data-title="Tremendous Trifles — Chapter 28" data-chapter="Chapter 29" data-kind="chapter"></span>
@@ -10016,6 +11391,32 @@ of the rich and poor.  And as I pass into quieter places for the last
 sign of France on the sky-line, I see the [[Lion]] of Belfort stand at bay,
 the last sight of that great people which has never been at peace.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXVIII
+
+Il [[Lion|Leone]]
+
+Nella città di Belfort prendo una sedia e mi siedo per la strada. Parliamo, con una frase fatta, dell'Uomo della Strada, ma il francese è l'uomo della strada. Cose del tutto centrali per lui sono connesse a questi lampioni e a questi marciapiedi; tutto, dai suoi pasti ai suoi martirii. Quando per la prima volta un inglese guarda una città o un villaggio francese, la sua prima sensazione è semplicemente che è più brutto di una città o di un villaggio inglese; quando guarda di nuovo, vede che questa relativa assenza di pittoresco è espressa soprattutto dalla piatta, precipite facciata delle case che si ergono dure e piatte fuori dalla strada come le case di cartone in una pantomima—una dura angolosità forse imparentata con l'asprezza della [[logic|logica]] francese. Quando guarda una terza [[Time|volta]], vede assai semplicemente che è tutto perché le case non hanno giardinetti d'ingresso. Il vago spirito inglese ama che l'ingresso della sua [[house|casa]] sia addolcito da cespugli e interrotto da gradini. Ama avere una piccola anticamera di siepi, metà dentro la [[house|casa]] e metà fuori; una stanza verde in un [[Double|duplice]] senso. Il francese non desidera simili piccoli patetici bastioni o luoghi di sosta, poiché la strada stessa è per lui cosa naturale e familiare.
+
+. . . . .
+
+I francesi non hanno giardinetti d'ingresso; ma la strada è il [[Garden|giardino]] d'ingresso di ogni uomo. Ci sono alberi nella strada, e talvolta fontane. La strada è la taverna del francese, poiché egli beve nella strada. È la sua sala da pranzo, poiché egli pranza nella strada. È il suo British Museum, poiché le statue e i monumenti nelle strade francesi non sono, come da noi, la peggiore, ma la migliore arte del paese, e spesso sono davvero storici quanto le Piramidi. La strada, ancora, è il Parlamento del francese, poiché la Francia non ha mai preso la sua Camera dei Deputati tanto sul serio quanto noi prendiamo la nostra [[house|Camera]] dei Comuni, e i cavilli di meri nullità elette in una sala ufficiale sembrano fiacchi a un popolo i cui padri hanno udito la voce di Desmoulins come una tromba sotto il cielo aperto, o Victor Hugo gridare dalla sua carrozza fra le rovine della seconda Repubblica. E come il francese beve nella strada e pranza nella strada, così anche combatte nella strada e muore nella strada, sicché la strada non può mai essergli banale.
+
+Prendete, per esempio, un oggetto tanto semplice quanto un lampione. A [[London|Londra]] un lampione è cosa comica. Pensiamo al gentiluomo ubriaco che lo abbraccia, rammentando un'antica [[Friendship|amicizia]]. Ma a [[Paris|Parigi]] un lampione è cosa tragica. Poiché pensiamo ai tiranni appesi ad esso, e a una fine del mondo. C'è, o c'era, un aspro giornale repubblicano a [[Paris|Parigi]] chiamato LA LANTERNE. Come sarebbe buffo se ci fosse un giornale progressista in Inghilterra chiamato THE LAMP POST! Abbiamo detto, dunque, che il francese è l'uomo della strada; che può pranzare nella strada, e morire nella strada. E se mai passassi per [[Paris|Parigi]] e lo trovassi andare a letto nella strada, direi che egli è ancora fedele al genio della sua civiltà. Tutto ciò che è buono e tutto ciò che è malvagio in Francia è ugualmente connesso a questo elemento all'aria aperta. La [[democracy|democrazia]] francese e l'indecenza francese sono ugualmente parte del [[Desire|desiderio]] di avere ogni cosa all'aperto. Rispetto a un caffè, una [[house|casa]] pubblica è una [[house|casa]] privata.
+
+. . . . .
+
+C'erano due ragioni per cui tutte queste fantasie dovessero fluttuare nella mente per le strade di questa particolare città di Belfort. Anzitutto, essa giace vicino al confine fra Francia e [[Germany|Germania]], e i confini sono le cose più belle del mondo. [[Love|Amare]] qualcosa significa [[Love|amarne]] i confini; così i bambini giocheranno sempre sull'orlo di qualsiasi cosa. Costruiscono castelli sull'orlo del mare, e solo per pubblico proclama e privata violenza si possono trattenere dal camminare sull'orlo dell'erba. Poiché quando siamo giunti alla fine di una cosa siamo giunti al suo principio.
+
+Perciò questa città sembrava tanto più francese per essere sul margine stesso della [[Germany|Germania]], e benché ci fossero molti tocchi tedeschi nel luogo—nomi tedeschi, boccali di birra più grandi, ed enormi cameriere teatrali agghindate in una scandalosa [[Imitation|imitazione]] delle contadine alsaziane—pure il fisso colore francese sembrava tanto più forte per questi granelli di qualcos'altro. Per tutto il giorno e per tutta la [[Night|notte]] truppe di piccoli soldati polverosi, olivastri, sprezzanti arrancavano per le strade con un'aria di ostinato disgusto, poiché i soldati tedeschi hanno l'aria di disprezzarti, ma i soldati francesi come se disprezzassero te e se stessi ancor più di te. Fa parte, suppongo, del realismo della nazione che l'ha resa abile nella guerra e nella scienza e in altre cose in cui ciò che è necessario si combina con ciò che è sgradevole. E i soldati e i civili alla stessa maniera avevano per la maggior parte i capelli rasati, e quel curioso tipo di testa che a un inglese pare quasi brutale, il tipo che chiamiamo testa a proiettile. Anzi, parliamo assai appropriatamente quando la chiamiamo testa a proiettile, poiché nella [[history|storia]] intellettuale le teste dei francesi sono state proiettili—sì, e proiettili esplosivi.
+
+. . . . .
+
+Ma c'era una seconda ragione per cui in questo luogo si dovesse pensare particolarmente alla politica all'aria aperta e all'arte all'aria aperta dei francesi. Poiché questa città di Belfort è celebre per uno dei più tipici e possenti monumenti pubblici di Francia. Dal tavolino del caffè al quale siedo posso vedere la [[Hill|collina]] oltre la città su cui pende l'alta cittadella dalla faccia piatta, trafitta da molte finestre, e riscaldata nella luce della sera. Sulla ripida [[Hill|collina]] sottostante c'è un enorme [[Lion|leone]] di pietra, esso stesso grande quanto una [[Hill|collina]]. È sbozzato dalla roccia con una sorta di gigantesca impressione. Nessun banale tentativo è stato fatto di renderlo simile a una comune statua; nessun tentativo di scolpire la criniera in riccioli, o di distinguere il [[Monster|mostro]] minutamente dalla terra da cui si leva, scuotendo il mondo. Il volto del [[Lion|leone]] ha qualcosa dell'ardita convenzionalità dell'arte assira. La criniera del [[Lion|leone]] è lasciata come un'informe nube di tempesta, come se di lui si potesse letteralmente dire che Dio gli aveva rivestito il collo di tuono. Persino a questa distanza la cosa appare vasta, e in un certo senso preistorica. Eppure fu scolpita solo poco tempo fa. Commemora il fatto che questa città non fu mai presa dai tedeschi per tutto il terribile anno, ma depose le armi solo infine al comando del proprio [[government|Governo]]. Ma lo spirito di essa è stato in questa terra fin dal principio—lo spirito di qualcosa di sfidante e quasi sconfitto.
+
+Mentre lascio questo luogo e prendo la ferrovia per la [[Germany|Germania]], le notizie giungono sempre più fitte su per le strade che la Francia meridionale è in fiamme, e che là forse si combatterà infine la tremenda battaglia moderna dei ricchi e dei poveri. E mentre passo verso luoghi più quieti, per l'ultimo segno della Francia sulla linea del cielo, vedo il [[Lion|Leone]] di Belfort tenersi in guardia, l'ultima visione di quel gran popolo che non è mai stato in pace.
 
 
 
@@ -10196,6 +11597,42 @@ his food within a foot of a [[Child|child]]'s head, as in the stable
 where [[Christ]] was born.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XXIX
+
+L'umanità: un interludio
+
+Se si eccettuano alcune belle opere d'arte, che paiono trovarsi lì per caso, la [[City|città]] di Bruxelles è come una cattiva [[Paris|Parigi]], una [[Paris|Parigi]] a cui sia stato asportato tutto ciò che è nobile e lasciato dentro tutto ciò che è meschino. Nessuno può comprendere [[Paris|Parigi]] e la sua [[history|storia]] se non comprende che la sua ferocia è il contrappeso e la giustificazione della sua frivolezza. La si chiama [[City|città]] del piacere; ma la si può anche chiamare, in modo del tutto particolare, [[City|città]] del [[Pain|dolore]]. La [[Crown|corona]] di rose è anche una [[Crown|corona]] di spine. La sua gente è troppo incline a ferire gli altri, ma pure prontissima a ferire sé stessa. Sono martiri per la religione, sono martiri per l'irreligione; sono perfino martiri per l'immoralità. Poiché l'oscenità di molti dei loro libri e giornali non è di quel genere che affascina e seduce, ma di quel genere che inorridisce e ferisce; è un tormentare sé stessi. Sferzano il proprio patriottismo per animarlo con le stesse fruste che la maggior parte degli uomini usa per ridurre gli stranieri al [[Silence|silenzio]]. I nemici della Francia non sanno mai rendere conto della sua infamia o della sua [[Decay|decadenza]] in un modo che non risulti insipido e perfino garbato a confronto delle cose che i nazionalisti di Francia dicono della propria nazione. Si scherniscono e si tormentano; talvolta si opprimono perfino deliberatamente. Così, quando la folla di [[Paris|Parigi]] poté darsi un [[government|Governo]] a proprio piacimento, si fabbricò una sorta di [[Sublime|sublime]] tirannia per comandare sé stessa. Lo spirito è lo stesso, dalle [[Crusades|Crociate]] o dalla notte di San Bartolomeo fino all'apoteosi di Zola. Gli antichi uomini religiosi torturavano gli uomini fisicamente per una [[Truth|verità]] morale. I nuovi realisti torturano gli uomini moralmente per una [[Truth|verità]] fisica.
+
+Ora Bruxelles è [[Paris|Parigi]] senza questa costante [[Purification|purificazione]] del [[Pain|dolore]]. Le sue oscenità non sono spiacevoli incidenti in una rivoluzione eterna. Non possiede nulla di ciò che fa [[Love|amare]] [[Paris|Parigi]] ai buoni francesi; possiede soltanto ciò che la fa [[Love|amare]] agli inglesi indicibili. Ha la parte che è cosmopolita — e che restringe; non la parte che è parigina — e universale. Vi si possono trovare (come accade di solito nei centri moderni) le cose peggiori di tutte le nazioni: il DAILY MAIL dall'Inghilterra, le filosofie a buon mercato dalla [[Germany|Germania]], i romanzi licenziosi di Francia e i liquori d'[[america|America]]. Ma non c'è la larga ilarità inglese, non la cortese cerimoniosità tedesca, non l'euforia americana e, soprattutto, non la tradizione francese del battersi per un'idea. Benché tutti i viali somiglino ai viali parigini, benché tutte le botteghe somiglino alle botteghe parigine, non li si può fissare per due minuti di seguito senza avvertire tutta la distanza che corre, poniamo, tra [[King|re]] Leopoldo e combattenti come Clemenceau e Déroulède.
+
+. . . . .
+
+Per tutte queste ragioni, e molte altre, quando fui giunto a Bruxelles cominciai a prendere tutte le disposizioni necessarie per venirne di nuovo fuori; e d'impulso ero salito su un tram che pareva uscire dalla [[City|città]]. Su quel tram due uomini stavano conversando; uno era un ometto con una barba nera alla francese; l'altro era un uomo mezzo calvo con folte basette, come il conte straniero e finanziere di una farsa in tre atti. E intorno al [[Time|momento]] in cui raggiungemmo il sobborgo della [[City|città]], mentre il traffico si faceva più rado e i rumori più radi, cominciai a udire ciò che dicevano. Benché parlassero francese in fretta, le loro parole erano abbastanza facili da seguire, perché erano tutte parole lunghe. Chiunque può capire le parole lunghe, perché hanno in sé tutta la limpidezza del latino.
+
+L'uomo con la barba nera disse: «Bisogna che noi abbiamo il Progresso».
+
+L'uomo con le basette parò abilmente il colpo dicendo: «Bisogna anche che noi abbiamo il Consolidamento Internazionale».
+
+È il genere di discussione che a me piace, sicché ascoltai con una certa attenzione, e credo di averne colto il filo. Uno dei due belgi era un Piccolo Belga, come noi diciamo un Piccolo Inglese. L'altro era un Imperialista belga, poiché, sebbene il Belgio non sia proprio abbastanza forte da essere del tutto una nazione, è però abbastanza forte da essere un impero. Essere una nazione significa tener testa ai propri pari, mentre essere un impero significa soltanto prendere a calci i propri inferiori. L'uomo con le basette era l'Imperialista, e diceva: «La scienza, ecco la nuova guida dell'umanità».
+
+E l'uomo con la barba gli rispose: «Non basta avere il progresso nella scienza; bisogna averlo anche nel sentimento della giustizia umana».
+
+A questa osservazione applaudii, come si fa a un pubblico comizio, ma erano troppo presi dalla loro disputa per udirmi. Simili opinioni le ho udite spesso in Inghilterra, ma mai espresse con tanta lucidità, e di certo mai con tanta rapidità. Belgi di nazione, dovevano entrambi essere nell'intimo essenzialmente francesi. Basette era imbattibile sull'[[Education|istruzione]], la quale, a quanto pare, è in marcia. Tutto il mondo si avvia a rendersi istruito. Bisogna che i più istruiti illuminino i meno istruiti. Eh, [[Well|ebbene]] allora, l'europeo deve imporre al selvaggio la scienza e la luce. Inoltre (a quanto pare) deve imporre sé stesso al selvaggio, già che c'è. Oggi si viaggiava in fretta. La scienza aveva mutato tutto. Quanto ai nostri padri, essi erano religiosi, e (ciò che era peggio) morti. Oggi l'umanità aveva l'elettricità a portata di mano; le macchine venivano dal trionfare; tutte le linee e i confini del globo si cancellavano da soli. Presto non vi sarebbero stati che i grandi Imperi e le confederazioni, guidati dalla scienza, sempre la scienza.
+
+Qui Basette si fermò un istante per prendere fiato; e l'uomo dal sentimento per la giustizia umana in un lampo gli tolse «la parole». Senza [[Doubt|dubbio]] l'Umanità era in marcia, ma verso i sentimenti, l'ideale, i metodi morali e pacifici. L'Umanità si dirigeva verso l'Umanità. Le vostre guerre e i vostri imperi in nome della civiltà, che cosa erano in effetti? La guerra, non era essa stessa una faccenda di barbarie? Gli Imperi, non erano cose selvagge? L'Umanità aveva superato tutto questo; ella era ormai intellettuale. [[tolstoy|Tolstoj]] aveva raffinato tutte le anime umane con i sentimenti più delicati e giusti. L'uomo era divenuto uno spirito; le ali spingevano...
+
+. . . . .
+
+A questo importante punto dell'evoluzione il tram si arrestò con uno scossone; e guardandomi attorno scoprii, con sbalordita costernazione, che era quasi buio, che ero lontanissimo da Bruxelles, che non potevo neppure sognare di tornare in tempo per la cena; in breve, che, per la tenace fascinazione di quella grande controversia sull'Umanità e sulla sua recente e completa trasformazione a opera della scienza o di [[tolstoy|Tolstoj]], ero finito il cielo sa dove. Scesi in fretta dal tram suburbano e lo lasciai proseguire senza di me.
+
+Ero [[Alone|solo]] nei campi pianeggianti, fuori dalla vista della [[City|città]]. Da un lato della [[Road|strada]] c'era uno di quei boschi piccoli e radi che sono comuni in tutti i paesi, ma che, per una coincidenza, i pittori mistici delle Fiandre amavano molto. La [[Night|notte]] calava con un viola e un grigio nuvolosi; c'era un solo nastro d'argento, l'ultimo brandello del tramonto. Attraverso il bosco correva un unico sentiero, e in qualche modo lasciava intendere che potesse condurre a qualche segno di vita: non v'era altro segno di vita all'orizzonte. Lo percorsi, e presto sprofondai in una sorta di crepuscolo danzante di tutti quei minuti alberi. C'è qualcosa di sottile e sconcertante in quel genere di bosco fragile e fantastico. Una foresta di grandi alberi pare una barriera corporea; ma in qualche modo quella foschia di linee sottili pare una barriera spirituale. È come se si fosse imprigionati in una nuvola fatata o non si potesse oltrepassare un [[Phantom|fantasma]]. Quando ebbi [[Well|ben]] perduto l'ultimo bagliore dell'alta [[Road|strada]] maestra, un sentimento curioso e preciso mi assalì. Ora avvertii d'un tratto qualcosa di assai più concreto e straordinario: l'assenza dell'umanità, una [[Loneliness|solitudine]] disumana. Certo, nel mio stato nulla era davvero perduto; ma quel sentimento può cogliere chiunque ovunque. Volevo uomini, uomini qualunque; e sentii la nostra terribile alleanza su tutto il globo. E infine, quando ebbi camminato per quello che parve un lungo [[Time|tempo]], vidi una luce troppo vicina alla terra per significare qualcosa di diverso dall'immagine di Dio.
+
+Sbucai in uno spiazzo aperto e su un lungo, basso casolare, la cui porta era aperta ma bloccata da un grosso [[Horse|cavallo]] grigio, che pareva preferisse mangiare con la testa dentro il tinello. Gli passai accanto e scoprii che veniva nutrito da un giovane il quale sedeva a bere birra là dentro, e che mi salutò con pesante cortesia campagnola, ma in una lingua strana. La stanza era piena di volti fissi come civette, e li ricondussi alla fine a circa sei bambini piccoli. Il loro padre lavorava ancora nei campi, ma la loro madre si [[Rose|alzò]] quando entrai. Sorrise, ma lei e tutti gli altri parlavano una qualche lingua rozza, fiammingo, suppongo; sicché dovemmo mostrarci gentili l'uno con l'altro a gesti. Mi portò della birra e m'indicò col dito la strada; e io disegnai un'immagine per far piacere ai bambini; e poiché era l'immagine di due uomini che si colpivano con la spada, piacque loro moltissimo. Poi diedi una moneta belga a ciascun [[Child|bambino]], perché, come dissi a caso in francese, «Bisogna che abbiamo l'uguaglianza economica». Ma essi non avevano mai udito parlare di uguaglianza economica, mentre tutti gli operai di Battersea hanno udito parlare di uguaglianza economica, benché sia vero che non ce l'hanno.
+
+Ritrovai la via per tornare alla [[City|città]], e qualche [[Time|tempo]] dopo vidi davvero in strada i miei due uomini che discutevano, senza [[Doubt|dubbio]] ancora affermando, l'uno che la Scienza aveva mutato tutto nell'Umanità, e l'altro che l'Umanità stava ormai spingendo le ali del puramente intellettuale. Ma per me l'Umanità era agganciata a un'immagine casuale. Pensai a una [[house|casa]] bassa e solitaria nella pianura, dietro un velo o una pellicola di alberi esili, a un uomo che rompeva il terreno come gli uomini l'hanno rotto fin dal primo mattino, e a un enorme [[Horse|cavallo]] grigio che masticava il proprio cibo a un palmo dalla testa di un [[Child|bambino]], come nella stalla dove nacque [[Christ|Cristo]].
+
 
 
 <span class="atom-split" data-atom="chapter_31" data-title="Tremendous Trifles — Chapter 30" data-chapter="Chapter 31" data-kind="chapter"></span>
@@ -10354,6 +11791,51 @@ that with us the super-human is the only place where you can find
 the human.  Human [[Nature|nature]] is hunted and has fled into sanctuary.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XXX
+
+I piccoli [[Birds|uccelli]] che non vogliono cantare
+
+Nell'ultima mattina che trascorsi sulla costa fiamminga, quando sapevo che di lì a poche ore sarei stato in Inghilterra, il mio occhio cadde su uno di quei dettagli di intaglio gotico di cui le Fiandre sono piene. Non so se la cosa sia antica, sebbene fosse di certo malconcia e indecifrabile, ma era per lo meno di certo nello stile e nella tradizione del primo Medioevo. Pareva raffigurare uomini che si piegavano (per non dire si contorcevano) a certe occupazioni primarie. Alcuni sembravano marinai che tiravano funi; altri, credo, mietevano; altri versavano con energia qualcosa dentro qualcos'altro. Ciò è del tutto caratteristico delle immagini e degli intagli del primo Duecento, forse il [[Time|tempo]] più puramente vigoroso di tutta la [[history|storia]]. I grandi greci preferivano scolpire i loro dèi ed eroi mentre non facevano nulla. Per quanto splendida e filosofica sia la loro compostezza, vi è sempre in essa qualcosa che segna il padrone di molti schiavi. Ma se c'era una cosa che i primi medievali amavano, era rappresentare gente intenta a fare qualcosa: cacciare o andare a caccia col falcone, o remare barche, o pigiare l'uva, o fabbricare scarpe, o cuocere qualcosa in una pentola. «Quicquid agunt homines, votum, timor, ira voluptas.» (Cito a [[Memory|memoria]].) Il Medioevo è pieno di quello spirito in tutti i suoi monumenti e manoscritti. Chaucer lo conserva nella sua gioviale insistenza sul tipo di mestiere e di fatica di ciascuno. Fu la più antica e più giovane [[Resurrection|resurrezione]] d'Europa, il [[Time|tempo]] in cui l'ordine sociale si andava rafforzando, ma non era ancora divenuto opprimente; il [[Time|tempo]] in cui le fedi religiose erano forti, ma non ancora esasperate. Per questa ragione l'effetto complessivo dell'intaglio greco e di quello gotico è diverso. Le figure dei marmi di Elgin, benché spesso trattengano i loro destrieri per un istante a mezz'aria, paiono gelate per sempre in quell'istante perfetto. Ma una massa di intaglio medievale pare in realtà una sorta di trambusto o baccano nella pietra. Talvolta non si può fare a meno di sentire che i gruppi si muovono e si mescolano davvero, e l'intera facciata di una grande [[Cathedral|cattedrale]] ha il ronzio di un enorme alveare.
+
+. . . . .
+
+Ma a proposito di quelle figure particolari vi era una singolarità di cui non riuscivo a esser certo. Quelle di esse che avevano una testa avevano teste assai curiose, e mi parve che tenessero la bocca aperta. Se ciò significasse davvero qualcosa o fosse un caso di un'arte nascente non so; ma nel corso delle mie fantasticherie mi tornò alla mente il fatto che il canto era legato a molti dei compiti là suggeriti, che c'erano [[songs|canti]] per i mietitori e [[songs|canti]] per i marinai che tiravano le funi. Stavo ancora pensando a questo piccolo problema mentre camminavo lungo il molo di Ostenda; e udii alcuni marinai emettere un grido cadenzato mentre faticavano, e ricordai che i marinai cantano ancora in [[Chorus|coro]] mentre lavorano, e cantano perfino [[songs|canti]] diversi a seconda di quale parte del loro lavoro stiano facendo. E poco dopo, quando il mio [[Journey|viaggio]] per mare fu terminato, la vista di uomini al lavoro nei campi inglesi mi ricordò di nuovo che ci sono ancora [[songs|canti]] per la mietitura e per molte incombenze agricole. E d'un tratto mi chiesi perché, se le cose stavano così, dovesse essere del tutto ignoto che un qualsiasi mestiere moderno avesse una poesia rituale. Come mai la gente era giunta a intonare rudi [[Poems|poemi]] tirando certe funi o cogliendo certi frutti, e perché nessuno faceva nulla del genere mentre produceva una qualsiasi delle cose moderne? Perché un giornale moderno non viene mai stampato da gente che canta in [[Chorus|coro]]? Perché i bottegai cantano di rado, se mai lo fanno?
+
+. . . . .
+
+Se i mietitori cantano mentre mietono, perché i revisori non dovrebbero cantare mentre fanno la revisione dei conti e i banchieri mentre esercitano la banca? Se ci sono [[songs|canti]] per tutte le singole cose che devono esser fatte su una barca, perché non ci sono [[songs|canti]] per tutte le singole cose che devono esser fatte in una banca? Mentre il treno da Dover volava attraverso i giardini del Kent, provai a scrivere alcuni [[songs|canti]] adatti ai signori del commercio. Così, il lavoro degli impiegati di banca nel sommare le colonne potrebbe cominciare con un tonante [[Chorus|coro]] in lode della Semplice Addizione.
+
+«Su, ragazzi, e sollevate i registri, il [[Sleep|sonno]] e l'agio sono finiti.
+Udite le [[Stars|Stelle]] del Mattino gridare: 'Due più due fa quattro.'
+Benché i credi e i regni vacillino, benché i sofisti ruggiscano,
+benché piangiamo e impegniamo gli orologi, Due più Due fa Quattro.»
+
+«C'è una corsa agli sportelli della Banca — Fatevi da parte! Perché il Direttore è
+un tipo bizzarro e il Segretario ha bevuto,
+e la Banca di Upper Tooting
+si volge a far fronte!
+State vicini: c'è una corsa alla Banca. Della nostra [[Ship|nave]], la nostra regale,
+si diffonda la squillante leggenda,
+che ella fece fuoco con ogni cannone
+prima di affondare.
+
+. . . . .
+
+E come entrai nella nube di [[London|Londra]] incontrai un mio amico che effettivamente lavora in una banca, e gli sottoposi questi suggerimenti in rima perché ne facesse uso tra i suoi colleghi. Ma egli non era molto fiducioso al riguardo. Non era (mi assicurò) che sottovalutasse i versi, o che in alcun senso ne lamentasse la mancanza di levigatezza. No; era piuttosto, sentiva, un indefinibile qualcosa nell'atmosfera stessa della società in cui viviamo, che rende spiritualmente difficile cantare nelle banche. E credo che egli debba avere ragione; benché la cosa sia assai misteriosa. Posso osservare qui che credo debba esserci qualche errore nei calcoli dei socialisti. Essi attribuiscono tutta la nostra sventura non a un tono morale, ma al caos dell'iniziativa privata. Ora, le banche sono private; ma gli uffici postali sono socialisti: perciò mi aspettavo naturalmente che l'ufficio postale abbracciasse l'idea collettivista di un [[Chorus|coro]]. Giudicate della mia sorpresa quando la signora del mio ufficio postale di quartiere (che esortavo a cantare) respinse l'idea con ben maggiore freddezza di quanta ne avesse mostrata l'impiegato di banca. Pareva anzi trovarsi in uno stato di depressione notevolmente più grave del suo. Qualora qualcuno supponesse che ciò fosse l'effetto dei versi stessi, è solo giusto dire che il verso di saggio dell'[[Hymn|Inno]] delle Poste suonava così:
+
+«Su [[London|Londra]] le nostre lettere si scuotono come [[Snow|neve]],
+i nostri fili per il mondo vanno come le folgori.
+La notizia che può maritare una fanciulla a Sark,
+o uccidere una vecchia signora a Finsbury Park.»
+
+[[Chorus|Coro]] (con uno slancio di gioia ed energia):
+
+«O uccidere una vecchia signora a Finsbury Park.»
+
+E più pensavo alla cosa, più dolorosamente certo mi pareva che le cose moderne più importanti e tipiche non potessero esser fatte con un [[Chorus|coro]]. Non si potrebbe, per esempio, essere un grande finanziere e cantare; perché l'essenza dell'essere un grande finanziere è che si sta zitti. Non si potrebbe, in molti ambienti moderni, neppure essere un uomo pubblico e cantare; perché in quegli ambienti l'essenza dell'essere un uomo pubblico è che si fa quasi tutto in privato. Nessuno immaginerebbe un [[Chorus|coro]] di usurai. Tutti conoscono la storia del corpo di volontari dei procuratori legali che, quando il Colonnello sul [[Battlefield|campo di battaglia]] gridò «All'attacco!», dissero tutti simultaneamente: «Sei scellini e otto pence». Gli uomini sanno cantare mentre attaccano in senso militare, ma difficilmente in senso legale. E al termine delle mie riflessioni non ero giunto in realtà più in là del sentimento subcosciente del mio amico impiegato di banca: che vi è qualcosa di spiritualmente soffocante nella nostra vita; non nelle nostre leggi soltanto, ma nella nostra vita. Gli impiegati di banca sono privi di [[songs|canti]], non perché sono poveri, ma perché sono tristi. I marinai sono molto più poveri. Mentre passavo diretto verso casa, passai davanti a un piccolo edificio di latta di qualche genere religioso, che era scosso da grida come una tromba è lacerata dalla propria lingua. LORO cantavano comunque; e per un istante ebbi una fantasia che avevo già avuto spesso in passato: che presso di noi il sovrumano è il solo luogo in cui si possa trovare l'umano. La [[Nature|natura]] umana è braccata e si è rifugiata in un santuario.
+
 
 
 <span class="atom-split" data-atom="chapter_32" data-title="Tremendous Trifles — Chapter 31" data-chapter="Chapter 32" data-kind="chapter"></span>
@@ -10508,6 +11990,44 @@ Let us admire the ivy; and let us pray to God in His [[Mercy|mercy]]
 that it may not kill the tree."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XXXI
+
+L'[[Riddle|enigma]] dell'edera
+
+Più di un mese fa, mentre lasciavo [[London|Londra]] per una vacanza, un amico entrò nel mio appartamento a Battersea e mi trovò circondato di bagagli riempiti a metà.
+
+«Sembri in partenza per i tuoi viaggi», disse. «Dove vai?»
+
+Con una cinghia fra i denti risposi: «A Battersea».
+
+«Lo spirito della tua osservazione», disse, «mi sfugge del tutto».
+
+«Vado a Battersea», ripetei, «a Battersea via [[Paris|Parigi]], Belfort, Heidelberg e Francoforte. La mia osservazione non conteneva alcuno spirito. Conteneva semplicemente la [[Truth|verità]]. Ho intenzione di errare per il mondo intero finché non ritrovi ancora una volta Battersea. Da qualche parte nei mari del tramonto o dell'alba, da qualche parte nell'estremo arcipelago della terra, c'è una piccola isola che desidero trovare: un'isola dalle basse colline verdi e dalle grandi bianche scogliere. I viaggiatori mi dicono che si chiama Inghilterra (i viaggiatori scozzesi mi dicono che si chiama Britannia), e corre voce che da qualche parte nel suo cuore ci sia un bel luogo chiamato Battersea».
+
+«Suppongo sia superfluo dirti», disse il mio amico, con un'aria di comparazione intellettuale, «che questa è Battersea?»
+
+«È del tutto superfluo», dissi, «ed è spiritualmente falso. Non riesco a vedere qui alcuna Battersea; non riesco a vedere alcuna [[London|Londra]] né alcuna Inghilterra. Non riesco a vedere quella porta. Non riesco a vedere quella sedia: perché una nube di [[Sleep|sonno]] e di consuetudine mi è calata sugli occhi. L'unico modo per tornare a esse è andare altrove; e questo è il vero scopo del viaggiare e il vero piacere delle vacanze. Credi forse che io vada in Francia per vedere la Francia? Credi forse che io vada in [[Germany|Germania]] per vedere la [[Germany|Germania]]? Le godrò entrambe; ma non sono esse che cerco. Cerco Battersea. Lo scopo intero del viaggiare non è posare il piede su terra straniera; è, alla fine, posare il piede sul proprio paese come su una terra straniera. Ora ti avverto che questa valigia Gladstone è compatta e pesante, e che se pronuncerai quella parola, '[[Paradox|paradosso]]', te la scaglierò in testa. Non ho fatto io il mondo, e non l'ho fatto io paradossale. Non è colpa mia, è la [[Truth|verità]], che l'unico modo di andare in Inghilterra sia andarsene via da essa».
+
+Ma quando, dopo appena un mese di viaggio, tornai davvero in Inghilterra, mi stupii nel trovare che avevo detto l'esatta [[Truth|verità]]. L'Inghilterra mi si dischiuse d'un tratto splendidamente nuova e splendidamente antica. Sbarcare a Dover è il modo giusto di avvicinarsi all'Inghilterra (la maggior parte delle cose trite sono giuste), poiché allora si vedono per primi i pieni, morbidi giardini del [[Kent|Kent]], che sono, forse, un'esagerazione, ma pur sempre un'esagerazione tipica, della ricca rusticità dell'Inghilterra. Accadde inoltre che una compagna di viaggio con la quale avevo attaccato conversazione provasse la stessa freschezza, benché per un'altra causa. Era una signora americana che aveva visto l'Europa e non aveva ancora mai visto l'Inghilterra, ed esprimeva il suo entusiasmo in quel modo semplice e splendido che è naturale agli americani, i quali sono il popolo più idealista del mondo intero. Il loro unico pericolo è che l'idealista possa facilmente divenire idolatra. E l'americano è divenuto così idealista che idealizza perfino il denaro. Ma (per citare un abilissimo autore di racconti americani) questa è un'altra storia.
+
+«Non sono mai stata in Inghilterra prima d'ora», disse la signora americana, «eppure è così graziosa che mi sento come se ne fossi stata lontana per un lungo [[Time|tempo]]».
+
+«E infatti lo sei stata», dissi; «ne sei stata lontana per trecento anni».
+
+«Quanta edera avete», disse. «Ricopre le chiese e seppellisce le case. Anche noi abbiamo l'edera; ma non l'ho mai vista crescere così».
+
+«Mi interessa udirlo», replicai, «poiché sto compilando un piccolo elenco di tutte le cose che sono davvero migliori in Inghilterra. Anche un solo mese sul Continente, unito all'intelligenza, vi insegnerà che ci sono molte cose che sono migliori all'estero. Tutte le cose che il DAILY MAIL chiama inglesi sono migliori all'estero. Ma ci sono cose interamente inglesi e interamente buone. Le aringhe affumicate, per esempio, e il Libero Scambio, e i giardinetti davanti a casa, e la libertà individuale, e il dramma elisabettiano, e le carrozzelle hansom, e il cricket, e il signor Will Crooks. Soprattutto, c'è la felice e santa consuetudine di consumare una colazione abbondante. Non riesco a immaginare che Shakespeare cominciasse la giornata con panini e caffè, come un francese o un tedesco. Certamente cominciava con la pancetta o le aringhe affumicate. Anzi, mi si accende una luce; per la prima [[Time|volta]] vedo il vero significato della signora Gallup e del Gran Cifrario. È soltanto un errore in fatto di lettera maiuscola. Ritiro le mie obiezioni; accetto tutto: fu Bacon a scrivere Shakespeare».
+
+«Non riesco a guardare nient'altro che l'edera», disse, «ha un aspetto così accogliente».
+
+Mentre lei guardava l'edera, aprii per la prima [[Time|volta]] da molte settimane un giornale inglese, e lessi un discorso del signor Balfour in cui diceva che la [[house|Camera]] dei Lord doveva essere conservata perché rappresentava qualcosa della [[Nature|natura]] dell'opinione pubblica permanente dell'Inghilterra, al di sopra del flusso e riflusso dei partiti. Ora, il signor Balfour è un patriota perfettamente sincero, un uomo che, dal proprio punto di vista, pensa a lungo e seriamente ai bisogni pubblici, ed è, per di più, un uomo di forza intellettuale del tutto eccezionale. Ma ahimè, nonostante tutto ciò, quando ebbi letto quel discorso pensai con cuore pesante che c'era un'altra cosa che dovevo aggiungere all'elenco delle cose specialmente inglesi, come le aringhe e il cricket; dovevo aggiungere quella specie specialmente inglese di ipocrisia. In Francia le cose vengono attaccate e difese per ciò che sono. La [[Catholic Church|Chiesa cattolica]] viene attaccata perché è cattolica, e difesa perché è cattolica. La Repubblica viene difesa perché è repubblicana, e attaccata perché è repubblicana. Ma ecco il più abile dei politici inglesi che consola tutti dicendo loro che la [[house|Camera]] dei Lord non è in realtà la [[house|Camera]] dei Lord, ma qualcosa di del tutto diverso, che i pari sciocchi e casuali che egli incontra ogni [[Night|sera]] sono, in qualche modo misterioso, esperti della psicologia della [[democracy|democrazia]]; che se si vuol sapere ciò che vogliono i poverissimi bisogna chiederlo ai ricchissimi, e che se si vuole la [[Truth|verità]] su Hoxton, bisogna andarla a chiedere a Hatfield. Se il difensore conservatore della [[house|Camera]] dei Lord fosse un logico politico francese, sarebbe semplicemente un bugiardo. Ma essendo un politico inglese è semplicemente un poeta. L'[[Love|amore]] inglese di credere che tutto sia come dovrebbe essere, l'ottimismo inglese unito alla forte [[Imagination|immaginazione]] inglese, è troppo perfino per gli evidenti fatti. In senso freddo e scientifico, naturalmente, il signor Balfour sa che quasi tutti i Lord che non sono Lord per caso lo sono per corruzione. Egli sa, e (come ha detto egregiamente il signor Belloc) chiunque in Parlamento sa, i nomi stessi dei pari che hanno acquistato il loro titolo nobiliare. Ma la seduzione del conforto, il piacere di rassicurare sé stesso e di rassicurare gli altri, è troppo forte per questa conoscenza originaria; alla fine essa svanisce in lui, ed egli sinceramente e con fervore invita gli inglesi a unirsi a lui nell'ammirare un augusto Senato animato da spirito pubblico, avendo del tutto dimenticato che il Senato in realtà è composto di idioti che egli stesso ha disprezzato; e di avventurieri che egli stesso ha nobilitato.
+
+«La vostra edera è così splendidamente soffice e fitta», disse la signora americana, «pare ricoprire quasi ogni cosa. Dev'essere la cosa più poetica dell'Inghilterra».
+
+«È bellissima», dissi, «e, come dite, è molto inglese. Charles Dickens, che era quasi più inglese dell'Inghilterra, scrisse una delle sue rare [[Poems|poesie]] sulla [[Beauty|bellezza]] dell'edera. Sì, ammiriamo pure l'edera, così profonda, così calda, così colma di una geniale malinconia e di una [[Grotesque|grottesca]] tenerezza. Ammiriamo l'edera; e preghiamo Dio nella Sua [[Mercy|misericordia]] affinché non uccida l'albero».
+
 
 
 <span class="atom-split" data-atom="chapter_33" data-title="Tremendous Trifles — Chapter 32" data-chapter="Chapter 33" data-kind="chapter"></span>
@@ -10659,6 +12179,36 @@ They have taken the prisoners away, and I do not know what they
 have done with them.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XXXII
+
+I viaggiatori in pompa magna
+
+L'altro giorno, con mia grande sorpresa, presi un treno; era un treno diretto verso le Contee Orientali, e lo presi appena in tempo. E mentre correvo lungo il treno (fra l'ammirazione generale) notai che c'era un numero del tutto peculiare e insolito di carrozze contrassegnate come «Riservate». Su cinque, sei, sette, otto, nove carrozze era incollato il piccolo avviso: a cinque, sei, sette, otto, nove finestrini stavano grandi uomini imperturbabili che guardavano fuori con la consapevole [[Pride|fierezza]] del possesso. I loro corpi parevano più che mai impenetrabili, i loro volti più che mai placidi. Non poteva trattarsi del Derby, non foss'altro che per le ragioni minori che era la direzione opposta e il giorno sbagliato. Difficilmente poteva trattarsi del [[King|re]]. Difficilmente poteva trattarsi del Presidente francese. Poiché, benché a queste persone illustri piaccia naturalmente essere private per tre ore, esse sono almeno pubbliche per tre minuti. Una folla può radunarsi per vederle salire sul treno; e qui non c'era folla alcuna, né alcun cerimoniale di polizia.
+
+Chi erano quelle persone tremende, che occupavano più spazio del treno di quanto ne occuperebbe la scampagnata di un muratore, e tuttavia erano più schizzinose e delicate del [[King|re]] stesso col suo seguito? Chi erano costoro, che erano più numerosi di una folla, eppure più misteriosi di un monarca? Era possibile che, invece della nostra Reale [[house|Casa]] in visita allo Zar, fosse lui in realtà a far visita a noi? Oppure la [[house|Camera]] dei Lord fa colazione? Attesi e mi domandai, finché il treno rallentò a una qualche stazione in direzione di Cambridge. Allora i grandi uomini impenetrabili scesero, e dopo di loro scesero gli illustri titolari dei posti riservati. Erano tutti vestiti con decoro di un solo colore; avevano i capelli tagliati a spazzola; ed erano incatenati insieme.
+
+Guardai attraverso lo scompartimento l'unico altro occupante, e i nostri occhi si incontrarono. Era un uomo piccolo, dall'aria stanca, e, come appresi in seguito, nativo di Cambridge; a giudicare dall'aspetto, qualche artigiano del luogo, come un sarto a giornata o un piccolo aggiustatore di [[Clock|orologi]]. Per attaccare conversazione dissi che mi domandavo dove fossero diretti i forzati. La sua bocca ebbe un guizzo con l'ironia istintiva della nostra povera gente, ed egli disse: «'Un credo proprio ch'andranno a fa' 'na vacanza al mare co' le palette e i secchielli». Ne fui naturalmente deliziato e, proseguendo nella stessa vena d'invenzione letteraria, suggerii che forse i docenti universitari venivano portati giù a Cambridge incatenati insieme in quel modo. E poiché egli viveva a Cambridge, e aveva veduto parecchi docenti, la trovò una bella idea. Poi, quando avemmo cessato di ridere, d'un tratto restammo del tutto silenziosi; e i tetri, grigi occhi dell'ometto si fecero più tristi e più vuoti di un mare aperto. Sapevo ciò che stava pensando, perché stavo pensando lo stesso, perché tutti i sofisti moderni non sono che sofisti, ed esiste una cosa che si chiama genere umano. Poi infine (e la cosa cadde a puntino, esatta come la giusta nota finale di un motivo che si cerca di ricordare) egli disse: «[[Well|Beh]], suppongo che dobbiamo farlo». E in quelle tre cose, il suo primo discorso e il suo [[Silence|silenzio]] e il suo secondo discorso, c'erano tutti e tre i grandi fatti fondamentali della [[democracy|democrazia]] inglese: il suo profondo senso dell'[[Humour|umorismo]], il suo profondo senso del pathos e il suo profondo senso dell'impotenza.
+
+. . . . .
+
+Non si ripeterà mai abbastanza che ogni vera [[democracy|democrazia]] è un tentativo (come quello di una gioviale padrona di casa) di far uscire allo scoperto i timidi. Per ogni scopo pratico di uno Stato politico, per ogni scopo pratico di un tè fra amici, chi si umilia dev'essere esaltato. A un tè fra amici è del pari evidente che chi si esalta dev'essere umiliato, se possibile senza violenza fisica. Ora, si parla della [[democracy|democrazia]] come di qualcosa di rozzo e turbolento: è un errore evidente di per [[Self|sé]] nella semplice [[history|storia]]. L'aristocrazia è la cosa che è sempre rozza e turbolenta: perché significa appellarsi alle persone sicure di [[Self|sé]]. La [[democracy|Democrazia]] significa appellarsi alle persone diverse. La [[democracy|Democrazia]] significa indurre a votare quelle persone che non avrebbero mai la sfacciataggine di governare: e (secondo l'etica cristiana) le persone precise che dovrebbero governare sono le persone che non hanno la sfacciataggine di farlo. C'è un forte esempio di questa [[Truth|verità]] nel mio amico del treno. I soli due tipi di cui si sente parlare in questa discussione sul delitto e sul castigo sono due tipi assai rari e anomali.
+
+Sentiamo parlare del sentimentalista bell'e buono, che parla come se non ci fosse alcun problema: come se la benevolenza fisica potesse guarire ogni cosa: come se bastasse dare un buffetto a Nerone e accarezzare Ivan il Terribile. Questa mera fede nell'[[Humanitarianism|umanitarismo]] corporeo non è sentimentale; è semplicemente snobismo. Poiché, se l'agio dà agli uomini la virtù, le classi agiate dovrebbero essere virtuose — il che è assurdo. Poi, di nuovo, sentiamo parlare del tipo di sentimentalista ancora più fiacco e più acquoso: intendo il sentimentalista che dice, con una sorta di sputacchiare, «Frustate quelle bestie!», o che vi racconta con [[Innocent|innocente]] oscenità «ciò che egli farebbe» a un certo uomo — sempre supponendo che le mani dell'uomo fossero legate.
+
+Questo è il più effeminato dei due tipi; ma entrambi sono deboli e squilibrati. Ed è soltanto questi due tipi, l'umanitario sentimentale e il brutalista sentimentale, che si odono nella babele moderna. Eppure assai di rado si incontra l'uno o l'altro su un treno. Non si incontra mai nessun altro in una controversia. L'uomo che si incontra su un treno è come questo che ho incontrato io: è emotivamente a posto, solo che è intellettualmente incerto. Ben lungi dal crogiolarsi nelle cose ripugnanti che si potrebbero «fare» ai criminali, egli sente con amarezza quanto sarebbe meglio se non ci fosse nulla da fare. Ma qualcosa dev'essere fatto. «Suppongo che dobbiamo farlo». In breve, egli è semplicemente un uomo sano di mente, e di un uomo sano di mente c'è una sola definizione sicura. È un uomo che sa avere la [[Tragedy|tragedia]] nel cuore e la [[Comedy|commedia]] nella testa.
+
+. . . . .
+
+Ora, la vera difficoltà di discutere in modo decoroso questo problema del giusto trattamento dei criminali è che entrambe le parti discutono la questione senza alcun sentimento umano diretto. I fustigatori dell'ingiustizia sono freddi quanto gli organizzatori dell'ingiustizia. L'[[Humanitarianism|umanitarismo]] è duro quanto la disumanità.
+
+Prendiamo un solo esempio concreto. Ritengo che la fustigazione praticata nelle nostre prigioni moderne sia una tortura immonda; tutto il suo apparato scientifico, la fotografia, l'assistenza medica, provano che essa spinge fino all'ultimo turpe limite dello stivale e del cavalletto. Il gatto a nove code è semplicemente il cavalletto privo di tutte le sue ragioni intellettuali. Sostenendo con forza questa opinione, apro i comuni libri o giornali umanitari e vi trovo una frase come questa: «La sferza è un residuo di barbarie». Lo è anche l'aratro. Lo è anche la rete da pesca. Lo è anche il corno, o il bastone, o il [[Fire|fuoco]] acceso d'[[Winter|inverno]]. Che frase inesprimibilmente fiacca per qualsiasi cosa si voglia attaccare: un residuo di barbarie! È come se un uomo camminasse nudo per la strada domani, e noi dicessimo che i suoi abiti non erano proprio dell'ultima moda. Non c'è nulla di particolarmente ripugnante nell'essere un residuo di barbarie. L'uomo è un residuo di barbarie. La civiltà è un residuo di barbarie.
+
+Ma la tortura non è affatto un residuo di barbarie. In realtà è semplicemente un residuo di peccato; ma nella [[history|storia]] comparata la si può [[Well|ben]] chiamare un residuo di civiltà. È sempre stata più artistica ed elaborata quando ogni altra cosa era più artistica ed elaborata. Così fu squisitamente minuziosa nel tardo Impero romano, nel complesso e sfarzoso Cinquecento, nella monarchia francese centralizzata cent'anni prima della Rivoluzione, e nella grande civiltà cinese fino a oggi. Questa è, prima e soprattutto, la cosa spaventosa che dobbiamo ricordare. Nella misura in cui diveniamo istruiti e raffinati, non ci stiamo (in nessun senso qualsivoglia) naturalmente allontanando dalla tortura. Potremmo starci muovendo verso la tortura. Dobbiamo sapere ciò che facciamo, se vogliamo evitare l'enorme crudeltà segreta che ha coronato ogni civiltà storica.
+
+Il treno avanza più rapido attraverso i soleggiati campi inglesi. Hanno portato via i prigionieri, e io non so che cosa ne abbiano fatto.
+
 
 
 <span class="atom-split" data-atom="chapter_34" data-title="Tremendous Trifles — Chapter 33" data-chapter="Chapter 34" data-kind="chapter"></span>
@@ -10797,6 +12347,26 @@ their hardness is all on the cover and their softness is inside.
 But the softness is there; everything in this twilight
 temple is soft.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXXIII
+
+La stazione ferroviaria preistorica
+
+Una stazione ferroviaria è un luogo ammirevole, benché Ruskin non la pensasse così; non la pensava così perché egli stesso era ancora più moderno della stazione ferroviaria. Non la pensava così perché era egli stesso febbrile, irritabile e sbuffante come una locomotiva. Non sapeva apprezzare l'antico [[Silence|silenzio]] della stazione ferroviaria.
+
+«In una stazione ferroviaria», diceva, «si ha fretta, e perciò si è infelici»; ma non si è né l'uno né l'altro, a meno di non essere moderni quanto Ruskin. Il vero filosofo non pensa mai ad arrivare giusto in [[Time|tempo]] per il suo treno, se non come a una scommessa o a uno scherzo.
+
+L'unico modo di prendere un treno che io abbia mai scoperto è essere in ritardo per quello precedente. Fate questo, e troverete in una stazione ferroviaria molta della quiete e della consolazione di una [[Cathedral|cattedrale]]. Ha molte delle caratteristiche di un grande edificio ecclesiastico; ha vaste arcate, spazi vuoti, luci colorate e, soprattutto, ha la ricorrenza, ossia il rito. È consacrata alla celebrazione dell'[[Water|acqua]] e del [[Fire|fuoco]], i due elementi primi di ogni cerimoniale umano. Infine, una stazione somiglia alle antiche religioni piuttosto che a quelle nuove in questo punto: che la gente ci va. In relazione a ciò va anche ricordato che tutti i luoghi popolari, tutti i siti effettivamente usati dal popolo, tendono a conservare la migliore routine dell'antichità assai più di qualsiasi località o macchina usata da una qualsiasi classe privilegiata. Le cose non vengono alterate così in fretta o così completamente dalla gente comune come dalla gente alla moda. Ruskin avrebbe potuto trovare più memorie del Medioevo nella Metropolitana che nei grandi alberghi fuori dalle stazioni. I grandi palazzi del piacere che i ricchi edificano a [[London|Londra]] hanno tutti nomi sfacciati e volgari. I loro nomi sono o snobistici, come l'Hotel Cecil, o (peggio ancora) cosmopoliti, come l'Hotel Metropole. Ma quando vado in una carrozza di terza classe dalla più vicina stazione della circolare di Battersea alla più vicina stazione della circolare del DAILY NEWS, i nomi delle stazioni sono una lunga [[litany|litania]] di memorie solenni e sante. Lasciando Victoria giungo a un parco appartenente specialmente a San Giacomo Apostolo; di lì vado a Westminster Bridge, il cui nome stesso allude alla tremenda Abbazia; Charing [[Cross|Cross]] innalza il simbolo della Cristianità; la stazione successiva si chiama Temple; e Blackfriars ricorda il sogno medievale di una Confraternita.
+
+Se desiderate trovare il passato conservato, seguite i milioni di piedi della folla. Alla peggio, gli incolti logorano soltanto le cose antiche a forza di camminarci sopra. Ma i colti le abbattono a calci per pura cultura.
+
+Sento tutto questo profondamente mentre vago per la stazione ferroviaria deserta, dove non ho affari di alcun genere. Ho estratto un vasto numero di cioccolatini dalle macchine automatiche; ho ottenuto sigarette, caramelle mou, profumo e altre cose che detesto con lo stesso meccanismo; mi sono pesato, con [[Sublime|sublimi]] risultati; e questo senso, non soltanto della salubrità delle cose popolari, ma della loro essenziale antichità e permanenza, è ancora padrone della mia mente. Vago fino all'edicola dei libri, e la mia [[Faith|fede]] sopravvive perfino al selvaggio spettacolo della letteratura e del giornalismo moderni. Anche negli aspetti più crudi e più clamorosi del mondo dei giornali preferisco tuttora il popolare all'orgoglioso e schizzinoso. Se dovessi scegliere tra abbonarmi al DAILY MAIL e abbonarmi al TIMES (il dilemma ricorda un [[nightmare|incubo]]), griderei di certo con tutto il mio essere per il DAILY MAIL. Perfino la mera grossolanità predicata in modo frivolo non è tanto irritante quanto la mera meschinità predicata in modo grande e solenne. La gente compra il DAILY MAIL, ma non ci crede. Crede invece nel TIMES, e (a quanto pare) non lo compra. Ma quanto più si studia realmente la produzione di carta riversata sul mondo moderno, tanto più la si troverà, in tutti i suoi tratti essenziali, antica e umana, come il nome di Charing [[Cross|Cross]]. Indugiate per due o tre ore all'edicola di una stazione (come sto facendo io), e scoprirete che essa assume gradualmente la grandiosità e l'allusività storica del Vaticano o della Bodleian Library. La novità è tutta superficiale; la tradizione è tutta interiore e profonda. Il DAILY MAIL ha nuove edizioni, ma mai una nuova idea. Tutto ciò che in un giornale non è l'antico [[Love|amore]] umano per l'altare o per la patria è l'antico [[Love|amore]] umano per il pettegolezzo. Gli scrittori moderni hanno spesso deriso le antiche cronache perché registrano soprattutto incidenti e prodigi; una chiesa colpita dal [[Lightning|fulmine]], o un vitello con sei zampe. Non paiono rendersi conto che questa vecchia [[history|storia]] barbarica è la stessa cosa del nuovo giornalismo democratico. Non è che la cronaca selvaggia sia scomparsa. È soltanto che la cronaca selvaggia ora compare ogni mattina.
+
+Mentre mi muovevo così, mite e vago, davanti all'edicola, il mio occhio fu colpito da un titolo improvviso e scarlatto che per un momento mi sconvolse. Sulla copertina di un libro vidi scritto a grandi lettere: «Emergi o Sparisci». Il titolo del libro mi richiamò alla mente con una subitanea rivolta e reazione tutto ciò che pare indiscutibilmente nuovo e ripugnante; mi ricordò che c'era nel mondo di oggi quella cosa del tutto idiota, il culto del [[success|successo]]; una cosa che significa soltanto superare qualcuno in qualcosa; una cosa che può significare essere la persona di maggior successo nel fuggire da una battaglia; una cosa che può significare essere il più riuscito dormiglione dell'intera fila di uomini addormentati. Quando vidi quelle parole, il [[Silence|silenzio]] e la santità della stazione ferroviaria furono per un momento offuscati. Qui, pensai, c'è quanto meno qualcosa di anarchico e violento e vile. Questo titolo, quanto meno, significa il più disgustoso [[Individualism|individualismo]] di questo mondo individualistico. Nella furia della mia amarezza e passione comprai davvero il libro, assicurando così che il mio nemico avrebbe avuto un po' del mio denaro. Lo aprii preparato a trovarvi qualche brutalità, qualche bestemmia, che fosse davvero un'eccezione al generale [[Silence|silenzio]] e alla santità della stazione ferroviaria. Ero preparato a trovare nel libro qualcosa di infame quanto il suo titolo.
+
+Rimasi deluso. Non c'era nulla che corrispondesse alla furiosa perentorietà delle parole sulla copertina. Dopo averlo letto con cura non riuscii a scoprire se davvero dovessi emergere o sparire; ma ebbi la vaga sensazione che avrei preferito sparire. Una parte considerevole del libro, particolarmente verso la fine, riguardava una descrizione dettagliata della vita di Napoleone Bonaparte. Senza dubbio Napoleone emerse. E anche sparì. Ma non riuscii in alcun modo a scoprire come i particolari della sua vita qui riportati dovessero aiutare una persona che mira al [[success|successo]]. Un aneddoto descriveva come Napoleone si asciugasse sempre la penna sui calzoni al ginocchio. Suppongo che la morale sia: asciugati sempre la penna sui calzoni al ginocchio, e vincerai la battaglia di Wagram. Un'altra storia raccontava che egli lasciò libera una gazzella tra le dame della sua [[Court|Corte]]. Chiaramente la brutale inferenza pratica è: lascia libera una gazzella tra le dame che frequenti, e sarai Imperatore dei francesi. Emergi con una gazzella o sparisci. Il libro mi riconciliò completamente col morbido crepuscolo della stazione. Poi d'un tratto vidi che c'era una divisione simbolica che si potrebbe accostare alla biologia. Gli uomini coraggiosi sono vertebrati; hanno la morbidezza in superficie e la durezza al centro. Ma questi codardi moderni sono tutti crostacei; la loro durezza è tutta sul guscio e la loro morbidezza è all'interno. Ma la morbidezza c'è; ogni cosa in questo tempio crepuscolare è morbida.
 
 
 
@@ -10971,6 +12541,83 @@ but I have never known, or even dared to think, what was that place
 at which he stopped and refrained.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XXXIV
+
+Il [[diabolist|Diabolista]]
+
+Di tanto in tanto ho introdotto nei miei saggi un elemento di [[Truth|verità]]. Sono stati menzionati fatti realmente accaduti, come l'incontro col Presidente Kruger o l'essere stato buttato fuori da una carrozza. Ciò che ora devo raccontare è realmente accaduto; eppure non conteneva alcun elemento di politica pratica o di pericolo personale. Fu semplicemente una tranquilla conversazione che ebbi con un altro uomo. Ma quella tranquilla conversazione fu di gran lunga la cosa più terribile che mi sia mai accaduta in vita mia. Accadde tanto tempo fa che non posso essere certo delle parole esatte del dialogo, ma soltanto delle sue principali domande e risposte; c'è però una frase, in esso, di cui posso rispondere in modo assoluto e parola per parola. Era una frase così spaventosa che non potrei dimenticarla neppure volendo. Fu l'ultima frase pronunciata; e non fu pronunciata a me.
+
+La cosa mi capitò nei giorni in cui frequentavo una scuola d'arte. Una scuola d'arte differisce da quasi tutte le altre scuole o collegi in questo: che, essendo di nuova e rozza creazione e di lassa disciplina, presenta un contrasto particolarmente forte tra gli industriosi e gli oziosi. Chi frequenta una scuola d'arte o svolge una quantità atroce di lavoro o non lavora affatto. Io appartenevo, insieme ad altre persone deliziose, a quest'ultima classe; e ciò mi gettava spesso nella società di uomini assai diversi da me, e che erano oziosi per ragioni assai diverse dalle mie. Io ero ozioso perché ero molto occupato; ero impegnato, in quel [[Time|periodo]], a scoprire, con mia estrema e duratura sorpresa, che non ero ateo. Ma c'erano anche altri sbandati impegnati a scoprire ciò che Carlyle chiamava (credo con inutile delicatezza) il fatto che lo zenzero è piccante in bocca.
+
+Insomma, apprezzo quel [[Time|periodo]] perché mi rese familiare un buon numero rappresentativo di canaglie. A questo proposito ci sono due cose assai curiose che il critico della vita umana può osservare. La prima è il fatto che c'è una vera differenza tra uomini e donne; che le donne preferiscono parlare a due a due, mentre gli uomini preferiscono parlare a tre a tre. La seconda è che quando trovi (come spesso accade) tre giovani mascalzoni e idioti che vanno in giro insieme e si ubriacano insieme ogni giorno, generalmente scopri che uno dei tre mascalzoni e idioti è (per qualche straordinaria ragione) non un mascalzone e non un idiota. In questi piccoli gruppi votati a una bavosa dissipazione c'è quasi sempre un uomo che sembra essersi degnato di scendere alla propria compagnia; un uomo che, pur sapendo scambiare una turpe banalità con i suoi compari, sa anche parlare di politica con un socialista, o di [[philosophy|filosofia]] con un cattolico.
+
+Fu proprio un uomo simile che venni a conoscere [[Well|bene]]. Era strano, forse, che gli piacesse la sua sudicia e ubriaca società; era ancor più strano, forse, che gli piacesse la mia. Per ore del giorno discuteva con me di [[Milton|Milton]] o di architettura gotica; per ore della [[Night|notte]] andava dove non ho alcun desiderio di seguirlo, nemmeno con l'immaginazione. Era un uomo dal volto lungo e ironico, e dai capelli fitti e rossi; era per classe un gentiluomo, e sapeva camminare come tale, ma preferiva, per qualche ragione, camminare come uno stalliere che porta due secchi. Aveva l'aria di una sorta di Super-fantino; come se qualche arcangelo si fosse dato all'ippica. E non dimenticherò mai la mezz'ora in cui lui e io discutemmo di cose reali per la prima e per l'ultima [[Time|volta]].
+
+. . . . .
+
+Lungo la facciata del grande edificio di cui la nostra scuola faceva parte correva un'enorme rampa di gradini di pietra, più alta, credo, di quella che sale alla [[Cathedral|Cattedrale]] di San Paolo. In una nera serata invernale lui e io vagavamo su quelle fredde altezze, che parevano tetre come una piramide sotto le [[Stars|stelle]]. L'unica cosa visibile sotto di noi nel buio era un [[Fire|fuoco]] ardente e sventolante; poiché qualche giardiniere (suppongo) stava bruciando qualcosa nel parco, e di [[Time|tempo]] in [[Time|tempo]] le rosse scintille passavano turbinando accanto a noi come uno sciame di [[Insects|insetti]] scarlatti nel buio. Anche sopra di noi era tenebra; ma se si fissava abbastanza a lungo quell'oscurità superiore, si vedevano strisce verticali di grigio nel nero e poi si diveniva consapevoli della colossale facciata dell'edificio dorico, fantasmatica, eppure riempiente il cielo, come se il Cielo fosse ancora colmo del gigantesco [[Ghost|Fantasma]] del Paganesimo.
+
+. . . . .
+
+L'uomo mi chiese bruscamente perché stessi diventando ortodosso. Finché non lo disse, non avevo davvero saputo di esserlo; ma nel momento in cui lo disse seppi che era letteralmente vero. E il processo era stato tanto lungo e pieno che gli risposi subito, attingendo alle scorte di spiegazione già esistenti.
+
+"Sto diventando ortodosso," dissi, "perché sono giunto, a torto o a ragione, dopo aver teso il cervello fino a farlo scoppiare, all'antica convinzione che l'eresia sia peggiore perfino del peccato. Un errore è più minaccioso di un delitto, perché un errore genera delitti. Un imperialista è peggio di un pirata. Perché un imperialista tiene una scuola per pirati; insegna la pirateria disinteressatamente e senza uno stipendio adeguato. Un [[Lover|Libero Amatore]] è peggio di un dissoluto. Perché un dissoluto è serio e temerario perfino nel suo più breve [[Love|amore]]; mentre un [[Lover|Libero Amatore]] è cauto e irresponsabile perfino nella sua più lunga devozione. Odio il [[Doubt|dubbio]] moderno perché è pericoloso."
+
+"Vuoi dire pericoloso per la [[morality|morale]]," disse con voce di meravigliosa dolcezza. "Immagino che tu abbia ragione. Ma perché ti importa della [[morality|morale]]?"
+
+Gli lanciai una rapida occhiata al viso. Aveva sporto il collo, come aveva l'abitudine di fare; e così aveva portato bruscamente il viso nella luce del falò dal basso, come un volto alla ribalta. Il suo lungo mento e i suoi alti zigomi erano illuminati infernalmente da sotto; sicché pareva un demonio che fissa in giù dentro la fossa fiammeggiante. Ebbi un'insensata sensazione di essere tentato in un deserto; e proprio mentre indugiavo un getto di rosse scintille scoppiò accanto.
+
+"Non sono splendide quelle scintille?" dissi.
+
+"Sì," rispose.
+
+"È tutto ciò che ti chiedo di ammettere," dissi.  "Concedimi
+quei pochi punti rossi e da essi dedurrò la [[morality|morale]] cristiana.
+Un tempo pensavo come te, che il piacere provato in una scintilla
+volante fosse cosa che poteva andare e venire con quella scintilla.
+Un tempo pensavo che quel diletto fosse libero come il [[Fire|fuoco]].
+Un tempo pensavo che la stella rossa che vediamo fosse [[Alone|sola]] nello spazio.
+Ma ora so che la stella rossa è soltanto sull'apice
+di un'invisibile piramide di virtù.  Quel [[Fire|fuoco]] rosso è soltanto
+il fiore su uno stelo di abitudini viventi, che tu non puoi vedere.
+Solo perché tua madre ti fece dire 'Grazie' per un dolcetto
+sei ora capace di ringraziare la [[Nature|Natura]] o il caos per quelle rosse [[Stars|stelle]]
+d'un istante o per le bianche [[Stars|stelle]] di tutto il [[Time|tempo]].  Solo perché fosti
+umile davanti ai fuochi d'artificio del cinque di novembre puoi ora
+godere di ogni fuoco che ti càpiti di vedere.  Ti piacciono
+rossi solo perché ti fu raccontato del [[Blood|sangue]] dei martiri;
+ti piacciono splendenti solo perché lo splendore è una gloria.
+Quella fiamma fiorì dalle virtù, e con le virtù svanirà.
+Seduci una donna, e quella scintilla sarà meno luminosa.
+Versa [[Blood|sangue]], e quella scintilla sarà meno rossa.  Sii davvero malvagio,
+e ti saranno come le macchie su una carta da parati."
+
+Aveva un'orribile equità dell'intelletto che mi faceva [[Despair|disperare]] della sua [[Soul|anima]]. Un comune, innocuo ateo avrebbe negato che la religione producesse l'[[Humility|umiltà]] o che l'[[Humility|umiltà]] producesse una gioia semplice: ma egli ammetteva entrambe le cose. Diceva soltanto: «Ma non troverò forse nel male una vita tutta sua? Ammesso che per ogni donna che rovino una di quelle rosse scintille si spegnerà: non varrà forse il crescente piacere della rovina...»
+
+«Vedi quel [[Fire|fuoco]]?» chiesi. «Se avessimo una vera [[democracy|democrazia]] combattiva, qualcuno ti brucerebbe là dentro; come l'adoratore del diavolo che sei».
+
+«Forse», disse, nel suo modo stanco ed equanime. «Solo che ciò che tu chiami male, io lo chiamo bene».
+
+Discese i grandi gradini [[Alone|solo]], e sentii come se volessi
+che i gradini fossero spazzati e ripuliti.  Lo seguii più tardi, e mentre andavo a cercare
+il mio cappello nel basso, buio corridoio dove era appeso, udii d'improvviso la sua
+voce di nuovo, ma le parole erano inudibili.  Mi fermai, trasalendo:
+poi udii la voce di uno dei più vili tra i suoi sodali dire,
+"Nessuno può mai saperlo."  E poi udii quelle due o tre
+parole che ricordo in ogni sillaba e non posso dimenticare.
+Udii il [[diabolist|Diabolista]] dire: "Ti dico che ho fatto già tutto il resto.
+Se faccio quello, non conoscerò più la differenza tra il bene e il male."
+Mi precipitai fuori senza osar fermarmi; e passando accanto al [[Fire|fuoco]]
+non sapevo se fosse l'inferno o il furioso [[Love|amore]] di Dio.
+
+Ho poi saputo che è morto: si può dire, credo,
+che si sia [[suicide|suicidato]]; benché lo abbia fatto con strumenti di piacere,
+non con strumenti di [[Pain|dolore]].  Dio lo aiuti, conosco la [[Road|strada]] che percorse;
+ma non ho mai saputo, né osato pensare, quale fosse quel luogo
+al quale si fermò e si trattenne.
+
 
 
 <span class="atom-split" data-atom="chapter_36" data-title="Tremendous Trifles — Chapter 35" data-chapter="Chapter 36" data-kind="chapter"></span>
@@ -11132,6 +12779,46 @@ sheet of ice, of wicked wealth and of lying journalism.
 And as I stood there in the darkness I could almost fancy that I
 heard it crack.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXXV
+
+Uno scorcio del mio paese
+
+Qualunque sia la cosa che tutti andiamo cercando, immagino che sia in realtà assai vicina. Da ragazzo avevo la fantasia che il Cielo, o il Paese delle Fate, o comunque lo chiamassi, si trovasse immediatamente dietro le mie spalle, e che questa fosse la ragione per cui non riuscivo mai a vederlo, per quanto spesso mi girassi e rigirassi per coglierlo di sorpresa. Avevo l'idea di un uomo che gira perpetuamente su un piede solo come una trottola nello sforzo di trovare quel mondo dietro le sue spalle che di continuo gli sfuggiva. Forse è per questo che il mondo gira. Forse il mondo cerca sempre di guardarsi al di sopra della spalla e di raggiungere il mondo che sempre gli sfugge, e senza il quale tuttavia non può essere sé stesso.
+
+In ogni caso, come ho detto, penso che dobbiamo sempre concepire ciò che è la meta di tutti i nostri sforzi come qualcosa che è, in qualche strano modo, vicino. La scienza si vanta della distanza delle sue [[Stars|stelle]]; della terrificante lontananza delle cose di cui deve parlare. Ma la poesia e la religione insistono sempre sulla prossimità, sulla vicinanza quasi minacciosa delle cose di cui si occupano. Sempre il Regno dei Cieli è «Vicino»; e il Paese dello Specchio è soltanto al di là dello specchio. Sicché io, per parte mia, non dovrei mai stupirmi se la svolta successiva di una strada mi conducesse al cuore di quel labirinto in cui tutti i mistici si smarriscono. Non dovrei affatto sorprendermi se, svoltando un angolo in Fleet Street, vedessi un lampione dall'aspetto ancora più bizzarro; non dovrei sorprendermi se, svoltato un terzo angolo, mi trovassi nel Paese degli Elfi.
+
+Di questo non dovrei sorprendermi; ma l'altro giorno mi sorpresi di qualcosa di più sorprendente. Feci una deviazione uscendo da Fleet Street e mi trovai in Inghilterra.
+
+. . . . .
+
+Lo strano turbamento provato richiede forse una spiegazione. Nei momenti più bui o più inadeguati dell'Inghilterra c'è una cosa che si dovrebbe sempre ricordare a proposito della [[Nature|natura]] stessa del nostro paese. La si può enunciare in breve dicendo che l'Inghilterra non è tanto [[Fool|sciocca]] quanto sembra. I tipi dell'Inghilterra, gli aspetti esteriori dell'Inghilterra, travisano sempre il paese. L'Inghilterra è un paese oligarchico, e preferisce che la sua oligarchia sia inferiore a sé stessa.
+
+Il modo di parlare alla [[house|Camera]] dei Comuni, per esempio, non solo è peggiore di quanto fosse, è peggiore di quanto sia in tutti, o quasi tutti, gli altri luoghi, nei piccoli circoli di dibattito o nelle cene occasionali. I nostri connazionali probabilmente preferiscono questa solenne futilità nei luoghi più alti della vita nazionale. Può essere uno strano spettacolo vedere il cieco che guida il cieco; ma l'Inghilterra ne offre uno più strano. L'Inghilterra ci mostra il cieco che guida coloro che ci vedono. E anche questa è un'attenuazione del caso. Poiché gli aristocratici politici inglesi non solo parlano peggio di molte altre persone; parlano peggio di sé stessi. L'ignoranza degli uomini di Stato è come l'ignoranza dei giudici, una cosa artificiale e affettata. Se avete la buona ventura di parlare davvero con un uomo di Stato, sarete continuamente sorpresi nel sentirgli dire cose del tutto intelligenti. Sulle prime rende nervosi. E non sono mai stato abbastanza intimo con un uomo simile da chiedergli perché fosse una regola della sua vita, in Parlamento, apparire più sciocco di quanto fosse.
+
+Lo stesso vale per gli elettori. L'uomo medio vota al di sotto di sé stesso; vota con metà della mente o con la centesima parte di essa. Un uomo dovrebbe votare con tutto sé stesso, come quando prega o si sposa. Un uomo dovrebbe votare con la testa e col cuore, con la [[Soul|anima]] e con lo stomaco, con l'occhio per i volti e l'orecchio per la musica; e anche (quando sufficientemente provocato) con le mani e i piedi. Se ha mai veduto un bel tramonto, il suo colore cremisi dovrebbe insinuarsi nel suo voto. Se ha mai udito splendidi [[songs|canti]], essi dovrebbero risuonargli negli orecchi quando traccia la mistica [[Cross|croce]]. Ma così com'è, la difficoltà della [[democracy|democrazia]] inglese in tutte le elezioni è che essa è qualcosa di meno di sé stessa. La questione non è tanto se soltanto una minoranza dell'elettorato voti. Il punto è che soltanto una minoranza dell'elettore vota.
+
+. . . . .
+
+Questa è la [[Tragedy|tragedia]] dell'Inghilterra: non la si può giudicare dai suoi uomini più eminenti. I suoi tipi non tipizzano. E nell'occasione di cui parlo trovai che ciò era vero specialmente di quella vecchia e intelligente classe media che avevo immaginato fosse quasi svanita dal mondo. Mi pareva che tutti i principali rappresentanti della classe media se ne fossero andati in una direzione o nell'altra; o si erano messi all'inseguimento dello Smart Set o si erano messi all'inseguimento della Vita Semplice. Non saprei dire quale delle due io detesti di più; le persone in questione sono libere di avere l'una o l'altra, o, come è più probabile, di averle entrambe, in orribili alternanze di malattia e di cura. Ma tutti gli uomini di spicco che palesemente rappresentano la classe media hanno adottato o il monocolo del signor Chamberlain o l'occhio unico del signor Bernard [[Shaw|Shaw]].
+
+La vecchia classe cui mi riferisco non ha rappresentante. Il suo cibo era abbondante; ma non aveva ostentazione. Il suo cibo era semplice; ma non aveva manie. Era seria in fatto di politica; e quando parlava in pubblico commetteva il solecismo di cercare di parlar [[Well|bene]]. Pensavo che questa vecchia e seria Inghilterra politica fosse praticamente scomparsa. E, come dico, feci una deviazione uscendo da Fleet Street e trovai una stanza che ne era piena.
+
+. . . . .
+
+In cima alla stanza c'era una sedia su cui aveva seduto Johnson. Il circolo era un circolo in cui aveva parlato Wilkes, in un [[Time|tempo]] in cui perfino il buono a nulla era virile. Ma tutte queste cose di per sé potrebbero essere mero arcaismo. La cosa straordinaria era che quella sala aveva tutto il tumulto, la sincerità, l'ira, l'oratoria del Settecento. I membri di quel circolo erano di tutte le sfumature d'opinione, eppure non ci fu un solo discorso che mi desse quello stridore di irrealtà che spesso provo nell'ascoltare gli uomini più abili esprimere la mia stessa opinione. Il torismo di quel circolo era come il torismo di Johnson, un torismo che sapeva usare l'[[Humour|umorismo]] e si appellava all'umanità. La [[democracy|democrazia]] di quel circolo era come la [[democracy|democrazia]] di Wilkes, una [[democracy|democrazia]] che sa dire epigrammi e battersi in duello; una [[democracy|democrazia]] che sa affrontare le cose apertamente e sopportare la calunnia; la [[democracy|democrazia]] di Wilkes, o, piuttosto, la [[democracy|democrazia]] di Fox.
+
+Una cosa specialmente colmò la mia [[Soul|anima]] con l'[[Soul|anima]] dei miei padri. Ogni uomo che parlava, sia che parlasse [[Well|bene]] o male, parlava [[Well|bene]] quanto poteva per pura furia contro l'altro. Questa è la più grande delle nostre moderne decadenze: che oggigiorno un uomo non diventa più retorico man mano che diventa più sincero. Un oratore del Settecento, quando si adirava davvero e onestamente, cercava paroloni con cui schiacciare l'avversario. Il nuovo oratore cerca paroline con cui schiacciarlo. Cerca piccoli fatti e piccoli sogghigni. In un discorso moderno la retorica è collocata nella parte meramente formale, l'esordio che nessuno ascolta. Ma quando il signor Chamberlain, o un Moderato, o uno dei socialisti di tempra più dura, diventa davvero sincero, diventa Cockney. «Il destino dell'Impero», o «Il destino dell'umanità», vanno [[Well|bene]] abbastanza come meri preliminari ornamentali, ma quando l'uomo si fa adirato e onesto, allora è un ringhio: «E noi che ci guadagniamo?» oppure «È il vostro denaro che vogliono».
+
+Gli uomini di quel circolo settecentesco erano del tutto diversi; erano proprio del Settecento. Ciascuno si [[Rose|alzava]] in piedi fremente di passione, e cercava di distruggere il proprio avversario non con lo sghignazzo, ma davvero con l'eloquenza. Discutevo con loro dell'[[Home|Home]] Rule; alla fine dissi loro perché l'aristocrazia inglese in realtà detestasse un Parlamento irlandese: perché sarebbe stato come il loro circolo.
+
+. . . . .
+
+Uscii di nuovo in Fleet Street nella [[Night|notte]], e alla luce di un fioco lampione vidi affisse certe scipite sciocchezze sui Fannulloni e su come [[London|Londra]] insorgesse contro qualcosa di cui [[London|Londra]] aveva a malapena sentito parlare. Poi d'un tratto vidi, come in un'unica evidente immagine, che il mondo moderno è un oceano immenso e tumultuoso, pieno di cose mostruose e vive. E vidi che sulla sua superficie è distesa una sottile, una sottilissima lastra di ghiaccio, di malvagia ricchezza e di menzognero giornalismo.
+
+E mentre me ne stavo lì nell'oscurità, quasi potei immaginare di udirla incrinarsi.
 
 
 
@@ -11330,6 +13017,71 @@ Since then I have respected the things called inanimate."
 And bowing slightly to the mustard-pot, the man in
 the restaurant withdrew.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXXVI
+
+Una Storia Alquanto Improbabile
+
+Non riesco a ricordare se questo racconto sia vero o no. Se lo leggessi con molta attenzione, ho il sospetto che giungerei alla conclusione che non lo è. Ma, sfortunatamente, non posso leggerlo con molta attenzione, perché, vedete, non è ancora stato scritto. L'immagine e l'idea di esso mi accompagnarono per gran parte della mia fanciullezza; forse lo sognai prima di saper parlare; o lo raccontai a me stesso prima di saper leggere; o lo lessi prima di poter ricordare. Nel complesso, tuttavia, sono certo di non averlo letto, perché i bambini hanno ricordi assai nitidi di cose simili; e dei libri di cui ero davvero appassionato posso ancora ricordare non solo la forma, la mole e la rilegatura, ma perfino la posizione delle parole stampate su molte delle pagine. Nel complesso, propendo per l'opinione che mi accadde prima ancora che nascessi.
+
+. . . . .
+
+In ogni caso, raccontiamo ora la storia con tutti i vantaggi dell'atmosfera che le è rimasta attaccata. Potete immaginarmi, per amor di discussione, seduto a pranzo in uno di quei ristoranti da pasto veloce nella [[City]] dove gli uomini consumano il cibo così in fretta che esso non ha nessuna delle qualità del cibo, e si prendono la mezz'ora di pausa così in fretta che essa non ha nessuna delle qualità dell'ozio; affrettarsi attraverso il proprio ozio è la più anti-affaristica delle azioni. Portavano tutti alti cappelli lucidi come se non potessero perdere un istante nemmeno per appenderli a un attaccapanni, e avevano tutti un occhio un po' storto, ipnotizzati dall'enorme occhio dell'[[Clock|orologio]]. In breve, erano gli schiavi della schiavitù moderna, si potevano udire i loro ceppi tintinnare. Ciascuno era, di fatto, legato da una catena; la più pesante catena mai legata a un uomo: si chiama catena dell'orologio.
+
+Ora, tra questi entrò e si sedette di fronte a me un uomo che quasi immediatamente diede inizio a un ininterrotto monologo. Era simile a tutti gli altri uomini nel vestire, eppure era sorprendentemente opposto a loro in ogni modo di fare. Portava un alto cappello lucido e una lunga finanziera, ma li portava come tali cose solenni erano destinate a esser portate; portava il cappello di seta come se fosse una mitra, e la finanziera come se fosse l'efod di un sommo sacerdote. Non solo appese il cappello all'attaccapanni, ma sembrava (tale era la sua maestà) quasi chiedere il permesso al cappello per farlo, e scusarsi con l'attaccapanni per servirsene. Quando si fu seduto su una sedia di legno con l'aria di chi ne considera i sentimenti e ebbe rivolto una sorta di lieve inchino o riverenza al tavolo di legno stesso, come se fosse un altare, non potei impedire a qualche commento di affiorarmi alle labbra. Poiché l'uomo era un uomo grande, dal volto sanguigno e dall'aria prospera, eppure trattava ogni cosa con una cura che rasentava quasi la nervosità.
+
+Per dire qualcosa che esprimesse il mio interesse dissi:
+"Questo mobilio è piuttosto solido; ma, certo, la gente lo tratta
+con troppa noncuranza."
+
+Mentre alzavo lo sguardo dubbioso il mio occhio incrociò il suo, e vi rimase fisso come il suo era fisso in uno sguardo apocalittico. Lo avevo creduto ordinario quando era entrato, salvo per il suo strano, cauto contegno; ma se le altre persone lo avessero visto allora avrebbero gridato e svuotato la sala. Non lo videro, e continuarono a fare un tramestio con le forchette, e un mormorio con la loro conversazione. Ma il volto dell'uomo era il volto di un maniaco.
+
+«Intendevate qualcosa in particolare con quell'osservazione?» chiese infine,
+e il [[Blood|sangue]] rifluì lentamente nel suo volto.
+
+«Nulla di nulla,» risposi. «Qui non si intende nulla; rovina la digestione alla gente.»
+
+Si ritrasse zoppicando e si asciugò l'ampia fronte con un gran fazzoletto;
+eppure pareva esserci una sorta di rammarico nel suo sollievo.
+
+«Pensavo forse,» disse a bassa voce, «che un'altra di loro fosse impazzita.»
+
+"Se intende un'altra digestione andata storta," dissi, "non ne ho mai sentita
+una, qui, che sia andata per il verso giusto.  Questo è il cuore dell'Impero,
+e gli altri organi sono messi altrettanto male."
+
+«No, intendo un'altra strada impazzita,» disse pesantemente e sommessamente, «ma poiché suppongo che ciò non vi spieghi granché, penso che dovrò raccontarvi la storia. Lo faccio con tanta minore responsabilità, perché so che non ci crederete. Per quarant'anni della mia vita lasciai invariabilmente il mio ufficio, che si trova in Leadenhall Street, alle cinque e mezza del pomeriggio, portando con me un ombrello nella mano destra e una borsa nella mano sinistra. Per quarant'anni due mesi e quattro giorni uscii dalla porta laterale dell'ufficio, camminai lungo la strada sul lato sinistro, presi la prima svolta a sinistra e la terza a destra, da dove compravo un giornale della sera, seguii la [[Road|strada]] sul lato destro attorno a due angoli ottusi, e sbucai proprio fuori da una stazione della Metropolitana, dove prendevo un treno per [[Home|casa]]. Per quarant'anni due mesi e quattro giorni compii questo percorso per abitudine accumulata: non era una strada lunga quella che percorrevo, e mi ci volevano circa quattro minuti e mezzo per farla. Dopo quarant'anni due mesi e quattro giorni, il quinto giorno uscii nello stesso modo, con l'ombrello nella mano destra e la borsa nella sinistra, e cominciai a notare che camminare lungo la strada familiare mi stancava alquanto più del solito; e quando la svoltai fui convinto di aver imboccato quella sbagliata. Poiché ora la strada s'impennava in una salita piuttosto ripida, come se ne vedono solo nelle parti collinose di [[London|Londra]], e in quella zona non c'erano affatto colline. Eppure non era la strada sbagliata; il nome scritto su di essa era lo stesso; le botteghe con le imposte chiuse erano le stesse; i lampioni e tutto l'aspetto della prospettiva erano gli stessi; solo che era inclinata verso l'alto come un coperchio. Dimenticando ogni disturbo di affanno o stanchezza corsi furiosamente in avanti, e raggiunsi la seconda delle mie consuete svolte, che avrebbe dovuto portarmi quasi in vista della stazione. E mentre svoltavo quell'angolo per poco non caddi sul marciapiede. Poiché ora la strada saliva dritta davanti al mio volto come una ripida scalinata o il fianco di una piramide. Non c'era per miglia intorno a quel luogo neppure una pendenza simile a quella di Ludgate [[Hill]]. E questa era una pendenza come quella del Cervino. L'intera strada si era sollevata come un'unica onda, eppure ogni granello e dettaglio di essa era lo stesso, e vidi in alto in lontananza, come alla sommità di un passo alpino, spiccare in lettere rosa il nome sopra la mia edicola.
+
+«Corsi avanti e avanti ormai alla cieca, oltrepassando tutte le botteghe e giungendo a un tratto della [[Road|strada]] dove c'era una lunga fila grigia di case private. Avevo, non so perché, l'irrazionale sensazione di essere un lungo ponte di ferro nello spazio vuoto. Un impulso mi afferrò, e sollevai la botola di ferro di una carbonaia. Guardando in basso attraverso di essa vidi spazio vuoto e le scale.
+
+«Quando alzai di nuovo lo sguardo, un uomo se ne stava nel suo [[Garden|giardino]] antistante, essendo a quanto pareva uscito dalla sua [[house|casa]]; era appoggiato alla ringhiera e mi fissava. Eravamo tutti [[Alone|soli]] su quella [[Road|strada]] da [[nightmare|incubo]]; il suo volto era nell'[[Shadow|ombra]]; il suo abito era scuro e comune; ma quando lo vidi star fermo così perfettamente, seppi in qualche modo che egli non era di questo mondo. E le [[Stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto possano sopportare gli occhi degli uomini.
+
+«"Se sei un angelo benigno," dissi, "o un demonio saggio, o hai qualcosa in comune con il genere umano, dimmi cos'è questa strada posseduta dai demoni."
+
+«Dopo un lungo [[Silence|silenzio]] disse: "Che cosa dici che sia?"
+
+«"È Bumpton Street, naturalmente," ribattei di scatto.  "Porta
+alla Oldgate Station."
+
+«"Sì," ammise gravemente; "va lì a volte. Proprio ora, però, sta andando in cielo."
+
+«"In cielo?" dissi. "Perché?"
+
+«"Sta andando in cielo per ottenere giustizia," rispose. "Devi averla trattata male. Ricorda sempre che c'è una cosa che non può essere sopportata da nessuno né da nulla. Quell'unica cosa insopportabile è essere sovraccaricati di lavoro e insieme trascurati. Per esempio, puoi sovraccaricare di lavoro le donne: lo fanno tutti. Ma non puoi trascurare le donne: ti sfido a farlo. Allo stesso [[Time|tempo]], puoi trascurare vagabondi e zingari e tutto l'apparente rifiuto dello Stato purché non lo sovraccarichi di lavoro. Ma nessuna bestia dei campi, nessun [[Horse|cavallo]], nessun cane può sopportare a lungo che gli si chieda di fare più del suo lavoro e nondimeno abbia meno del suo [[Honour|onore]]. Lo stesso vale per le strade. Hai lavorato questa strada fino alla [[Death|morte]], eppure non hai mai ricordato la sua esistenza. Se avessi una sana [[democracy|democrazia]], anche solo di pagani, avrebbero addobbato questa strada di ghirlande e le avrebbero dato il nome di un dio. Allora se ne sarebbe andata tranquilla. Ma alla fine la strada si è stancata della tua instancabile insolenza; e s'impenna e leva il capo verso il cielo. Non hai mai cavalcato un [[Horse|cavallo]] che s'impenna?"
+
+«Guardai la lunga strada grigia, e per un istante mi parve esattamente come il lungo collo grigio di un [[Horse|cavallo]] proteso verso il cielo. Ma in un attimo la mia [[Sanity|ragione]] tornò, e dissi: "Ma questa è tutta una sciocchezza. Le strade vanno nel luogo in cui devono andare. Una strada deve sempre andare alla sua fine."
+
+«"Perché lo pensi di una strada?" chiese, stando immobilissimo.
+
+«"Perché l'ho sempre vista fare la stessa cosa," risposi, con ragionevole ira. "Giorno dopo giorno, anno dopo anno, è sempre andata alla stazione di Oldgate; giorno dopo..."
+
+«Mi fermai, perché egli aveva levato il capo con la furia della [[Road|strada]] in rivolta.
+
+«"E tu?" gridò terribilmente. "Che cosa pensi che la [[Road|strada]] pensi di te? La [[Road|strada]] pensa che tu sia vivo? Sei vivo? Giorno dopo giorno, anno dopo anno, sei andato alla stazione di Oldgate..." Da allora ho rispettato le cose chiamate inanimate.»
+
+E inchinandosi leggermente al vasetto della senape, l'uomo nel ristorante si ritirò.
 
 
 
@@ -11734,6 +13486,96 @@ Who drinks her cognac far from fine,
 The lovely [[City|city]] of Lierre.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XXXVIII
+
+La ballata di una strana città
+
+Il mio amico ed io, gironzolando per le Fiandre, ci affezionammo saldamente alla città di Mechlin, o Malines. Il nostro riposo lì fu così riposante che quasi la sentimmo come una [[Home|casa]], e a malapena ce ne allontanammo.
+
+Sedevamo giorno dopo giorno nella piazza del mercato, sotto piccoli alberi che crescevano in tinozze di legno, e alzavamo lo sguardo verso le nobili linee convergenti della torre della [[Cathedral|Cattedrale]], dalla quale i tre cavalieri di Gand, nel poema, udirono la campana che diceva loro che non erano giunti troppo tardi. Ma traevamo altrettanto piacere dalla gente, dai bambini dai volti fiamminghi aperti e piatti e dai colletti di pelliccia attorno al collo, che li facevano sembrare borgomastri; o dalle donne, i cui volti compassati e ovali, i capelli tirati stretti sulle tempie, e le bocche a un tempo dure, miti e argute, riproducevano esattamente i volti tardo-medievali di Memling e Van Eyck.
+
+Ma un pomeriggio, per caso, il mio amico [[Rose|si levò]] da sotto il suo alberello, e indicando una sorta di trenino giocattolo che sbuffava fumo in un angolo della piazza luminosa, propose che ci salissimo. Salimmo sul trenino, che in realtà era destinato a portare i contadini e i loro ortaggi avanti e indietro dai campi oltre la città, e il funzionario venne a darci i biglietti. Gli chiedemmo a quale luogo saremmo arrivati pagando cinque penny. I Belgi non sono un popolo romantico, ed egli ci chiese (con una deplorevole mescolanza di rozzezza fiamminga e razionalismo francese) dove volevamo andare.
+
+Spiegammo che volevamo andare nel paese delle fate, e l'unica questione era se potessimo arrivarci per cinque penny. Alla fine, dopo un gran numero di malintesi internazionali (poiché egli parlava il francese alla maniera fiamminga e noi a quella inglese), ci disse che cinque penny ci avrebbero portato in un luogo che non ho mai visto scritto, ma che, pronunciato, suonava come la parola «Waterloo» detta da un patriota ubriaco; credo fosse Waerlowe.
+
+Ci stringemmo le mani e dicemmo che era il luogo che cercavamo fin dalla fanciullezza, e quando vi fummo giunti scendemmo con prontezza.
+
+Per un istante ebbi l'orribile [[Fear|paura]] che fosse davvero il campo di Waterloo; ma mi consolai ricordando che si trovava in una parte del Belgio ben diversa. Era un [[Cross|crocevia]], con un solo casolare all'angolo, una prospettiva di alti alberi come l'«Avenue» di Hobbema, e oltre soltanto l'infinita scacchiera piatta dei piccoli campi. Era la scena della pace e della prosperità; ma devo confessare che la prima azione del mio amico fu chiedere all'uomo quando ci sarebbe stato un altro treno di ritorno per Mechlin. L'uomo dichiarò che ci sarebbe stato un treno di ritorno esattamente tra un'ora. Risalimmo il viale, e quando eravamo a quasi mezz'ora di cammino cominciò a piovere.
+
+. . . . .
+
+Tornammo al [[Cross|crocevia]] fradici e grondanti, e, trovando il treno in attesa, vi salimmo con un certo sollievo. Il funzionario su questo treno non sapeva parlare altro che fiammingo, ma comprese il nome Mechlin, e fece intendere che quando fossimo giunti alla stazione di Mechlin ci avrebbe fatti scendere, cosa che, dopo il giusto intervallo di [[Time|tempo]], fece.
+
+Scendemmo, sotto un acquazzone incessante, evidentemente ai margini di Mechlin, benché i tratti non si potessero riconoscere facilmente attraverso il grigio schermo della pioggia. In genere non concordo con chi trova la pioggia deprimente. Una doccia non è deprimente; è piuttosto sorprendente. E se è eccitante quando un uomo ti rovescia addosso un secchio d'[[Water|acqua]], perché non dovrebbe essere eccitante anche quando gli dèi rovesciano molti secchi? Ma in quel pomeriggio inzuppato, fosse la scialba linea del cielo dei Paesi Bassi o il fatto che tornavamo a [[Home|casa]] senza alcuna avventura, trovai davvero le cose un tantino tetre. Appena potemmo rannicchiarci al riparo di una via, entrammo in un piccolo caffè, tenuto da una sola donna. Era incredibilmente vecchia, e non parlava francese. Là bevemmo caffè nero e ciò che veniva chiamato «cognac fine». «Cognac fine» erano le uniche due parole francesi usate nel locale, e non erano vere. Per lo meno, la finezza (forse per la sua stessa eterea delicatezza) mi sfuggì. Dopo un po' il mio amico, che era più irrequieto di me, si alzò e uscì, per vedere se la pioggia fosse cessata e se potessimo subito tornare a passeggio al nostro albergo presso la stazione. Rimasi seduto a finire il mio caffè in uno stato d'animo incolore, ascoltando la pioggia incessante.
+
+. . . . .
+
+All'improvviso la porta si spalancò, e il mio amico apparve, trasfigurato e frenetico.
+
+«Alzati!» gridò, agitando forsennatamente le mani. «Alzati! Siamo nella città sbagliata! Non siamo affatto a Mechlin. Mechlin è a dieci miglia, venti miglia di distanza... Dio sa quanto! Siamo da qualche parte vicino ad Anversa.»
+
+«Cosa!» gridai, balzando dal mio posto e mandando all'aria i mobili. «Allora, dopo tutto, tutto va [[Well|bene]]! La poesia ha soltanto nascosto il suo volto per un istante dietro una nuvola. Positivamente per un momento mi ero sentito depresso perché eravamo nella città giusta. Ma se siamo nella città sbagliata... ebbene, dopo tutto la nostra avventura ce l'abbiamo! Se siamo nella città sbagliata, siamo nel posto giusto.»
+
+Mi precipitai fuori nella pioggia, e il mio amico mi seguì un po' più cupamente. Scoprimmo di trovarci in una città chiamata Lierre, che sembrava consistere principalmente di pasticceri falliti, i quali vendevano limonata.
+
+«Questo è l'apice di tutto il nostro cammino poetico!» gridai con entusiasmo. «Dobbiamo fare qualcosa, qualcosa di sacramentale e commemorativo! Non possiamo sacrificare un bue, e sarebbe una noia costruire un tempio. Scriviamo una poesia.»
+
+Con un incoraggiamento appena accennato, tirai fuori una vecchia busta e una di quelle matite che diventano di un vivo violetto nell'[[Water|acqua]]. C'era [[Water|acqua]] in abbondanza intorno, e il violetto colava lungo la carta, simboleggiando il ricco porpora di quell'ora romantica. Cominciai, scegliendo la forma di un'antica ballata francese; è la più facile perché è la più vincolata...
+
+«Può l'Uomo salire al Monte Olimpo,
+e credere che la scena sia Primrose [[Hill]]?
+Può un uomo passeggiare in Paradiso
+e pensare di trovarsi a Turnham Green?
+E potrei io scambiarti per Malines,
+ignorando la cosa più nobile che eri?
+O Perla di tutta la piana, e [[Queen|Regina]],
+la leggiadra [[City|Città]] di Lierre.
+
+«Attraverso la nebbia della [[Memory|Memoria]], in luccicante sembianza,
+splenderanno le tue vie dal lucore fangoso.
+E umidi si faranno i miei occhi sognanti,
+al pensiero di quanto umidi siano stati i miei stivali.
+Or se morrò o abbatterò un Decano——
+
+Qui mi interruppi per chiedere al mio amico se pensasse che esprimesse una più selvaggia calamità abbattere un Decano o essere un Decano. Ma egli si limitò a rialzare il bavero del cappotto, e sentii che per lui la musa aveva ripiegato le ali. Riscrissi...
+
+«Or se morrò da Decano rurale,
+o rapinerò una banca, non m'importa,
+o mi farò Tory. Ho veduto
+la leggiadra [[City|Città]] di Lierre.»
+
+«Il verso seguente,» ripresi, scaldandomi al tema; ma il mio amico mi interruppe.
+
+«Il verso seguente,» disse alquanto aspramente, «sarà una linea ferroviaria. Da qui possiamo tornare a Mechlin, ho scoperto, benché si debba cambiare due volte. Oserei dire che troverei tutto ciò assai romantico, se non fosse per il tempo. L'avventura è lo champagne della vita, ma preferisco il mio champagne e le mie avventure secchi. Ecco la stazione.»
+
+. . . . .
+
+Non parlammo più finché non avemmo lasciato Lierre, nella sua sacra nube di pioggia, e ci avvicinavamo a Mechlin, sotto un cielo più limpido, che faceva perfino pensare alle [[Stars|stelle]]. Allora mi sporsi in avanti e dissi al mio amico a bassa voce: «Ho scoperto tutto. Siamo giunti alla stella sbagliata.»
+
+Egli mi fissò con la sua muta domanda, e io proseguii con foga: «È questo che rende la vita a un tempo così splendida e così strana. Siamo nel mondo sbagliato. Quando pensavo che quella fosse la città giusta, mi annoiava; quando seppi che era sbagliata, fui felice. Così il falso ottimismo, la felicità moderna, ci stanca perché ci dice che ci adattiamo a questo mondo. La vera felicità è che non ci adattiamo. Veniamo da qualche altro luogo. Abbiamo smarrito la via.»
+
+Annuì in silenzio, fissando fuori dalla [[Window|finestra]], ma se lo avessi colpito o soltanto stancato non saprei dire. «Questo,» aggiunsi, «è suggerito nell'ultima strofa di una bella poesia che hai grossolanamente trascurato...
+
+««Felice è colui, e più che saggio,
+che vede con occhi meravigliati e puri
+il mondo attraverso tutto il grigio travestimento
+del [[Sleep|Sonno]] e dell'abitudine frapposti.
+Sì; possiamo varcare il velo celeste,
+ma sapremo di essere là?
+Noi che non sappiamo cosa significhino queste pietre morte,
+la leggiadra [[City|Città]] di Lierre.»»
+
+Qui il treno si fermò di colpo. E dal campanile della chiesa di Mechlin udimmo il mezzo rintocco: e Joris ruppe il [[Silence|silenzio]] con: «Niente maledetti HORS D'OEUVRES per me: passerò subito a qualcosa di solido.»
+
+L'Envoy
+
+Principe, ampio si stende il tuo Impero, io credo,
+eppur più felice è quel Sindaco inzuppato,
+che beve il suo cognac tutt'altro che fine,
+la leggiadra [[City|Città]] di Lierre.
+
 
 
 <span class="atom-split" data-atom="chapter_40" data-title="Tremendous Trifles — Chapter 39" data-chapter="Chapter 40" data-kind="chapter"></span>
@@ -11897,3 +13739,40 @@ And second, because I have got to go into the next room
 and dress up as Dr. Johnson.
 
 The End
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXXIX
+
+Il mistero di un corteo storico
+
+C'era una [[Time|volta]], pare secoli or sono, in cui fui persuaso a prendere una piccola parte in una di quelle processioni o cortei storici che erano di moda intorno all'anno 1909. E poiché tendo, come tutti coloro che invecchiano, a rientrare nel passato remoto come in un paradiso o in un luogo di giochi, dissotterro un [[Memory|ricordo]] che potrà stare tra quei ricordi di piccoli ma strani incidenti con cui ho talvolta riempito questa rubrica. La cosa possiede davvero alcune delle oscure qualità di un racconto [[Detective|poliziesco]]; benché suppongo che Sherlock Holmes in persona difficilmente riuscirebbe a dipanarla ormai, ora che la traccia è così vecchia e fredda e la maggior parte degli attori, senza dubbio, morti da tempo.
+
+Questo vecchio corteo comprendeva una serie di figure del diciottesimo secolo, e mi fu detto che ero tale e quale al dottor Johnson. Considerato che il dottor Johnson era pesantemente butterato dal vaiolo, aveva un panciotto tutto imbrattato di sugo, sbuffava e ondeggiava mentre camminava, ed era probabilmente l'uomo più brutto di [[London|Londra]], riferisco questa identificazione come un fatto e non come un vanto. Non ebbi nulla a che fare con l'allestimento; e le fugaci proposte che avanzai non furono prese tanto sul serio quanto avrebbero potuto essere. Chiesi che venisse eretta una fila di pali attraverso il prato, in modo che potessi toccarli tutti tranne uno, e poi tornare indietro a toccare quello. In mancanza di ciò, sentivo che il minimo che potessero fare era disporre venticinque tazze di tè a intervalli regolari lungo il percorso, ciascuna tenuta da una signora Thrale in costume completo. La mia migliore proposta costruttiva fu la più aspramente respinta di tutte. Davanti a me nella processione camminava il grande vescovo Berkeley, l'uomo che rovesciò le sorti dei primi materialisti sostenendo che la materia stessa forse non esiste. Il dottor Johnson, ricorderete, non amava fantasie così senza fondo come quelle di Berkeley, e diede un calcio a una pietra col piede, dicendo: «Così lo confuto!» Ora (come feci notare) dare un calcio a una pietra non renderebbe affatto chiara la disputa metafisica; per giunta, farebbe male. Ma quanto sarebbe pittoresco e perfetto se mi muovessi attraverso il terreno nell'atteggiamento simbolico di dare un calcio al vescovo Berkeley! Quale compiuto gruppo allegorico; il grande trascendentalista che cammina con la testa fra le [[Stars|stelle]], ma dietro di lui il realista vendicatore pede claudo, col piede sollevato. Ma non devo occupare spazio con queste dimenticate frivolezze; noi vecchi diventiamo troppo ciarlieri nel parlare del passato lontano.
+
+Questa storia mi riguarda a stento, sia nel mio carattere reale sia in quello assunto. Basti dire che la processione ebbe luogo di [[Night|notte]] in un ampio [[Garden|giardino]] e alla luce delle torce (tanto è remota la data), che il [[Garden|giardino]] era affollato di Puritani, [[Monks|monaci]] e uomini d'arme, e specialmente di antichi santi celtici che fumavano la pipa, e di eleganti gentiluomini del [[Renaissance|Rinascimento]] che parlavano in dialetto cockney. Basti dire, o piuttosto è superfluo dire, che mi persi. Vagai fino a qualche angolo buio di quella buia macchia di arbusti, dove non c'era nulla da fare tranne inciampare nelle corde delle tende, e cominciai quasi a sentirmi come il mio prototipo, e a condividere il suo orrore della [[Solitude|solitudine]] e l'odio per la vita di campagna.
+
+In questo distacco e in questo dilemma vidi un altro uomo con una parrucca bianca avanzare attraverso quel deserto tratto di prato; un uomo alto, magro, che si curvava nelle sue lunghe vesti nere come un'aquila curva. Quando pensai che mi sarebbe passato accanto, si fermò davanti al mio volto e disse: «Il dottor Johnson, presumo. Io sono Paley.»
+
+«Signore» dissi, «voi eravate solito guidare gli uomini alle origini del [[Christianity|Cristianesimo]]. Se ora potete guidarmi ovunque cominci questa faccenda infernale, adempirete a una funzione ancor più alta e più ardua.»
+
+Il suo costume e il suo portamento erano così perfetti che per un istante credetti davvero fosse un [[Ghost|fantasma]]. Non prestò alcuna attenzione alla mia leggerezza ma, voltandomi la schiena nera-vestita, mi condusse attraverso verdeggianti tenebre e tortuosi sentieri muscosi, finché sbucammo nel bagliore della luce a gas e degli uomini ridenti in maschera, e potei facilmente ridere di me stesso.
+
+E lì, direte, finiva la faccenda. Io sono (direte voi) per natura ottuso, codardo e mentalmente deficiente. Ero, per di più, poco avvezzo ai cortei; mi sentii spaventato nel buio e presi per uno spettro un uomo che, alla luce, avrei potuto riconoscere come un moderno gentiluomo in costume da mascherata. No; tutt'altro. Quella persona spettrale fu la mia prima introduzione a uno speciale incidente che non è mai stato spiegato e che tuttora posa il suo dito sul mio nervo.
+
+Mi mescolai agli uomini del diciottesimo secolo; e ci divertimmo come si fa a un ballo in maschera. C'era Burke grande al naturale e ben più avvenente. C'era Cowper assai più grande del naturale; avrebbe dovuto essere un ometto con una cuffia da [[Night|notte]], con un gatto sotto un braccio e uno spaniel sotto l'altro. Così com'era, egli era un personaggio magnifico, e somigliava più al Signore di Ballantrae che a Cowper. Alla fine lo persuasi alla cuffia da [[Night|notte]], ma mai, ahimè, al gatto e al cane. Quando venni la [[Night|notte]] successiva, Burke era ancora lo stesso bel miglioramento di se stesso; Cowper piangeva ancora per il suo cane e il suo gatto e non voleva darsi pace; il vescovo Berkeley aspettava ancora di ricevere un calcio nell'interesse della [[philosophy|filosofia]]. Insomma, incontrai tutti i miei vecchi amici tranne uno. Dov'era Paley? Ero stato misticamente turbato dalla presenza di quell'uomo; fui turbato di più dalla sua assenza. Alla fine vidi avanzare verso di noi attraverso il [[Garden|giardino]] crepuscolare un ometto con un grosso libro e un volto luminoso e attraente. Quando fu abbastanza vicino disse, con voce sottile e chiara: «Sono Paley.» La cosa era del tutto naturale, s'intende; l'uomo era malato e aveva mandato un sostituto. Eppure in qualche modo il contrasto fu un colpo.
+
+Entro la [[Night|notte]] successiva ero diventato piuttosto amico dei miei quattro o cinque colleghi; avevo scoperto quello che si chiama un amico comune con Berkeley e diversi punti di disaccordo con Burke. Fu Cowper, credo, a presentarmi un suo amico, un volto fresco, squadrato e robusto, incorniciato in una parrucca bianca. «Questo» spiegò, «è il mio amico Tal-dei-Tali. Lui è Paley.» Mi guardai attorno a tutti i volti, ormai a questo [[Time|punto]] fissi e familiari; li studiai; li contai; poi m'inchinai al terzo Paley come ci si inchina alla necessità. Fin lì la cosa rientrava tutta nei limiti della coincidenza. Sembrava certo strano che proprio questo particolare ecclesiastico fosse così mutevole e sfuggente. Era singolare che Paley, [[Alone|solo]] fra tutti gli uomini, si gonfiasse e si restringesse e mutasse come un [[Phantom|spettro]], mentre tutto il resto rimaneva solido. Ma la cosa era spiegabile; due uomini erano stati malati e non se ne parlava più; se non che andai di nuovo la [[Night|notte]] successiva, e un giovane elegante dai colori vivi e dai capelli incipriati mi balzò incontro, e mi disse con giovanile eccitazione che egli era Paley.
+
+Per le ventiquattro ore successive rimasi nella condizione mentale del mondo moderno. Intendo la condizione in cui tutte le spiegazioni naturali sono crollate e nessuna spiegazione [[Supernatural|soprannaturale]] è stata stabilita. Il mio sconcerto aveva raggiunto la noia quando mi ritrovai ancora una volta nel colore e nel frastuono del corteo, e fui tanto più contento perché incontrai un vecchio compagno di scuola, e ci riconoscemmo a vicenda sotto i nostri pesanti abiti e le canute parrucche. Parlammo di tutte quelle grandi cose per le quali la letteratura è troppo piccola e solo la vita abbastanza grande; ricordi arroventati e quei giganteschi dettagli che compongono i caratteri degli uomini. Sentii tutto degli amici che aveva perso di vista e di quelli che aveva tenuto d'occhio; sentii della sua professione, e chiesi infine come fosse entrato nel corteo.
+
+«Il fatto è» disse, «che un mio amico mi ha chiesto, solo per sta[[Night|notte]], di recitare un tale chiamato Paley; non so chi fosse...»
+
+«No, per mille tuoni!» dissi io, «né lo sa nessuno.»
+
+Questo fu l'ultimo colpo, e la [[Night|notte]] successiva passò come [[A Dream|un sogno]]. A stento notai la figura snella, vivace e del tutto nuova che entrò nei ranghi al posto di Paley, così tante volte defunto. Che cosa poteva significare? Perché lo stordito Paley era infedele fra i fedeli trovati? Provavano questi continui cambiamenti la popolarità o l'impopolarità dell'essere Paley? Era forse che nessun essere umano poteva sopportare di essere Paley per una [[Night|notte]] e sopravvivere fino al mattino? O era forse che i cancelli erano affollati da ansiose calche del pubblico britannico assetato di essere Paley, che potevano essere fatti entrare uno alla [[Time|volta]] soltanto? O esiste qualche antica vendetta contro Paley? Qualche società segreta di Deisti assassina ancora chiunque adotti quel nome?
+
+Non posso avanzare ulteriori congetture su questo verace racconto di mistero; e ciò per due ragioni. Primo, la storia è così vera che ho dovuto infilarvi una menzogna. Ogni parola di questa narrazione è veritiera, tranne l'unica parola Paley. E secondo, perché devo andare nella stanza accanto e vestirmi da dottor Johnson.
+
+Fine

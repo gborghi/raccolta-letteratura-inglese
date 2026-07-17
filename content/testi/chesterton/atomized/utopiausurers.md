@@ -5788,9 +5788,9 @@ UN [[Song|CANTO]] DI SPADE
 
 e fu fermata dai rivoltosi."--Foglio quotidiano.
 
-Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
+Nel luogo chiamato Spade sulla strada irlandese [[Road|stradale]].  
 
-si narra, per una nuova rinomanza,
+È raccontata per una nuova fama  
 
 come tenemmo le corna del bestiame, e come
 
@@ -5800,77 +5800,77 @@ prima che il signore d'inferno, col corno sulla fronte,
 
 sia incoronato nella città di Dublino.
 
-Luce a Oriente e luce a Occidente,
+Luce a Oriente e luce a Occidente,  
 
-e luce sui signori crudeli,
+E luce sui crudeli signori,  
 
-sulle anime che a un tratto ogni uomo conobbe,
+Sulle anime che improvvisamente tutti conobbero,  
 
-e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
+E la verde [[Flag|bandiera]] sventolò e la rossa [[Flag|bandiera]] sventolò,  
 
-e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
+E molte delle [[Wheel|ruote]] del mondo si fermarono anch'esse,  
 
-quando il bestiame fu fermato a Swords.
+Quando il bestiame fu fermato a Swords.  
 
-Siano pure peccatori o meno che santi
+Che siano peccatori o meno che santi  
 
-coloro che percuotono in strada per rabbia,
+Quelli che colpiscono per la rabbia nelle strade,  
 
-noi sappiamo dove splende viva la vergogna; sappiamo
+Sappiamo dove la vergogna brilla luminosa; sappiamo  
 
-voi, che essi colpiscono, voi loro nemico,
+Voi che essi colpiscono, voi loro nemico,  
 
 signori del salario iniquo e vile,
 
-questa è la vostra paga legittima.
+Questo è il vostro salario legittimo.  
 
-Spremeste un [[Child|bambino]] a un prezzo di tortura
+Avete strappato un [[Child|bambino]] per una cifra da tortura  
 
-che non osaste nominare a parole;
+Quello che non osaste nominare a parole;  
 
-tanto nera beffa era la moneta d'argento
+Un gioco così nero era il pezzo d'argento  
 
 che il vostro stesso dire tremò per la vergogna,
 
-e il codardo era palese come una vacca percossa
+E il codardo era chiaro come una mucca che hanno colpito  
 
-quando il bestiame si smarrì a Swords.
+Quando il bestiame si è smarrito a Swords.  
 
 La [[Wheel|ruota]] del torrente delle mogli girò
 
-per spezzare la fratellanza degli uomini;
+Per spezzare la fratellanza degli uomini;  
 
-deste il buon [[Blood|sangue]] irlandese a ungere
+Avete dato il buon sangue irlandese da ungere  
 
-i randelli dei nemici della vostra patria;
+I club dei nemici del vostro paese;  
 
 vedeste l'uomo valoroso battuto in ginocchio:
 
-e vedeste che era cosa buona.
+E vedeste che era buono.  
 
-La fune dei ricchi è lunga, lunga--
+La corda dei ricchi è lunga e lunga—  
 
-la più lunga fra le corde del boia;
+Il più lungo dei cappi del boia;  
 
 ma i re e le folle trattengono il fiato,
 
-in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
+Su tutto ciò che sta sotto incombe un gigantesco [[Shadow|ombra]].  
 
-là dove Dio sta reggendo le bilance della [[Death|Morte]]
+Dove Dio sta tenendo le bilance della [[Death|morte]]  
 
-tra il bestiame e Swords.
+Tra il bestiame e le Spade.  
 
 Forse i signori che assoldano e prestano,
 
-i più vili fra tutti i signori degli uomini,
+Il più basso di tutti i signori degli uomini,  
 
 che vendono i loro simili come armenti a una fiera,
 
-non troveranno là un solo capo del loro bestiame;
+Non troveranno lì la testa del loro bestiame;  
 
-ma volti di uomini dove c'era bestiame:
+Ma volti umani dove c'erano bestie:  
 
-volti di uomini--e Spade.
+Volto d'uomini - e Spade.  
 
 UTOPIA DEGLI USURAI
 
@@ -6822,6 +6822,132 @@ insisted on Soap. You will find it in the New Testament attributed to
 the Pharisees.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+V. LA CHIESA DELLO STATO SERVILE
+
+Confesso di non riuscire a capire perché la mera bestemmia di per sé debba essere una scusa
+
+per la tirannia e il tradimento; o come il mero fatto isolato che un uomo non
+
+creda in Dio debba essere una ragione perché io creda in Lui.
+
+Ma il fremito piuttosto zitellesco tra alcuni dei vecchi Liberi Pensatori
+
+vi ha messo una minuscola increspatura di [[Truth|verità]]; e ciò tocca l'idea che
+
+desidero sottolineare fino alla monotonia in queste pagine. Intendo l'idea
+
+che la nuova comunità che i capitalisti stanno ora costruendo sarà
+
+una comunità assai completa e assoluta; e che non tollererà
+
+nulla di realmente indipendente da sé. Ora, è vero che qualsiasi credo positivo,
+
+vero o falso, tenderebbe a essere indipendente da essa. Potrebbe
+
+essere il Cattolicesimo romano o il Maomettanesimo o il Materialismo; ma, se
+
+fermamente professato, sarebbe una spina nel fianco dello Stato Servile. Il Musulmano
+
+crede tutti gli uomini immortali: il Materialista crede tutti gli uomini mortali. Ma il
+
+Musulmano non pensa che il ricco Sindbad vivrà in eterno; mentre il povero
+
+Sindbad morirà sul suo letto di morte. Il Materialista non pensa che il signor
+
+Haeckel andrà in cielo, mentre tutti i contadini andranno in malora, come
+
+i loro polli. In ogni seria dottrina del destino degli uomini, vi è
+
+qualche traccia della dottrina dell'uguaglianza degli uomini. Ma il capitalista
+
+dipende in realtà da qualche religione della disuguaglianza. Il capitalista deve
+
+in qualche modo distinguersi dal genere umano; deve essere manifestamente al di sopra
+
+di esso--o sarebbe manifestamente al di sotto. Si prenda anche il lato meno attraente
+
+e popolare delle grandi religioni odierne; si prendano i meri veti
+
+imposti dall'[[Islam]] all'Ateismo o al Cattolicesimo. Il veto musulmano sugli
+
+inebrianti attraversa tutte le classi. Ma è assolutamente necessario per
+
+il capitalista (che presiede una Commissione per le Licenze, e anche un
+
+grande banchetto), è assolutamente necessario per lui, fare una distinzione
+
+tra il gin e lo champagne. Il veto ateo su tutti i miracoli attraversa
+
+tutte le classi. Ma è assolutamente necessario per il capitalista
+
+fare una distinzione tra sua moglie (che è un'[[aristocrat|aristocratica]] e consulta
+
+veggenti della sfera di cristallo e astrologi nel West End) e i volgari miracoli
+
+vantati da zingari o saltimbanchi ambulanti. Il veto cattolico sull'usura,
+
+come definito nei concili dogmatici, attraversa tutte le classi. Ma è
+
+assolutamente necessario al capitalista distinguere più sottilmente
+
+tra due specie di usura; quella che trova utile e quella che
+
+non trova utile. La religione dello Stato Servile non deve avere
+
+dogmi né definizioni. Non può permettersi di avere definizioni. Poiché
+
+le definizioni sono cose terribili: fanno le due cose che la maggior parte
+
+degli uomini, specialmente gli uomini agiati, non possono sopportare. Combattono; e combattono
+
+lealmente.
+
+Ogni religione, a parte l'aperto culto del diavolo, deve richiamarsi a una virtù
+
+o alla pretesa di una virtù. Ma una virtù, in generale, fa un po' di
+
+bene a tutti. È perciò necessario distinguere tra
+
+le persone che doveva beneficiare quelle che effettivamente beneficia. La moderna
+
+apertura mentale beneficia i ricchi; e non beneficia nessun altro. Era
+
+pensata per beneficiare i ricchi; e pensata per non beneficiare nessun altro. E se
+
+ritenete ciò ingiustificato, vi porrò una semplice domanda. Vi
+
+sono alcuni piaceri dei poveri che possono anche significare profitti per i ricchi:
+
+vi sono altri piaceri dei poveri che non possono significare profitti per i
+
+ricchi? Osservate questo solo contrasto, e osserverete l'intera creazione di
+
+una accurata [[Slavery|schiavitù]].
+
+In ultima analisi le due cose chiamate Birra e Sapone finiscono solo in
+
+schiuma. Entrambe sono al di sotto dell'alta considerazione di una vera religione. Ma
+
+vi è proprio questa differenza: che il sapone rende la fabbrica più
+
+soddisfacente, mentre la birra rende solo l'operaio più soddisfatto. Aspettate
+
+e vedete se il Sapone non aumenti e la Birra non diminuisca. Aspettate e
+
+vedete se la religione dello Stato Servile non sia in ogni caso ciò che
+
+dico: l'incoraggiamento delle piccole virtù che sostengono il capitalismo, lo
+
+scoraggiamento delle grandi virtù che lo sfidano. Molte grandi religioni,
+
+Pagane e Cristiane, hanno insistito sul vino. Solo una, credo, ha
+
+insistito sul Sapone. La troverete nel Nuovo Testamento attribuita ai
+
+Farisei.
+
 
 
 <span class="atom-split" data-atom="story_10_science_and_the_eugenists" data-title="UtopiaUsurers — SCIENCE AND THE EUGENISTS" data-chapter="SCIENCE AND THE EUGENISTS" data-kind="story"></span>
@@ -6985,6 +7111,166 @@ we should need a perfectly Wise Man to do the thing at all. And if he
 
 were a Wise Man he would not do it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VI. LA SCIENZA E GLI EUGENISTI
+
+Il fatto essenziale nel nuovo sviluppo della plutocrazia è che essa userà
+
+il proprio errore come pretesto per ulteriori delitti. Ovunque la stessa
+
+completezza dell'impoverimento sarà fatta ragione dell'
+
+asservimento; benché gli uomini che impoverirono fossero gli stessi che asservirono.
+
+È come se un brigante non solo portasse via a un gentiluomo il [[Horse|cavallo]] e tutto
+
+il suo denaro, ma poi lo consegnasse alla polizia per vagabondaggio senza
+
+visibili mezzi di sostentamento. E il tratto più mostruoso di questa
+
+enorme meschinità si può notare nell'appello plutocratico alla scienza, o,
+
+piuttosto, alla pseudo-scienza che essi chiamano [[Eugenics|Eugenetica]].
+
+Gli Eugenisti si guadagnano l'orecchio delle cricche umanitarie ma piuttosto nebulose
+
+dicendo che le presenti «condizioni» in cui la gente lavora e si riproduce
+
+sono nocive alla razza; ma la mente moderna in genere non si spinge
+
+oltre un solo passo di ragionamento, e la conseguenza che sembra
+
+derivare dalla considerazione di queste «condizioni» non è affatto quella che
+
+originariamente ci si sarebbe aspettati. Se qualcuno dice: «Una culla sconquassata
+
+può voler dire un bambino rachitico», la deduzione naturale, si direbbe, sarebbe
+
+di dare alla gente una buona culla, o di darle denaro sufficiente a comprarne
+
+una. Ma questo significa salari più alti e una maggiore perequazione della ricchezza; e
+
+lo scienziato plutocratico, con un'espressione lievemente turbata, volge
+
+i suoi occhi e il suo pince-nez in un'altra direzione. Ridotta a brutali termini di
+
+[[Truth|verità]], la sua difficoltà è questa e semplicemente questa: più cibo, tempo libero e
+
+denaro per l'operaio significherebbero un operaio migliore, migliore anche dal
+
+punto di vista di chiunque si servisse di lui. Ma più cibo, tempo libero e
+
+denaro significherebbero anche un operaio più indipendente. Una [[house|casa]] con un decente
+
+[[Fire|fuoco]] e una dispensa piena sarebbe una [[house|casa]] migliore in cui fabbricare una sedia o riparare
+
+un [[Clock|orologio]], anche dal punto di vista del cliente, di un tugurio dal
+
+tetto che perde e dal focolare freddo. Ma una [[house|casa]] con un decente [[Fire|fuoco]] e una dispensa
+
+piena sarebbe anche una [[house|casa]] migliore in cui rifiutarsi di fabbricare una sedia
+
+o di riparare un [[Clock|orologio]] — una [[house|casa]] assai migliore in cui non far nulla — e non far nulla
+
+è talvolta uno dei più alti doveri dell'uomo. Tutti tranne i
+
+duri di cuore devono essere straziati dalla pietà per questo patetico dilemma del
+
+ricco, che deve tenere il povero abbastanza robusto da poter fare il lavoro
+
+e abbastanza magro da essere costretto a farlo. Mentre stava fissando il
+
+tetto che perde e la culla sconquassata in atteggiamento pensoso, un giorno gli venne in
+
+mente un'idea nuova e curiosa — una delle idee più strane, semplici e
+
+orribili che siano mai sorte dal profondo abisso del [[Original Sin|peccato originale]].
+
+Il tetto non poteva essere riparato, o, almeno, non poteva essere riparato di molto,
+
+senza sconvolgere l'equilibrio capitalistico, o, piuttosto, la sproporzione nella
+
+società; poiché un uomo con un tetto è un uomo con una [[house|casa]], e in tal misura
+
+la sua [[house|casa]] è il suo [[Castle|castello]]. La culla non poteva essere fatta cullare più facilmente,
+
+o, almeno, non molto più facilmente, senza rafforzare le mani della
+
+povera famiglia, poiché la mano che culla la culla governa il mondo — in
+
+tal misura. Ma al capitalista venne in mente che c'era una sorta
+
+di mobilio nella [[house|casa]] che poteva essere modificato. Il marito e la moglie
+
+potevano essere modificati. Nascere non costa nulla, se non in [[Pain|dolore]] e valore e
+
+cose così antiquate; e il mercante non deve pagare di più per accoppiare
+
+un robusto minatore a una sana pescivendola di quanto paga quando il minatore si accoppia
+
+da sé con una femmina meno robusta che egli ha il sentimentalismo di
+
+preferire. Così potrebbe essere possibile, seguendo certe ampie linee
+
+di ereditarietà, ottenere qualche miglioramento fisico senza alcun miglioramento morale,
+
+politico o sociale. Potrebbe essere possibile mantenere una
+
+scorta di schiavi forti e sani senza viziarli con decenti
+
+condizioni. Come i proprietari di mulini usano il [[Wind|vento]] e l'[[Water|acqua]] per far girare i loro
+
+mulini, essi userebbero questa forza naturale come qualcosa di ancora più a buon mercato; e
+
+farebbero girare le loro ruote deviando dal suo canale il [[Blood|sangue]] di un uomo nella
+
+sua giovinezza. Questo è ciò che significa l'[[Eugenics|Eugenetica]]; e questo è tutto ciò che significa.
+
+Dello stato morale di coloro che pensano tali cose non ci si
+
+addice parlare. La questione pratica è piuttosto quella intellettuale:
+
+se i loro calcoli siano [[Well|ben]] fondati, e se gli uomini
+
+di scienza possano o vogliano garantire loro simili certezze fisiche.
+
+Fortunatamente, diventa più chiaro ogni giorno che essi stanno, scientificamente
+
+parlando, costruendo sulla sabbia mobile. La teoria dell'allevamento degli schiavi
+
+crolla per via di ciò che un democratico chiama l'uguaglianza degli uomini, ma che
+
+perfino un oligarchico si troverà costretto a chiamare la somiglianza degli
+
+uomini. Vale a dire, che benché non sia vero che tutti gli uomini sono normali, è
+
+schiacciantemente certo che la maggior parte degli uomini sono normali. Tutti i comuni argomenti eugenici
+
+sono tratti da casi estremi che, anche se l'[[Honour|onore]] umano
+
+e il riso ne permettessero l'eliminazione, non altererebbero con la loro
+
+eliminazione granché la massa. Per il resto, rimane l'
+
+enorme debolezza dell'[[Eugenics|Eugenetica]], che se il giudizio o la libertà degli uomini comuni
+
+devono essere scontati in relazione all'ereditarietà, il giudizio dei
+
+giudici deve essere scontato in relazione alla loro ereditarietà. Il professore eugenico
+
+può riuscire o meno a scegliere i genitori di un bambino; è
+
+del tutto certo che non può riuscire a scegliere i propri genitori. Tutti
+
+i suoi pensieri, compresi i suoi pensieri eugenici, scaturiscono, per il principio stesso
+
+di quei pensieri, da una fonte dubbia o contaminata. In breve,
+
+ci occorrerebbe un Uomo perfettamente Saggio per fare la cosa in assoluto. E se egli
+
+fosse un Uomo Saggio, non la farebbe.
 
 
 
@@ -7187,6 +7473,204 @@ prophesy that (unless our revolt succeeds) nearly everyone will be going
 
 to [[Prison]], with a precisely similar patience.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VII. L'EVOLUZIONE DELLA [[Prison|PRIGIONE]]
+
+Non ho mai capito perché coloro che più parlano di
+
+evoluzione, e ne parlano proprio nell'epoca dell'evoluzionismo di moda, non
+
+vedano l'unico modo in cui l'evoluzione si applica davvero alla nostra moderna
+
+difficoltà. C'è, naturalmente, un elemento di evoluzionismo nell'
+
+universo; e non conosco religione o [[philosophy|filosofia]] che l'abbia mai del tutto
+
+ignorato. L'evoluzione, in senso popolare, è ciò che accade alle
+
+cose inconsapevoli. Crescono inconsapevolmente; o svaniscono inconsapevolmente; o
+
+meglio, alcune loro parti crescono e altre svaniscono; e in ogni
+
+dato momento c'è quasi sempre qualche presenza della cosa che svanisce,
+
+e qualche incompletezza in quella che cresce. Così, se andassi a [[Sleep|dormire]]
+
+per cento anni, come la [[Beauty|Bella]] Addormentata (magari potessi), mi
+
+crescerebbe la barba—a differenza della [[Beauty|Bella]] Addormentata. E proprio come mi
+
+crescerebbero i capelli se dormissi, mi crescerebbe l'erba se fossi morto. Coloro la cui
+
+religione voleva che Dio dormisse erano perpetuamente colpiti
+
+e influenzati dal fatto che egli avesse una lunga barba. E coloro la cui
+
+[[philosophy|filosofia]] vuole che l'universo sia morto fin dal principio (essendo
+
+la [[Grave|tomba]] di nessuno in particolare) pensano che sia così che l'erba può
+
+crescere. In ogni caso, questi sviluppi avvengono solo con cose morte o
+
+sognanti. Ciò che accade quando tutti dormono si chiama Evoluzione. Ciò che
+
+accade quando tutti sono svegli si chiama Rivoluzione.
+
+C'era una volta un uomo onesto, di cui non seppi mai il nome, ma il cui volto
+
+posso quasi vedere (incorniciato da basette vittoriane e fissato in un
+
+cravattone vittoriano), che soppesava i meriti della Francia e
+
+dell'Inghilterra in civiltà ed efficienze sociali. E quando giunse all'
+
+aspetto religioso disse che vi erano più chiese di pietra e mattoni
+
+in uso in Francia; ma, d'altra parte, vi sono più sètte in Inghilterra.
+
+Se una disintegrazione tanto vivace sia una prova di vitalità in qualche
+
+senso apprezzabile, ne ho sempre dubitato. Il sole può generare vermi in un
+
+cane morto; ma è essenziale per una simile liberazione di vita che il cane
+
+sia inconsapevole o (a dir poco) distratto. In senso
+
+lato, potete chiamare la cosa corruzione, se per caso amate i [[dogs|cani]].
+
+Potete chiamarla evoluzione, se per caso amate i vermi. In entrambi
+
+i casi, è ciò che accade alle cose se le lasciate [[Alone|sole]].
+
+L'errore degli evoluzionisti
+
+Ora, i moderni evoluzionisti non hanno fatto alcun uso reale dell'idea di
+
+evoluzione, specie in materia di previsione sociale. Cadono sempre
+
+in quello che è (dal loro punto di vista logico) l'errore di
+
+supporre che l'evoluzione sappia ciò che fa. Predicono lo Stato
+
+del futuro come un frutto tondeggiante e levigato. Ma tutto il senso dell'
+
+evoluzione (l'unico senso che vi sia) è che nessuno Stato sarà mai
+
+tondeggiante e levigato, perché conterrà sempre alcuni organi che
+
+hanno sopravvissuto al proprio uso, e altri che non hanno ancora trovato pienamente il proprio. Se
+
+vogliamo profetizzare ciò che accadrà, dobbiamo immaginare cose ora moderate
+
+divenute enormi; cose ora locali divenute universali; cose ora promettenti
+
+divenute trionfanti; primule più grandi dei girasoli, e passeri
+
+che incedono impettiti come fenicotteri.
+
+In altre parole, dobbiamo chiederci quale istituzione moderna abbia un futuro davanti a
+
+sé. Quale istituzione moderna potrebbe essersi gonfiata a sei volte la sua attuale
+
+dimensione nel calore e nella crescita sociale del futuro? Non credo che la
+
+[[Garden|Giardino]] [[City|Città]] crescerà: ma di ciò parlerò forse nel mio prossimo e ultimo
+
+articolo di questa serie. Non credo che nemmeno la comune Scuola
+
+Elementare, con la sua [[Education|istruzione]] obbligatoria, crescerà. Troppi illetterati
+
+odiano il maestro perché insegna; e troppi letterati
+
+odiano il maestro perché non insegna. La [[Garden|Giardino]] [[City|Città]] non porterà molti
+
+fiori; la giovane idea non spunterà, a meno che non spari al maestro.
+
+Ma l'unico albero fiorito della tenuta, l'unica espansione naturale
+
+che credo si espanderà, è l'istituzione che chiamiamo [[Prison|Prigione]].
+
+Prigioni per tutti
+
+Se ai capitalisti sarà consentito erigere la loro costruttiva comunità
+
+capitalistica, parlo del tutto seriamente quando dico che credo che la [[Prison|Prigione]]
+
+diverrà un'esperienza quasi universale. Non sarà necessariamente un'esperienza
+
+crudele o vergognosa: su questi punti (lo concedo di certo per
+
+il presente scopo del [[debate|dibattito]]) può essere un'esperienza enormemente migliorata.
+
+Le condizioni nella [[Prison|prigione]], molto probabilmente, saranno rese più umane.
+
+Ma la [[Prison|prigione]] sarà resa più umana solo per contenere più
+
+umanità. Ho scarsa stima del giudizio e del senso dell'[[Humour|umorismo]] di chiunque
+
+abbia potuto osservare i recenti processi di polizia senza rendersi conto che
+
+non è più questione se la legge sia stata infranta da un reato; ma,
+
+ora, solo questione se la situazione possa essere rimediata da una
+
+[[Imprisonment|carcerazione]]. Fu così con Tom Mann; fu così con Larkin; fu così
+
+col povero ateo che fu tenuto in prigione per aver detto qualcosa che
+
+era stato assolto dall'aver detto: è così in casi simili giorno dopo giorno. Non
+
+rinchiudiamo più un uomo per aver fatto qualcosa; lo rinchiudiamo nella [[Hope|speranza]]
+
+che non faccia nulla. Dato questo principio, è evidentemente possibile
+
+rendere le mere condizioni della pena più moderate, o—(più
+
+probabilmente) più segrete. Può esservi davvero più [[Mercy|clemenza]] nella [[Prison|Prigione]],
+
+a condizione che vi sia meno giustizia nel [[Court|Tribunale]]. Non mi
+
+sorprenderei se, prima di aver finito con tutto ciò, a un uomo fosse consentito
+
+fumare in [[Prison|prigione]], a condizione, s'intende, di essere stato messo in [[Prison|prigione]]
+
+per aver fumato.
+
+Ora, questo è il processo che, in assenza di protesta democratica,
+
+certamente procederà, crescerà e si moltiplicherà e riempirà la
+
+terra e la soggiogherà. La [[Prison|Prigione]] potrebbe persino perdere il suo disonore per un poco di
+
+[[Time|tempo]]: sarà difficile renderla disonorevole quando uomini come Larkin
+
+possono essere incarcerati senza alcun motivo, proprio come il suo celebre antenato
+
+fu impiccato senza alcun motivo. Ma la società capitalistica, che naturalmente
+
+non conosce il significato dell'[[Honour|onore]], non può conoscere il significato del
+
+disonore: e continuerà comunque a incarcerare senza alcun motivo. O
+
+meglio, per quella ragione piuttosto semplice che fa [[spring|balzare]] un gatto o fa fuggire un
+
+topo.
+
+Poco importa se i nostri padroni si abbassino a formulare la questione nella
+
+forma che ogni [[Prison|prigione]] dovrebbe essere una scuola; o nella forma più candida
+
+che ogni scuola dovrebbe essere una [[Prison|prigione]]. Hanno già adempiuto al loro
+
+servile principio nel caso delle scuole. Tutti vanno alle
+
+Scuole Elementari, tranne i pochi che dicono loro di andarci. Io
+
+profetizzo che (a meno che la nostra rivolta non riesca) quasi tutti andranno
+
+in [[Prison|Prigione]], con una pazienza esattamente simile.
 
 
 
@@ -7463,6 +7947,278 @@ their victim as exhausted as one who had come off the rack. I think it
 
 extremely likely that they will be.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VIII. LA FRUSTA PER IL LAVORO
+
+Se dovessi profetizzare che fra duecento anni un [[grocer|droghiere]] avrebbe
+
+il diritto e l'abitudine di bastonare col bastone il garzone del [[grocer|droghiere]], o
+
+che le commesse potrebbero essere frustate, come già possono essere multate, molti
+
+lo giudicherebbero un'affermazione piuttosto avventata. E sarebbe un'affermazione avventata.
+
+La profezia è sempre inaffidabile; a meno che non se ne eccettui il genere che è
+
+dichiaratamente irrazionale, mistico e [[Supernatural|soprannaturale]]. Ma in rapporto
+
+a quasi tutte le altre profezie che oggi si vanno facendo attorno a me,
+
+direi che la mia previsione gode di una probabilità eccezionalmente buona. Insomma,
+
+penso che il [[grocer|droghiere]] col bastone sia una figura che assai più probabilmente
+
+vedremo che non il Superuomo o il Samurai, o il Vero Datore di Lavoro Modello, o il
+
+Perfetto Funzionario Fabiano, o il cittadino dello Stato Collettivista. Ed
+
+è bene per noi vedere tutta la bruttezza della trasformazione che
+
+sta passando sulla nostra Società in qualche immagine così brusca e persino [[Grotesque|grottesca]]
+
+alla fine di essa. Gli inizi di una decadenza, in ogni epoca della [[history|storia]],
+
+hanno sempre avuto l'apparenza di essere riforme. Nerone non solo suonò la lira
+
+mentre Roma bruciava, ma probabilmente prestava davvero più attenzione
+
+alla lira che al [[Fire|fuoco]]. Il Roi Soleil, come molti altri soli,
+
+era di tutta apparenza più splendido poco prima del tramonto. E se
+
+mi chiedo quale sarà il frutto ultimo e finale di tutte le nostre
+
+riforme sociali, città-[[Garden|giardino]], datori modello, assicurazioni, borse,
+
+tribunali arbitrali, e così via, allora dico, del tutto seriamente: «Penso che
+
+sarà il lavoro sotto la frusta».
+
+Il Sultano e il Sacco
+
+Disponiamo in qualche ordine una serie di considerazioni convergenti che
+
+tutte puntano in questa direzione. (1) È largamente vero, senza [[Doubt|dubbio]], che
+
+l'arma del datore di lavoro è stata finora la minaccia del licenziamento, vale
+
+a dire la minaccia della fame forzata. Egli è un Sultano che non ha bisogno di ordinare
+
+la bastonatura, finché può ordinare il sacco. Ma non sono pochi i
+
+segni che quest'arma non è poi così comoda e flessibile
+
+quanto le sue crescenti rapacità richiedono. Il fatto dell'introduzione delle
+
+multe, segretamente o apertamente, in molti negozi e fabbriche, prova che
+
+è comodo per i capitalisti avere qualche forma di punizione temporanea e regolabile
+
+oltre alla punizione finale della pura rovina. Né è
+
+difficile scorgere il buonsenso di ciò dal loro punto di vista del tutto disumano.
+
+L'atto di licenziare un uomo è accompagnato dagli stessi
+
+svantaggi dell'atto di sparare a un uomo: uno dei quali è che non puoi
+
+cavarne più nulla. È, mi si dice, decisamente seccante far saltare
+
+le cervella di un proprio simile con una rivoltella e poi ricordarsi all'improvviso
+
+che egli era l'unica persona a sapere dove procurarsi le migliori sigarette
+
+russe. Così il nostro Sultano, che è l'ordinatore del sacco, è anche il
+
+portatore del laccio. Una scuola in cui non vi fosse alcuna punizione,
+
+tranne l'espulsione, sarebbe una scuola in cui sarebbe assai difficile
+
+mantenere una disciplina adeguata; e il tipo di disciplina su cui il
+
+capitalismo riformato insisterà sarà tutto del genere che nelle nazioni
+
+libere è imposto solo ai bambini. Una tale scuola sarebbe probabilmente in
+
+una condizione cronica di scioglimento per le vacanze. E le ragioni
+
+dell'insufficienza di questo strumento estremo sono anch'esse varie ed
+
+evidenti. I Sociologi materialisti, che parlano della [[Survival|sopravvivenza]] del
+
+più adatto e del più debole che va al muro (e il cui modo di guardare
+
+il mondo è di inforcare gli occhiali scientifici più recenti e potenti,
+
+e poi chiudere gli occhi), spesso parlano come se un
+
+operaio fosse semplicemente efficiente o non efficiente, come se un criminale fosse
+
+recuperabile o irrecuperabile. I datori di lavoro hanno abbastanza senno almeno
+
+da saperlo meglio di così. Sanno vedere che un servitore può essere utile in
+
+un modo ed esasperante in un altro; che può essere cattivo in una parte del
+
+suo lavoro e buono in un'altra; che può essere occasionalmente ubriaco e tuttavia
+
+in generale indispensabile. Proprio come un maestro pratico saprebbe
+
+che uno scolaro può essere al tempo stesso il flagello e l'[[Pride|orgoglio]] della scuola.
+
+In tali circostanze piccole e variabili penali sono ovviamente le
+
+cose più comode per chi mantiene l'ordine; un subalterno può essere
+
+punito per essere arrivato in ritardo, e tuttavia svolgere utile lavoro quando arriva. Sarà
+
+possibile dare un colpetto sulle nocche senza recidere del tutto
+
+la mano destra che ha offeso. In tali circostanze i
+
+datori di lavoro hanno naturalmente fatto ricorso alle multe. Ma vi è un ulteriore
+
+motivo per credere che il processo andrà oltre le multe prima di essere
+
+compiuto.
+
+(2) La multa si fonda sulla vecchia idea europea che ognuno possiede
+
+proprietà privata in qualche misura ragionevole; ma non solo ciò non è
+
+vero oggi, ma non lo si sta rendendo per nulla più vero, nemmeno da coloro che
+
+credono onestamente di star [[mending|rimediando]] alle cose. I grandi datori di lavoro
+
+spesso faranno qualcosa per migliorare quelle che chiamano le «condizioni»
+
+dei loro operai; ma un operaio potrebbe avere le sue condizioni tanto accuratamente
+
+sistemate quanto le ha un cavallo da corsa, e tuttavia non avere più proprietà
+
+personale di un cavallo da corsa. Se prendete una comune povera cucitrice o operaia
+
+di fabbrica, troverete che il potere di castigarla attraverso la sua
+
+proprietà ha limiti assai considerevoli; è quasi altrettanto difficile per il
+
+datore di lavoro tassarla per punizione quanto lo è per il Cancelliere
+
+dello Scacchiere tassarla per gettito. La cosa più ovvia successiva a cui
+
+pensare, naturalmente, sarebbe la [[Imprisonment|prigionia]], e ciò potrebbe essere abbastanza efficace
+
+in condizioni più semplici. Un bottegaio all'antica poteva aver
+
+rinchiuso il suo apprendista nella carbonaia; ma la sua carbonaia sarebbe
+
+una vera carbonaia buia pece, e il resto della sua [[house|casa]] sarebbe
+
+una vera [[house|casa]] umana. Chiunque (specialmente l'apprendista) vedrebbe una assai
+
+percettibile differenza tra le due. Ma, come ho segnalato nell'
+
+articolo precedente a questo, l'intera tendenza della legislazione capitalista
+
+e della sperimentazione è di rendere la [[Imprisonment|prigionia]] assai più generale e automatica,
+
+pur rendendola, o professando di renderla, più umana. In altre parole,
+
+la [[Prison|prigione]] igienica e la fabbrica servile diventeranno così straordinariamente
+
+simili l'una all'altra che il pover'uomo saprà o si curerà a stento se
+
+stia in quel momento espiando un reato o semplicemente gonfiando un dividendo. In
+
+entrambi i luoghi vi sarà lo stesso genere di piastrelle lucide. In nessuno dei due luoghi
+
+vi sarà alcuna cella tanto malsana quanto una carbonaia o tanto salubre
+
+quanto una [[Home|casa]]. L'arma della [[Prison|prigione]], perciò, come l'arma
+
+della multa, si scoprirà avere considerevoli limitazioni alla sua
+
+efficacia quando impiegata contro il misero cittadino ridotto dei nostri
+
+giorni. Che sia proprietà o libertà, non puoi togliergli ciò che
+
+non ha. Non puoi imprigionare uno schiavo, perché non puoi asservire uno
+
+schiavo.
+
+Il Barbarico Ritorno
+
+(3) La maggior parte delle persone, all'udire il suggerimento che si possa giungere alla punizione
+
+corporale alla fine (come avvenne in ogni sistema schiavista di cui abbia mai sentito parlare,
+
+compresi alcuni generalmente benevoli, e persino riusciti), sarà
+
+semplicemente colpita da orrore e [[Incredulity|incredulità]], e sentirà che un simile
+
+barbarico ritorno è impensabile nell'atmosfera moderna. Fino a che punto
+
+sarà, o dovrà essere, un ritorno delle immagini e dei metodi effettivi dei
+
+tempi più rozzi lo discuterò fra un momento. Ma prima, come un'altra delle
+
+linee convergenti che tendono alla punizione corporale, si consideri questo: che per
+
+qualche ragione o altra il vecchio [[Humanitarianism|umanitarismo]] sanguigno e virile
+
+in questa materia si è indebolito ed è ammutolito; si è indebolito ed è
+
+ammutolito in un modo assai curioso, la cui precisa ragione
+
+non comprendo del tutto. Sapevo che il Liberale medio, il medio
+
+ministro Nonconformista, il medio Membro Laburista, il medio
+
+Socialista borghese erano, con tutte le loro buone qualità, assai
+
+carenti in ciò che considero un rispetto per l'[[Soul|anima]] umana. Ma immaginavo
+
+davvero che avessero l'ordinario rispetto moderno per il [[Body|corpo]] umano.
+
+Il fatto, tuttavia, è chiaro e incontrovertibile. Nonostante l'orrore
+
+di tutte le persone umane, nonostante l'esitazione persino del nostro corrotto e
+
+atterrito Parlamento, si possono ora far passare trionfalmente misure per
+
+diffondere o accrescere l'uso della tortura fisica, e per applicarla
+
+alle più nuove e vaghe categorie di reato. Trenta o quarant'anni
+
+fa, anzi, vent'anni fa, quando il signor F. Hugh O'Donnell e altri costrinsero
+
+un [[government|Governo]] Liberale a lasciar cadere il gatto a nove code come uno scorpione,
+
+potevamo contare su una massa di onesto odio per tali cose. Non possiamo
+
+contarci ora.
+
+(4) Ma da ultimo, non è necessario che nelle fabbriche del futuro
+
+l'istituzione della punizione fisica debba effettivamente ricordare alla gente
+
+il jambok o il knut. Potrebbe facilmente svilupparsi dalle molte
+
+forme di disciplina fisica che sono già usate dai datori di lavoro con la
+
+scusa dell'[[Education|educazione]] o dell'igiene. Già in alcune fabbriche le ragazze sono
+
+obbligate a nuotare, che piaccia loro o no, o a fare ginnastica, che piaccia
+
+loro o no. Con una semplice estensione delle ore o complicazione degli
+
+esercizi, un paio di clave svedesi potrebbero facilmente essere usate così da lasciare
+
+la loro vittima esausta quanto uno uscito dal cavalletto della tortura. Penso
+
+estremamente probabile che lo saranno.
 
 
 
@@ -8032,6 +8788,218 @@ pin up in her private study, side by side with the Declaration of
 Independence, a document recording the following simple truths: (1)
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le celle [[Well|ben]] lavate e le tombe [[Well|ben]] lavate
+
+Abiteremo ma non possederemo
+
+Quando i Britanni saranno finalmente schiavi;
+
+L'[[Water|acqua]] aspetta nel truogolo,
+
+La docile avena seminata è distribuita gratis,
+
+C'è Abbastanza, e appena Abbastanza,
+
+E tutto è pronto ormai tranne noi.
+
+Ma non ci avete ancora presi, miei signori,
+
+Dovete ancora acciuffarci.
+
+Un misero esercito avreste avuto,
+
+Le sue bandiere son stracci che ondeggiano e marciscono,
+
+I suoi tamburi son padella e pentola vuote,
+
+Il suo bagaglio è--una culla vuota;
+
+Ma non ci avete ancora presi.
+
+Un poco; e saremmo potuti sfuggire
+
+Quando giunsero le vostre voci e le vostre vendite
+
+E i ricchi sconfitti, dalle labbra fiacche,
+
+Dissero e disdissero le loro tristi storie;
+
+Gran Dio!  Ci vuole una fronte più ardita
+
+Per tenere dieci pecore dentro un recinto,
+
+E noi non siamo più pecore ormai;
+
+Voi siete solo Padroni.  Noi siamo Uomini.
+
+Vi rendiamo tutti i debiti ringraziamenti, miei signori,
+
+Compriamo a buon prezzo;
+
+Grazie per le migliaia che rubaste,
+
+Le tangenti via telegrafo, le scommesse sul carbone,
+
+La conoscenza di quel nudo intero
+
+Che ha liberato la nostra carne e la nostra [[Soul|anima]]
+
+Fuori dal vostro Paradiso.
+
+Avevamo custodito i vostri parchi; ma quando
+
+Gli uomini vi schernirono con tangenti e compensi,
+
+Vedemmo solo il Signore degli Uomini
+
+Ghignare come una Scimmia e arrampicarsi su un albero;
+
+E umilmente eravamo stati fuori
+
+Dai vostri principeschi granai; non vedemmo forse
+
+In musi aguzzi che sbucavano
+
+Quali Ratti ora posseggono il granaio.
+
+È troppo tardi, troppo tardi, miei signori,
+
+Vi restituiamo la vostra grazia:
+
+Non potete con tutte le lusinghe
+
+Rendere il fosso bagnato, o i venti che pungono,
+
+L'[[Pride|orgoglio]] perduto, o le fedi nuziali impegnate,
+
+O il bere o la [[Death|Morte]] cosa più nera
+
+Di un sorriso sul vostro volto.
+
+LA NUOVA SCORRERIA
+
+I due tipi di [[Reform|riforma]] sociale, uno dei quali potrebbe forse liberarci
+
+alla fine mentre l'altro ci renderebbe di certo schiavi per sempre, sono
+
+esibiti in un facile modello concreto nei due sforzi che sono stati
+
+fatti per le mogli dei soldati--intendo lo sforzo di aumentare il loro
+
+sussidio e lo sforzo di frenare il loro presunto bere. Nella
+
+considerazione preliminare, in ogni caso, dobbiamo vedere la seconda questione
+
+come del tutto distaccata dalle nostre simpatie sul particolare tema delle
+
+bevande fermentate. Potrebbe applicarsi a ogni altro piacere o ornamento
+
+della vita; si applicherà a ogni altro piacere e ornamento della vita
+
+se la campagna capitalista potrà riuscire. L'argomento lo conosciamo; ma
+
+non lo si può chiarire troppo spesso. Un datore di lavoro, diciamo, paga a una
+
+sarta due penny al giorno, e lei non sembra prosperarci. Così
+
+poco, forse, vi prospera che il datore ha perfino qualche
+
+difficoltà a prosperare su di lei. Ci sono solo due cose che egli può
+
+fare, e la distinzione tra esse taglia l'intero mondo sociale e politico
+
+in due. È una [[Touchstone|pietra di paragone]] con cui possiamo--non a volte, ma
+
+sempre--distinguere l'eguaglianza economica dalla servile [[Reform|riforma]] sociale. Egli può
+
+dare alla ragazza qualche somma magnifica, come sei penny al giorno, da usare come
+
+meglio crede, e confidare che la sua salute e il suo umore migliorati gioveranno
+
+al bene dei suoi affari. Oppure può tenerla alla somma originaria di uno
+
+scellino a settimana, ma destinare ciascuno dei penny a essere usato o no
+
+per uno scopo particolare. Se ella non deve spendere questo penny in un
+
+mazzo di violette, o quel penny in un romanzetto, o l'altro penny in
+
+un giocattolo per qualche bimbo, è possibile che ella concentri la sua
+
+spesa più sulle necessità fisiche, e così divenga, dal
+
+punto di vista del datore, una persona più efficiente. Senza il disturbo
+
+di aggiungere due penny al suo salario, egli ha aggiunto due penny di valore al suo
+
+cibo. In breve, ella ha la santa soddisfazione di valere di più
+
+senza essere pagata di più.
+
+Questo Capitalista è una persona ingegnosa, e ha molte raffinate
+
+caratteristiche; ma credo che la cosa più singolare in lui sia la sua
+
+sconcertante mancanza di vergogna. Né l'ora della [[Death|morte]] né il giorno del
+
+giudizio, né la tenda dell'[[Exile|esilio]] né la [[house|casa]] del lutto, né
+
+la cavalleria né il patriottismo, né la femminilità né la vedovanza, è al sicuro in
+
+questo momento supremo dal suo sporco piccolo espediente di mettere a dieta lo
+
+schiavo. Come simili prepotenti, quando riscuotono gli affitti dei bassifondi, mettono un
+
+piede nella porta aperta, costoro sono sempre pronti a ficcare un fangoso cuneo
+
+ovunque vi sia una fessura in una casa divisa o una crepa in un cuore
+
+spezzato. Per un uomo di una qualche virilità nulla può concepirsi di più ripugnante
+
+e sacrilego che anche solo il chiedere se una donna che ha
+
+dato tutto ciò che amava alla [[Death|morte]] e alla patria abbia o non abbia mostrato
+
+qualche debolezza nel suo cercare conforto di [[Self|sé]]. Non so in quale dei
+
+due casi mi dovrei ritenere il più vile per l'aver indagato--un caso
+
+in cui l'accusa era falsa o un caso in cui era vera. Ma il
+
+filantropico datore di lavoro del tipo che descrivo non è un uomo di alcuna
+
+virilità; in un certo senso non è affatto un uomo. Egli mostra una certa coscienza
+
+del fatto quando chiama i suoi operai «uomini» distinti dai padroni. Egli
+
+non può comprendere la galanteria dei venditori ambulanti o la delicatezza che è
+
+assai comune tra i vetturini. Egli trova questa [[Reform|riforma]] sociale a mezze razioni
+
+nel complesso vantaggiosa al suo profitto mercantile, e sarà difficile fargli
+
+pensare a qualcos'altro.
+
+Ma vi sono persone che lo assistono, persone come la Duchessa di
+
+Marlborough, che non distinguono la mano destra dalla sinistra, e a costoro
+
+possiamo legittimamente rivolgere la nostra rimostranza e un riepilogo di alcuni dei
+
+fatti che non conoscono. La Duchessa di Marlborough è, credo,
+
+un'americana, e ciò la separa dal problema in un modo particolare,
+
+perché la questione del bere in [[america|America]] è del tutto diversa dalla
+
+questione del bere in Inghilterra. Ma vorrei che la Duchessa di Marlborough
+
+appendesse nel suo studio privato, accanto alla Dichiarazione di
+
+Indipendenza, un documento che riporti le seguenti semplici verità: (1)
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_03" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 3)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -8209,6 +9177,180 @@ nose, crying: "Slanderer! Mud-slinger!" and suppose he then resigned his
 
 position. Suppose no books were shown. Suppose when the new cashier came
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La birra, che si beve per lo più nelle osterie, non è un liquore né un grog
+
+né un cocktail né una droga. È il comune liquido inglese per placare
+
+la sete; e tale rimane presso innumerevoli gentiluomini, e, fino a
+
+tempi assai recenti, lo era presso innumerevoli dame. Molti di noi ricordano signore della
+
+generazione passata i cui modi erano degni di Versailles, e che bevevano
+
+ale o Stout come cosa del tutto naturale. Gli scolari bevevano ale come cosa del tutto
+
+naturale, e i loro maestri gliela davano come cosa del tutto naturale.
+
+Dire a una povera donna che non può averne finché metà della giornata non sia
+
+trascorsa è semplicemente folle, come dire a un cane o a un [[Child|bambino]] che non deve
+
+avere l'[[Water|acqua]]. (2) L'[[house|osteria]] non è un ritrovo segreto di brutti
+
+ceffi. È il luogo aperto e ovvio per un certo scopo,
+
+scopo per cui tutti gli uomini la usavano finché i ricchi non cominciarono a farsi snob
+
+e i poveri a farsi schiavi. Si potrebbe altrettanto [[Well|bene]] mettere in guardia la gente contro
+
+lo scalo di Willesden. (3) Molti poveri vivono in case dove
+
+non possono, senza grandi preparativi, offrire ospitalità. (4) Il clima di
+
+queste pittoresche isole non favorisce lunghe conversazioni
+
+con i propri amici più vecchi su una panchina di ferro nel parco. (5) Le undici
+
+e mezza del mattino non sono presto per una donna che si alza prima delle sei.
+
+(6) I corpi e le menti di queste donne appartengono a Dio e a sé stesse.
+
+IL NOME NUOVO
+
+Qualcosa è entrato nella nostra comunità, qualcosa di abbastanza forte da salvare
+
+la nostra comunità; ma che non ha ancora un nome. Nessuno immagini che io
+
+confessi una qualche irrealtà quando confesso questa mancanza di nome. La [[morality|moralità]]
+
+chiamata [[Puritanism|Puritanesimo]], la tendenza chiamata Liberalismo, la reazione chiamata
+
+[[democracy|Democrazia]] Tory, non solo erano state a lungo potenti, ma avevano di fatto
+
+compiuto la maggior parte della loro opera, prima che questi stessi nomi fossero loro
+
+attribuiti. Nondimeno, penso che sarebbe cosa buona avere un qualche
+
+modo maneggevole e praticabile di riferirsi a coloro che la pensano come noi
+
+nella nostra principale preoccupazione. Che è questa: che gli uomini in Inghilterra sono governati, in questo
+
+preciso minuto dell'[[Clock|orologio]], da bruti che rifiutano loro il pane, da bugiardi che
+
+rifiutano loro le notizie, e da stolti che non sanno governare, e perciò desiderano
+
+renderli schiavi.
+
+Lasciate che spieghi anzitutto perché non sono soddisfatto della parola comunemente usata,
+
+che io stesso ho spesso usato; e che, in certi contesti, è proprio
+
+la parola giusta da usare. Intendo la parola «[[Rebel|ribelle]]». Sorvolando sul fatto
+
+che molti i quali comprendono la giustizia della nostra causa (come moltissimi nelle
+
+Università) userebbero ancora la parola «[[Rebel|ribelle]]» nel suo antico e stretto
+
+senso di semplice perturbatore di un giusto governo. Passo a un punto assai più
+
+pratico. La parola «[[Rebel|ribelle]]» sminuisce la nostra causa. È fin troppo
+
+mite; lascia i nostri nemici a troppo buon mercato. Vi è una tradizione in
+
+tutta la vita e le lettere d'Occidente, di [[Prometheus|Prometeo]] che sfida le [[Stars|stelle]], dell'uomo
+
+in guerra con l'Universo, e che sogna ciò che la [[Nature|natura]] non aveva mai osato
+
+sognare. Tutto ciò ha il suo valore, nel giusto luogo e nella giusta misura. Ma non ha
+
+nulla a che vedere con la nostra causa; anzi, la indebolisce non poco.
+
+I plutocrati saranno fin troppo lieti se professiamo di predicare una nuova
+
+[[morality|moralità]]; poiché sanno maledettamente [[Well|bene]] di aver infranto quella vecchia.
+
+Saranno fin troppo lieti di poter dire che noi, per nostra stessa
+
+confessione, siamo soltanto irrequieti e negativi; che siamo solo ciò che noi
+
+chiamiamo ribelli ed essi chiamano esaltati. Ma non è vero; e non dobbiamo
+
+concederglielo neppure per un istante. Il milionario modello è più
+
+esaltato dei Socialisti; proprio come Nerone era più esaltato dei
+
+Cristiani. E l'avarizia è impazzita nella classe dirigente d'oggi, proprio
+
+come la lussuria impazzì nella cerchia di Nerone. Secondo tutti i validi e ortodossi
+
+criteri della [[Sanity|sanità mentale]], il capitalismo è folle. Non direi al signor
+
+Rockefeller «Io sono un [[Rebel|ribelle]]». Direi «Io sono un uomo rispettabile: e
+
+voi no».
+
+I nostri nemici fuorilegge
+
+Ma il punto vitale è che la confessione di una mera ribellione attenua
+
+la sconcertante illegalità dei nostri nemici. Supponiamo che l'impiegato di un editore
+
+chiedesse cortesemente al suo datore di lavoro un aumento di stipendio; e, essendogli
+
+rifiutato, dicesse di dover lasciare l'impiego. Supponiamo che il datore lo
+
+abbattesse con una riga, lo legasse come un pacco di carta da imballo, lo indirizzasse
+
+(con bella grafia da commerciante) al Governatore di Rio de Janeiro e poi
+
+chiedesse al poliziotto di promettere di non arrestarlo mai per ciò che aveva
+
+fatto. Questa è la copia esatta, in ogni principio legale e morale, della
+
+«deportazione degli scioperanti». Furono aggrediti e rapiti per non aver
+
+accettato un contratto, e per nient'altro; e l'atto fu così dichiaratamente
+
+criminale che la legge dovette poi essere modificata per coprire il delitto.
+
+Ora supponiamo che qualche funzionario postale, tra qui e Rio de Janeiro, avesse
+
+notato un debole scalciare dentro il pacco di carta da imballo, e avesse tentato
+
+di accertarne la causa. E supponiamo che l'impiegato potesse solo spiegare, con
+
+voce soffocata attraverso la carta, di essere per costituzione e
+
+temperamento un [[Rebel|ribelle]]. Non vedete che starebbe piuttosto sminuendo
+
+il proprio caso? Non vedete che sopporterebbe i propri torti con troppa
+
+mansuetudine? Potrebbero tirarlo fuori dal pacco; ma con ogni
+
+probabilità lo caccerebbero piuttosto in una [[house|casa]] dei matti. Simbolicamente parlando, questo
+
+è ciò che vorrebbero fare a noi. Simbolicamente parlando, gli sporchi
+
+avari che ci governano ci metteranno in una [[house|casa]] dei matti — a meno che non possiamo mettere
+
+loro là.
+
+Oppure supponiamo che a un cassiere di banca fosse dichiaratamente permesso di prelevare il denaro
+
+dalla cassa, e di metterlo sciolto in tasca, più o meno mescolato al
+
+proprio denaro; puntando poi parte dell'uno e dell'altro (a quote diverse) su
+
+«Blue Murder» al Derby. Supponiamo che, quando qualche depositante chiedesse blandamente
+
+che giorno venissero i revisori, egli colpisse quell'attonito questuante sul
+
+naso, gridando: «Calunniatore! Diffamatore!» e supponiamo che poi rassegnasse le
+
+dimissioni. Supponiamo che nessun registro venisse mostrato. Supponiamo che, quando giungesse il nuovo cassiere
 
 
 
@@ -8389,6 +9531,182 @@ consequence of such menacing popular action, the franchise was granted
 
 to one class after another and used more and more to improve the social
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+per essere iniziato ai suoi doveri, il vecchio cassiere non gli parlò
+
+del denaro, ma lo affidò all'[[Honour|onore]] e alla delicatezza della propria vecchia
+
+zia zitella a Cricklewood. Supponiamo che poi sia partito su uno yacht per visitare
+
+le baleniere del Mare del Nord. [[Well|Ebbene]], per ogni principio morale e legale,
+
+questo è un resoconto preciso di come ci si è comportati con i Fondi del
+
+Partito. Ma cosa direbbe il banchiere? Cosa direbbero i clienti? Una
+
+cosa, credo, oso promettere: il banchiere non passeggerebbe su
+
+e giù per l'ufficio esclamando in estasi: «Sono un [[Rebel|ribelle]]! Ecco cosa
+
+sono, un [[Rebel|ribelle]]!». E se dicesse al primo indignato depositante: «Lei è
+
+un [[Rebel|ribelle]]», [[Fear|temo]] che il depositante potrebbe rispondere: «Lei è un ladro». Non
+
+abbiamo bisogno di elaborare argomenti per infrangere la legge. I capitalisti
+
+hanno infranto la legge. Non abbiamo bisogno di ulteriori moralità. Hanno
+
+infranto la loro stessa [[morality|morale]]. È come se tu corressi giù per la strada
+
+gridando: «Comunismo! Comunismo! Dividere! Dividere!» dietro a un uomo che è scappato
+
+col tuo orologio.
+
+Vogliamo un termine che dica a tutti che vi è, secondo il comune
+
+criterio, aperta frode e crudeltà spinte al loro feroce estremo; e
+
+che stiamo combattendo LORO. Non siamo in uno stato di «divino scontento»;
+
+siamo in una collera del tutto umana e del tutto ragionevole. Diciamo di essere
+
+stati truffati e oppressi, e siamo del tutto pronti e capaci di provarlo
+
+davanti a qualsiasi tribunale che ci permetta di chiamare truffatore un truffatore. È
+
+una difesa del sistema attuale che la maggior parte dei suoi tribunali non lo consenta.
+
+Al momento non riesco a pensare ad alcun nome di partito che ci distingua in modo particolare
+
+dai nostri avversari più potenti e prosperi, a meno che
+
+non fosse il nome che i vecchi Giacobiti si diedero: il Partito Onesto.
+
+Catturati i Nostri Stendardi
+
+Penso sia evidente che, allo scopo di affrontare questi nuovi e
+
+infami fatti moderni, non possiamo, con alcuna sicurezza, affidarci ad alcuno dei
+
+vecchi nomi dell'Ottocento: Socialista, o Comunista, o Radicale, o
+
+Liberale, o Laburista. Sono tutti nomi onorevoli; tutti rappresentano, o
+
+rappresentavano, cose in cui possiamo ancora credere; possiamo ancora applicarli
+
+ad altri problemi; ma non a questo. Non abbiamo più il monopolio
+
+di questi nomi. Sia chiaro che qui non parlo del
+
+problema filosofico del loro significato, ma del problema pratico del
+
+loro uso. Quando mi definivo Radicale sapevo che il signor Balfour non si sarebbe
+
+definito Radicale; perciò la parola aveva una qualche utilità. Quando
+
+mi definivo Socialista sapevo che Lord Penrhyn non si sarebbe definito
+
+Socialista; perciò la parola aveva una qualche utilità. Ma i
+
+capitalisti, in quella marcia aggressiva che è il fatto principale del nostro
+
+[[Time|tempo]], hanno catturato i nostri stendardi, sia nel senso militare sia in quello filosofico
+
+della parola. Ed è inutile per noi marciare sotto colori che
+
+essi possono portare tanto [[Well|bene]] quanto noi.
+
+Credi nella [[democracy|Democrazia]]? Anche i demoni credono e tremano. Credi
+
+nel Sindacalismo? Anche i deputati laburisti credono; e tremano
+
+come una trottola che cade. Credi nello Stato? Anche i Samuel
+
+credono, e sogghignano. Credi nell'accentramento dell'Impero? Così
+
+faceva Beit. Credi nel decentramento dell'Impero? Così fa
+
+Albu. Credi nella fratellanza degli uomini: e credi tu, caro
+
+fratello, che il Fratello [[Arthur]] Henderson non ci creda? Gridi:
+
+«Il mondo ai lavoratori!» e immagini che Philip Snowden non lo
+
+farebbe? Ciò che ci serve è un nome che dichiari, non che il moderno
+
+tradimento e la moderna tirannia siano cattivi, ma che siano, del tutto letteralmente,
+
+intollerabili: e che intendiamo agire di conseguenza. Penso davvero che «i
+
+Limiti» sarebbe un nome buono quanto un altro. Ma, comunque, qualcosa nasce
+
+tra noi, forte quanto un Ercole neonato: ed è parte dei
+
+miei pregiudizi volerlo battezzare. Cerco padrini e
+
+madrine.
+
+UNA [[history|STORIA]] D'INGHILTERRA DI UN OPERAIO
+
+Una cosa che non esiste e di cui si sente gran bisogno è «Una
+
+[[history|Storia]] d'Inghilterra dell'operaio». Non intendo una [[history|storia]] scritta
+
+per gli operai (ce ne sono interi bidoni), intendo una [[history|storia]],
+
+scritta dagli operai o dal punto di vista degli operai. Vorrei che cinque
+
+generazioni della famiglia di un pescatore o di un minatore si incarnassero
+
+in un solo uomo e raccontassero la storia.
+
+È impossibile ignorare del tutto qualsiasi commento proveniente da un così eminente
+
+[[artist|artista]] letterario come il signor Laurence Housman, ma non mi occupo qui in modo
+
+così particolare della sua [[Well|ben]] nota convinzione sul Voto alle Donne, quanto di
+
+un'altra idea che, credo, le sta piuttosto dietro, se non in lui
+
+almeno in altri; e che riguarda questa questione della vera
+
+storia dell'Inghilterra. Poiché la vera storia è così interamente diversa dalla
+
+falsa storia ufficiale che le classi ufficiali raccontano, che ormai, a questo [[Time|tempo]],
+
+la stessa classe operaia ha in gran parte dimenticato la propria esperienza.
+
+Entrambe le versioni possono, del tutto logicamente, essere collegate al Suffragio Femminile,
+
+che, perciò, lascio dov'è per il momento; limitandomi a confessare
+
+che, purché si afferri la storia giusta e non quella sbagliata,
+
+mi sembra questione di secondaria importanza che la colleghiamo
+
+o no al Suffragio Femminile.
+
+Ora, la versione ordinaria della recente [[history|storia]] inglese che la maggior parte delle persone mediamente
+
+istruite ha assorbito fin dall'[[Childhood|infanzia]] è più o meno questa.
+
+Che siamo emersi lentamente da una semi-barbarie in cui tutto il potere
+
+e la ricchezza erano nelle mani dei Re e di pochi nobili; che il potere del [[King|Re]]
+
+fu spezzato per primo e poi, a suo [[Time|tempo]], quello dei nobili; che
+
+questo miglioramento frammentario fu prodotto da una classe dopo
+
+l'altra che si destava a un senso di cittadinanza e reclamava un posto nei
+
+consigli nazionali, spesso con la sommossa o la violenza; e che in
+
+conseguenza di tale minacciosa azione popolare, il diritto di voto fu concesso
+
+a una classe dopo l'altra e usato sempre più per migliorare le condizioni sociali
 
 
 
@@ -8742,6 +10060,176 @@ that you really perceive its variety. It is not a flippancy, it is a
 very sacred [[Truth|truth]], to say that when men really understand that they are
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+del [[Body|corpo]] politico. Alcuni dei suoi effetti più indiretti sono i più
+
+pericolosi. Uno molto pericoloso proprio ora è questo: che per la maggior parte
+
+degli inglesi il Sistema dei Partiti falsifica la [[history|storia]], e specialmente la
+
+[[history|storia]] delle rivoluzioni. Falsifica la [[history|storia]] perché la semplifica
+
+[[history|storia]]. Dipinge ogni cosa o di Azzurro o di Camoscio nello stile della sua
+
+sciocca politica da circo: mentre una vera rivoluzione ha tanti colori
+
+quanti l'alba--o la fine del mondo. E se non ci liberiamo di
+
+questo errore commetteremo pessimi abbagli sulla vera rivoluzione
+
+che sembra farsi sempre più probabile, specialmente tra gli irlandesi.
+
+E ogni umana familiarità con la [[history|storia]] insegnerà a un uomo prima di
+
+tutto questo: che il Partito praticamente non esiste in una vera rivoluzione. È un
+
+gioco per tempi tranquilli.
+
+Se prendete un ragazzo che ha frequentato una di quelle grandi scuole private che
+
+sono falsamente chiamate Public Schools, e un altro ragazzo che ha frequentato
+
+una di quelle grandi scuole pubbliche che sono falsamente chiamate Board
+
+Schools, troverete alcune differenze tra i due, principalmente una
+
+differenza nel controllo della voce. Ma scoprirete che entrambi
+
+sono inglesi in un modo speciale, e che la loro [[Education|educazione]] è stata
+
+essenzialmente la stessa. Sono ignoranti sugli stessi argomenti. Non hanno
+
+mai sentito parlare degli stessi semplici fatti. È stata loro insegnata la
+
+risposta sbagliata alla stessa domanda che confonde. C'è un elemento fondamentale
+
+nell'atteggiamento del maestro di Eton che parla di «stare al gioco»,
+
+e del maestro elementare che addestra i monelli di strada a cantare: «Qual è il
+
+Significato dell'Empire Day?». E il nome di quell'elemento è «astorico». Non
+
+sa davvero nulla dell'Inghilterra, ancor meno dell'Irlanda o della Francia,
+
+e, meno di tutto, naturalmente, di qualcosa come la [[French Revolution|Rivoluzione francese]].
+
+Rivoluzione per Voto Improvviso
+
+Ora, quale nozione generale l'ordinario ragazzo inglese, così addestrato a
+
+proferire un'unica ignoranza in uno di due accenti, ricava e conserva per tutta la vita
+
+sulla [[French Revolution|Rivoluzione francese]]? È la nozione della [[house|Camera]] inglese dei
+
+Comuni con un'enorme maggioranza Radicale da un lato del tavolo e
+
+una piccola minoranza Tory dall'altro; la maggioranza che vota compatta per una
+
+Repubblica, la minoranza che vota compatta per una Monarchia; due squadre che marciano
+
+attraverso due corridoi senza alcuna differenza tra i loro metodi e i nostri,
+
+salvo che (per qualche abitudine peculiare della Gallia) i brevi intervalli
+
+erano ravvivati da una sommossa o da un massacro, invece che da un whisky e soda
+
+e da una soffiata sulle azioni Marconi. I romanzi sono molto più affidabili delle storie in tali
+
+questioni. Poiché sebbene un [[Novel|romanzo]] inglese sulla Francia non dica la
+
+[[Truth|verità]] sulla Francia, dice la [[Truth|verità]] sull'Inghilterra; e più della
+
+metà delle storie non dice mai la [[Truth|verità]] su nulla. E la narrativa
+
+popolare, credo, testimonia l'impressione generale inglese. La
+
+[[French Revolution|Rivoluzione francese]] è una divisione improvvisa con un insolito ribaltamento di voti.
+
+Da un lato stanno un [[King|re]] e una [[Queen|regina]] che sono buoni ma deboli, circondati
+
+da nobili con lo stocco sguainato; alcuni dei quali sono buoni, molti dei quali sono
+
+malvagi, tutti quanti di bell'aspetto. Contro costoro c'è una informe
+
+folla di esseri umani, con berretti rossi e apparentemente folle, che tutti
+
+seguono ciecamente furfanti che sono anche retori; alcuni dei quali muoiono
+
+pentiti e altri impenitenti verso la fine del quarto atto.
+
+I capi di questa massa ribollente di tutti gli uomini fusi in uno solo si chiamano
+
+Mirabeau, Robespierre, Danton, Marat, e così via. E si concede che
+
+la loro frenesia congiunta possa essere stata loro imposta dai mali del vecchio
+
+regime.
+
+Questa, credo, è la più comune visione inglese della [[French Revolution|Rivoluzione francese]];
+
+e non sopravviverà alla lettura di due pagine di un qualsiasi vero discorso o
+
+lettera dell'epoca. Questi esseri umani erano umani; vari, complessi e
+
+incoerenti. Ma il ricco inglese, ignorante di rivoluzioni,
+
+a stento vi crederebbe se gli raccontaste alcune delle comuni sottigliezze umane
+
+del caso. Ditegli che Robespierre gettò il berretto rosso nel fango con
+
+disgusto, mentre il [[King|re]] l'aveva portato con un largo sorriso, per così dire; ditegli
+
+che Danton, il feroce fondatore della Repubblica del Terrore, disse
+
+con tutta sincerità a un nobile: «Sono più monarchico di voi»; ditegli
+
+che al Terrore sembra davvero essere stata posta fine soprattutto dagli
+
+sforzi di persone che desideravano in particolare continuarlo--ed egli
+
+non crederà a queste cose. Non ci crederà perché non ha
+
+nessuna [[Humility|umiltà]], e dunque nessun realismo. Non è mai stato dentro se stesso;
+
+e così non poté mai essere dentro un altro uomo. La [[Truth|verità]] è che nella
+
+faccenda francese ognuno occupava una posizione individuale. Ogni uomo
+
+parlava sinceramente, se non perché era sincero, allora perché era
+
+adirato. Robespierre parlava ancor più di Dio che della Repubblica
+
+perché gli importava ancor più di Dio che della Repubblica. Danton
+
+parlava ancor più della Francia che della Repubblica perché gli importava
+
+ancor più della Francia che della Repubblica. Marat parlava più di
+
+Umanità di entrambi, perché quel medico (per quanto egli stesso alquanto
+
+bisognoso di un medico) davvero se ne curava. I nobili erano divisi,
+
+ciascuno dall'altro. L'atteggiamento del [[King|re]] era del tutto diverso
+
+dall'atteggiamento della [[Queen|regina]]; certamente assai più diverso di qualsiasi
+
+differenza tra i nostri Liberali e Tory negli ultimi vent'anni.
+
+E rattristerà _alcuni_ dei miei amici ricordare che fu il [[King|re]]
+
+a essere il Liberale e la [[Queen|regina]] a essere la Tory. Non c'erano due
+
+persone, credo, in quella crisi quanto mai concreta che stessero esattamente nel
+
+medesimo atteggiamento verso la situazione. Ed è per questo che, insieme,
+
+salvarono l'Europa. È quando si percepisce davvero l'[[unity|unità]] del genere umano
+
+che se ne percepisce davvero la varietà. Non è una leggerezza, è una
+
+[[Truth|verità]] assai sacra, dire che quando gli uomini comprendono davvero di essere
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_07" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 7)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -8922,6 +10410,182 @@ the whole power of the commonwealth. In other words, the [[government|Government
 judge the [[government|Government]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+fratelli, cominciano immediatamente a combattersi.
+
+Il Risveglio della Realtà
+
+Ora queste cose si stanno ripetendo con una realtà enorme nella
+
+Rivoluzione irlandese. Non riuscirete a ricavare un Sistema di Partiti da
+
+quella materia. Tutti sono in rivolta; perciò tutti dicono la
+
+[[Truth|verità]]. I Nazionalisti continueranno a curarsi soprattutto della nazione, come Danton
+
+e i difensori della frontiera continuarono a curarsi soprattutto della nazione.
+
+I preti continueranno a curarsi soprattutto della religione, come Robespierre continuò a
+
+curarsi soprattutto della religione. I Socialisti continueranno a curarsi soprattutto della
+
+cura della [[Suffering|sofferenza]] fisica, come Marat continuò a curarsene soprattutto. È
+
+da queste differenze reali che possono nascere cose reali, come la
+
+moderna [[democracy|democrazia]] francese. Perché con tale tenacia ognuno vede alla fine che
+
+c'è qualcosa nella posizione dell'altro. E coloro che sono addestrati alla
+
+disciplina di partito non vedono nulla, né passato né presente. E dove non c'è
+
+nulla, c'è [[Satan|Satana]].
+
+Da lungo [[Time|tempo]] nella nostra politica non solo non c'è stata alcuna vera
+
+battaglia, ma nemmeno alcun vero patto. Nessun uomo ha contrattato come Gladstone e
+
+Parnell contrattarono — ciascuno riconoscendo nell'altro una potenza. Ma nelle vere
+
+rivoluzioni gli uomini scoprono che nessuno può davvero accordarsi con un altro
+
+uomo finché non è stato in disaccordo con lui.
+
+IL LIBERALISMO: UN CAMPIONE
+
+C'è un certo quotidiano in Inghilterra verso il quale provo pressappoco
+
+ciò che [[Tom Pinch]] provava verso il signor Pecksniff subito dopo averlo
+
+smascherato. La guerra contro Dickens faceva parte della guerra generale contro tutti i
+
+democratici, negli anni ottanta e novanta, che inaugurò la sfrontata
+
+plutocrazia di oggi. E una delle cose che era di moda
+
+dire di Dickens nei salotti era che egli mancava di sottigliezza e non sapeva
+
+descrivere uno stato d'animo complesso. Come la maggior parte delle altre cose che si
+
+dicono nei salotti, era una menzogna. Dickens era uno scrittore molto ineguale,
+
+e i suoi successi si alternano ai suoi fallimenti; ma i suoi successi
+
+sono sottili tanto spesso quanto sono semplici. Così, per prendere «Martin
+
+Chuzzlewit» [[Alone|da solo]], definirei la battuta su Lord No-zoo una battuta semplice:
+
+ma definirei la battuta sulla visione della signora Todgers di una gamba di
+
+legno una battuta sottile. E nessuno stato d'animo fu mai tanto [[Self|auto]]-contraddittorio
+
+eppure tanto realistico quanto quello che Dickens descrive quando dice, in
+
+sostanza, che, sebbene Pinch sapesse ormai che non era mai esistita una
+
+persona come Pecksniff, nel suo senso ideale, non riusciva a indursi
+
+a insultare quel volto e quella figura stessa che avevano contenuto la leggenda. Il
+
+parallelo con il giornalismo liberale non è perfetto; perché esso un tempo fu
+
+onesto; e Pecksniff presumibilmente non lo fu mai. E anche quando arrivo a sentire
+
+una definitiva incompatibilità di carattere, Pecksniff non era così pecksniffiano come
+
+è poi divenuto. Ma il paragone è completo nella misura in cui condivido
+
+tutta la riluttanza del signor Pinch. Un antico [[King|re]] pagano fu consigliato da
+
+uno dei santi celtici, credo, di bruciare ciò che aveva adorato e adorare
+
+ciò che aveva bruciato. Sono del tutto pronto, se qualcuno proverà che avevo torto,
+
+ad adorare ciò che ho bruciato; ma provo davvero una riluttanza
+
+che rasenta la debolezza a bruciare ciò che ho adorato. Penso sia una
+
+debolezza da vincere in tempi tristi come questi, quando (come il signor Orage
+
+scrisse con qualcosa di simile a uno splendido buon senso l'altro giorno) c'è
+
+tanto da fare e così poche persone che lo faranno. Dedicherò dunque
+
+questo articolo a considerare un caso della sbalorditiva bassezza a cui
+
+il giornalismo liberale è sprofondato.
+
+Crollo Mentale a Fleet Street
+
+Una delle due o tre strisce di luce sul nostro orizzonte si può scorgere
+
+in questo: che il crollo morale di questi giornali è stato accompagnato
+
+anche da un crollo mentale. Il giornale ufficiale contemporaneo, come il
+
+«Daily News» o il «Daily Chronicle» (intendo nella misura in cui si occupa di
+
+politica), semplicemente non sa argomentare; e semplicemente non finge di argomentare. Esso
+
+considera la soluzione che immagina i ricchi desiderino, e
+
+la manifesta nel modo consueto; che non consiste nell'alzare
+
+la mano, ma nel cadere bocconi. Ma non c'è qualità più curiosa
+
+nella sua degradazione di una sorta di noncuranza, insieme di
+
+fretta e stanchezza, con cui getta giù il proprio argomento — o piuttosto il proprio
+
+rifiuto di argomentare. Non scrive nemmeno sofismi: scrive qualunque cosa.
+
+Non tanto [[Poison|avvelena]] la mente del lettore quanto semplicemente presume che il
+
+lettore non ne abbia una. Per esempio, uno di questi giornali stampò un
+
+articolo su Sir Stuart Samuel, il quale, avendo violato il grande statuto liberale
+
+contro la corruzione, forse verrà davvero chiamato a pagare la propria
+
+multa — nonostante il fatto che possa [[Well|ben]] permetterselo. L'
+
+articolo dice, se ricordo bene, che la decisione causerà generale
+
+sorpresa e una certa indignazione. Che un qualsiasi [[government|Governo]] moderno costringa un
+
+capitalista molto ricco a obbedire alla legge causi generale sorpresa, può esser vero.
+
+Se causerà generale indignazione dipende piuttosto dal fatto che
+
+i nostri rapporti sociali siano interamente confinati a Park Lane, o a simili
+
+porcili costruiti d'oro. Ma il giornalista prosegue dicendo, col collo
+
+che si erge sempre più fuori dal colletto, e i capelli che si rizzano sempre più
+
+in alto sulla testa, in breve, con la sua somiglianza all'
+
+originale dickensiano che cresce ad ogni istante, che egli non intende che la legge
+
+contro la corruzione debba essere meno rigorosa, ma che il peso debba
+
+essere sostenuto dall'intera comunità. Ciò può significare che ogni volta che un ricco
+
+viola la legge, tutti i poveri debbano essere costretti a pagargli la multa. Ma
+
+supporrò un significato un po' meno folle. Supporrò che significhi
+
+che l'intera potenza dello Stato debba essere usata per perseguire un
+
+trasgressore di questo genere. Ciò, naturalmente, può solo significare che la faccenda
+
+sarà decisa da quello strumento che ancora pretende di rappresentare
+
+l'intera potenza dello Stato. In altre parole, il [[government|Governo]]
+
+giudicherà il [[government|Governo]].
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_08" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 8)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -9101,6 +10765,182 @@ addressed to his soldiers (looking at them and not falling off his
 
 and might [[Well|well]] have seemed [[Blood|blood]]-thirsty in quieter times. It ended with
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora questo è un pezzo di pura [[logic|logica]] perfettamente semplice. Non occorre entrare
+
+nelle altre deliziose cose dell'articolo, come quando dice che «negli antichi
+
+tempi il Parlamento doveva essere protetto dall'invasione Regia dall'uomo
+
+della strada». Il Parlamento deve ora essere protetto contro l'uomo
+
+della strada. Il Parlamento è semplicemente la più detestata e la più
+
+detestabile di tutte le nostre istituzioni nazionali: tutto ciò è abbastanza evidente.
+
+Ciò che è interessante è la vuota e attonita fallacia della tentata
+
+replica.
+
+Quando il Giornalista Viene Rovinato
+
+Molto tempo fa, prima che tutti i Liberali morissero, un Liberale presentò
+
+un disegno di legge per impedire che il Parlamento fosse semplicemente stipato degli schiavi degli
+
+interessi finanziari. A tal fine stabilì l'eccellente
+
+principio democratico che il privato cittadino, in quanto tale, potesse protestare
+
+contro la corruzione pubblica. Fu chiamato il Common Informer. Io
+
+credo che i miseri giornali di partito siano davvero ridotti a giocare sulla
+
+degradazione delle due parole nella lingua moderna. Ora la parola «common»
+
+in «Common Informer» significa esattamente ciò che significa in «common sense», o
+
+in «Book of Common [[prayer|Prayer]]», o (soprattutto) in «[[house|House]] of Commons». Non
+
+significa nulla di basso o volgare; non più di quanto lo significhino quelle. L'unica
+
+differenza è che la [[house|House]] of Commons è davvero bassa e volgare; e
+
+il Common Informer no. Accade lo stesso con la parola «Informer».
+
+Non significa spia o delatore. Significa colui che dà informazioni. Essa
+
+significa ciò che «journalist» dovrebbe significare. L'unica differenza è che il
+
+Common Informer può essere pagato se dice la [[Truth|verità]]. Il comune giornalista
+
+sarà rovinato se lo fa.
+
+Ora il punto del tutto semplice davanti al giornalista di partito è questo: se
+
+egli intende davvero che un patto corrotto tra un [[government|Governo]] e un
+
+appaltatore debba essere giudicato dall'opinione pubblica, deve (oggigiorno) intendere
+
+il Parlamento; cioè, il caucus che controlla il Parlamento. E deve
+
+decidere tra una di due opinioni. O intende che non può esistere
+
+una cosa come un [[government|Governo]] corrotto. Oppure intende che è una delle
+
+qualità caratteristiche di un [[government|Governo]] corrotto denunciare la propria
+
+corruzione. Io rido; e gli lascio la sua scelta.
+
+LA STANCHEZZA DI FLEET STREET
+
+Perché il moderno giornalismo politico di partito è così pessimo? È peggiore persino
+
+di quanto intenda essere. Loda i suoi assurdi capipartito attraverso
+
+ogni difficoltà; ma in qualche modo riesce a farli apparire più grandi
+
+sciocchi di quanto siano. Questa goffaggine si attacca perfino alle fotografie
+
+degli uomini pubblici, colti d'istantanea nelle riunioni pubbliche. Un politico sensibile
+
+(se una cosa simile esiste) vorrebbe, immagino,
+
+assassinare l'uomo che lo coglie d'istantanea in quei momenti. Perché la nostra generale
+
+impressione del gesto o del gioco dei tratti di un uomo è fatta di una serie
+
+di istanti fuggevoli, in ognuno dei quali egli può apparire peggiore della nostra
+
+impressione generale registrata. Il signor Augustine Birrell può aver fatto un
+
+discorso sensato e divertente, nel corso del quale il suo pubblico
+
+difficilmente avrebbe notato che si riassettava la cravatta. Coglietelo d'istantanea, ed
+
+egli appare mentre si stringe convulsamente la gola nelle agonie dello
+
+strangolamento, con la testa contorta da un lato come se fosse stato
+
+impiccato. Sir Edward Carson potrebbe fare un discorso perfettamente buono, che
+
+nessuno giudica noioso, ma egli stesso potrebbe essere appena stanco abbastanza da spostarsi
+
+da una gamba all'altra. Coglietelo d'istantanea, ed egli appare mentre tiene una
+
+gamba rigida in aria e sbadiglia abbastanza da [[Swallow|inghiottire]] il pubblico.
+
+Ma è nelle narrazioni in prosa della Stampa che troviamo le maggiori
+
+manifestazioni di questa strana inettitudine; questa abilità di mostrare i tuoi
+
+stessi favoriti sotto una luce sfortunata. Non è tanto che i giornalisti di partito
+
+non dicano la [[Truth|verità]] quanto che ne dicano quel tanto che basta
+
+a rendere chiaro che stanno dicendo menzogne. Uno dei loro
+
+svarioni preferiti è una stupefacente sorta di bathos. Cominciano col dirvi che
+
+un qualche statista disse qualcosa di brillante nello stile o pungente nell'arguzia, al
+
+che i suoi ascoltatori fremettero di terrore o tuonarono d'applausi. E
+
+poi vi dicono che cosa fosse ciò che disse. Sciocchi somari!
+
+Folle Esagerazione
+
+Ecco un esempio da un importante giornale liberale a proposito dei dibattiti sull'
+
+[[Home]] Rule. Io sono un [[Home]] Ruler; perciò le mie simpatie sarebbero semmai
+
+dalla parte del giornale liberale su quel punto. Lo cito solo come
+
+esempio di questo modo ridicolo di scrivere, che, per folle
+
+esagerazione, fa in realtà apparire il suo [[Hero|eroe]] più piccolo di quel che è.
+
+Fu strano linguaggio da usare a proposito della «ipocrita finzione», e il signor
+
+Asquith, sapendo che la più grande battaglia della sua carriera gli era addosso,
+
+reagì senza [[Mercy|pietà]]. «Vorrei prima sapere», disse, con uno
+
+sguardo ai suoi sostenitori, «se le mie proposte sono accettate?»
+
+Tutto qui. E davvero non vedo perché il povero signor Asquith debba essere
+
+rappresentato come colpevole di aver violato la cristiana virtù della [[Mercy|pietà]] col dire
+
+ciò. Io stesso potrei comporre moltissimi paragrafi sullo stesso
+
+modello, ciascuno contenente il suo pungente e forse spregiudicato [[Epigram|epigramma]].
+
+Come, per esempio: «L'Arcivescovo di Canterbury, rendendosi conto che la sua
+
+scelta ora stava tra il rinnegare Dio e guadagnare la [[Crown|corona]] del [[Martyrdom|martirio]]
+
+morendo tra i tormenti, parlò con una frenesia di passione religiosa che avrebbe
+
+potuto sembrare fanatica in circostanze meno intense. 'Il Servizio dei
+
+Fanciulli', disse fermamente, col volto rivolto alla congregazione, 'si
+
+terrà alle quattro e mezza questo pomeriggio come al solito.'»
+
+Oppure, potremmo avere: «Lord Roberts, riconoscendo che doveva ora affrontare
+
+l'Armageddon, e che se avesse perso quest'ultima battaglia contro forze soverchianti
+
+l'indipendenza dell'Inghilterra sarebbe stata spenta per sempre,
+
+rivolse ai suoi soldati (guardandoli e senza cadere dal suo
+
+[[Horse|cavallo]]) un discorso che portò le loro passioni nazionali al punto di ebollizione,
+
+e avrebbe [[Well|ben]] potuto sembrare [[Blood|sanguinario]] in tempi più tranquilli. Terminò con
 
 
 
@@ -9462,6 +11302,176 @@ be likely to say: "Sed miles; sed pro patria." There is, indeed, one
 beautiful poem of Mr. Newbolt's which may mingle faintly with one's
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+il Consiglio Indipendente del Partito Laburista Ufficiale, o l'Indipendente
+
+e Ufficiale Consiglio del Partito Laburista (mi sono davvero innervosito per
+
+questi nomi e distinzioni; ma sembrano tutti dire la stessa cosa)
+
+cominciò il suo manifesto dicendo che sarebbe stato difficile assegnare i
+
+gradi di responsabilità che ciascuna nazione aveva per lo scoppio della
+
+guerra. In seguito, uno scrittore del «Christian Commonwealth», deplorando
+
+la guerra in nome del Lavoro, ma nel linguaggio della mia stessa romantica
+
+classe media, disse che tutte le nazioni devono condividere la responsabilità
+
+di questa grande calamità della guerra. Ora, esattamente finché continuiamo a parlare
+
+così, avremo guerra dopo guerra, e calamità dopo calamità,
+
+fino allo schianto del giudizio. Equivale semplicemente a una promessa di perdono a
+
+chiunque inizierà una lite. È un'amnistia per gli assassini. Nel
+
+momento in cui un uomo aggredisce un altro uomo, rende tutti gli altri uomini altrettanto
+
+cattivi quanto lui. Non ha che da pugnalare, e da svanire in una nebbia di
+
+oblio. Le vere aquile di ferro, gli Imperi predatori, saranno
+
+deliziati da questa dottrina. Applaudiranno il Concerto Laburista o
+
+Comitato, o comunque si chiami. Prenderanno volentieri tutto il
+
+crimine, con solo un quarto della [[Conscience|coscienza]]: saranno pronti tanto a
+
+condividere la [[Memory|memoria]] quanto lo sono a condividere il bottino. Le Potenze divideranno
+
+la responsabilità con la stessa calma con cui divisero la Polonia.
+
+L'Intero Ripugnante Carico
+
+Ma continuo, ostinatamente e umilmente, a sostenere il mio punto: che non si può
+
+porre fine alla guerra senza chiedere chi l'abbia iniziata. Se pensate che sia stato qualcun altro, non
+
+la [[Germany|Germania]], a iniziarla, allora incolpate quel qualcun altro: non incolpate tutti
+
+e nessuno. Forse pensate che un piccolo popolo sovrano, appena uscito da
+
+due guerre trionfanti, dovrebbe deporre la propria corona prima dell'alba; perché
+
+il nipote di un Imperatore vicino è stato ucciso dai suoi stessi sudditi.
+
+Molto [[Well|bene]]. Allora incolpate la Serbia; e, nella misura della vostra influenza, voi
+
+potreste impedire ai piccoli regni di essere ostinati o persino ai principi di essere
+
+uccisi. Forse pensate che l'intera faccenda sia stata un'enorme cospirazione della [[Russia]],
+
+con la Francia come zimbello e la Serbia come pretesto. Molto [[Well|bene]]. Allora incolpate
+
+la [[Russia]]; e, nella misura della vostra influenza, potreste impedire
+
+ai grandi Imperi di inventare scuse razziali per una razzia. Forse pensate
+
+che la Francia abbia torto a provare ciò che voi chiamate «[[Revenge|vendetta]]», e che io dovrei
+
+chiamare recupero di beni rubati. Forse incolpate il Belgio per essere
+
+sentimentale riguardo alla sua frontiera; o l'Inghilterra per essere sentimentale riguardo alla
+
+sua parola data. Se è così, incolpateli; o chiunque di loro riteniate colpevole.
+
+Oppure, di nuovo, è appena possibile che pensiate, come me, che l'
+
+intero ripugnante carico ci sia stato imposto dalla monarchia che io non ho
+
+nominato; e ancor meno ho sprecato [[Time|tempo]] a insultare. Ma se vi è in Europa
+
+uno Stato militare che non ha la religione della [[Russia]], eppure ha aiutato
+
+la [[Russia]] a tiranneggiare i Polacchi, quello Stato non si cura della religione,
+
+ma della tirannia. Se vi è uno Stato in Europa che non ha la
+
+religione degli Austriaci, ma ha aiutato l'Austria a tiranneggiare i Serbi,
+
+quello Stato non si cura della fede, ma del sopruso. Se vi è in
+
+Europa un qualsiasi popolo o principato che non rispetta né repubbliche né
+
+religioni, per cui l'ideale politico di [[Paris|Parigi]] è tanto un mito quanto
+
+l'ideale mistico di Mosca, allora incolpate quello: e fate più che incolpare.
+
+Con le sane e altamente teologiche parole di Robert Blatchford, ricacciatelo
+
+nell'Inferno da cui è venuto.
+
+Piangere sul [[Blood|Sangue]] Versato
+
+Ma qualunque cosa facciate, non incolpate tutti per ciò che fu certamente fatto
+
+da qualcuno. Può darsi che non serva piangere sul [[Blood|sangue]] versato, non
+
+più che sul latte versato. Ma non troviamo il colpevole di più
+
+versando il latte su tutti; o imbrattando tutti di [[Blood|sangue]].
+
+Ancor meno miglioriamo le cose annacquando il latte con le nostre [[Tears|lacrime]],
+
+né tantomeno il [[Blood|sangue]]. Dire che tutti sono responsabili significa che
+
+nessuno è responsabile. Se in futuro vedremo la [[Russia]] annettere il Rutland
+
+(come parte dell'antico Regno di Moscovia), se vedremo la Baviera prendere un'
+
+improvvisa fantasia per la Banca d'Inghilterra, o il [[King|Re]] delle Isole dei Cannibali
+
+improvvisamente esigere un tributo di ragazzi e ragazze commestibili dall'Inghilterra e
+
+dall'[[america|America]], potremo anche essere del tutto certi che il Leader del Partito
+
+Laburista si alzerà, con un lieve colpo di tosse, e dirà: «Sarebbe un difficile
+
+compito ripartire la colpa tra le varie pretese che...»
+
+RESUSCITARE IL BUFFONE DI [[Court|CORTE]]
+
+[[Hope|Spero]] che il [[government|Governo]] non pensi proprio ora a nominare un Poeta
+
+Laureato. Non credo affatto che possano essere del tutto nello stato d'animo giusto. La
+
+faccenda ora davanti al paese fa un'ottima storia [[Detective|poliziesca]];
+
+ma come [[Epic|epopea]] nazionale è un po' deprimente. La letteratura sciovinista
+
+indebolisce sempre una nazione; ma persino la sana letteratura patriottica ha
+
+il suo giusto [[Time|tempo]] e la sua occasione. Per esempio, il signor Newbolt (che è stato
+
+proposto per l'incarico) è un poeta molto fine; ma penso che le sue
+
+liriche patriottiche proprio ora stonerebbero piuttosto a un patriota. Siamo un po' troppo
+
+preoccupati della nostra pratica marineria per sentirci del tutto fiduciosi che
+
+Drake ritornerà e li «tamburellerà su per la Manica come li tamburellò tanto
+
+tempo fa». Al contrario, abbiamo la spiacevole sensazione che la
+
+[[Ship|nave]] di Drake possa improvvisamente andare a [[Bottom|fondo]], perché i capitalisti hanno fatto
+
+abolire a Lloyd George la Linea di Plimsoll. Non si potrebbe, senza essere
+
+inteso ironicamente, esortare oggi le due squadre di partito a «gioca,
+
+gioca e gioca il gioco», o ad «[[Love|Amare]] il gioco più del
+
+premio». E non c'è alcun [[Hero|eroe]] nazionale in questo momento nella carriera
+
+militare — a meno che, forse, non sia il Maggiore Archer-Shee — di cui qualcuno
+
+sarebbe propenso a dire: «Sed miles; sed pro patria». C'è, invero, una
+
+bella poesia del signor Newbolt che potrebbe mescolarsi debolmente ai propri
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_11" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 11)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -9650,6 +11660,190 @@ some huge ceremonial hoax. Carson ought to be crowned with the shamrocks
 and emeralds and followed by green-clad minstrels of the Clan-na-Gael,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+pensieri in tempi simili, ma quella, ahimè, è su un tono assai diverso. Io
+
+intendo quella in cui egli riecheggia la concezione di Turner della vecchia
+
+[[Ship|nave]] di legno che svanisce con tutte le valorose memorie degli Inglesi:
+
+
+
+C'è una campana che suona lontano
+
+Al calar del sole,
+
+E una voce [[Phantom|fantasma]] sta cantando
+
+Dei grandi giorni trascorsi.
+
+C'è una campana che suona lontano,
+
+E una voce [[Phantom|fantasma]] sta cantando
+
+Di una fama per sempre avvinta
+
+Ai grandi giorni trascorsi.
+
+Poiché le brezze del tramonto rabbrividiscono,
+
+Temeraire, Temeraire,
+
+Ed ella svanisce giù per il [[River|fiume]]....
+
+[[Well|Ebbene]], [[Well|ebbene]], né voi né io sappiamo se ella stia svanendo giù per il [[River|fiume]]
+
+o no. Ci basta sapere, come sapeva [[King Alfred|Re Alfredo]], che
+
+moltissimi pirati sono sbarcati su entrambe le rive del Tamigi.
+
+Lode e Profezia Impossibili
+
+In questo momento quello è l'unico genere di poesia patriottica che potrebbe
+
+soddisfare le emozioni di una persona patriottica. Ma certamente non è
+
+il genere di poesia che ci si aspetta da un Poeta Laureato, né sulla
+
+più alta né sulla più bassa teoria del suo ufficio. Egli è o un grande
+
+menestrello che canta le vittorie di un grande [[King|re]], o un comune funzionario di [[Court|Corte]]
+
+come il Guardiano dell'Armadio della Cipria. Nel primo caso le sue
+
+lodi dovrebbero essere vere; nel secondo caso saranno quasi sempre
+
+false; ma in entrambi i casi egli deve lodare. E che cosa ci sia per lui da
+
+lodare proprio ora sarebbe assai arduo dire. E se non c'è
+
+grande [[Hope|speranza]] di un vero poeta, c'è ancor meno [[Hope|speranza]] di un vero [[Prophet|profeta]].
+
+Ciò che Newman chiamava, credo, «L'Ufficio Profetico», cioè, l'
+
+istituzione di una protesta ispirata persino contro una religione ispirata,
+
+certamente non andrebbe bene nell'Inghilterra moderna. La [[Court|Corte]] non è propensa a
+
+tenere un [[Prophet|profeta]] addomesticato per incoraggiarlo a essere selvaggio. Non è
+
+propensa a pagare un uomo perché dica che i lupi ululeranno a Downing-street e
+
+gli avvoltoi costruiranno i loro nidi a [[Buckingham]] Palace. Tanto vasto è stato il
+
+progresso dell'umanità che queste due cose sono del tutto impossibili. Non
+
+possiamo avere un grande poeta che loda i re. Non possiamo avere un grande [[Prophet|profeta]]
+
+che denuncia i re. Devo dunque ripiegare su una terza proposta.
+
+Il Campo per un [[Fool|Buffone]]
+
+Invece di resuscitare il Poeta di [[Court|Corte]], perché non resuscitare, di quella [[Court|Corte]], il [[Fool|Buffone]]? Egli è
+
+l'unica persona che potrebbe fare del bene in questo momento sia alle
+
+Corti Regie sia a quelle giudiziarie. L'attuale situazione politica è del tutto
+
+inadatta agli scopi di un grande poeta. Ma è particolarmente
+
+adatta agli scopi di un grande buffone. L'antico giullare godeva di
+
+certi privilegi: non si potevano risentire le battute di un [[Fool|buffone]], proprio
+
+come non si possono risentire i sermoni di un curato. Ora, ciò che l'attuale
+
+[[government|Governo]] d'Inghilterra vuole non è né seria lode né seria
+
+denuncia; ciò che vuole è [[Satire|satira]]. Ciò che vuole, in altre parole,
+
+è realismo dato con gusto. Quando [[King|Re]] Luigi Undicesimo inaspettatamente
+
+visitò il suo nemico, il Duca di Borgogna, con una piccola scorta, il
+
+giullare del Duca disse che avrebbe dato al [[King|Re]] il suo berretto da [[Fool|buffone]], perché ora era lui il [[Fool|buffone]]
+
+adesso. E quando il Duca replicò con dignità: «E supponi che io lo tratti
+
+con ogni dovuto rispetto?», il [[Fool|buffone]] rispose: «Allora lo darò a
+
+te». Quello è il genere di cosa che qualcuno dovrebbe essere libero di dire
+
+ora. Ma se lo dite ora sarete multati di cento sterline come
+
+minimo.
+
+Il Dilemma di Carson
+
+Perché le cose accadute di recente non sono soltanto cose
+
+su cui si potrebbe scherzare. Esse sono, veramente e intrinsecamente,
+
+scherzi. Intendo che c'è una sorta di [[Epigram|epigramma]] di irragionevolezza nella
+
+situazione stessa, come c'era nella situazione in cui c'era marmellata
+
+ieri e marmellata domani ma mai marmellata oggi. Prendete, per esempio,
+
+lo straordinario caso di Sir Edward Carson. Il punto non è se noi
+
+consideriamo il suo atteggiamento a Belfast come la sfida di un sincero e dogmatico
+
+[[Rebel|ribelle]], o come il bluff di un mestierante di partito e ciarlatano. Il punto non è
+
+se consideriamo la sua difesa del [[government|Governo]] all'Old Bailey come un
+
+cavalleresco e riluttante dovere compiuto come avvocato o amico, o come
+
+un mero caso di un legale che vende la sua [[Soul|anima]] per una lauta parcella. Il punto è
+
+che qualunque delle due azioni approviamo, e qualunque delle quattro
+
+spiegazioni adottiamo, la posizione di Sir Edward è comunque delirante nonsenso.
+
+Con qualsiasi argomento, egli non può sfuggire al suo dilemma. Si può sostenere
+
+che le leggi e le consuetudini vadano obbedite quali che siano i nostri sentimenti privati;
+
+e che sia consuetudine consolidata accettare un incarico in un caso simile.
+
+Ma allora è consuetudine alquanto più consolidata obbedire a un Atto
+
+del Parlamento e mantenere la pace. Si può sostenere che l'estremo
+
+malgoverno giustifichi gli uomini in Ulster o altrove nel rifiutare di obbedire
+
+alla legge. Ma allora li giustificherebbe ancor più nel rifiutare di
+
+comparire professionalmente in un [[Court|tribunale]]. L'etichetta non può essere insieme tanto
+
+irrilevante che Carson possa sparare all'uniforme del [[King|Re]], eppure tanto
+
+importante che egli debba essere sempre pronto a indossare la propria. Il [[government|Governo]]
+
+non può essere così screditato che Carson non debba deporre il fucile, eppure
+
+così rispettabile che sia tenuto a indossare la parrucca. Carson non può insieme
+
+essere così feroce da poter uccidere in ciò che considera una buona causa, eppure
+
+così mite da dover argomentare in ciò che considera una cattiva causa. Obbedienza
+
+o disobbedienza, convenzionale o non convenzionale, la lettera di un procuratore
+
+non può essere più sacra del mandato del [[King|Re]]; una borsa azzurra non può essere più
+
+razionale della [[Flag|bandiera]] britannica. La cosa è insulsa comunque la si legga, e
+
+l'unica difficoltà è trovare uno scherzo abbastanza buono da esprimerla. È un
+
+caso per il Giullare di [[Court|Corte]]. La fantasticheria di ciò potrebbe essere espressa solo da
+
+qualche enorme burla cerimoniale. Carson dovrebbe essere incoronato di trifogli
+
+e smeraldi e seguito da menestrelli vestiti di verde del Clan-na-Gael,
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_12" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 12)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -9831,6 +12025,184 @@ an election address of that kind; but we should have had our fun and
 
 (comparatively speaking) saved our souls; and I have a strong suspicion
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+suonando «The Wearing of the Green».
+
+Tardiva Ciarleria via Telegrafo Senza Fili
+
+Ma tutti i recenti avvenimenti sono così. Sono scherzi pratici. Gli
+
+scherzi non hanno bisogno di essere fatti: hanno solo bisogno di essere additati. Voi e
+
+io non parliamo e agiamo come i fratelli Isaacs parlarono e agirono, secondo il loro
+
+stesso resoconto più favorevole di sé; e persino il loro resoconto di
+
+sé non era affatto favorevole. Voi e io non parliamo del
+
+fatto di incontrare un nostro fratello di sangue «a una funzione di famiglia» come se fosse un
+
+cugino infinitamente lontano che vedevamo solo a Natale. Voi e io, quando
+
+ci sentiamo improvvisamente inclini a due chiacchiere con lo stesso fratello sulla sua
+
+cena e sullo Sciopero del Carbone, non scegliamo generalmente né la telegrafia
+
+senza fili né il Cavo Atlantico come il canale più ovvio ed economico
+
+per quello sfogo di tardiva ciarleria. Voi e io non parliamo,
+
+se si propone di avviare una ferrovia tra Catsville e Dogtown, come
+
+se l'erezione di una stazione a Dogtown non potesse avere alcun effetto economico
+
+sull'erezione di una stazione a Catsville. Voi e io non
+
+riteniamo sincero dire che quando siamo a un capo di un telefono
+
+non abbiamo alcun tipo di connessione con l'altro capo. Queste cose sono entrate
+
+nella regione della farsa; e dovrebbero essere trattate farsescamente, non addirittura
+
+ferocemente.
+
+Un [[Fool|Buffone]] Che Sia Libero
+
+Nella Repubblica Romana c'era un Tribuno della Plebe, la cui persona
+
+era inviolabile come quella di un ambasciatore. C'era pressappoco la stessa idea
+
+nel tentativo di Becket di rimuovere il Sacerdote, che era allora il campione
+
+popolare, dalle corti ordinarie. Non avremo alcun Tribuno; perché non
+
+abbiamo repubblica. Non avremo alcun Sacerdote; perché non abbiamo religione. Il
+
+meglio che meritiamo o possiamo aspettarci è un [[Fool|Buffone]] che sia libero; e che ci
+
+liberi con la risata.
+
+L'ARTE DI MANCARE IL PUNTO
+
+Mancare il punto è un'arte assai fine; ed è stata portata a qualcosa
+
+come la perfezione dai politici e dai giornalisti di oggi. Perché il punto è
+
+generalmente un punto assai acuto; ed è, per giunta, acuto a entrambe le estremità.
+
+Vale a dire che entrambe le parti probabilmente si infilzerebbero in modo
+
+scomodo se non riuscissero a evitarlo del tutto. Ho
+
+appena guardato il proclama elettorale del candidato liberale ufficiale
+
+per la parte del paese in cui vivo; e benché
+
+sia, semmai, piuttosto più logico e privo di ipocrisie della maggior parte degli altri
+
+documenti del genere, è un eccellente esempio del mancare il punto.
+
+Il candidato deve andare avanti a tediare su Libero Scambio e [[Reform|Riforma]] Agraria e
+
+[[Education|Istruzione]]; e nessuno leggendolo potrebbe mai immaginare che nella città
+
+di Wycombe, dove sarà proclamato lo scrutinio, capoluogo della
+
+circoscrizione di Wycombe nel Bucks che il candidato contende, centro del
+
+commercio importante e vitale su cui essa ha prosperato, una selvaggia lotta
+
+sulla giustizia infuria da mesi tra i poveri e i ricchi,
+
+reale quanto la [[French Revolution|Rivoluzione francese]]. L'uomo che si presenta a Wycombe come
+
+rappresentante della circoscrizione di Wycombe semplicemente non ne dice nulla
+
+affatto. È come se un uomo, al culmine del Terrore francese, si fosse presentato
+
+come deputato per la città di [[Paris|Parigi]], e non avesse detto nulla
+
+sulla Monarchia, nulla sulla Repubblica, nulla sui massacri,
+
+nulla sulla guerra; ma avesse spiegato con grande chiarezza le sue vedute
+
+sulla soppressione dei Giansenisti, sullo stile letterario di Racine,
+
+sull'idoneità di Turenne alla carica di comandante in capo, e le
+
+riflessioni religiose di Madame de Maintenon. Perché, nel migliore dei casi, i
+
+temi del candidato non sono d'attualità. L'[[Home]] Rule è una cosa molto buona, e la
+
+moderna [[Education|istruzione]] è una cosa molto cattiva; ma nessuna delle due è cosa
+
+di cui qualcuno stia parlando a High Wycombe. Questo è il primo e
+
+più semplice modo di mancare il punto: evitarlo e ignorarlo deliberatamente.
+
+Il Candidato Candido
+
+Sarebbe un esperimento divertente, tra parentesi, andare al punto
+
+invece di evitarlo. Che spasso sarebbe presentarsi come rigido candidato di Partito,
+
+ma pubblicare un Proclama Elettorale perfettamente franco e cinico.
+
+Il proclama del signor Mosley comincia: «Signori, essendo Sir Alfred Cripps stato
+
+scelto per un'alta carica giudiziaria e un seggio nella [[house|House]] dei Lord, una
+
+elezione suppletiva si rende ora necessaria, e gli elettori del South Bucks sono
+
+investiti del responsabile dovere di eleggere, ecc., ecc.». Ma supponete
+
+che vi fosse un altro candidato il cui proclama elettorale si aprisse in uno stile piano,
+
+virile, così: «Signori, nella sincera [[Hope|speranza]] di essere io stesso
+
+scelto per un'alta carica giudiziaria o un seggio nella [[house|House]] dei Lord,
+
+o di accrescere considerevolmente la mia fortuna privata con qualche nomina
+
+[[government|Governativa]], o, almeno, di ottenere informazioni riservate sulle prospettive
+
+finanziarie, ho deciso che vale la pena per me sborsare grosse
+
+somme di denaro a voi con vari pretesti, e, con ancor maggiore riluttanza,
+
+sopportare la cattiva oratoria e la cattiva ventilazione della [[house|House]] dei Comuni
+
+del Parlamento, che Dio mi aiuti. Ho convinzioni assai pronunciate su
+
+varie questioni politiche; ma non tedierò i miei concittadini
+
+con esse, poiché ho deciso del tutto di abbandonarne una qualsiasi o tutte
+
+quante se richiesto di farlo dalle classi superiori. Gli elettori sono
+
+perciò investiti del dovere del tutto irresponsabile di eleggere un
+
+Membro; o, in altre parole, chiedo ai miei vicini di questa zona,
+
+che sanno che sotto molti aspetti non sono un cattivo tipo, di rendermi un favore nei miei
+
+affari, proprio come potrei chiedere loro di cambiarmi una sterlina. La mia elezione
+
+non avrà alcun immaginabile effetto su nulla e su nessuno tranne
+
+me stesso; perciò chiedo, da uomo a uomo, agli Elettori della Meridionale o Wycombe
+
+Circoscrizione della Contea di [[Buckingham]] di accettare un giro su una delle mie
+
+automobili; e di votare presto per compiacere un amico — Dio Salvi il [[King|Re]]». Non
+
+so se voi o io saremmo eletti presentandoci con
+
+un proclama elettorale di quel genere; ma ci saremmo divertiti e
+
+(relativamente parlando) avremmo salvato le nostre anime; e ho il forte sospetto
 
 
 
@@ -10190,6 +12562,182 @@ Lowe said of the enfranchised workmen: "We must educate our masters."
 I do not mean this as paradoxical, or even as symbolical; it is simply
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+cose, cose forti e cose che perseguono altri scopi; il Clericalismo,
+
+per esempio, e il Socialismo militante in Belgio; il Sindacalismo e
+
+lo sport e i resti di una vera aristocrazia in Inghilterra. Ma la Prussia è
+
+il Capitalismo; cioè, una [[Slavery|schiavitù]] che gradualmente si solidifica; e quella maestosa
+
+[[unity|unità]] con cui essa si muove, trascinandosi dietro tutte le mute Germanie,
+
+è dovuta al fatto che il suo Stato Servile è completo, mentre il nostro è
+
+incompleto. Non ci sono ammutinamenti; non ci sono nemmeno beffe; la
+
+voce dell'[[Self|auto]]-critica nazionale è stata spenta per sempre. Perché questo
+
+popolo è già permanentemente scisso in una classe superiore e una inferiore:
+
+nella sua industria non meno che nel suo esercito. I suoi datori di lavoro sono, nel più stretto
+
+e più sinistro dei sensi, capitani d'industria. Il suo proletariato è,
+
+nel più vero e più pietoso dei sensi, un esercito del lavoro. In quell'
+
+atmosfera i padroni portano su di sé i segni di essere più che uomini;
+
+e insultare un ufficiale è la [[Death|morte]].
+
+Se qualcuno chiede come questa estrema e inequivocabile subordinazione degli
+
+impiegati ai datori di lavoro sia realizzata, tutti conosciamo la risposta.
+
+È realizzata dalla fame e dalla durezza di cuore, accelerata da un
+
+certo tipo di legislazione, di cui abbiamo avuto parecchio di recente
+
+in Inghilterra, ma che era quasi invariabilmente presa in prestito dalla Prussia. Il
+
+suggerimento del signor Herbert Samuel che i poveri possano mettere il loro
+
+denaro in scatolette e non riuscire più a tirarlo fuori è una sorta
+
+di perenne simbolo di tutto il resto. Ho dimenticato come i poveri
+
+avrebbero infine tratto beneficio da ciò che per loro è indistinguibile dal
+
+lasciar cadere sei pence in un tombino. Forse lo avrebbero riavuto
+
+un giorno; forse quando avessero potuto produrre cento coupon dal
+
+Daily Citizen; forse quando si fossero tagliati i capelli; forse quando
+
+avessero acconsentito a farsi inoculare, o trapanare, o circoncidere, o qualcosa del genere.
+
+La [[Germany|Germania]] è piena di questo genere di legislazione; e se chiedeste a un
+
+[[Innocent|innocente]] tedesco, che vi credesse onestamente, che cosa fosse, egli
+
+risponderebbe che era per la protezione degli operai.
+
+E se chiedeste di nuovo «La loro protezione da che cosa?» avreste
+
+l'intero piano e problema dello Stato Servile chiaro davanti a voi.
+
+Qualunque nozione ci sia, non c'è nozione alcuna di proteggere la
+
+persona impiegata _dal suo datore di lavoro_. Ancor meno c'è alcuna idea che egli
+
+possa mai trovarsi da qualche parte se non sotto un datore di lavoro. Qualunque cosa il Capitalista
+
+voglia, la ottiene. Può avere il buon senso di volere operai lavati e [[Well|ben]] nutriti
+
+piuttosto che sudici e fiacchi, e le restrizioni possono
+
+darsi esistano nella forma di leggi del Kaiser o di regolamenti dei
+
+Krupp. Ma il Kaiser non offenderà i Krupp, e i Krupp
+
+non offenderanno il Kaiser. Leggi di questo genere, dunque, non tentano di
+
+proteggere gli operai contro l'ingiustizia del Capitalista come facevano i
+
+Sindacati inglesi. Non tentano di proteggere gli operai contro l'
+
+ingiustizia dello Stato come facevano le corporazioni medievali. Ovviamente
+
+non possono proteggere gli operai contro l'invasore straniero — specialmente quando (come
+
+nel comico caso del Belgio) sono imposte dall'invasore straniero.
+
+Da che cosa, dunque, sono concepite queste leggi per proteggere gli operai? Tigri,
+
+serpenti a sonagli, iene?
+
+Oh, miei giovani amici; oh, miei fratelli cristiani, sono concepite per
+
+proteggere questa povera persona da qualcosa che per coloro di rango
+
+stabilito è più orribile di molte iene. Sono concepite, amici miei, per
+
+proteggere un uomo da sé stesso — da qualcosa che i padroni della terra
+
+[[Fear|Temono]] più della carestia o della guerra, e che la Prussia teme specialmente come
+
+ogni cosa teme ciò che sarebbe certamente la sua fine. Sono intese
+
+a proteggere un uomo contro sé stesso — cioè, sono intese a proteggere un
+
+uomo contro la sua virilità.
+
+E se qualcuno mi ricorda che c'è un Partito Socialista in [[Germany|Germania]], io
+
+rispondo che non c'è.
+
+L'IMPERO DEGLI IGNORANTI
+
+Quell'anarchico futuro che i più timidi Tory professavano di [[Fear|Temere]] è
+
+già caduto su di noi. Siamo governati da gente ignorante. Ma la gente più
+
+ignorante nella Britannia moderna si trova nella classe alta,
+
+nella classe media, e specialmente nell'alta classe media. Non lo dico
+
+con la minima petulanza né persino avversione; queste classi sono
+
+spesso davvero benefiche nella loro educazione o nella loro ospitalità, o nella loro
+
+umanità verso gli [[Animals|animali]].
+
+Non c'è ancora compagnia migliore dei giovani nelle due Università,
+
+o dei migliori tra i vecchi nell'Esercito o in alcuni degli altri servizi. Inoltre,
+
+naturalmente, ci sono eccezioni in fatto di sapere; veri studiosi
+
+come il Professor Gilbert Murray o il Professor Phillimore non sono ignoranti,
+
+benché _siano_ gentiluomini. Ma quando si guarda a una qualsiasi massa delle
+
+classi più ricche e più potenti, alla Tribuna d'Onore di Epsom, alle
+
+finestre di Park-lane, alla gente a un [[debate|dibattito]] in grande tenuta o a un
+
+matrimonio alla moda, potremo dire con sicurezza che sono, per la
+
+maggior parte, le creature più mal istruite, o non istruite, di queste isole.
+
+Letteralmente Illetterati
+
+È invero il loro fiacco vanto di non essere letteralmente illetterati.
+
+Vanno sempre dicendo che gli antichi baroni non sapevano firmare il proprio
+
+nome — perché sanno di [[history|storia]] forse meno che di ogni altra cosa. I
+
+baroni moderni, invece, sanno firmare il proprio nome — o quello di qualcun altro tanto
+
+per cambiare. Sanno firmare il proprio nome; ed è pressappoco tutto ciò che sanno
+
+fare. Non sanno affrontare un fatto, o seguire un argomento, o sentire una tradizione;
+
+ma, meno di tutto, sanno, con qualsiasi [[Persuasion|persuasione]], leggere fino in fondo un semplice
+
+libro imparziale, inglese o straniero, che non sia scritto appositamente per
+
+lenire il loro panico o compiacere il loro [[Pride|Orgoglio]]. Guardando in alto a questi seggi
+
+dei potenti posso solo dire, con qualcosa di simile alla [[Despair|Disperazione]], ciò che Robert
+
+Lowe disse degli operai affrancati: «Dobbiamo istruire i nostri padroni».
+
+Non intendo questo come paradossale, o persino simbolico; è semplicemente
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_15" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 15)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -10374,6 +12922,186 @@ there is a [[Truth|truth]], but only a half-[[Truth|truth]], in the saying that 
 Powers alike rely on the Capitalist and make war on the lines of
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+docili e veri. I moderni ricchi inglesi non sanno nulla delle cose, nemmeno
+
+delle cose alle quali si appellano. Al confronto con loro, i
+
+poveri hanno buone probabilità di ricevere qualche illuminazione, anche se non possono ottenere
+
+la libertà; devono almeno essere competenti. Un vecchio apprendista imparava
+
+un mestiere, anche se il suo padrone piombava come un turco e lo bastonava nel modo più
+
+severo. La vecchia massaia sapeva da che parte il suo pane fosse imburrato, anche
+
+se fosse così sottile da risultare quasi impercettibile. Il vecchio marinaio conosceva
+
+le cime; anche se ne conosceva l'estremità sferzante. Di conseguenza, quando qualcuno
+
+di costoro si ribellava, si occupava di cose che conosceva: pene,
+
+impossibilità pratiche, o l'esperienza personale.
+
+Ma Loro Sanno
+
+L'apprendista gridava «Randelli?» e spaccava le teste dei vicini con
+
+quella precisione e finezza di tocco che solo l'artigianato manuale può
+
+dare. Le massaie che si rifiutavano recisamente di cucinare il pranzo caldo sapevano quanta
+
+o quanto poca carne fredda vi fosse in [[house|casa]]. Il marinaio che
+
+sfidava la disciplina ammutinandosi al Nore non sfidava la disciplina nel
+
+senso di cadere dal sartiame o di lasciar entrare l'[[Water|acqua]] nella stiva.
+
+Allo stesso modo il proletariato moderno, per quanto poco possa sapere, sa di che cosa
+
+sta parlando.
+
+Ma la cosa curiosa della classe colta è che proprio ciò che essa
+
+non sa è ciò di cui parla. Voglio dire che è sorprendentemente
+
+ignorante di quelle cose speciali che dovrebbe invocare e mantenere
+
+inviolate. Le cose che gli operai invocano possono essere più brutte, più acri,
+
+più sordide; ma le conoscono a fondo. Conoscono abbastanza aritmetica
+
+da sapere che i prezzi sono saliti; il gentile signore levantino è sempre
+
+lì a far loro comprendere appieno il significato di una somma d'interessi; e
+
+il padrone di casa definirà la Rendita con rigore pari a Ricardo. I medici sanno
+
+sempre dir loro il latino per uno stomaco vuoto; e quando il pover'uomo
+
+viene trattato per una [[Time|volta]] con un po' di rispetto umano (dal Coroner)
+
+sembra quasi un peccato che non sia vivo per udire quanto legalmente sia morto.
+
+Contro questa amara scaltrezza e questo tetro realismo nelle classi [[Suffering|sofferenti]]
+
+si suppone comunemente che le classi più agiate rappresentino
+
+certe idee legittime che pure hanno il loro posto nella vita; come
+
+la [[history|storia]], la riverenza, l'[[Love|amore]] per la terra. [[Well|Ebbene]], non sarebbe forse un male
+
+avere qualcosa, anche se fosse qualcosa di angusto, che testimoniasse
+
+le verità della religione o del patriottismo. Ma tali cose anguste nel
+
+passato hanno sempre almeno conosciuto la propria [[history|storia]]; il bigotto conosceva il suo
+
+catechismo; il patriota conosceva la via di [[Home|casa]]. La cosa stupefacente dei
+
+ricchi moderni è la loro reale e sincera ignoranza--specialmente delle
+
+cose che amano.
+
+No!
+
+Prendete il caso più attuale che possiate trovare in un salotto qualsiasi: Belfast.
+
+L'Ulster è assai certamente una questione di [[history|storia]]; ed esiste un senso in
+
+cui la resistenza orangista è una questione di religione. Ma andate a chiedere a una qualsiasi
+
+delle cinquecento svolazzanti dame a un [[Garden|garden]] party (che trovano Carson così
+
+splendido e Belfast così emozionante) di che cosa si tratti, quando cominciò,
+
+da dove venne, che cosa realmente sostenga. Quale fu la [[history|storia]]
+
+dell'Ulster? Qual è la religione di Belfast? Sa alcuna di loro dove
+
+fossero gli uomini dell'Ulster al [[Time|tempo]] di Grattan; sa alcuna di loro quale fosse il
+
+«Protestantesimo» che dalla Scozia giunse a quell'isola; saprebbe alcuna di loro
+
+dire quale parte dell'antico sistema cattolico esso realmente negasse?
+
+Era generalmente qualcosa che le svolazzanti dame trovano nelle loro stesse
+
+chiese anglicane ogni [[Sunday|domenica]]. Sarebbe vano chieder loro di enunciare le
+
+dottrine del credo calvinista; non saprebbero enunciare le dottrine
+
+del proprio credo. Sarebbe vano dir loro di leggere la [[history|storia]] d'
+
+Irlanda; non hanno mai letto la [[history|storia]] d'Inghilterra. Conterebbe così
+
+poco che non conoscano queste cose, quanto che io non conosca il tedesco;
+
+ma il tedesco non è l'unica cosa che si suppone io sappia. La [[history|Storia]] e
+
+il rituale sono le uniche cose che si suppone gli aristocratici sappiano; ed essi
+
+non le sanno.
+
+Sorridi e Sorridi
+
+Non vengo nutrito di zuppa di tartaruga e di Tokaj per la mia squisita intimità
+
+con lo stile e l'idioma di Heine e Richter. La classe dirigente inglese
+
+viene nutrita di zuppa di tartaruga e di Tokaj per rappresentare il passato, del quale
+
+è letteralmente ignorante, come io lo sono dei verbi irregolari tedeschi; e per
+
+rappresentare le tradizioni religiose dello Stato, quando non conosce
+
+tre parole di teologia, come io non conosco tre parole di tedesco.
+
+Questo è l'ultimo insulto offerto dai superbi agli umili. Essi li
+
+governano col sorridente terrore di un antico segreto. Sorridono e sorridono;
+
+ma hanno dimenticato il segreto.
+
+IL SIMBOLISMO DI KRUPP
+
+La curiosa posizione della ditta Krupp nella tremenda vicenda che si sviluppa
+
+attorno a noi non è colta con sufficienza. Esiste una sorta di accademica
+
+chiarezza di definizione che non vede le proporzioni delle cose, per la quale
+
+tutto rientra in una definizione, e nulla mai irrompe
+
+oltre di essa. A questo tipo di mente (che è preziosa quando applicata al suo
+
+compito speciale e ristretto) non esiste cosa quale un'eccezione che
+
+confermi la regola. Se voto per confiscare i milioni di qualche usuraio, sto
+
+facendo, dicono, precisamente ciò che farei se togliessi dei penny
+
+dal cappello di un cieco. Sono entrambe negazioni del principio della proprietà
+
+privata, e sono egualmente giuste ed egualmente sbagliate, a seconda della nostra visione
+
+di quel principio. Io troverei moltissime distinzioni da tracciare
+
+in tale materia. Primo, direi che prendere il denaro di un usuraio per
+
+debita autorità non è furto, ma recupero di beni rubati. Secondo,
+
+direi che anche se non esistesse cosa quale la proprietà personale,
+
+esisterebbe comunque cosa quale la dignità personale, e diversi
+
+modi di rapina la sminuirebbero in modi assai diversi. Allo stesso modo,
+
+esiste una [[Truth|verità]], ma solo una mezza [[Truth|verità]], nel detto secondo cui tutti i moderni
+
+Poteri parimenti si affidano al Capitalista e fanno guerra secondo le linee del
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_16" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 16)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -10547,6 +13275,176 @@ men. In any case we of the world in revolt--Syndicalists, Socialists,
 
 Guild Socialists, or whatever we call ourselves--have no need to worry
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitalismo. È vero, ed è vergognoso. Ma _non_ è egualmente
+
+vero ed egualmente vergognoso. Non è vero che il Montenegro sia governato dai
+
+finanzieri quanto la Prussia, così come non è vero che tanti uomini
+
+nella Kaiserstrasse, a Berlino, portino lunghi coltelli alla cintura quanti ne portano
+
+nei dintorni della Montagna Nera. Non è vero che
+
+ogni contadino di uno degli antichi comuni russi sia il servo immediato
+
+di un ricco, come lo è ogni dipendente del signor Rockefeller. È
+
+falso quanto l'affermazione che nessun povero in [[america|America]] sappia leggere o scrivere.
+
+Vi è un elemento di Capitalismo in tutti i paesi moderni, come vi è
+
+un elemento di analfabetismo in tutti i paesi moderni. Vi è chi
+
+pensa che il numero dei nostri concittadini capaci di firmare il proprio nome
+
+dovrebbe consolarci per l'estrema esiguità di coloro che hanno qualcosa
+
+in banca a cui apporlo, ma io non sono di questi.
+
+In ogni caso, la posizione di Krupp ha certi aspetti interessanti. Quando
+
+parliamo dei fornitori dell'Esercito come tra le basse ma attive realtà della
+
+guerra, intendiamo comunemente che, mentre il fornitore trae vantaggio dalla guerra,
+
+la guerra, nel complesso, piuttosto soffre a causa del fornitore. Guardiamo a questo
+
+antimilitare intermediario con disgusto, o grande collera, o sprezzante
+
+acquiescenza, o commerciale sgomento e [[Silence|silenzio]], a seconda della nostra personale
+
+posizione e carattere. Ma in nessun luogo lo pensiamo come avente qualcosa
+
+a che fare col combattere in senso ultimo. Quelle degne e facoltose persone
+
+che impiegano il lavoro delle donne per pochi scellini alla settimana non lo fanno per
+
+procurare gli abiti migliori ai soldati, ma per ricavare un sufficiente
+
+profitto dai peggiori. L'unica questione è se tali abiti siano appena
+
+abbastanza buoni per i soldati, o troppo cattivi per chiunque e qualsiasi cosa. Noi
+
+tolleriamo il fornitore, o non lo tolleriamo; ma nessuno lo ammira
+
+particolarmente, e certamente nessuno gli attribuisce alcun merito per un qualsiasi
+
+[[success|successo]] nella guerra. Confessatamente o inconfessatamente, decurtiamo i suoi profitti
+
+non solo da ciò che va al contribuente, ma da ciò che va al soldato. Noi
+
+sappiamo che l'Esercito non combatterà affatto meglio, almeno, perché gli abiti
+
+che indossa furono cuciti da misere donne che a stento vedevano; o
+
+perché i loro stivali furono fatti da assillati iloti, che non ebbero mai [[Time|tempo]] di
+
+pensare. In [[Time|tempo]] di guerra si confessa assai diffusamente che il Capitalismo non è un
+
+buon modo di governare un popolo patriottico o rispettoso di [[Self|sé]], e ogni sorta
+
+di altre cose, dalla rigida organizzazione statale alla più casuale carità
+
+[[Charity|personale]], vi vengono frettolosamente sostituite. Si riconosce che il
+
+«grande datore di lavoro», nove volte su dieci, non è più del ragazzo di scuola
+
+o del paggio che ruba crostate e dolci dai piatti mentre salgono e
+
+scendono. Quanto ci si adiri con lui dipende dal temperamento, dal momento
+
+della cena--e anche dal numero delle crostate.
+
+Ed ecco venire in gioco il reale e sinistro significato dei Krupp. Vi
+
+sono molti capitalisti in Europa altrettanto ricchi, altrettanto volgari, altrettanto egoisti, altrettanto
+
+radicalmente ostili a ogni fratellanza tra i fortunati e gli sfortunati. Ma
+
+non c'è altro capitalista che pretenda, o possa fingere di pretendere, di
+
+aver molto apprezzabilmente _aiutato_ le attività del proprio popolo in guerra. Io
+
+supporrò che Lipton non meritasse le severissime critiche
+
+mosse alla sua ditta dal signor giudice Darling; ma, per quanto irreprensibile fosse,
+
+nessuno può supporre che i soldati britannici caricherebbero meglio alla
+
+baionetta perché avevano dentro qualche particolare sorta di generi alimentari.
+
+Ma Krupp può avanzare la plausibile pretesa che le enormi macchine infernali alle
+
+quali il suo paese deve quasi tutti i suoi successi potessero essere prodotte solo
+
+nelle egualmente infernali condizioni della fabbrica moderna
+
+e della civiltà urbana e proletaria. Ecco perché la vittoria della
+
+[[Germany|Germania]] sarebbe semplicemente la vittoria di Krupp, e la vittoria di Krupp
+
+sarebbe semplicemente la vittoria del Capitalismo. Là, e là [[Alone|soltanto]],
+
+il Capitalismo sarebbe in grado di indicare qualcosa fatto con successo per un'
+
+intera nazione--fatto (come certamente sosterrebbe) meglio di quanto piccoli
+
+liberi Stati o naturali democrazie avrebbero potuto farlo. Confesso di ritenere
+
+i tedeschi moderni moralmente di seconda scelta, e ritengo che perfino la guerra, quando
+
+è condotta con maggior successo dai macchinari, sia una guerra di seconda scelta. Ma
+
+questa guerra di seconda scelta diverrà non solo la prima ma l'unica marca,
+
+se i cannoni di Krupp dovessero vincere; e, ciò che è assai peggio, essa
+
+sarà l'unica risposta intelligente che un capitalista abbia finora dato
+
+contro la nostra tesi che il Capitalismo è tanto dispendioso e tanto debole quanto è
+
+certamente malvagio. Io non [[Fear|temo]] alcuna simile finalità, poiché mi accade di
+
+credere in quel genere di uomini che meglio combattono con le baionette e i cui
+
+padri martellarono le proprie picche per la [[French Revolution|Rivoluzione francese]].
+
+LA TORRE DI BEBEL
+
+Tra le nebulose e simboliche storie all'inizio della [[Bible|Bibbia]]
+
+ve n'è una su una torre eretta con tale verticale energia da voler afferrare
+
+il cielo, ma andata in rovina e sfociata soltanto in una confusione di lingue.
+
+La storia potrebbe essere interpretata in molti modi--religiosamente, come significante
+
+che l'insolenza spirituale dà origine a tutte le separazioni umane; irreligiosamente,
+
+come significante che i cieli disumani invidiano all'uomo il suo magnifico sogno;
+
+o meramente satiricamente, suggerendo che tutti i tentativi di raggiungere un più alto
+
+accordo finiscono sempre in un disaccordo maggiore di quello che c'era prima. Essa
+
+potrebbe essere intesa dal parzialmente intelligente kensitita come un giudizio sui
+
+cristiani latini per il parlare latino. Potrebbe essere intesa dal alquanto
+
+meno intelligente professor Harnack come una prova definitiva che tutta l'umanità
+
+preistorica parlasse tedesco. Ma, tutto sommato, il simbolo rimarrebbe
+
+che una schietta torre, diritta come una [[Sword|spada]], semplice come un giglio,
+
+ciò nonostante produsse le più profonde divisioni che siano state conosciute tra gli
+
+uomini. In ogni caso noi del mondo in rivolta--Sindacalisti, Socialisti,
+
+Socialisti delle Corporazioni, o comunque ci chiamiamo--non abbiamo bisogno di preoccuparci
 
 
 
@@ -10725,6 +13623,180 @@ found? Is no great Socialist politician still untouched by the
 
 patriotism of the vulgar? Why, yes; the rugged Ramsay MacDonald, scarred
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+della scrittura o dell'[[Allegory|allegoria]]. Noi abbiamo la realtà. Per qualsivoglia
+
+ragione, ciò che si dice sia accaduto al popolo di Sinar è
+
+precisamente e praticamente accaduto a noi.
+
+Nessuno di noi che abbia conosciuto i Socialisti (o piuttosto, a dire più
+
+veritieramente, nessuno di noi che sia stato Socialista) può nutrire il
+
+più flebile [[Doubt|dubbio]] che una schietta sincerità intellettuale stesse dietro ciò che
+
+fu chiamato «L'Internationale». Si sentiva davvero che il Socialismo era
+
+universale come l'aritmetica. Era troppo vero per idiotismi o giri di frase.
+
+Nella formula di Karl Marx gli uomini potevano trovare quella gelida fratellanza che
+
+trovano quando concordano che due più due fa quattro. Era quasi altrettanto
+
+di larghe vedute quanto un dogma religioso.
+
+Eppure questa lingua universale non è riuscita, in un momento di crisi,
+
+a imporsi al mondo intero. Anzi, non è riuscita, nel momento
+
+della crisi, a imporsi ai suoi stessi principali campioni.
+
+Hervé non parla l'Esperanto Economico; parla francese. Bebel non
+
+parla l'Esperanto Economico; parla tedesco. Blatchford non
+
+parla l'Esperanto Economico; parla inglese, e per giunta ottimo
+
+inglese. Non so se il francese o il fiammingo fosse la lingua d'infanzia di Vandervelde,
+
+ma sono ben certo che ne saprà di più dopo
+
+questa lotta di quanto ne sapesse prima. Insomma, che vi sia o no una
+
+nuova [[Union|unione]] dei cuori, vi è stata davvero e veramente una nuova divisione delle
+
+lingue.
+
+Come dobbiamo spiegare questa singolare [[Truth|verità]], anche se la deploriamo? Io
+
+respingo con adeguato disdegno l'idea che sia un mero risultato del
+
+terrorismo militare o di una snobistica pressione sociale. I capi socialisti
+
+dell'Europa moderna sono tra gli uomini più sinceri della [[history|storia]]; e la loro
+
+nota nazionalista in questa faccenda ha avuto il suono della loro sincerità. Non
+
+sprecherò [[Time|tempo]] sulla congettura che Vandervelde sia intimidito dai
+
+preti belgi; o che Blatchford sia spaventato dalle guardie a [[Horse|cavallo]]
+
+fuori di Whitehall. Questi grandi uomini sostengono l'entusiasmo dei loro
+
+convenzionali compatrioti perché lo condividono; e lo condividono perché
+
+esiste (sebbene forse solo in certi grandi momenti) una cosa quale
+
+la pura [[democracy|democrazia]].
+
+Timur il Tartaro, credo, celebrò qualche vittoria con una torre eretta
+
+interamente di teschi umani; forse pensava che _quella_ avrebbe raggiunto il
+
+cielo. Ma non v'è cemento in tale costruzione; le vene e i legamenti
+
+che tengono insieme l'umanità sono da tempo caduti; i teschi rotoleranno
+
+impotenti a un tocco; e diecimila trofei simili in più potrebbero solo
+
+rendere la torre più alta e più folle. Penso che il moderno ufficiale apparato
+
+dei «voti» sia molto simile a quel vacillante monumento. Penso che il Tartaro
+
+«contasse le teste», come un agente elettorale. Talvolta, quando ho
+
+visto dalla tribuna di qualche meschina riunione di partito le file e le file di
+
+ghignanti volti rivolti all'insù, mi sono sentito incline a dire, come fa il poeta
+
+nella «Visione del Peccato»--«Benvenuti, concittadini, cuori vuoti e
+
+teste vuote».
+
+Non che quella gente fosse personalmente vuota di cuore o di testa, ma era venuta
+
+per un vuoto e vacuo affare: aiutare il buon signor Binks a rafforzare
+
+la Legge sulle Assicurazioni contro il malvagio signor Jinks che avrebbe soltanto promesso
+
+di fortificare la Legge sulle Assicurazioni. Quella [[Night|notte]] non soffiò il democratico
+
+vento. Eppure esso può soffiare su costoro come su altri; e quando soffia gli uomini
+
+imparano molte cose. Io, per uno, non sono troppo altero per impararle.
+
+Il dogma marxiano che semplifica tutti i conflitti nella Guerra di Classe è una
+
+cosa tanto più nobile del contar-nasi dei parlamenti che
+
+occorre scusarsi del paragone. Eppure un paragone c'è.
+
+Quando eravamo soliti dire che vi erano tante migliaia di Socialisti
+
+in [[Germany|Germania]], contavamo per teschi. Quando dicevamo che la maggioranza
+
+composta dai Proletari sarebbe stata ovunque opposta alla minoranza,
+
+composta dai Capitalisti, contavamo per teschi. Ebbene, sì; se a tutti
+
+gli uomini le teste fossero state tagliate via dal resto di loro, come lo furono per
+
+il buon senso e la lungimiranza di Timur il Tartaro; se non avessero avuto cuori o
+
+ventri da smuovere; nessuna mano che si leva a parare un'arma, nessun piede
+
+che possa sentire un suolo familiare--se le cose stessero così, il calcolo marxiano
+
+sarebbe non solo completo ma corretto. Come sappiamo oggi, il calcolo marxiano
+
+è completo, ma non è corretto.
+
+Ora, questa è la risposta alle domande di alcuni benevoli critici, le cui
+
+parole precise non ho sottomano in questo momento, su se la mia
+
+[[democracy|democrazia]] significasse il dominio della maggioranza sulla minoranza. Essa significa il
+
+dominio della regola--il dominio della regola sull'eccezione. Quando una nazione
+
+trova un'[[Soul|anima]], la riveste di un [[Body|corpo]], e agisce veramente come una sola
+
+cosa vivente. Non c'è nulla da dire di coloro che ne sono fuori,
+
+se non che ne sono fuori. Dopo averne parlato in astratto
+
+per decenni, questa è la [[democracy|Democrazia]], ed è meravigliosa ai nostri occhi. Non è
+
+la differenza tra novantanove persone e cento persone; è
+
+una sola persona--il popolo. Non so né m'importa quanti o quanto pochi dei
+
+Belgi amino o disamino i quadri di Wiertz. Non potrebbero essere
+
+né giustificati né condannati da una mera maggioranza di Belgi. Ma sono
+
+ben certo che la sfida alla Prussia non venne da una maggioranza
+
+di Belgi. Venne dal Belgio uno e indivisibile--atei,
+
+preti, principi del [[Blood|sangue]], bottegai francesizzati, zotici fiamminghi,
+
+uomini, donne e bambini, e prima comprenderemo che questa sorta di
+
+cosa può accadere, meglio sarà per noi. Poiché è di questa spontanea spirituale
+
+fratellanza delle comunità in certe condizioni che le quattro o
+
+cinque menti più indipendenti d'Europa rendono oggi volentieri testimonianza.
+
+Ma non v'è eccezione: non v'è nessuno fedele trovato tra gli infedeli?
+
+Non v'è alcun grande politico socialista ancora intatto dal
+
+patriottismo del volgo? Ebbene, sì; il rude Ramsay MacDonald, sfregiato
 
 
 
@@ -10910,6 +13982,186 @@ advantage.
 The Plain Difference
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+da cento selvagge lotte contro i partiti capitalisti, leva ancora
+
+la sua callosa mano per la pace. Che ulteriore bisogno abbiamo di testimoni?
+
+Io, da parte mia, sono del tutto soddisfatto, e non [[Doubt|dubito]] che il signor MacDonald
+
+sarà tanto industrioso nello smorzare la [[democracy|democrazia]] in questa forma quanto in
+
+ogni altra.
+
+UN PERICOLO REALE
+
+Il cielo mi guardi dal guadare ancora una volta quelle paludi di logomachia
+
+e tautologia in cui la vecchia guardia dei Deterministi sembra tuttora
+
+dibattersi. La questione del [[Fate and Free Will|Fato e Libero Arbitrio]] non può mai giungere a
+
+una conclusione, benché possa giungere a una convinzione. Il più breve
+
+sommario filosofico è che tanto la causa quanto la scelta sono idee ultime
+
+dentro di noi, e che se un uomo nega la scelta perché sembra contraria
+
+alla causa, l'altro uomo ha altrettanto diritto di negare la causa perché
+
+sembra contraria alla scelta. Il più breve sommario etico è che
+
+il Determinismo o influisce sulla condotta o non lo fa. Se non lo fa, è
+
+moralmente non degno di predicazione; se lo fa, deve influire sulla condotta nella
+
+direzione dell'impotenza e della sottomissione. Uno scrittore del «Clarion» dice
+
+che il riformatore non può fare a meno di tentare di [[Reform|riformare]], né il Conservatore
+
+di aiutare il suo Conservatorismo. Ma supponiamo che il riformatore tenti di [[Reform|riformare]] il
+
+Conservatore e di mutarlo in un altro riformatore? O può, nel qual
+
+caso il Determinismo non ha fatto alcuna differenza, o non può, nel qual
+
+caso esso non può che aver reso i riformatori più disperati e i Conservatori
+
+più ostinati. E il più breve sommario pratico e politico è che
+
+gli operai, molto probabilmente, saranno presto troppo occupati a usare il loro Libero
+
+Arbitrio per fermarsi a dimostrare di averlo. Ciò nonostante, mi piace
+
+osservare il Determinista nell'Arena del «Clarion» ogni settimana, indaffarato come uno
+
+scoiattolo--in gabbia. Ma essendo io stesso uno scoiattolo (che salta lieve di
+
+ramo in ramo) e preferendo la forma di attività che occasionalmente
+
+finisce in noci, non interverrei nella faccenda neppure indirettamente,
+
+se non su un punto pratico. E il punto che ho in mente è pratico
+
+fino al limite di un pericolo mortale. È un altro dei numerosi nuovi modi in
+
+cui i ricchi irrequieti, che ora camminano il mondo con una spaventosa insonnia,
+
+potrebbero riuscire a coglierci nel sonno.
+
+Deve Essere un Mistero
+
+Vi sono due lettere nel «Clarion» questa settimana che in vari modi
+
+mi interessano moltissimo. Una si preoccupa di difendere Darwin dalla
+
+rivolta scientifica contro di lui capeggiata da Samuel Butler, e tra
+
+le altre cose definisce Bernard [[Shaw]] roba superata. [[Well|Ebbene]], di certo
+
+«L'Origine delle Specie» è roba superata, nella misura in cui qualsiasi onesto e
+
+interessante libro possa mai esserlo; ma nella pura [[philosophy|filosofia]] nulla può essere
+
+fuori moda, poiché l'universo dev'essere un mistero perfino per il credente.
+
+Vi è, tuttavia, una condizione di cose in cui lo chiamo davvero
+
+pertinente descrivere qualcuno come indietro coi tempi. È quando l'uomo
+
+in questione, pensando a qualche stato di cose ormai svanito,
+
+sta realmente aiutando le stesse cose che vorrebbe ostacolare. I principi
+
+non possono mutare, ma i problemi sì. Così, chiamerei indietro coi
+
+tempi un uomo che, nell'anno 1872, perorasse per i pacifici contadini tedeschi
+
+contro il trionfante militarismo di Napoleone. Ovvero chiamerei fuori tempo un uomo
+
+che, nell'anno 1892, desiderasse una Marina più forte per competere
+
+con la Marina d'Olanda, perché essa un tempo aveva spazzato il mare e risalito
+
+il Tamigi. E chiamo di certo fuori tempo un uomo o un movimento
+
+che, nell'anno 1914, quando noi pochi combattiamo un gigantesco [[Machine|macchinario]],
+
+irrobustito da ogni ricchezza materiale e mosso da ogni scienza
+
+materiale, pensi che il nostro principale pericolo provenga da un eccesso di responsabilità morale e
+
+religiosa. Egli mi ricorda il signor Snodgrass, che ebbe la
+
+presenza di spirito di gridare «[[Fire|Al fuoco]]!» quando il signor [[Pickwick]] sprofondò nel
+
+ghiaccio.
+
+L'altra lettera consiste nel solito stiracchiato argomento a favore del fatalismo.
+
+L'uomo non può immaginare l'universo creato, e perciò è
+
+«costretto dalla sua ragione» a pensare l'universo senza principio né
+
+fine, il che (posso osservare) neppure è in grado di immaginare. Ma la lettera si chiude
+
+con qualcosa di assai più sinistro di una cattiva metafisica. Qui, in
+
+mezzo al «Clarion», nel centro di un pulito e combattivo
+
+foglio democratico, incontro di nuovo la mia deplorevole vecchia conoscenza, il
+
+criminologo scientifico. «Il cosiddetto malfattore non dovrebbe essere
+
+punito per i suoi atti, ma contenuto». In quarantotto ore potrei
+
+probabilmente ottenere una petizione a tal fine firmata da milionari. Poco
+
+[[Time|tempo]] fa fu presentato un disegno di legge per dichiarare irresponsabili e «contenere» un'
+
+intera nuova classe di persone, che erano «incapaci di gestire i propri affari
+
+con prudenza». Leggete i nomi dei sostenitori sul retro di quel disegno di legge, e
+
+vedete che sorta di democratici fossero.
+
+Ora, sgombrandoci il capo da ciò che si chiama scienza popolare (il che significa
+
+andare a [[Sleep|dormire]] su una ninnananna di paroloni), usiamo un poco il nostro
+
+cervello, e chiediamoci quale sia la reale differenza tra il punire
+
+un uomo e il contenerlo. La differenza materiale può essere qualsiasi o nulla;
+
+poiché la punizione può essere assai mite, e il contenimento assai spietato. L'
+
+uomo, s'intende, deve avversare l'uno tanto quanto l'altro, o non sarebbe
+
+necessario contenerlo affatto. E vi assicuro che non trarrà alcun
+
+gran bagliore di conforto dal vostro chiamarlo irresponsabile dopo che
+
+l'avrete reso impotente. Un uomo non si sente necessariamente più libero e
+
+a suo agio in una camicia di forza che in una cella di pietra. La differenza morale
+
+è che un uomo può essere punito per un delitto perché è nato cittadino;
+
+mentre può essere costretto perché è nato schiavo. Ma una
+
+impressionante e tremenda differenza torreggia su tutte queste dubbie o
+
+discutibili differenze. Vi è un aspetto, vitale per tutte le nostre libertà
+
+e tutte le nostre vite, in cui il nuovo contenimento sarebbe diverso
+
+dall'antica punizione. È di questo che i plutocrati trarranno
+
+vantaggio.
+
+La Differenza Lampante
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_19" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 19)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -11090,6 +14342,182 @@ that anyone who had seen, even in a [[nightmare]] of the nursery, Apollyon
 straddling over the whole breadth of the way could really write like
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La differenza perfettamente lampante è questa. Ogni punizione, anche la più
+
+orribile, procede dall'assunto che l'estensione del male sia
+
+conosciuta, e che a essa si accompagni una certa misura di espiazione. Anche se
+
+impiccate l'uomo, non potete impiccarlo due volte. Anche se lo bruciate,
+
+non potete bruciarlo per un mese. E nel caso di tutte le ordinarie
+
+carcerazioni, tutto il fine delle libere istituzioni dal principio del
+
+mondo è stato insistere che un uomo sia condannato per un delitto definito
+
+e recluso per un periodo definito. Ma nel momento in cui ammettete questa
+
+nozione di contenimento medico, dovete per equità ammettere che esso può andare
+
+avanti finché le autorità scelgano di pensare (o dire) che debba
+
+andare avanti. La punizione dell'uomo si riferisce al passato, che si suppone
+
+sia stato indagato, e che, in qualche grado almeno, è stato
+
+indagato. Ma il suo contenimento si riferisce al futuro, che i suoi medici,
+
+custodi e guardiani devono ancora indagare. Il semplice risultato sarà
+
+che, nella scientifica Utopia del «Clarion», uomini come Mann o Syme
+
+o Larkin non saranno messi in [[Prison|prigione]] a causa di ciò che hanno fatto.
+
+Saranno tenuti in [[Prison|prigione]] a causa di ciò che potrebbero fare. Anzi, i
+
+costruttori della nuova tirannia sono già giunti assai vicino a confessare
+
+questo metodo scientifico e futurista. Quando i legali tentarono di impedire alla
+
+«Suffragetta» di comparire del tutto, dissero in pratica: «Non
+
+conosciamo il tuo delitto della prossima settimana, perché non è ancora commesso; ma siamo
+
+scientificamente certi che tu abbia il tipo criminale. E per le [[Sublime|sublimi]]
+
+e inalterabili leggi dell'eredità, tutte le tue povere carticine
+
+lo erediteranno».
+
+Questa è una questione puramente pratica; ed è per ciò che vi insisto,
+
+anche in tempi tanto tormentati. Gli scrittori del «Clarion» hanno un
+
+perfetto diritto di pensare che il [[Christianity|Cristianesimo]] sia il nemico della [[Freedom|libertà]], o perfino
+
+che la stupidità e la tirannia dell'attuale [[government|Governo]] siano dovute al
+
+monastico misticismo di Lord Morley e del signor John M. Robertson. Hanno il
+
+diritto di pensare la teoria del Determinismo vera quanto la pensò Calvino.
+
+Ma non mi piace vederli camminare dritti dentro l'enorme trappola di ferro
+
+spalancata dai Capitalisti, che trovano conveniente rendere la nostra legge ancora
+
+più illegale di quanto sia. I ricchi vogliono uno scienziato che scriva loro una
+
+_lettre de cachet_ come un medico scrive una ricetta. E così desiderano
+
+sigillare in una pubblica galera gli scandali di un manicomio privato. Sì; gli
+
+scrittori del «Clarion» rivendicano davvero l'irresponsabilità per gli esseri
+
+umani. Ma saranno i governi a essere irresponsabili, non i
+
+governati.
+
+Ma dirò loro un piccolo segreto in conclusione. Non c'è nulla
+
+di sbagliato nell'antica e universale idea della Punizione--se non
+
+che non stiamo punendo le persone giuste.
+
+LE FECCE DEL [[Puritanism|PURITANESIMO]]
+
+Una peculiarità del genuino tipo di nemico del popolo è che la sua
+
+più lieve frase è clamorosa di tutti i suoi peccati. L'[[Pride|orgoglio]], la vanagloria e
+
+l'ipocrisia paiono presenti nella sua stessa grammatica; nei suoi stessi verbi o avverbi
+
+o preposizioni, tanto [[Well|quanto]] in ciò che dice, che è generalmente abbastanza
+
+cattivo. Vedo così che un pastore anticonformista di Bromley ha
+
+parlato dei patetici piccoli doni di tabacco spediti ai comuni
+
+soldati. Ecco come ne parla. È riferito che abbia detto:
+
+«Con l'aiuto di Dio, volevano che questa faccenda delle sigarette fosse fatta cessare». Come
+
+si potrebbe scrivere un volume su quella frase, un gran grosso volume intitolato
+
+«Il Declino della Classe Media Inglese». Nel gusto, nello stile, nella
+
+[[philosophy|filosofia]], nel sentimento, nel progetto politico, gli orrori di essa sono tanto
+
+insondabili quanto l'inferno.
+
+Primo, per cominciare dall'inezia, si noti qualcosa di sciatto e vago nella
+
+mera verbosità, tipico di coloro che preferiscono uno slogan a un credo.
+
+«Questa faccenda delle sigarette» potrebbe significare qualsiasi cosa. Potrebbe significare la ditta dei
+
+signori Salmon e Gluckstein. Ma il pastore di Bromley non
+
+interferirà con quella, poiché lo sdegno della sua scuola di pensiero, perfino
+
+quando è sincero, sempre istintivamente e inconsciamente devia
+
+da qualsiasi cosa sia ricca e potente come i soci di un grande
+
+affare, e colpisce invece qualcosa che è povero e senza nome come
+
+i soldati in una trincea. Né l'espressione rende chiaro chi siano «loro»--
+
+se gli abitanti della Gran Bretagna o gli abitanti di Bromley,
+
+o gli abitanti di questo solo folle tabernacolo di Bromley; né è
+
+evidente come debba essere fatta cessare o a chi sia chiesto di farla cessare.
+
+Tutte queste cose sono inezie in confronto ai più terribili peccati
+
+della frase; ma non sono prive del loro interesse sociale e
+
+storico. Verso l'inizio del diciannovesimo secolo la facoltosa
+
+classe puritana, generalmente la classe dei datori di lavoro, adottò un
+
+ragionamento che era angusto, ma non insensato. Vedevano la
+
+relazione tra ricchi e poveri assai freddamente come un contratto, ma vedevano che
+
+un contratto vale in entrambi i sensi. I Puritani della classe media, in breve,
+
+cominciarono in qualche senso a parlare e a pensare per conto proprio. Stanno
+
+ancora parlando. Da tempo hanno smesso di pensare. Parlano della
+
+lealtà degli operai verso i loro datori di lavoro, e Dio sa che sciocchezze; e
+
+la prima piccola certezza sul reverendo gentiluomo di cui ho citato la
+
+frase è che il suo cervello ha smesso di funzionare come un [[Clock|orologio]] si ferma, anni
+
+e anni fa.
+
+Secondo, si consideri la qualità della letteratura religiosa! Questa gente
+
+ci dice sempre che la [[Bible|Bibbia]] tradotta in inglese è sufficiente
+
+addestramento per chiunque a una nobile e appropriata dizione; e così è. Perché,
+
+allora, non sono addestrati? Ci dicono sempre che Bunyan, il
+
+rozzo calderaio delle Midlands, vale la lettura quanto Chaucer o Spenser;
+
+e così è. Perché, allora, non l'hanno letto? Non posso credere
+
+che chiunque abbia visto, anche in un [[nightmare|incubo]] della fanciullezza, Apollyon
+
+a cavalcioni sull'intera larghezza della via potesse davvero scrivere così
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_20" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 20)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -11265,6 +14693,178 @@ be noticed in the case of advertisements. There is many a tender old
 
 Tory [[Imagination|imagination]] that vaguely feels that our streets would be hung with
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+quella cosa su una sigaretta. Con l'aiuto di Dio, volevano che questa faccenda delle sigarette
+
+fosse fatta cessare. Perciò, con angeli e arcangeli e l'intera
+
+schiera del Cielo, con San [[Michael|Michele]], percussore di [[Satan|Satana]] e Capitano
+
+della Cavalleria di Dio, con tutto l'ardore dei serafini e la fiammeggiante
+
+pazienza dei santi, faremo cessare questa faccenda delle sigarette.
+
+Dove se n'è andata tutta la tradizione delle grandi letterature religiose,
+
+perché un uomo debba cascare su un tale bathos con un tale tonfo?
+
+In terzo luogo, naturalmente, c'è la mancanza di proporzione immaginativa, che
+
+sale in una sorta di torreggiante bestemmia. Un enorme numero di vivaci
+
+giovani uomini viene ferito da granate, ferito da pallottole, ferito dalla febbre
+
+e dalla fame e dall'orrore della [[Hope|speranza]] differita; ferito da lame di lancia e lame di [[Sword|spada]]
+
+e lame di baionetta che irrompono nella sanguinante [[house|casa]] della vita. Ma
+
+il signor Price (credo si chiami così) è ancora ansioso che essi non
+
+vengano feriti dalle sigarette. Questa è la sorta di maniacale isolamento che
+
+si può trovare nei deserti di Bromley. Che le sigarette facciano male alla
+
+salute è un'opinione assai sostenibile alla quale il ministro ha pieno
+
+diritto. Se gli accade di pensare che la gioventù di Bromley fumi troppe
+
+sigarette, e che egli abbia una qualche influenza nell'inculcare in essa
+
+l'insalubrità dell'abitudine, non lo biasimerei se tenesse sermoni
+
+o conferenze su ciò (con proiezioni a lanterna [[Magic|magica]]), purché fosse a
+
+Bromley e su Bromley. Le sigarette possono far male alla salute: bombe
+
+e baionette e perfino filo spinato non fanno bene alla salute. Non ho mai
+
+incontrato un medico che raccomandasse alcuno di essi. Ma il guaio di questa sorta
+
+di uomo è che non sa adattarsi alla scala delle cose. Renderebbe
+
+un ottimo servizio se andasse tra le ricche dame aristocratiche
+
+e dicesse loro di non prendere droghe in senso cronico, come la gente prende l'oppio
+
+in Cina. Ma renderebbe un pessimo servizio se andasse tra
+
+i medici e le infermiere sul campo e dicesse loro di non somministrare droghe, come
+
+somministrano la morfina in un ospedale. Ma è tutta l'ipotesi della guerra,
+
+è la sua stessa [[Nature|natura]] e primo principio, che l'uomo in trincea
+
+sia quasi altrettanto una persona [[Suffering|sofferente]] e anormale quanto l'uomo nell'
+
+ospedale. Colpito o incolume, vincitore o vinto, egli, per [[Nature|natura]] del
+
+caso, prova meno piacere di quanto sia proprio e naturale a un uomo.
+
+In quarto luogo (poiché non occorre qui indugiare sulla mera diabolica idiozia che sa
+
+considerare la birra o il tabacco come in qualche modo malvagi e sconvenienti in sé),
+
+c'è l'elemento più importante in questo strano scoppio; almeno,
+
+il più pericoloso e il più importante per noi. C'è quel
+
+tratto principale nella degradazione della vecchia classe media: l'assoluta
+
+scomparsa del suo antico appetito di libertà. Qui non v'è questione
+
+se gli uomini debbano fumare sigarette, o le donne scelgano di
+
+mandare sigarette, o perfino che gli ufficiali o i medici scelgano di permettere
+
+le sigarette. La cosa deve cessare, e possiamo notare una delle più
+
+ricorrenti idee dello Stato servile: è menzionata in modo passivo.
+
+Deve essere fatta cessare, e non dobbiamo nemmeno chiedere chi l'abbia fatta cessare!
+
+LA TIRANNIA DEL CATTIVO GIORNALISMO
+
+La stupefacente decisione del [[government|Governo]] di impiegare metodi del tutto alieni all'
+
+Inghilterra, e piuttosto propri della polizia del Continente, probabilmente
+
+nasce dalla comparsa di giornali lucidi e combattivi, come
+
+i giornali del Continente. La faccenda può essere posta in molti modi. Ma
+
+un modo di porla è semplicemente dire che un monopolio del cattivo giornalismo
+
+sta resistendo alla possibilità del buon giornalismo. Il giornalismo non è la
+
+stessa cosa della letteratura; ma c'è buono e cattivo giornalismo, come c'è
+
+buona e cattiva letteratura, come c'è buono e cattivo calcio. Negli
+
+ultimi vent'anni o giù di lì i plutocrati che governano l'Inghilterra hanno concesso
+
+agli Inglesi null'altro che cattivo giornalismo. Pessimo giornalismo, semplicemente
+
+considerato come giornalismo.
+
+Occorre sempre un considerevole [[Time|tempo]] per vedere il semplice e centrale fatto
+
+su qualsiasi cosa. Ogni sorta di cose è stata detta sulla moderna
+
+Stampa, specialmente la Stampa Gialla; che è sciovinista o filistea o
+
+sensazionalista o indebitamente inquisitoria o volgare o indecente o triviale; ma
+
+nessuna di queste ha realmente a che fare col punto.
+
+Il punto sulla Stampa è che essa non è ciò che si chiama. Non è
+
+la «Stampa popolare». Non è la Stampa pubblica. Non è un organo
+
+dell'opinione pubblica. È una cospirazione di pochissimi milionari, tutti
+
+sufficientemente simili di tipo da concordare sui limiti di ciò che questa grande
+
+nazione (alla quale apparteniamo) può sapere di sé e dei suoi amici e
+
+nemici. L'anello non è del tutto completo; vi sono giornali all'antica e
+
+onesti: ma è sufficientemente prossimo al compimento da produrre sull'
+
+ordinario acquirente di notizie gli effetti pratici di un accaparramento e
+
+di un monopolio. Egli riceve tutte le sue informazioni politiche e tutti
+
+i suoi ordini di marcia politici da ciò che è a questo [[Time|tempo]] una sorta di
+
+società segreta semiconsapevole, con pochissimi membri, ma una gran quantità
+
+di denaro.
+
+Questo enorme ed essenziale fatto ci è celato da un certo numero di
+
+leggende passate nel linguaggio comune. C'è la nozione che
+
+la Stampa sia sgargiante o triviale _perché_ è popolare. In altre parole,
+
+si compie un tentativo di screditare la [[democracy|democrazia]] rappresentando il giornalismo
+
+come la naturale letteratura della [[democracy|democrazia]]. Tutto ciò è freddo ciarpame.
+
+La [[democracy|democrazia]] non ha più a che fare coi giornali di quanto abbia con i
+
+titoli nobiliari. I giornali dei milionari sono volgari e sciocchi perché i
+
+milionari sono volgari e sciocchi. È il proprietario, non il redattore,
+
+non il vicecapo, meno di tutti il lettore, a compiacersi di questa
+
+monotona prateria di parole stampate. La stessa calunnia sulla [[democracy|democrazia]] può
+
+notarsi nel caso delle inserzioni pubblicitarie. C'è più d'una tenera vecchia
+
+Tory [[Imagination|immaginazione]] che vagamente sente che le nostre strade sarebbero addobbate di
 
 
 
@@ -11624,6 +15224,180 @@ poetry. Take, let us say, the ease of the recent railway disaster,
 and the acquittal of the capitalists' interest. It is not a scientific
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+cadono morti, o i santuari verso i quali gli uomini cammineranno alcune centinaia di miglia
+
+dalle loro case. Quando un uomo ha occhio per gli affari, tutto ciò che accade
+
+su questa terra in tale stile gli è semplicemente invisibile. Ma siamo
+
+caritatevoli con l'occhio per gli affari; l'occhio è stato assai [[Well|ben]] pestato
+
+questa [[Time|volta]].
+
+Ma desidero qui insistere che è esattamente ciò che si chiama la
+
+parte impratica della cosa a essere realmente la pratica. La principale
+
+differenza tra gli uomini e gli [[Animals|animali]] è che tutti gli uomini sono artisti;
+
+benché la stragrande maggioranza di noi siano cattivi artisti. Come dice veramente l'antica [[Fable|favola]],
+
+i leoni non fanno statue; perfino l'astuzia della volpe non può
+
+andare oltre l'impresa di lasciare un modello esatto della
+
+zampa vulpina: e perfino quella è un'impresa che essa vorrebbe
+
+non aver compiuto. Ci sono statue crisoelefantine, ma nessuna puramente
+
+elefantina. E, benché parliamo in generale di un elefante
+
+che barrisce, è solo per umane lusinghe che lo si può indurre a
+
+suonare il tamburo. Ma l'uomo, selvaggio o civile, semplice o complesso,
+
+desidera sempre vedere la propria [[Soul|anima]] fuori di sé; in una qualche materiale
+
+incarnazione. Desidera sempre indicare una tavola in un tempio, o un panno
+
+su un'asta, o una parola su un rotolo, o un distintivo su una giubba, e dire: «Questo
+
+è il meglio di me. Se occorre, sarà il resto di me che
+
+perirà». Questo è il metodo che pare tanto poco pratico agli
+
+uomini con occhio per gli affari. Questo è anche il metodo col quale le battaglie
+
+vengono vinte.
+
+Il Simbolismo del Distintivo
+
+Il distintivo sulla giubba di un Sindacalista è un pezzo di poesia nel
+
+genuino, lucido e logico senso in cui [[Milton]] definì la poesia (ed
+
+egli doveva ben saperlo) quando disse che era semplice, sensuosa e
+
+appassionata. È semplice, perché molti comprendono la parola «distintivo»,
+
+che potrebbero non comprendere nemmeno la parola «riconoscimento». È sensuosa,
+
+perché è visibile e tangibile; è incarnata, come tutti i buoni
+
+Dei sono stati; ed è appassionata in quel senso perfettamente pratico,
+
+che l'uomo con occhio per gli affari potrà un giorno apprendere più a fondo
+
+di quanto gli piaccia, che vi sono uomini che vi lasceranno [[Cross|cancellare]] una parola
+
+in un documento teorico, ma che non vi lasceranno strappare un grosso
+
+bottone dal loro corporeo abbigliamento, solo perché avete più denaro
+
+di loro. Ora, penso che siano questa sensuosità, questa passione e,
+
+soprattutto, questa semplicità le cose più necessarie in questa promettente rivolta
+
+del nostro [[Time|tempo]]. Poiché questa semplicità è forse l'unica cosa in cui il
+
+miglior tipo di recenti rivoluzionari ha fallito. È stato nostro
+
+dolore di recente salutare il tramonto di una delle pochissime pulite e
+
+incorruttibili carriere nella fase più corruttibile della Cristianità. La
+
+[[Death|morte]] di Quelch volge naturalmente il pensiero a quegli estremi marxiani
+
+teorici che, checché possiamo ritenere della loro [[philosophy|filosofia]], hanno
+
+certamente tenuto il loro [[Honour|onore]] come ferro. Eppure, perfino in questo istante
+
+di istintiva riverenza, non posso sentire che fossero abbastanza poetici,
+
+cioè abbastanza fanciulleschi, da fare una rivoluzione. Avevano tutta l'audacia
+
+necessaria per parlare al despota; ma non la semplicità necessaria per
+
+parlare alla [[democracy|democrazia]]. Erano sempre accusati di essere troppo aspri
+
+contro il capitalista. Ma mi è sempre parso che fossero (del tutto
+
+inconsapevolmente, s'intende) troppo gentili con lui. Avevano la fatale abitudine
+
+di usare parole lunghe, perfino in occasioni in cui egli avrebbe potuto con proprietà
+
+essere descritto con parole assai brevi. Lo chiamavano Capitalista quando
+
+quasi chiunque nella Cristianità l'avrebbe chiamato un mascalzone. E «mascalzone»
+
+è una parola del vocabolario poetico che indica piuttosto una generale e
+
+potente reazione delle emozioni che uno status definibile
+
+in un'opera di economia. Il capitalista, addormentato al sole, lasciava strisciare tali lunghe
+
+parole tutte su di sé, come tanti lunghi, molli, pelosi bruchi.
+
+I bruchi non pungono come le vespe. E, ripetendo che i vecchi
+
+marxiani sono stati, forse, gli uomini migliori e più coraggiosi del nostro [[Time|tempo]], dico
+
+anche che sarebbero stati ancora migliori e più coraggiosi se non avessero mai
+
+usato una parola scientifica, e non avessero mai letto null'altro che fiabe.
+
+L'Individualista Bestiale
+
+Supponiamo che io salga su una [[Ship|nave]], e la [[Ship|nave]] affondi quasi immediatamente; ma
+
+io (come la gente nelle Bab Ballads), in virtù del mio aggrapparmi a un
+
+albero, su un'isola [[Desert|deserta]] alla fine sia gettato. O piuttosto, supponiamo che io
+
+non vi sia gettato, ma sia tenuto a galleggiare nell'[[Water|acqua]], perché il solo
+
+uomo sull'isola è ciò che alcuni chiamano un Individualista, e non mi getterà
+
+una fune; benché matasse di fune della più irritante elaborazione e
+
+nettezza siano cospicue accanto a lui mentre sta sulla riva. Ora,
+
+mi pare che se, nei miei sforzi di gridare a questo mio simile
+
+attraverso i frangenti fragorosi, io chiami la sua posizione la «posizione
+
+insularistica», e la mia posizione «la posizione semi-anfibia», molto prezioso
+
+[[Time|tempo]] potrebbe andare perduto. Io non sono un anfibio. Sono un uomo che affoga. Egli
+
+non è un insularista, né un individualista. È una bestia. O piuttosto, è
+
+peggio di quanto qualsiasi bestia possa essere. E se, invece di lasciarmi affogare, egli
+
+mi fa promettere, mentre sto affogando, che se giungo a riva sarà
+
+come suo corporeo schiavo, senza più alcuna umana pretesa d'ora in poi per sempre,
+
+allora, per tutta la teoria e la pratica del capitalismo, egli diventa un
+
+capitalista, egli diventa anche un mascalzone.
+
+Ora, la lingua della poesia è più semplice di quella della prosa; come chiunque
+
+può vedere se ha letto ciò che l'antiquato protestante era solito chiamare
+
+con sicurezza «la sua» [[Bible|Bibbia]]. Ed essendo più semplice, è anche più vera; ed
+
+essendo più vera, è anche più feroce. E, per la maggior parte delle infamie del nostro
+
+[[Time|tempo]], non c'è davvero nulla di abbastanza schietto, tranne la schietta lingua della
+
+poesia. Prendiamo, diciamo, il caso del recente disastro ferroviario,
+
+e l'assoluzione dell'interesse dei capitalisti. Non è una scientifica
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_23" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 23)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -11699,75 +15473,3 @@ assolto che è dalla parte del torto, qui gli uomini che sono dalla parte del to
 trionfanti e assolti. Non è materia per la scienza. È materia
 
 per la poesia. Ma per una poesia di sorta terribile.
-
-Fine dell'eBook del Progetto Gutenberg di Utopia of Usurers and other Essays, di
-
-Gilbert Keith Chesterton  
-
-*** END OF THIS PROJECT GUTENBERG EBOOK UTOPIA OF USURERS AND OTHER ESSAYS ***
-
-***** This file should be named 2134.txt or 2134.zip *****
-
-This and all associated files of various formats will be found in:
-
-http://www.gutenberg.org/2/1/3/2134/
-
-Prodotto da Mike Pullen
-
-Updated editions will replace the previous one--the old editions
-
-will be renamed.
-
-Creating the works from public domain print editions means that no
-
-one owns a United States copyright in these works, so the Foundation
-
-(and you!) can copy and distribute it in the United States without
-
-permission and without paying copyright royalties.  Special rules,
-
-set forth in the General Terms of Use part of this license, apply to
-
-copying and distributing Project Gutenberg-tm electronic works to
-
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-
-Gutenberg is a registered trademark, and may not be used if you
-
-charge for the eBooks, unless you receive specific permission.  If you
-
-do not charge anything for copies of this eBook, complying with the
-
-rules is very easy.  You may use this eBook for nearly any purpose
-
-such as creation of derivative works, reports, performances and
-
-research.  They may be modified and printed and given away--you may do
-
-practically ANYTHING with public domain eBooks.  Redistribution is
-
-subject to the trademark license, especially commercial
-
-redistribution.
-
-*** INIZIO: LICENZA COMPLETA ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-
-distribution of electronic works, by using or distributing this work
-
-(or any other work associated in any way with the phrase "Project
-
-Gutenberg"), you agree to comply with all the terms of the Full Project
-
-Gutenberg-tm License disponibile con questo file o online all'indirizzo
-
-www.gutenberg.org/license.
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-
-electronic works

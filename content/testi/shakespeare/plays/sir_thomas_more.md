@@ -1668,6 +1668,16 @@ tags:
 
 
 
+<span class="atom-split" data-atom="scenes--scene_8--01_exchange_dialogue" data-title="Sir Thomas More — Scene 8 — exchange (dialogue) [1]" data-chapter="Scene 8" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A table being covered with a green carpet, a state cushion on it, and the purse and mace lying thereon, enter More |
+
+
+
+
 <span class="atom-split" data-atom="scenes--scene_8--01_exchange_more" data-title="Sir Thomas More — Scene 8 — exchange (MORE) [1]" data-chapter="Scene 8" data-kind="intro"></span>
 
 
@@ -1689,16 +1699,6 @@ tags:
 | ERASMUS | < > as pervenit < > tu < >visui < > divin |
 | ERASMUS | A4. Replaced by 8.47-127 and 8.219-86. |
 | MORE | Methinks this strange and ruffian-like disguise Fits not the follower of a secretary. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_8--01_exchange_dialogue" data-title="Sir Thomas More — Scene 8 — exchange (dialogue) [1]" data-chapter="Scene 8" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A table being covered with a green carpet, a state cushion on it, and the purse and mace lying thereon, enter More |
 
 
 
