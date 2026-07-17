@@ -51,7 +51,7 @@ L'[[aristocrat|Aristocratico]]
 
 (Raccolto nel 1915)  
 
-G. K. Chesterton  
+G. K. Chesterton
 
 Il Diavolo è un gentiluomo, e t'invita a soggiornare  
 nella sua piccola tenuta a Comesichiama (non è lontana).  
@@ -119,7 +119,7 @@ L'[[aristocrat|Aristocratico]]
 
 (Raccolto nel 1915)  
 
-G. K. Chesterton  
+G. K. Chesterton
 
 Il Diavolo è un gentiluomo, e t'invita a soggiornare  
 nella sua piccola tenuta a Comesichiama (non è lontana).  

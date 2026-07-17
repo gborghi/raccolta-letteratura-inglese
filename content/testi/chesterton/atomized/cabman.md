@@ -244,7 +244,7 @@ said ..." "Are you mad, or am I?"  I asked with scientific calm.
 
 Lo Straordinario [[cabman|Vetturino]]
 
-di G.K. Chesterton
+di G.K. Chesterton  
 
 Da: il Daily News di [[London|Londra]] e Tremendous Trifles
 

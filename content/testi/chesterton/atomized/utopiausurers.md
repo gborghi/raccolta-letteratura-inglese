@@ -5782,15 +5782,15 @@ La Tirannia del Cattivo Giornalismo
 
 La Poesia della Rivoluzione
 
-UN [[Song|CANTO]] DI SPADE  
+UN [[Song|CANTO]] DI SPADE
 
 "Una mandria di bestiame entrò in un villaggio chiamato Swords;
 
 e fu fermata dai rivoltosi."--Foglio quotidiano.
 
-Nel luogo chiamato Spade sulla strada irlandese [[Road|stradale]].  
+Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
 
-È raccontata per una nuova fama  
+si narra, per una nuova rinomanza,
 
 come tenemmo le corna del bestiame, e come
 
@@ -5800,77 +5800,77 @@ prima che il signore d'inferno, col corno sulla fronte,
 
 sia incoronato nella città di Dublino.
 
-Luce a Oriente e luce a Occidente,  
+Luce a Oriente e luce a Occidente,
 
-E luce sui crudeli signori,  
+e luce sui signori crudeli,
 
-Sulle anime che improvvisamente tutti conobbero,  
+sulle anime che a un tratto ogni uomo conobbe,
 
-E la verde [[Flag|bandiera]] sventolò e la rossa [[Flag|bandiera]] sventolò,  
+e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
 
-E molte delle [[Wheel|ruote]] del mondo si fermarono anch'esse,  
+e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
 
-Quando il bestiame fu fermato a Swords.  
+quando il bestiame fu fermato a Swords.
 
-Che siano peccatori o meno che santi  
+Siano pure peccatori o meno che santi
 
-Quelli che colpiscono per la rabbia nelle strade,  
+coloro che percuotono in strada per rabbia,
 
-Sappiamo dove la vergogna brilla luminosa; sappiamo  
+noi sappiamo dove splende viva la vergogna; sappiamo
 
-Voi che essi colpiscono, voi loro nemico,  
+voi, che essi colpiscono, voi loro nemico,
 
 signori del salario iniquo e vile,
 
-Questo è il vostro salario legittimo.  
+questa è la vostra paga legittima.
 
-Avete strappato un [[Child|bambino]] per una cifra da tortura  
+Spremeste un [[Child|bambino]] a un prezzo di tortura
 
-Quello che non osaste nominare a parole;  
+che non osaste nominare a parole;
 
-Un gioco così nero era il pezzo d'argento  
+tanto nera beffa era la moneta d'argento
 
 che il vostro stesso dire tremò per la vergogna,
 
-E il codardo era chiaro come una mucca che hanno colpito  
+e il codardo era palese come una vacca percossa
 
-Quando il bestiame si è smarrito a Swords.  
+quando il bestiame si smarrì a Swords.
 
 La [[Wheel|ruota]] del torrente delle mogli girò
 
-Per spezzare la fratellanza degli uomini;  
+per spezzare la fratellanza degli uomini;
 
-Avete dato il buon sangue irlandese da ungere  
+deste il buon [[Blood|sangue]] irlandese a ungere
 
-I club dei nemici del vostro paese;  
+i randelli dei nemici della vostra patria;
 
 vedeste l'uomo valoroso battuto in ginocchio:
 
-E vedeste che era buono.  
+e vedeste che era cosa buona.
 
-La corda dei ricchi è lunga e lunga—  
+La fune dei ricchi è lunga, lunga--
 
-Il più lungo dei cappi del boia;  
+la più lunga fra le corde del boia;
 
 ma i re e le folle trattengono il fiato,
 
-Su tutto ciò che sta sotto incombe un gigantesco [[Shadow|ombra]].  
+in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
 
-Dove Dio sta tenendo le bilance della [[Death|morte]]  
+là dove Dio sta reggendo le bilance della [[Death|Morte]]
 
-Tra il bestiame e le Spade.  
+tra il bestiame e Swords.
 
 Forse i signori che assoldano e prestano,
 
-Il più basso di tutti i signori degli uomini,  
+i più vili fra tutti i signori degli uomini,
 
 che vendono i loro simili come armenti a una fiera,
 
-Non troveranno lì la testa del loro bestiame;  
+non troveranno là un solo capo del loro bestiame;
 
-Ma volti umani dove c'erano bestie:  
+ma volti di uomini dove c'era bestiame:
 
-Volto d'uomini - e Spade.  
+volti di uomini--e Spade.
 
 UTOPIA DEGLI USURAI
 

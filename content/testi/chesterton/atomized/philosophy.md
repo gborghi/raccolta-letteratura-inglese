@@ -175,7 +175,7 @@ the three or four sanities and certainties of human free thought.
 
 [[philosophy|Filosofia]] per l'aula scolastica
 
-di G.K. Chesterton
+di G.K. Chesterton  
 
 ----------------------------------------------------------------------------
 
@@ -240,10 +240,10 @@ contestato da molti metafisici.
 4. Infine, la maggior parte degli uomini sani di mente crede, e tutti gli uomini sani di mente in pratica assumono,
 di avere un potere di scelta e una responsabilità dell'azione.
 
-Sicuramente sarebbe possibile stabilire qualche affermazione piana e scialba
-come quella di sopra, per far vedere alla gente dove si trova.
-E se la gioventù del futuro non deve (per ora) essere istruita
-in alcuna religione, potrebbe almeno esserle insegnato, chiaramente e fermamente,
+Certamente sarebbe possibile stabilire qualche piana, banale enunciazione
+come la precedente, per far vedere alle persone dove si trovano.
+E se alla gioventù del futuro non deve (per ora) essere insegnata
+alcuna religione, le si potrebbe almeno insegnare, chiaramente e fermamente,
 le tre o quattro sanità e certezze del libero pensiero umano.
 
 ----------------------------------------------------------------------------

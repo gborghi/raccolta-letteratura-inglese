@@ -3324,6 +3324,73 @@ man is burning his ships.
 *       *       *       *       *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Una difesa dei voti avventati
+
+Se un uomo moderno e benestante, con un cappello alto e una redingote,
+si impegnasse solennemente davanti a tutti i suoi impiegati e amici a contare le [[Leaves|foglie]] su ogni terzo albero di Holland Walk, a saltellare fino alla [[City|Città]] su un solo piede ogni [[thursday|giovedì]], a ripetere l'intera opera "Liberty" di Mill settantasei volte, a raccogliere 300 dandelion nei campi appartenenti a chiunque si chiami Brown, a rimanere per trentun ore tenendosi l'orecchio sinistro con la mano destra, a cantare i nomi di tutte le sue zie in ordine di età sulla cima di un omnibus o ad assumersi qualsiasi altro impegno insolito, concluderemmo subito che l'uomo è pazzo, oppure, come si dice talvolta, è "un [[artist|artista]] nella vita". Eppure questi voti non sono più straordinari di quelli fatti nel Medioevo e in periodi simili, non da semplici fanatici ma dalle massime figure della civiltà cittadina e nazionale: re, giudici, poeti e sacerdoti. Un uomo giurò di catenare insieme due [[Mountains|montagne]], e la grande catena rimase appesa lì, si diceva, per secoli come monumento a quella follia mistica. Un altro giurò che avrebbe trovato la strada per Gerusalemme con una benda su un occhio, e morì cercandola. Non è facile vedere in cosa queste due imprese, giudicate da un punto di vista rigorosamente razionale, siano più sane degli atti suggeriti sopra. Una montagna è comunemente un oggetto stazionario e affidabile che non è necessario assicurare con una catena la [[Night|notte]] come si fa con un cane. E a prima vista non è facile vedere in cosa un uomo renda un grande complimento alla Santa [[City|Città]] partendo per essa sotto condizioni che rendono estremamente improbabile che ci arrivi mai.
+
+Ma su questo c'è una cosa sorprendente da notare. Se gli uomini si comportassero in quel modo nel nostro [[Time|tempo]], li considereremmo, come abbiamo detto, simboli della "decadenza". Ma gli uomini che facevano queste cose non erano decadenti; appartenevano generalmente alle classi più robuste di un'epoca generalmente considerata robusta. Ancora una volta, si sosterrà che se uomini essenzialmente sani compivano tali follie, era sotto la direzione capricciosa di un sistema religioso superstizioso. Questo, ancora una volta, non regge [[Water|acqua]]; perché nei dipartimenti puramente terrestri e persino sensuali della vita, come l'[[Love|amore]] e il desiderio, i principi medievali mostrano le stesse promesse folli e le stesse performance, la stessa immaginazione deforme e lo stesso auto-sacrificio mostruoso. Qui abbiamo una contraddizione, per spiegare la quale è necessario pensare a tutta la [[Nature|natura]] dei voti fin dall'inizio. E se consideriamo seriamente e correttamente la [[Nature|natura]] dei voti, arriveremo, a meno che non mi sbagli molto, alla conclusione che è perfettamente sano, e persino sensato, giurare di catenare insieme le [[Mountains|montagne]], e che, se la follia è coinvolta in qualche modo, è un po' folle non farlo.
+
+L'uomo che fa un voto prende appuntamento con se stesso per qualche
+[[Time|tempo]] o luogo lontano. Il pericolo è che lui non si presenti
+all'appuntamento. E nei tempi moderni questa paura del proprio [[Self|sé]], della
+debolezza e [[Mutability|mutabilità]] del proprio [[Self|sé]], è cresciuta in modo pericoloso ed è
+la vera base dell'obiezione ai voti di qualsiasi tipo. Un uomo moderno
+si astiene dal giurare di contare le [[Leaves|foglie]] su ogni terzo albero nel
+viale olandese, non perché sia sciocco farlo (fa cose ben più sciocche),
+ma perché è profondamente convinto che prima di arrivare alla trecentosettantanovesima foglia del primo albero si sarebbe stancato in modo eccessivo dell'argomento e vorrebbe tornare [[Home|a casa]] per il tè. In altre
+parole, temiamo che a quel [[Time|tempo]] lui sarà, nella comune ma orribilmente
+significativa espressione, _un altro uomo_. Ora, è questa terribile fiaba
+di un uomo che si trasforma costantemente in altri uomini l'[[Soul|anima]] della
+Decadenza. Che John Paterson possa, con apparente calma, guardare avanti
+ad essere un certo Generale Barker il lunedì, il dottor Macgregor il martedì,
+Sir Walter Carstairs il mercoledì e Sam Slugg [[thursday|giovedì]], può sembrare un
+[[nightmare|incubo]]; ma a quell'[[nightmare|incubo]] diamo il nome di cultura moderna. Un
+grande decadente, che ora è morto, pubblicò una poesia qualche [[Time|tempo]] fa,
+in cui riassumeva con forza lo spirito intero del movimento dichiarando
+che poteva stare nel cortile della [[Prison|prigione]] e comprendere completamente
+i sentimenti di un uomo in procinto di essere impiccato:
+
+«Perché chi vive più vite di una,
+più morti di una deve morire».
+
+E il risultato di tutto ciò è quell'orrore esasperante dell'irrealtà che scende sui decadenti, e al confronto del quale la [[Pain|dolore]] fisico stesso avrebbe la freschezza di una cosa giovanile. L'inferno che l'[[Imagination|immaginazione]] deve concepire come il più infernale è quello di recitare eternamente in una commedia senza neppure un camerino stretto e squallido dove essere umani. E questa è la condizione del decadente, dell'esteta, del libero [[Lover|amante]]. Passare perennemente attraverso pericoli che sappiamo non possono danneggiarci, pronunciare giuramenti che sappiamo non possono legarci, sfidare nemici che sappiamo non possono conquistarci: questa è la tirannia ghignante del decadentismo chiamata [[Freedom|libertà]].
+
+Volgiamoci, d'altra parte, verso colui che fa i voti. L'uomo che faceva un voto, per quanto folle, dava una sana e naturale espressione alla [[Greatness|grandezza]] di un grande momento. Giurò, ad esempio, di catenare insieme due [[Mountains|montagne]], forse simbolo di qualche grande sollievo o [[Love|amore]] o [[Aspiration|aspirazione]]. Breve quanto potesse essere il momento della sua decisione, era, come tutti i grandi momenti, un momento di [[Immortality|immortalità]], e il [[Desire|desiderio]] di dire _exegi monumentum aere perennius_ era l'unico sentimento che avrebbe soddisfatto la sua mente. L'uomo estetico moderno vedrebbe, naturalmente, facilmente l'opportunità emotiva; giurerebbe di catenare insieme due [[Mountains|montagne]]. Ma poi, altrettanto allegramente, giurerebbe di catenare la terra alla [[Moon|luna]]. E la coscienza avvizzita che non intendeva ciò che diceva, che stava, in [[Truth|verità]], dicendo nulla di grande importanza, gli toglierebbe esattamente quel senso di audace attualità che è l'eccitazione di un voto. Perché cosa potrebbe essere più esasperante di un'esistenza in cui nostra madre o zia ricevessero la notizia che stavamo per assassinare il [[King|Re]] o costruire un tempio su Ben Nevis con la geniale compostezza dell'abitudine?
+
+La rivolta contro i voti è stata portata ai nostri giorni fino al punto di una rivolta contro il tipico voto del [[Marriage|matrimonio]]. È molto divertente ascoltare gli oppositori del [[Marriage|matrimonio]] su questo argomento. Sembrano immaginare che l'ideale della costanza sia un giogo misteriosamente imposto all'umanità dal diavolo, invece di essere, come è, un giogo coerentemente imposto da tutti i [[lovers|amanti]] a se stessi. Hanno inventato una frase, una frase che è una contraddizione in bianco e nero in due parole: '[[Love|amore libero]]' - come se un [[Lover|innamorato]] fosse mai stato, o potesse mai essere, libero.
+È nella [[Nature|natura]] dell'[[Love|amore]] legarsi e l'istituzione del [[Marriage|matrimonio]] ha semplicemente reso omaggio all'uomo medio prendendolo alla sua parola. I saggi moderni offrono all'[[Lover|innamorato]], con un ghigno di cattivo gusto, le più ampie libertà e la massima irresponsabilità; ma non lo rispettano come faceva la vecchia Chiesa; non scrivono il suo giuramento nei cieli, come testimonianza del suo momento più alto. Gli concedono ogni libertà tranne quella di vendere la propria libertà, che è l'unica cosa che desidera.
+
+Nella brillante opera teatrale di Mr. Bernard [[Shaw]] "The Philanderer", abbiamo un vivido quadro di questo stato di cose. Charteris è un uomo che cerca perpetuamente di essere un libero-[[Lover|amante]], il che equivale a cercare di essere uno scapolo sposato o un negro bianco. Sta vagando in una ricerca affamata di una certa esaltazione che può avere solo quando ha il [[Courage|coraggio]] di smettere di vagare. Gli uomini sapevano meglio di così ai vecchi tempi, nel [[Time|tempo]], per esempio, degli eroi di Shakespeare. Quando gli uomini di Shakespeare erano veramente celibi lodavano i non dubbi vantaggi del celibato, della libertà, dell'irresponsabilità, la possibilità di un continuo cambiamento. Ma non erano così sciocchi da continuare a parlare di libertà quando si trovavano in una condizione tale che potevano essere resi felici o miserabili dal movimento del sopracciglio di qualcun altro. Suckling classifica l'[[Love|amore]] con il debito nella sua lode della [[Freedom|libertà]].
+
+«E chi è equamente fuori da entrambi
+di tutto il mondo è beato.
+Vive come nell'[[Golden Age|età dell'oro]],
+quando tutte le cose create erano comuni;
+prende la sua pipa, prende il suo bicchiere,
+non teme uomo né donna.»
+
+Questa è una posizione perfettamente possibile, razionale e virile.
+Ma che cosa hanno a che fare gli [[lovers|innamorati]] con le ridicole finzioni di non temere né uomo né donna?
+Sanno che nel girare di una mano l'intera macchina cosmica fino all'ultima stella può diventare uno strumento di musica o uno strumento di tortura.
+Sentono un [[Song|canto]] più antico di quello di Suckling, che ha superato cento filosofie. "Chi è questa che guarda fuori dalla [[Window|finestra]], bella come il sole, chiara come la [[Moon|luna]], terribile come un esercito con le insegne?"
+
+Come abbiamo detto, è proprio questa porta di servizio, questo senso di avere una ritirata alle nostre spalle, che, secondo noi, rappresenta lo spirito sterilizzante del piacere moderno. Ovunque si nota il tentativo persistente e folle di ottenere piacere senza pagarne il prezzo. Così, in politica, i moderni jingoes dicono praticamente: "Godiamoci i piaceri dei conquistatori senza le sofferenze dei soldati; sediamoci sui divani ed essere una razza robusta". Così, nella religione e nei costumi, i mistici decadenti dicono: "Godiamoci il profumo della purezza sacra senza le pene dell'[[Self|auto]]-controllo; cantiamo inni alternativamente alla Vergine e a Priapo". Così nell'[[Love|amore]] i [[lovers|liberi amanti]] dicono: "Godiamoci lo splendore di offrirci senza il pericolo di impegnarci; vediamo se non si può commettere [[suicide|suicidio]] un numero illimitato di volte".
+
+E non funzionerà assolutamente. Ci sono momenti emozionanti, senza dubbio,
+per lo spettatore, l'amatoriale e l'esteta; ma c'è un brivido che è noto solo al soldato che combatte per la propria [[Flag|bandiera]], all'[[ascetic|asceta]] che si affama per la propria illuminazione, all'[[Lover|innamorato]]
+che finalmente fa la sua scelta. E questa è la trasfigurante
+autodisciplina che rende il voto una cosa veramente sana. Deve aver soddisfatto anche l'enorme fame dell'[[Soul|anima]] di un [[Lover|innamorato]] o di un poeta sapere
+che in conseguenza di un solo istante di decisione quella strana catena
+sarebbe appesa per secoli nelle Alpi tra i silenzi delle [[Stars|stelle]] e
+della neve. Tutto intorno a noi c'è la [[City|città]] dei piccoli peccati, abbondante di vie secondarie
+e ritiri, ma sicuramente, prima o poi, la fiamma torreggiante salirà
+dal porto annunciando che il regno dei codardi è finito e un uomo sta bruciando le sue navi.
+
+*       *       *       *       *
+
 
 
 <span class="atom-split" data-atom="story_05_a_defence_of_skeletons" data-title="The Defendant — A DEFENCE OF SKELETONS" data-chapter="A DEFENCE OF SKELETONS" data-kind="story"></span>
@@ -5794,6 +5861,6 @@ giudicati, non sarà per la trasgressione meramente intellettuale di
 non saper apprezzare le altre nazioni, ma per la suprema trasgressione spirituale
 di non saper apprezzare noi stessi.
 
-FINE
+LA FINE
 
 BILLING AND SONS, LTD., STAMPATORI, GUILDFORD

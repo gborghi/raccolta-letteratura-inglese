@@ -254,7 +254,7 @@ And we are not amusing children; we are amusing ourselves with children.
 
 [[Child|Psicologia infantile]] e nonsenso
 
-di G.K. Chesterton
+di G.K. Chesterton  
 
 Questo [[Essay|saggio]] apparve per la prima volta sull'Illustrated [[London]] News
 il 15 ottobre 1921.

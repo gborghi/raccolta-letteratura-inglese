@@ -690,7 +690,7 @@ And Landor was a Radical and [[Milton]] was a regicide.
 
 UN UCCELLO TIMIDO
 
-di G.K.Chesterton  
+di G.K. Chesterton
 
 [Da «The Empire Review», ottobre 1923,
 ristampato in «A Handful of Authors», 1927]

@@ -8688,6 +8688,48 @@ The girl with the dark hair smiled, and began to think that this man was better 
 “Why should there be a Bull?” he cried, prolonging the word in his own way. “Why should there be a Bull in connection with a festive locality? Who thinks about a Bull in gardens of delight? What need is there of a Bull when we watch the tulip-tinted maidens [[Dance|dance]] or pour the sparkling sherbert? You yourselves, my friends?” And he looked around radiantly, as if addressing an enormous mob. “You yourselves have a proverb, ‘It is not calculated to promote prosperity to have a Bull in a china shop.’ Equally, my friends, it would not be calculated to promote prosperity to have a Bull in a wine shop. All this is clear.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I: UNA PREDICA SULLE OSTERIE
+
+Il mare era di un verde pallido e fatato, e il pomeriggio aveva già sentito il tocco fatato della sera quando una giovane donna dai capelli scuri, vestita con un abito artistico di colore rame e dall'aspetto frusciante, camminava piuttosto svogliatamente lungo la passeggiata di Pebblewick-on-Sea, trascinando un ombrello e guardando verso l'orizzonte del mare. Aveva una ragione per guardare istintivamente verso la linea del mare; una ragione che molte giovani donne hanno avuto nella [[history|storia]] del mondo. Ma non c'era alcuna vela in vista.
+
+
+
+Sulla spiaggia sotto il lungomare si susseguivano piccoli gruppi di persone che circondavano gli oratori abituali della località balneare: fossero negri o socialisti, pagliacci o uomini di chiesa. Qui c'era un uomo che faceva qualcosa con delle scatole di cartone; e i turisti lo osservavano per ore nella [[Hope|speranza]] che prima o poi capissero cosa stesse facendo con quelle. Accanto a lui c'era un uomo in cilindro con una [[Bible|Bibbia]] molto grande e una moglie molto piccola, che stava in silenzio accanto a lui mentre combatteva con il pugno chiuso contro l'eresia del sublapsarianesimo milniano così diffuso nei locali di moda. Non era facile seguirlo, tanto era agitato; ma ogni tanto le parole “i nostri amici sublapsariani” tornavano con una specie di ghigno lamentoso. Poi c'era un giovane che parlava di chissà cosa (lui per primo non lo sapeva), ma apparentemente si affidava principalmente al favore del pubblico grazie a un cerchio di carote attorno al suo cappello. Aveva più soldi davanti a sé degli altri. Poi venivano i negri. Poi un servizio per bambini condotto da un uomo con il collo lungo che batteva il [[Time|ritmo]] con una piccola paletta di legno. Più avanti c'era un ateo, in preda a una rabbia furiosa, che ogni tanto indicava il servizio per bambini e parlava dei più bei fiori della [[Nature|Natura]] corrotti dai [[Secrets|segreti]] dell'[[]L07|Inquisizione spagnola]] - ovviamente da parte dell'uomo con la paletta. L'ateo (che portava una coccarda rossa) era molto sprezzante anche verso il proprio pubblico. “Ipocriti!” diceva; e allora gli lanciavano dei soldi. “Imbroglioni e codardi!” e allora gli lanciavano ancora più soldi. Ma tra l'ateo e il servizio per bambini c'era un ometto con un fez rosso, che agitava debolmente un ombrello verde. Il suo viso era bruno e rugoso come una noce, il naso era di quel tipo che associamo alla Giudea, la barba era quella specie di cuneo nero che piuttosto associamo alla Persia. La giovane donna non l'aveva mai visto prima; era una nuova attrazione nel museo ormai familiare dei pazzi e degli imbroglioni. La giovane donna era una di quelle persone in cui un vero senso dell'[[]L09|umorismo]] è sempre in conflitto con una certa tendenza temperamentale alla noia o alla malinconia; e rimase lì un momento, appoggiata al corrimano ad ascoltare.
+
+
+
+Ci vollero ben quattro minuti prima che riuscisse a capire una sola parola di quello che l'uomo stava dicendo; parlava inglese con un accento così straordinario che all'inizio pensò che stesse parlando nella sua lingua orientale. Tutti i suoni di quell'articolazione erano insoliti; il più evidente era una prolungata trasformazione della breve “u” in “oo”; come in “poo-oot” per “put”. Gradualmente la ragazza si abituò al dialetto e cominciò a capire le parole, sebbene trascorresse ancora qualche [[Time|tempo]] prima che potesse farsi un'idea del loro contenuto. Alla fine le sembrò di capire che aveva una fissazione sull'idea che la civiltà inglese fosse stata fondata dai Turchi; o forse dai Saraceni dopo la loro vittoria nelle [[Crusades|Crociate]]. Sembrava anche pensare che gli inglesi sarebbero presto tornati a questo modo di pensare e sembrava insistere sulla diffusione del teetotalismo come prova di ciò. La ragazza era l'unica persona ad ascoltarlo.
+
+
+
+“G-guardi”, disse, agitando un dito bruno ricurvo, “g-guardi le sue stesse osterie” (che pronunciava come “ince”). “Le sue osterie di cui scrive nei suoi l-libri! Queste osterie non furono m-messe su all'inizio per vendere la bevanda cristiana alcolica. Furono messe su per vendere le bevande islamiche non alcoliche. Può vederlo dai nomi delle sue osterie. Sono nomi orientali, asiatici. Ha una famosa [[house|taverna]] pubblica a cui i suoi autobus fanno pellegrinaggio. Si chiama l'Elefante e la [[Castle|rocca]]. Non è un nome inglese. È un nome asiatico. Dirà che ci sono rocche in Inghilterra, e sarò d'accordo con lei. C'è la [[Castle|rocca]] di Windsor. Ma dove”, gridò severamente, agitando il suo ombrello verde contro la ragazza in un trionfo oratorio arrabbiato, “dove è l'Elefante di Windsor? Ho cercato tutto il parco di Windsor. Nessun elefante.”
+
+
+
+La ragazza dai capelli scuri sorrise e cominciò a pensare che quell'uomo fosse migliore di tutti gli altri. In conformità al singolare sistema di sovvenzioni religiose concorrenti che prevale nei luoghi di villeggiatura, lasciò una moneta da due scellini nel vassoio rotondo di rame accanto a lui. Con onorevole e disinteressata sollecitudine, il vecchio signore col fez rosso non diede alcuna importanza a ciò, ma continuò con calore, sebbene in modo oscuro, la sua argomentazione.
+
+
+
+"Quindi avete un posto dove bere in questa città che chiamate The Bool!"
+
+
+
+«In genere lo chiamiamo il Toro», disse la giovane interessata con una voce molto melodiosa.
+
+
+
+«Avete un posto dove bere che chiamate The Bool», ripeté con una specie di furia astratta «e certamente vedete quanto tutto ciò sia davvero ridicolo!»
+
+
+
+«No, no!», disse la ragazza dolcemente e con tono di rimprovero.
+
+
+
+“Perché dovrebbe esserci un Bue?” esclamò, prolungando la parola alla sua maniera. “Perché dovrebbe esserci un Bue in relazione con un luogo festoso? Chi pensa a un Bue nei giardini del piacere? Che bisogno c'è di un Bue quando guardiamo le fanciulle dai colori dei tulipani [[Dance|danzare]] o versiamo lo sciroppo frizzante? Voi stessi, amici miei?” E guardò intorno raggiante, come se si rivolgesse a una folla enorme. “Voi stessi avete un proverbio: ‘Non è calcolato per promuovere la prosperità avere un Bue in una bottega di porcellane.’ Allo stesso modo, amici miei, non sarebbe calcolato per promuovere la prosperità avere un Bue in un'osteria. Tutto questo è chiaro.”
+
 
 
 <span class="atom-split" data-atom="chapter_01_a_sermon_on_inns--part_02" data-title="The Flying Inn — Chapter 1: A SERMON ON INNS (part 2)" data-chapter="A SERMON ON INNS" data-kind="excerpt"></span>
@@ -11678,6 +11720,58 @@ He spread out his hands again, in his fanlike eastern style. Then he clapped the
 “Because, my friends, this is the best example I could give of the wrong and slanderous character of the charge that we fail in our domesticities. That we fail especially in our treatment of the womankind. I appeal to any lady, to any Christian lady. Is not the boo-oot more devastating, more dreaded in the [[Home|home]] than the hat? The boot jumps, he bound, he run about, he break things, he leave on the carpet the earths of the [[Garden|garden]]. The hat, he remain quiet on his hat-peg. Look at him on his hat-peg; how quiet and good he remain! Why not let him remain quiet also on his head?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Era caratteristico di Lord Ivywood che, sebbene fosse davvero di fretta, si sedette lentamente e con gravità in mezzo all'esplosione di applausi. La tranquilla ripresa del posto dell'oratore, come l'applauso stesso, era una parte artistica della perorazione. Quando l'ultimo battito di mani o colpo di tosse si fu placato, saltò su con prontezza, il suo leggero pastrano sul braccio, strinse la mano al conferenziere, fece un inchino al pubblico e scivolò rapidamente fuori dalla sala. Il signor Leveson, il giovane uomo scuro con gli occhiali a [[Double|doppia]] montatura che pendeva piuttosto timidamente in avanti, prese il posto vuoto sul palco e in poche parole presentò l'eminente mistico turco Misysra Ammon, talvolta chiamato il [[Prophet|Profeta]] della [[Moon|Luna]].
+
+
+
+La signora Joan trovò l'accento inglese del [[Prophet|Profeta]] un po' migliorato dalla buona società, ma egli continuava a prolungare la lettera “u” nello stesso modo belante e le sue osservazioni avevano esattamente la stessa ingegnosità ostinatamente sbagliata della sua conferenza sugli alberghi inglesi. Sembrava che stesse parlando di poligamia superiore; ma iniziò con una sorta di difesa generale della civiltà musulmana, specialmente contro l'accusa di sterilità e inefficacia mondana.
+
+
+
+“È proprio nelle cose pratiche”, diceva lui, “è proprio nelle cose pratiche che se le si potesse considerare in modo del tutto uguale, i nostri metodi sono migliori dei vostri. I miei antenati inventarono le spade curve perché con una [[Sword|spada]] curva si taglia meglio. Voi avete ereditato le spade dritte per qualche romantica fantasia di essere quello che voi chiamate diritti; oppure, prendiamo un esempio più semplice, su cui ho esperienza personale. Quando ebbi l'[[Honour|onore]] di incontrare Lord Ivywood, non ero abituato alle vostre varie cerimonie e trovai una certa difficoltà, solo una piccola difficoltà, a entrare nell'albergo Claridge dove sua signoria mi aveva invitato. Un servitore dell'albergo stava proprio accanto a me sulla soglia. Mi chinai per togliermi gli stivali e lui mi chiese cosa stessi facendo. Gli risposi: ‘Amico mio, sto togliendomi gli stivali.’”
+
+
+
+Un suono soffocato provenne da lady Joan Brett, ma il conferenziere non lo notò e continuò con una bella semplicità.
+
+
+
+«Gli ho detto che nel mio paese, quando si vuole dimostrare rispetto per un luogo, non ci togliamo il cappello; ci togliamo gli sti-vali. E poiché io avrei continuato a tenere il cappello e a togliermi gli sti-vali, lui mi ha suggerito che Allah mi aveva colpito alla testa. Non era divertente?»
+
+
+
+«Molto», disse Lady Joan dietro il fazzoletto, perché stava soffocando dalle risate. Qualcosa come un pallido sorriso attraversò i volti seri dei due o tre più intelligenti tra le Anime Semplici, ma per lo più le Anime sembravano davvero molto semplici, persone dall'aria indifesa con capelli lisci e vestiti simili a tende verdi, e i loro volti secchi erano ancora più secchi di prima.
+
+
+
+“Ma glielo ho spiegato. Gliel'ho spiegato per un lungo [[Time|periodo]], per un periodo attentamente occupato, che era più pratico, più commerciale, più utile in assoluto togliersi gli stivali piuttosto che il cappello. ‘Pensiamo’, gli ho detto, ‘a quante lamentele ci sono contro le calzature e a quante poche ce ne sono contro i copricapo. Ti lamenti se nei tuoi salotti si cammina con gli stivali pieni di fango. Ma c'è forse qualcuno dei tuoi salotti che è segnato dal fatto che ci si cammina con i cappelli pieni di fango? Quanti mariti ti calpestano con gli stivali! Eppure, quanti pochi mariti in qualche occasione ti danno una botta in testa col cappello?’”
+
+
+
+Si guardò intorno con un'aria di serietà radiosa che rese Lady Joan quasi muta per la simpatia, come lo era per il divertimento. Con tutto ciò che c'era di più sano nella sua troppo complicata [[Soul|anima]], si rese conto della presenza di un uomo veramente convinto.
+
+
+
+“L'uomo sulla porta non mi ha voluto ascoltare”, continuò Misysra Ammon con voce patetica, “ha detto che ci sarebbe stata una folla se fossi rimasto sulla porta tenendo in mano i miei stivali. [[Well|Beh]], non so perché nel vostro paese mandate sempre i giovani maschi a fare da apripista alle vostre folle. Di certo facevano un sacco di rumore, quei giovani maschi.”
+
+
+
+Lady Joan Brett si alzò improvvisamente e mostrò un enorme interesse per il resto del pubblico nelle parti posteriori della sala. Sentiva che se avesse guardato ancora per un momento quel volto serio con il naso ebraico e la barba persiana, si sarebbe umiliata pubblicamente; o, cosa altrettanto grave (perché era il tipo di [[aristocrat|aristocratica]] generosa), avrebbe insultato pubblicamente il conferenziere. Pensò che la vista di tutte quelle Anime Semplici in massa potesse avere un effetto calmante. Lo ebbe. Ebbe quello che si sarebbe potuto scambiare per un effetto deprimente. Lady Joan riprese posto con un'espressione controllata.
+
+
+
+“Ora, perché”, chiese il filosofo orientale, “racconto una storia così semplice delle vostre strade di [[London|Londra]] - qualcosa che succede tutti i giorni? L'errore non ebbe alcun effetto pregiudizievole. Lord Ivywood alla fine uscì. Non fece nessun tentativo di spiegare la vera opinione su questioni così importanti al servo del signor Claridge, anche se il servo del signor Claridge rimase sulla soglia della porta. Ma ordinò al servo del signor Claridge di restituirmi uno dei miei stivali, che era caduto giù per i gradini d'ingresso mentre spiegavo questa innocuità del cappello nella [[Home|casa]]. Così tutto andò, per me, molto bene. Ma perché racconto queste piccole storie?”
+
+
+
+Di nuovo spalancò le mani in quel suo gesto orientale a ventaglio. Poi si batté le palme insieme così all'improvviso che Giovanna sobbalzò e istintivamente cercò con gli occhi l'ingresso di cinquecento schiavi neri carichi di gioielli. Ma era solo il suo enfatico gesto oratorio. Continuò con un ispessirsi dell'accento, eccitato.
+
+
+
+«Perché, miei amici, questo è il miglior esempio che potrei dare del carattere errato e calunnioso dell'accusa di fallire nelle nostre faccende domestiche. Che falliamo specialmente nel nostro trattamento delle donne. Mi appello a qualsiasi signora, a qualsiasi signora cristiana. Non è forse lo sti-ivale più devastante, più temuto in [[Home|casa]] rispetto al cappello? Lo stivale salta, si agita, corre in giro, rompe le cose, lascia sul tappeto la terra del [[Garden|giardino]]. Il cappello rimane tranquillo sul suo appendiabiti. Guardatelo sul suo appendiabiti; quanto è tranquillo e buono! Perché non lasciarlo tranquillo anche sulla sua testa?»
+
 
 
 <span class="atom-split" data-atom="chapter_07_the_society_of_simple_souls--part_03" data-title="The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS (part 3)" data-chapter="THE SOCIETY OF SIMPLE SOULS" data-kind="excerpt"></span>
@@ -13178,6 +13272,30 @@ She felt she could not stand a minute more of Mr. Hibbs. She felt she would die 
 She started and half [[Rose|rose]] on her elbow with a small laugh. A dog of ludicrous but familiar appearance came shuffling toward her and she lifted herself in the act of lifting him. She also lifted her head, and saw something that seemed to her, in a sense more Christian and catastrophic, very like the end of the world.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lord Ivywood riprese posto, le sue labbra incolori ancora in movimento. Per un accordo precedente, probabilmente, il signor Leveson [[Rose|si alzò]] per proporre una mozione sul vegetarianesimo. Il signor Leveson era dell'opinione che il divieto ebraico e mussulmano sulla carne di maiale fosse stato l'origine del vegetarianesimo. Pensava che fosse un grande passo avanti, e dimostrasse quanto la dottrina potesse essere progressista. Riteneva che la persecuzione degli indù da parte dei mussulmani fosse stata probabilmente molto esagerata; pensava che la nostra esperienza nella rivolta indiana mostrasse che consideravamo troppo poco il sentimento degli orientali in tali questioni. Pensava che il vegetarianesimo, in qualche modo, rappresentasse un progresso rispetto al [[Christianity|cristianesimo]] ortodosso. Riteneva che dovessimo essere pronti per ulteriori passi avanti; e si sedette. E dato che aveva detto esattamente, punto per punto, tutto ciò che Lord Ivywood aveva affermato, non c'è bisogno di dire che quel nobile in seguito lo congratulò per l'audacia e l'originalità del suo brillante discorso.
+
+
+
+A un segnale simile, preordinato, Hibbs si alzò piuttosto vagamente in piedi per sostenere la mozione. Si vantava di essere un uomo di poche parole, nel senso vocale; non era un oratore, come [[Brutus|Bruto]]. Solo con una penna in mano, in uno studio pieno di opere di consultazione, poteva provare quel senso di responsabilità confusa che era l'unica gioia della sua vita. Ma in questa occasione era più brillante del solito; in parte perché gli piaceva trovarsi nella [[house|casa]] di un lord; in parte perché non aveva mai assaggiato lo champagne prima, e sentiva che gli faceva bene; in parte perché vedeva nell'argomento del Progresso un'infinita opportunità di spaccare il capello in quattro.
+
+
+
+«Qualunque cosa» disse Hibbs con una tosse solenne «qualunque cosa possiamo pensare del vecchio credo che i musulmani si siano discostati dal buddismo in modo deplorevole, non ci può essere alcun [[Doubt|dubbio]] che la responsabilità ricada sulle Chiese cristiane. Se le Chiese libere avessero fatto valere il loro diritto e risposto alla richiesta dei signori Opalstein, non avremmo mai sentito parlare di queste vecchie divergenze tra una credenza e l'altra». Com'era, gli ricordava Napoleone. Diede la sua opinione per quel che valeva, ma non aveva paura di dire a ogni costo, anche lì e in quella compagnia, che questa faccenda della vegetazione asiatica aveva occupato meno del [[Time|tempo]] della Conferenza metodista di quanto avrebbe dovuto. Sarebbe stato l'ultimo a dire, ovviamente, che qualcuno fosse in qualche modo responsabile. Tutti conoscevano le qualifiche del dottor Coon. Tutti sapevano [[Well|bene]] come lui che un lavoratore sociale più strenuo di Charles Chadder non aveva mai radunato le forze del progresso. Ma ciò che in realtà non era una indiscrezione poteva essere rappresentata come tale, e forse ne avevamo avuto abbastanza ultimamente. Era tutto molto [[Well|bene]] parlare di Coffe ma si doveva ricordare, senza mancare di rispetto a coloro in Canada ai quali dobbiamo tanto, che tutto ciò è accaduto prima del 1891. Nessuno aveva meno [[Desire|desiderio]] di offendere i nostri amici ritualisti di lui, ma non ebbe esitazioni nel dire che la questione era una questione che poteva essere posta, e sebbene senza alcun [[Doubt|dubbio]], da un punto di vista il capro...
+
+
+
+Lady Joan si mosse bruscamente sulla sedia, come se fosse stata presa da un improvviso [[Pain|dolore]]. E infatti aveva sentito all'improvviso il dolore cronico e ricorrente della sua vita. Era coraggiosa riguardo al dolore fisico, come la maggior parte delle donne, anche quelle più lussuose: ma il tormento che di [[Time|tanto]] in [[Time|tanto]] tornava a straziarla era uno a cui erano stati dati molti nomi filosofici, ma nessuno così filosofico come la Noia.
+
+
+
+Sentiva di non poter sopportare un minuto di più il signor Hibbs. Sentiva che sarebbe morta se avesse sentito parlare delle capre, da uno o qualsiasi altro punto di vista. Scivolò via dalla sua sedia e in qualche modo girò l'angolo, fingendo di cercare uno dei tavoli con le rinfresche nell'ala nuova. Ben presto si trovò tra gli appartamenti orientali nuovi, ormai quasi completati; ma non prese alcun rinfresco, anche se qua e là si potevano ancora trovare tavoli spogli. Si gettò su un divanetto e fissò le vuote e fatate camere della torretta in cui Ivywood l'aveva fatta capire che lui pure poteva anelare alla [[Beauty|bellezza]] e desiderare di essere in pace. Dopotutto, aveva certamente una sua poesia; una poesia che non toccava mai terra; la poesia di Shelley piuttosto che di Shakespeare. La sua frase sulla torretta fatata era vera: sembrava davvero il confine del mondo. Le sembrò di capire che alla fine c'è sempre un limite sereno.
+
+
+
+Sussultò e si sollevò a metà sul gomito con una risatina. Un cane dall'aspetto ridicolo ma familiare venne barcollando verso di lei e lei si alzò nel gesto di prenderlo in braccio. Alzò anche la testa, e vide qualcosa che le sembrò, in un senso più cristiano e catastrofico, molto simile alla fine del mondo.
+
 
 
 <span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_01" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 1)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt"></span>
@@ -13747,6 +13865,86 @@ And he scribbled some words in pencil on the back of a bill of fare on the table
 
 “And there you do Philip the worst wrong of all,” cried Lady Joan, flaming white. “You know as [[Well|well]] as I do, anyhow, that he would not take your money.” Patrick Dalroy stood looking at her for some seconds with an expression on his broad and unusually open face which she found utterly puzzling.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma provava anche un'altra sensazione che non riusciva ad analizzare; perché gli ricordava di essere una mosca sul soffitto o sulla parete. Erano i Giardini Sospesi di Babilonia a tornare alla sua [[Imagination|immaginazione]]; oppure il [[Castle|Castello]] a est del Sole e a ovest della [[Moon|Luna]]? Poi si ricordò che durante una malattia infantile aveva fissato un tipo di carta da parati piuttosto moresco, che sembrava avere file su file di corridoi vivacemente colorati, vuoti e interminabili. E si ricordò che una mosca camminava lungo una delle linee parallele; e gli sembrava nella sua fantasia infantile che i corridoi fossero tutti morti davanti alla mosca, ma prendessero vita al suo passaggio.
+
+
+
+«Per Giorgio!» esclamò «mi [[Wonder|domando]] se questa sia la vera [[Truth|verità]] su Oriente e Occidente! Che l'opulento Oriente offra tutto ciò che serve per le avventure, tranne l'uomo capace di godersele. Spiegherebbe alla perfezione la tradizione delle [[Crusades|crociate]]. Forse è questo che Dio intendeva con Europa e Asia. Noi vestiamo i personaggi ed essi dipingono il paesaggio. [[Well|Bene]], comunque, tre delle cose meno asiatiche al mondo sono perse in questo infinito palazzo asiatico: un buon cane, una [[Sword|spada]] diritta e un irlandese.»
+
+
+
+Ma mentre scendeva lungo questo telescopio di colori tropicali provava davvero qualcosa di quella dura libertà fatalistica degli eroi (o dovremmo dire dei malvagi?) nelle Mille e una notte. Era preparato a qualsiasi impossibilità. Non si sarebbe quasi sorpreso se da sotto il coperchio di uno dei vasi di porcellana in un angolo fosse uscito un serpente filo di fumo blu o giallo, come se all'interno ci fosse l'olio di qualche mago. Non si sarebbe quasi sorpreso se da sotto le tende o dalle porte chiuse fosse strisciata fuori una scia sinuosa di [[Blood|sangue]], o se un negro muto vestito di bianco fosse uscito con una corda per l'arco, avendo compiuto il suo lavoro. Non si sarebbe sorpreso se fosse entrato all'improvviso nella camera silenziosa di qualche sultano addormentato, che svegliare era una [[Death|morte]] in tormenti. Eppure fu molto più sorpreso da ciò che vide davvero, e quando lo vide fu certo infine che stava solo vagando nel labirinto del suo cervello. Perché quello che vide era proprio il cuore di tutti i suoi [[Dreams|sogni]].
+
+
+
+Ciò che vide era davvero più adatto a quella camera orientale più interna di quanto avesse mai immaginato. Su un divano con cuscini color rosso [[Blood|sangue]] e arancione giaceva una donna straordinariamente bella, con una pelle quasi abbastanza scura da essere quella di un'araba, che ben si sarebbe potuta rivelare la Principessa adatta a una fiaba del genere. Ma in [[Truth|verità]] non fu l'adeguatezza della donna alla scena a far battere più forte il suo cuore, bensì piuttosto la sua inadeguatezza. Non fu la sua stranezza ma la sua familiarità che fece fermare di colpo i suoi grandi piedi.
+
+
+
+Il cane continuò a correre ancora più velocemente e la principessa sul divano lo accolse calorosamente, sollevandolo sulle sue corte zampe posteriori. Poi alzò gli occhi e sembrò trasformarsi in pietra.
+
+
+
+«Bismillah», disse il viaggiatore orientale, con affabilità, «che la tua [[Shadow|ombra]] non si accorci mai – o non si allunghi, come direbbero le signore. Il Comandante dei Fedeli ha incaricato il suo schiavo meno competente di riportarti un cane. A causa del ritardo temporaneo nel raccogliere i quindici diamanti più grandi della [[Moon|luna]], è stato costretto a inviare l'animale senza alcun collare. Chi è responsabile del ritardo sarà immediatamente battuto fino alla [[Death|morte]], con le code dei draghi –»
+
+
+
+Lo spaventoso choc che ancora non aveva abbandonato il volto della signora lo riportò a un linguaggio responsabile.
+
+
+
+“Insomma”, disse, “in nome del [[Prophet|Profeta]], cane. Dico, Giovanna, vorrei che questo non fosse [[A Dream|un sogno]].”
+
+
+
+“Non lo è”, disse la ragazza, parlando per la prima [[Time|volta]], “e non so ancora se desidero che lo sia”.
+
+
+
+«[[Well|Bene]],» argomentò il sognatore, in modo razionale, «cosa sei tu, in qualsiasi momento, se non [[A Dream|un sogno]] - o una visione? E cosa sono tutte queste stanze, se non [[A Dream|un sogno]] - o piuttosto un [[nightmare|incubo]]?»
+
+
+
+«Questo è il nuovo ala di Ivywood [[house|House]]», disse la signora chiamata Joan, parlando con grande difficoltà. «Lord Ivywood li ha arredati in stile orientale; è dentro che sta conducendo un dibattito molto interessante in difesa del vegetarianismo orientale. Sono uscita solo perché la stanza era piuttosto calda».
+
+
+
+“[[vegetarian|Vegetariano]]!” esclamò Dalroy con un'irritazione improvvisa e piuttosto irragionevole. “Quel tavolo sembra essere un po' al di sotto del Vegetarismo.” E indicò uno dei lunghi, stretti tavoli apparecchiati in quasi tutte le stanze centrali, carichi di elaborati salumi freddi e vini costosi.
+
+
+
+«Deve essere di mentalità aperta», esclamò Giovanna, che sembrava sul punto di qualcosa, forse di perdere la pazienza. «Non può pretendere che le persone comincino improvvisamente a diventare vegetariane quando non lo sono mai state prima».
+
+
+
+«È fatto», disse Dalroy con tranquillità, avvicinandosi per guardare il tavolo. «Dico, i tuoi amici ascetici sembrano aver fatto un buon buco nello champagne. Potresti non crederci, Joan, ma non ho toccato quello che chiami alcol da un mese».
+
+
+
+Con queste parole riempì di champagne un grande bicchiere destinato al claret cup e lo inghiottì in un sorso solo.
+
+
+
+La signora Joan Brett si alzò dritta ma tremante.
+
+
+
+«Adesso questo è davvero sbagliato, Pat», esclamò lei. «Oh, non fare la sciocca: sai che non mi interessa l'alcol o tutte quelle cose. Ma sei nella [[house|casa]] dell'uomo senza essere stata invitata e lui non lo sa. Non è da te».
+
+
+
+«Lo saprà, certo», disse l'uomo robusto, tranquillamente. «Conosco il prezzo esatto di un bicchiere di quel champagne».
+
+
+
+E scarabocchiò alcune parole con una matita sul retro di un menu sul tavolo e poi vi depose sopra con cura tre scellini.
+
+
+
+"E lì fai a Philip il peggior torto di tutti", gridò Lady Joan, pallidissima. "Comunque tu lo sai [[Well|bene]] quanto me che non accetterebbe i tuoi soldi." Patrick Dalroy la guardò per alcuni secondi con un'espressione sul suo largo e insolitamente aperto volto che lei trovò del tutto sconcertante.
 
 
 
@@ -15550,6 +15748,216 @@ The Noselessness of Man.”
 
 This poem also shows traces of haste in its termination, and the present editor (who has no aim save [[Truth|truth]]) is bound to confess that parts of it were supplied in the criticisms of the Captain, and even enriched (in later and livelier circumstances) by the Poet of the [[Birds]] himself. At the actual moment the chief features of this realistic [[Song|song]] about [[dogs]] was a crashing [[Chorus|chorus]] of “Bow-wow, wow,” begun by Mr. Patrick Dalroy; but immediately imitated (much more successfully) by Mr. [[quoodle|Quoodle]]. In the face of all this Dalroy suffered some real difficulty in fulfilling the bargain by reading out his much shorter poem about what he imagined an Englishman might feel. Indeed there was something very rough and vague in his very voice as he read it out; as of one who had not found the key to his problem. The present compiler (who has no aim save [[Truth|truth]]) must confess that the verses ran as follows:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Pump aveva fatto molti tentativi per fermare questa [[Song|canzone]], ma erano stati vani come tutti i tentativi di fermare l'auto. Il furioso autista sembrava, anzi, piuttosto ispirato a ulteriori energie dai violenti rumori vocali alle spalle; e Pump trovò ancora una volta meglio rifugiarsi nella conversazione.
+
+
+
+«[[Well|Beh]], Capitano», disse amichevolmente, «non posso proprio essere d'accordo con lei su queste cose. Certo, si può fidare troppo degli stranieri come ha fatto il povero Thompson; ma poi si può esagerare anche dall'altra parte. La zia Sarah perse mille sterline in quel modo. Glielo dissi più e più volte che non era un negro, ma lei non volle credermi. E, naturalmente, quello era proprio il tipo di cosa da offendere un ambasciatore se fosse stato austriaco. Mi sembra, Capitano, che lei non sia del tutto giusto con questi stranieri. Prendiamo gli americani, ad esempio! Passarono molti americani per Pebblewick, può immaginare. Ma in tutto il gruppo non ce n'era mai uno cattivo; né un americano sgradevole, né un americano stupido – né, [[Well|beh]], mai un americano che non mi piacesse particolarmente».
+
+
+
+“Lo so”, disse Dalroy, “volete dire che non c'è mai stato un americano che non apprezzasse 'La vecchia [[Ship|nave]]'.”
+
+
+
+«Suppongo che sia proprio questo il mio pensiero», rispose l'oste «e in qualche modo ho la sensazione che anche "La Vecchia [[Ship|Nave]]" potrebbe apprezzare l'americano.»
+
+
+
+«Voi inglesi siete un popolo straordinario», disse l'irlandese con una tranquillità improvvisa e cupa. «A volte ho la sensazione che forse ce la farete, dopotutto».
+
+
+
+Dopo un altro [[Silence|silenzio]], disse: «Hai sempre ragione, Hump, e non si dovrebbe pensare così dei yankee. I ricchi sono la feccia della terra in ogni paese. E una vasta proporzione di veri americani è tra le persone più cortesi, intelligenti, [[Self|autoreggenti]] del mondo. Alcuni attribuiscono questo al fatto che una vasta proporzione dei veri americani sono irlandesi».
+
+
+
+Pump era ancora silenzioso e il Capitano riprese un attimo dopo.
+
+
+
+“Tuttavia”, disse, “è molto difficile per un uomo, specialmente uno di un piccolo paese come il mio, capire com’è sentirsi americani; soprattutto in materia di nazionalità. Non mi piacerebbe dover scrivere l’inno nazionale degli Stati Uniti, ma fortunatamente non c’è molta probabilità che mi venga affidato questo incarico. Il vergognoso segreto della mia incapacità di comporre un [[Song|canto]] patriottico americano morirà con me.”
+
+
+
+«[[Well|Beh]], e che dire di una inglese», disse Pump con decisione. «Potrebbe andarle peggio, Capitano».
+
+
+
+«Inglese, tu maledetto [[Tyrant|tiranno]]», disse Patrick, indignato. «Non potrei mai immaginare una [[Song|canzone]] di un inglese più di quanto tu possa immaginarne una di quel cane».
+
+
+
+Il signor Humphrey Pump estrasse con solennità di tasca il foglio su cui aveva precedentemente annotato i peccati e la desolazione dei droghieri, e frugò in un'altra delle sue innumerevoli tasche per cercare una matita.
+
+
+
+«Ehi!», esclamò Dalroy. «Avete intenzione di fare un tentativo con la Ballata di [[quoodle|Quoodle]]?»
+
+
+
+[[quoodle|Quoodle]] drizzò le orecchie al suo nome. Il signor Pump sorrise con un sorriso lieve e imbarazzato. Era segretamente orgoglioso dell'ammirazione di Dalroy per i suoi precedenti tentativi letterari e aveva una certa attitudine naturale verso la poesia come gioco, così come ne aveva per tutti i giochi; e le sue letture, sebbene discontinue, non erano state semplicemente rustiche o volgari.
+
+
+
+«Con la condizione», disse in tono modesto, «che tu scriva una [[Song|canzone]] per gli inglesi.»
+
+
+
+“Oh, benissimo,” disse Patrick con un enorme sospiro che in realtà indicava l'esatto opposto della riluttanza. “Dobbiamo fare qualcosa finché la cosa non si ferma, immagino, e questo sembra un gioco da salotto innocuo. ‘[[songs|Canzoni]] del Car Club.’ Sembra proprio aristocratico.”
+
+
+
+E cominciò a fare dei segni con una matita sulla carta di guardia di un piccolo libro che aveva in tasca: le Noctes Ambrosianae di Wilson. Di tanto in tanto, però, alzava lo sguardo e ritardava la propria composizione osservando Pump e il cane, i cui comportamenti lo divertivano molto. Infatti il proprietario dell'“Old [[Ship]]” stava seduto a succhiare la matita e guardava Mr. [[quoodle|Quoodle]] con occhi di insondabile attenzione. Di tanto in tanto si grattava leggermente i capelli castani con la matita, e scriveva una parola. E il cane [[quoodle|Quoodle]], con quel curioso potere canino di comprendere o fingere spudoratamente di comprendere ciò che sta succedendo, stava seduto eretto con la testa inclinata, come se si stesse facendo ritrarre.
+
+
+
+Perciò accadde che sebbene la poesia di Pump fosse un po' lunga, come spesso sono le [[Poems|poesie]] dei poeti inesperti, e sebbene la poesia di Dalroy fosse molto breve (essendo stata scritta con molta fretta verso la fine), la poesia lunga fu finita qualche [[Time|tempo]] prima della breve.
+
+
+
+Fu così che per il mondo venne prodotta la prima [[Song|canzone]], più comunemente conosciuta come "Niente Nasi", o, più correttamente chiamata "La [[Song|Canzone]] di [[quoodle|Quoodle]]." Parte di essa alla fine andò così:
+
+
+
+"Non hanno nessun naso"
+
+
+
+I figli caduti di Eva
+
+
+
+Anche il profumo delle rose
+
+
+
+Non è come pensano loro,
+
+
+
+Ma più della mente si rivela,
+
+
+
+E più di quanto gli uomini credano.
+
+
+
+
+
+“Non hanno naso,”
+
+
+
+Non riescono nemmeno a dire
+
+
+
+Quando la porta si chiude e cala l'oscurità
+
+
+
+Il parco che un ebreo recinì,
+
+
+
+Dove anche la Legge di Mosè
+
+
+
+Vi lascerò rubare un odore;
+
+
+
+
+
+“L'odore brillante dell'[[Water|acqua]],
+
+
+
+L'audace profumo di una pietra,
+
+
+
+L'odore di rugiada e tuono
+
+
+
+E vecchie ossa sepolte sotto,
+
+
+
+# Le cose in cui sbagliano
+
+
+
+E sbagliare, se lasciati [[Alone|soli]].
+
+
+
+
+
+“La [[Wind|brezza]] dalle foreste di [[Winter|inverno]],
+
+
+
+Il profumo dei fiori senza odore [[Flowers|fiori]],
+
+
+
+Il respiro dell'ornamento della sposa,
+
+
+
+L'odore di trappola e avvertimento,
+
+
+
+Il profumo della mattina di [[Sunday|domenica]],
+
+
+
+Dio ci ha dato per noi."
+
+
+
+
+
+* * * * * *
+
+
+
+
+
+“E [[quoodle|Quoodle]] qui rivela
+
+
+
+Tutte le cose che può fare [[quoodle|Quoodle]];
+
+
+
+Non hanno naso,
+
+
+
+Non hanno naso,
+
+
+
+E solo Dio sa
+
+
+
+L'assenza di naso dell'uomo.
+
+
+
+Questa poesia mostra anche tracce di fretta nella sua conclusione, e l'attuale curatore (che non ha altro scopo se non la [[Truth|verità]]) è tenuto a confessare che parti di essa furono fornite nelle critiche del Capitano, ed addirittura arricchite (in circostanze successive e più vivaci) dal Poeta degli [[Birds|uccelli]] stesso. In quel momento preciso le caratteristiche principali di questa realistica [[Song|canzone]] sui [[dogs|cane]] era un fragoroso [[Chorus|coro]] di “Bau-bau, bau”, iniziato dal signor Patrick Dalroy; ma immediatamente imitato (con molto più successo) dal signor [[quoodle|Quoodle]]. Di fronte a tutto ciò, Dalroy ebbe qualche reale difficoltà a mantenere la promessa leggendo ad alta voce la sua poesia molto più breve su quello che immaginava un inglese potesse provare. Infatti c'era qualcosa di molto grezzo e vago nella sua stessa voce mentre la leggeva; come se non avesse trovato la chiave del suo problema. L'attuale compilatore (che non ha altro scopo se non la [[Truth|verità]]) deve confessare che i versi erano i seguenti:
 
 
 
@@ -23129,6 +23537,134 @@ Away in the distant music room, Lady Enid, having found the music she preferred,
 
 “The tune of harp, sackbut, psaltery, dulcimer and all kinds of music,” said Joan, softly and fiercely, “when we shall bow down and worship the Golden Image that Nebuchadnezzar the [[King]] has set up. Girls! Women! Do you know what this place is? Do you know why it is all doors within doors and lattice behind lattice; and everything is curtained and cushioned; and why the [[Flowers|flowers]] that are so fragrant here are not the [[Flowers|flowers]] of our hills?”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Vedete», disse Miss Browning, «non dobbiamo interferire con la sua carriera; questa è la cosa importante. E, davvero, penso che sia meglio non parlare di nulla. Sono sicura che sta maturando piani molto grandi. Avete sentito quello che ha detto il [[Prophet|Profeta]] l'altra [[Night|sera]]?»
+
+
+
+“L'ultima cosa che il [[Prophet|profeta]] mi ha detto”, disse la signora più scura in tono ostinato, “è stata che quando noi inglesi vediamo un giovane inglese esclamiamo ‘È in ascesa!’, ma quando vediamo un vecchio inglese esclamiamo ‘È [[Cross|crociato]]!’”
+
+
+
+Una signora con un volto così intelligente non poté fare a meno di ridere debolmente; ma continuò su un tema determinato: “Il [[Prophet|Profeta]] disse, sapete, che tutto l'amore reale aveva in sé un elemento del destino. E sono sicura che questa è anche la sua opinione. Le persone si raggruppano attorno a un centro come le piccole [[Stars|stelle]] fanno attorno a una stella; perché una stella è un magnete. Non sbagliate mai quando il destino soffia dietro di voi come un grande, grosso [[Wind|vento]]; e penso che molte cose siano state giudicate ingiustamente in questo modo. È tutto molto [[Well|bene]] parlare dei matrimoni infantili in India.”
+
+
+
+"Signorina Browning," disse Giovanna, "si interessa dei matrimoni infantili in India?"
+
+
+
+«[[Well|Beh]]» disse la signorina Browning.
+
+
+
+«La tua sorella è interessata a loro? Corro a chiederglielo», esclamò Giovanna, attraversando la stanza fino al punto in cui la signora MacKintosh era seduta a un tavolo scrivendo appunti da segretaria.
+
+
+
+“[[Well|Beh]],” disse la signora Mackintosh, sollevando una testa dai capelli ricchi e risoluta, più bella di quella della sorella, “credo che il modo indiano sia il migliore. Quando le persone sono lasciate a se stesse nella prima giovinezza, chiunque potrebbe sposare chiunque. Potremmo aver sposato un negro o una pescivendola o... un criminale.”
+
+
+
+«Ora, signora Mackintosh», disse Giovanna con severità e aggrottando le sopracciglia scure, «lei sa [[Well|benissimo]] che non avrebbe mai sposato una venditrice di pesce. Dov'è Enid?» concluse improvvisamente.
+
+
+
+"La signorina Enid," disse la signorina Browning, "sta cercando della musica nella sala da musica, credo."
+
+
+
+Giovanna camminò rapidamente attraverso diversi lunghi saloni e trovò il suo parente biondo e pallido effettivamente al pianoforte.
+
+
+
+«Enid», esclamò Joan, «sai che sono sempre stata affezionata a te. Per l'amor di Dio dimmi cos'è che non va in questa [[house|casa]]? Ammiro Philip come tutti lo ammirano. Ma qual è il problema con la [[house|casa]]? Perché tutte queste stanze e giardini sembrano chiudermi dentro, sempre più dentro? Perché tutto appare sempre più uguale? Perché tutti dicono le stesse cose? Oh, non parlo spesso di metafisica; ma in questo c'è uno scopo. Questa è l'unica maniera per dirlo; c'è uno scopo. E io non so quale sia».
+
+
+
+La signora Enid Wimpole suonò un paio di battute preliminari al pianoforte. Poi disse:
+
+
+
+“Nemmeno io, Giovanna. Proprio così. So esattamente cosa intendi. Ma è proprio perché c'è uno scopo che ho [[Faith|fede]] in lui e mi fido di lui.” Cominciò dolcemente a suonare una melodia di ballata della Renania; e forse la musica suggerì il suo prossimo commento. “Supponiamo che tu stia guardando alcune delle ultime svolte del Reno, dove scorre...”
+
+
+
+«Enid!» gridò Joan «se dici "nel Mare del Nord", strillerò. Strillerò, mi senti, più forte di tutti i pavoni messi insieme».
+
+
+
+«[[Well|Beh]]», esclamò Lady Enid alzando gli occhi con aria piuttosto smarrita, «il Reno sfocia nel Mare del Nord, no?»
+
+
+
+«Oserei dire», disse Giovanna in modo sconsiderato, «che il Reno avrebbe potuto sfociare nel Serpentine prima che tu lo sapessi o ti importasse, fino a quando...»
+
+
+
+«Fino a quando?» chiese Enid e la sua musica cessò improvvisamente. «Fino a che non accadde qualcosa che non riesco a capire», disse Giovanna allontanandosi.
+
+
+
+«Sei qualcosa che non riesco a capire», disse Enid Wimpole. «Ma suonerò qualcos'altro se questo ti dà fastidio». E di nuovo sfiorò la tastiera con cura, cercando di scegliere il brano adatto.
+
+
+
+Giovanna tornò indietro attraverso il corridoio della sala da musica e riprese irrequieta posto nella stanza con le due segretarie donne.
+
+
+
+«[[Well|Bene]]», chiese la rossa e di buon umore signora Mackintosh senza alzare lo sguardo dal suo lavoro di scarabocchiatura, «avete scoperto qualcosa?»
+
+
+
+Per alcuni istanti Giovanna sembrò in uno stato di meditazione più cupo del solito; poi disse, con un tono schietto e amichevole che contrastava in qualche modo con le sue sopracciglia aggrottate e scure: “No, davvero. Almeno credo di aver scoperto solo due cose; e sono solo cose su me stessa. Ho scoperto che mi piace l'[[Heroism|eroismo]], ma non mi piace il culto dell'[[Hero|eroe]].”
+
+
+
+"Certo," disse la signorina Browning, nel modo di Girton, "l'uno deriva sempre dall'altro."
+
+
+
+“[[Hope|Spero]] di no”, disse Giovanna.
+
+
+
+“Ma che altro si può fare con l'[[Hero|eroe]]?”, chiese la signora Mackintosh senza ancora alzare lo sguardo dalla scrittura, “se non adorarlo?”
+
+
+
+“Potreste crocifiggerlo”, disse Giovanna con un improvviso ritorno di selvaggia irrequietezza mentre si [[Rose|alzava]] dalla sedia, “allora sembra che le cose accadano”.
+
+
+
+“Non è stanca?”, chiese la signorina Browning dal viso intelligente.
+
+
+
+"Sì", disse Giovanna, "e il peggior tipo di stanchezza: quando non sai nemmeno di cosa sei stanca. Per dire la [[Truth|verità]] onesta, credo di essere stanca di questa [[house|casa]]."
+
+
+
+“È molto vecchia, naturalmente, e alcune parti sono ancora squallide”, disse Miss Browning, “ma lui l’ha migliorata enormemente. La decorazione con la [[Moon|luna]] e le [[Stars|stelle]], giù nell'ala con il torrione è davvero–”
+
+
+
+Nella lontana sala da musica, lady Enid, avendo trovato la musica che preferiva, stava suonando il suo preludio al pianoforte. Alle prime note, Joan Brett si alzò in piedi come una tigre.
+
+
+
+«Grazie» disse con una voce rauca e soffice «è proprio questo, naturalmente! ed è esattamente quello che siamo tutti noi! Ha trovato la melodia giusta adesso.»
+
+
+
+“Che melodia è questa?”, chiese il segretario meravigliato.
+
+
+
+«La melodia dell'arpa, del salterio, della cetra, del liuto e di tutti i tipi di musica», disse Giovanna dolcemente ma con fermezza, «quando ci inchineremo e adoreremo l'Immagine Dorata che Nabucodonosor il [[King|Re]] ha eretto. Ragazze! Donne! Sapete cos'è questo luogo? Sapete perché è tutto porte dentro porte e grate dietro grate; e tutto è drappeggiato e imbottito; e perché i [[Flowers|fiori]] che qui sono così profumati non sono i [[Flowers|fiori]] delle nostre colline?»
 
 
 

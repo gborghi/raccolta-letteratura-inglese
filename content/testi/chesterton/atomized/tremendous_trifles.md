@@ -8054,14 +8054,14 @@ vedendo sempre meno del significato del cielo o delle pietre.
 
 . . . . .
 
-Ora è cosa terribile segnare un uomo per la vendetta degli uomini.
+Ora, è cosa terribile additare un uomo alla vendetta degli uomini.
 Ma è cosa a cui un uomo può abituarsi, come può abituarsi
-ad altre cose terribili; può persino abituarsi al sole.
-E la cosa orribile di tutti i funzionari legali, anche i migliori,
-di tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
-non è che siano malvagi (alcuni di loro sono buoni), non che
-siano stupidi (parecchi di loro sono assai intelligenti), è semplicemente
-che vi si sono abituati.
+ad altre cose terribili; può abituarsi persino al sole.
+E l'orribile, in tutti i funzionari della legge, anche i migliori,
+in tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
+non è che siano malvagi (alcuni sono buoni), non è che
+siano stupidi (parecchi sono assai intelligenti): è semplicemente
+che ci hanno fatto l'abitudine.
 
 A rigore essi non vedono il prigioniero al banco; tutto ciò che
 vedono è il solito uomo nel solito posto. Non vedono
@@ -13038,8 +13038,7 @@ con troppa noncuranza."
 
 Mentre alzavo lo sguardo dubbioso il mio occhio incrociò il suo, e vi rimase fisso come il suo era fisso in uno sguardo apocalittico. Lo avevo creduto ordinario quando era entrato, salvo per il suo strano, cauto contegno; ma se le altre persone lo avessero visto allora avrebbero gridato e svuotato la sala. Non lo videro, e continuarono a fare un tramestio con le forchette, e un mormorio con la loro conversazione. Ma il volto dell'uomo era il volto di un maniaco.
 
-«Intendevate qualcosa in particolare con quell'osservazione?» chiese infine,
-e il [[Blood|sangue]] rifluì lentamente nel suo volto.
+«Intendevate qualcosa di particolare con quell'osservazione?» chiese infine, e il [[Blood|sangue]] rifluì lentamente nel suo volto.
 
 «Nulla di nulla,» risposi. «Qui non si intende nulla; rovina la digestione alla gente.»
 
@@ -13062,8 +13061,7 @@ e gli altri organi sono messi altrettanto male."
 
 «Dopo un lungo [[Silence|silenzio]] disse: "Che cosa dici che sia?"
 
-«"È Bumpton Street, naturalmente," ribattei di scatto.  "Porta
-alla Oldgate Station."
+«"È Bumpton Street, naturalmente," sbottai. "Va alla stazione di Oldgate."
 
 «"Sì," ammise gravemente; "va lì a volte. Proprio ora, però, sta andando in cielo."
 
@@ -13073,7 +13071,7 @@ alla Oldgate Station."
 
 «Guardai la lunga strada grigia, e per un istante mi parve esattamente come il lungo collo grigio di un [[Horse|cavallo]] proteso verso il cielo. Ma in un attimo la mia [[Sanity|ragione]] tornò, e dissi: "Ma questa è tutta una sciocchezza. Le strade vanno nel luogo in cui devono andare. Una strada deve sempre andare alla sua fine."
 
-«"Perché lo pensi di una strada?" chiese, stando immobilissimo.
+«"Perché la pensi così di una strada?" chiese, standosene immobilissimo.
 
 «"Perché l'ho sempre vista fare la stessa cosa," risposi, con ragionevole ira. "Giorno dopo giorno, anno dopo anno, è sempre andata alla stazione di Oldgate; giorno dopo..."
 

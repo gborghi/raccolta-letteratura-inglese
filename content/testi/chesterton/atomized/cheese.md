@@ -217,7 +217,7 @@ of her myriad tints of mood, as in the holy act of eating [[cheese]].
 
 [[cheese|Formaggio]]
 
-di G.K. Chesterton
+di G.K. Chesterton  
 
 Pubblicato in ‘Alarms and Discursions' (1910)
 _________________________________________________________________

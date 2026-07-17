@@ -41,7 +41,7 @@ Republicans have had by right
 
 [[rotarians|Rotariani]] - (1927)  
 
-G.K.Chesterton  
+G.K.Chesterton
 
 Il Simbolo  
 Il parlare al Rotary è Lode priva di Prova  
@@ -93,7 +93,7 @@ Republicans have had by right
 
 [[rotarians|Rotariani]] - (1927)  
 
-G.K.Chesterton  
+G.K.Chesterton
 
 Il Simbolo  
 Il parlare al Rotary è Lode priva di Prova  

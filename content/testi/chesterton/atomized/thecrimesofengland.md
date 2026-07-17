@@ -5444,7 +5444,7 @@ Irlanda--Il lavoro sporco--L'impiego di
 
 mercenari tedeschi--L'empia alleanza--Il trionfo
 
-dei mercenari tedeschi.
+dei Mercenari tedeschi.
 
 
 
@@ -5492,7 +5492,7 @@ inglese--Verità esagerate contro
 
 Menzogne esagerate--Sconfitta del Popolo--Trionfo
 
-dei mercenari tedeschi.
+dei Mercenari tedeschi.
 
 
 
@@ -5829,6 +5829,182 @@ persons who know they are not true. It is so with matters of fact about
 
 which you asseverate so positively to us, as if they were matters of
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO X
+
+LA BATTAGLIA DELLA Marna
+
+L'ora del pericolo - Il diluvio umano [[deluge|diluvio]] - Il
+
+L'inglese alla Marna.
+
+I crimini dell'Inghilterra
+
+# Alcune parole al professor Tornado
+
+CARO PROFESSORE TORNADO,
+
+Il tuo nome in tedesco è troppo per me; e questo è il
+
+Il più vicino che posso arrivare ad esso, ma sotto la maestosa immagine del puro
+
+Mi sembra di vedere il [[Wind|vento]] che marcia in un movimento completamente circolare, come in una
+
+Visione, qualcosa della tua mente. Ma l'isolamento maestoso dei tuoi pensieri
+
+Ti spinge ad esprimerli con parole che ti soddisfano
+
+e hanno un effetto poco appariscente o addirittura sfortunato sugli altri. Se
+
+# se la tua campagna morale contro fosse davvero efficace
+
+La nazione inglese: era chiaramente necessario che qualcuno, se non altro...
+
+un inglese dovrebbe mostrarti come smettere di professare [[philosophy|filosofia]]
+
+E iniziai a metterla in pratica. Mi sono quindi venduto ai prussiani
+
+Servizio e in cambio di un abito scartato dell'Imperatore
+
+(uniforme di un guardiamarina inglese), la ricetta per il [[Poison|veleno]] di una casalinga tedesca
+
+# Gas, sigari da due penny e venticinque Croci di Ferro, ho acconsentito
+
+Per istruirvi sui principi di base della controversia internazionale. Di ciò
+
+Parte del mio compito qui non ha molto da dire che non sia già stato detto
+
+# Invito generale ad osservare alcune regole fondamentali. Sono:
+
+# approssimativamente parlando, come segue: --
+
+# Prima di tutto, scegli un'unica scusa. Se sei un commerciante e il tuo socio...
+
+# le relazioni sono superficiali, se per caso ti trovi a giocare con i soldi
+
+Nel suo cassetto potrebbe spiegare che sei interessato
+
+La numismatica e il collezionismo di monete: forse crede che...
+
+Lui. Ma se poi gli dici che lo hai compatito per essere...
+
+# sovraccaricati di ingombranti dischi di rame e stavano per sostituirli
+
+# Con una moneta d'argento tua, questa ulteriore spiegazione, fin qui
+
+# aumentare la sua fiducia nei tuoi motivi, (stranamente)
+
+In realtà la riduce. E se sei così sconsiderato da essere colpito ancora...
+
+Un'altra brillante idea: ditegli che i penny erano tutti falsi
+
+# Penny che nascondevi per salvarlo da un'accusa della polizia
+
+Per la coniazione, il commerciante potrebbe anche essere così capriccioso da istituire...
+
+# L'accusa della polizia stessa. Ora, questo non è affatto un'esagerazione
+
+per il modo in cui avete tolto la [[Bottom|base]] a qualsiasi argomentazione possiate
+
+# mai potuto avere in questioni come l'affondamento del
+
+# _Lusitania_. Con i miei occhi ho visto le seguenti spiegazioni:
+
+apparentemente provenienti dalla tua penna, (i) che la [[Ship|nave]] era una nave da truppa-[[Ship|nave]]
+
+Trasporto di soldati dal Canada; (ii) se non lo era, allora era...
+
+nave mercantile [[Ship|nave]] che trasportava illegalmente munizioni per i soldati in Francia;
+
+(iii) che, poiché i passeggeri sulla [[Ship|nave]] erano stati avvertiti in un
+
+pubblicità, la [[Germany|Germania]] aveva giustificato di mandarli sulla [[Moon|luna]]; (iv)
+
+che c'erano dei cannoni e la [[Ship|nave]] dovette essere silurata perché
+
+Il capitano inglese stava per farli partire a cannonate; (v) che gli inglesi o
+
+Autorità americane che scagliano il Lusitania sulle teste dei...
+
+I comandanti tedeschi li sottoposero a un'insopportabile [[Temptation|tentazione]]; che
+
+È stato in qualche modo dimostrato o intensificato dal fatto che il
+
+La [[Ship|nave]] arrivò secondo l'orario previsto, in quanto esisteva un qualche principio misterioso per cui
+
+che prendere il tè all'ora del [[Time|tè]] giustifica l'avvelenamento del tè; (vi) che il
+
+La [[Ship|nave]] non fu affondata dai tedeschi ma dagli inglesi, dagli inglesi.
+
+Il capitano che ha deliberatamente cercato di annegare se stesso e circa mille persone
+
+I suoi connazionali per provocare uno scambio di rigide note tra
+
+# Mr. Wilson e il Kaiser. Se questa interessante storia fosse vera, non potrei che...
+
+# dire che tale dedizione frenetica e suicida agli interessi più remoti
+
+Il paese del capitano quasi gli merita il perdono per il crimine. Ma voi...
+
+# Non vede, mio caro professore, che la stessa ricchezza e varietà della sua
+
+il genio inventivo getta un [[Doubt|dubbio]] su ogni spiegazione quando considerata in
+
+# Noi che ti leggiamo in Inghilterra raggiungiamo una condizione mentale in cui...
+
+Non importa più molto quale spiegazione offri, o se lo fai
+
+Siamo pronti ad ascoltare che avete affondato il Lusitania
+
+Perché i figli marini d'Inghilterra vivrebbero più felici in acque profonde
+
+pesci, o che ogni persona a bordo stesse tornando [[Home|a casa]] per essere impiccata. Tu
+
+Avete spiegato voi stessi così completamente, in questo modo chiaro, ai...
+
+Gli italiani hanno dichiarato guerra a voi, e se continuate a spiegare
+
+# Spiegatevi così chiaramente agli americani che potrebbero davvero farlo
+
+stesso.
+
+In secondo luogo, quando si raccontano bugie che sembrano necessarie per il tuo
+
+# Stato internazionale: non mentire a chi lo conosce
+
+[[Truth|verità]]. Non dite agli Eschimesi che la [[Snow|neve]] è verde brillante; né dite ai
+
+negri in Africa che il sole non splende mai su quel Continente Oscuro.
+
+È meglio dire agli eschimesi che il sole non splende mai in Africa; e poi,
+
+rivolgendosi agli africani dei tropici, si veda se crederanno che la [[Snow|neve]] sia
+
+Verde. Allo stesso modo, il percorso indicato per te è quello di calunniare...
+
+I russi agli inglesi e gli inglesi ai russi; e ci sono
+
+# centinaia di vecchie e affidabili calunnie ancora utilizzabili contro
+
+Entrambi. Probabilmente ci sono ancora russi che credono che ogni
+
+Un gentiluomo inglese mette una corda al collo di sua moglie e la vende
+
+Smithfield: ci sono ancora inglesi che credono che ogni...
+
+Un gentiluomo russo prende una corda e frusta la schiena di sua moglie
+
+# Ma queste storie, pittoresche e utili come sono, hanno un limite
+
+Al loro uso come tutto il resto; e il limite consiste nel fatto
+
+che non sono _vere_, e che esiste necessariamente un gruppo di
+
+Persone che sanno di non essere vere. È così con le questioni di fatto su...
+
+che voi ci assicurate così positivamente, come se fossero questioni di
 
 
 
@@ -9452,6 +9628,176 @@ encouraged all that was worst in the English conservatism and
 inequality, while discouraging all that was best in it. It is true that
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Per guadagno mondano, o che Castlereagh cercasse altro. Anche
+
+Le somiglianze casuali tra le due parti servirono solo ad accentuare
+
+Il contrasto e la completa superiorità dei nazionalisti.
+
+Castlereagh e Lord Edward Fitzgerald erano entrambi aristocratici, ma...
+
+Castlereagh era il gentiluomo corrotto alla [[Court|Corte]], Fitzgerald il
+
+un gentiluomo generoso sulla terra; una parte del cui [[Blood|sangue]], insieme
+
+Con una parte del suo spirito, scese in quel grande gentiluomo
+
+Chi - in mezzo all'immoralismo nauseabondo della nostra politica moderna - ha dato
+
+Ridare quella terra ai contadini irlandesi. E così via, tutti questi...
+
+Aristocratici del diciottesimo secolo (come quasi ovunque) si erano fermati
+
+A parte il misticismo popolare e i santuari dei poveri, c'erano
+
+Teoricamente protestanti, ma praticamente pagani. Ma Tone era il tipo
+
+Del pagano che rifiuta di perseguitare, come Gallo: Pitt era il tipo di
+
+# Pagano che acconsente alla persecuzione; il suo posto è con Ponzio Pilato. Era un...
+
+Indifferentista intollerante; pronto ad emancipare i papisti, ma più...
+
+Pronti per massacrarli. Così ancora una volta i due pagani, Tone e...
+
+Castlereagh trovò una fine pagana nel [[suicide|suicidio]]. Ma le circostanze erano
+
+# tale che qualsiasi uomo, di qualsiasi partito, sentisse che Tone era morto come Catone e
+
+Castlereagh era morto come Giuda.
+
+La marcia della politica di Pitt continuò; e l'abisso tra la luce e...
+
+L'oscurità si addensò. L'ordine fu ripristinato; e ovunque l'ordine si diffuse, là...
+
+Diffondere un'anarchia più terribile di quanto il sole abbia mai visto. Tortura
+
+uscì dalle cripte dell'[[Inquisition|Inquisizione]] e camminò alla luce del sole di
+
+Le strade e i campi. Un parroco di villaggio fu ucciso in modo incredibile
+
+strisce e il suo cadavere fu dato alle [[Fire|flamme]] con terribili scherzi su un arrosto
+
+sacerdote. Lo stupro divenne un mezzo di [[government|governo]]. La violazione delle vergini
+
+Divenne un ordine permanente di polizia. Immobile con lo stesso terribile...
+
+simbolismo, l'opera del [[government|Governo]] inglese e dei coloni inglesi
+
+# sembrava risolversi in atrocità animali contro le mogli e
+
+Figlie di una razza nota per la sua rara e distaccata purezza
+
+una religione che fa dell'[[innocence|innocenza]] la Madre di Dio. Nel suo corpo
+
+Aspetti che divennero come una guerra di demoni contro gli angeli; quasi come se l'Inghilterra potesse...
+
+Non produce altro che carnefici e l'Irlanda altro che martiri. Tali
+
+era parte del prezzo pagato dallo [[Body|corpo]] irlandese e dall'[[Soul|anima]] inglese, per
+
+il privilegio di medicare un prussiano dopo il colpo di sciabola di Iena.
+
+Ma la [[Germany|Germania]] non era semplicemente presente nello spirito: la [[Germany|Germania]] era presente in
+
+la carne. Senza alcun [[Desire|desiderio]] di sminuire le imprese degli inglesi
+
+o degli Orangemen, posso dire con certezza che i tocchi più raffinati furono aggiunti da
+
+Soldati formati secondo una tradizione ereditata dagli orrori dei Trenta
+
+La guerra degli anni e le «crudeli guerre di Altezza» della vecchia ballata
+
+La Germania. Un irlandese che conosco, il cui fratello è un soldato, e che ha...
+
+Parenti in molte posizioni di rilievo nell'esercito britannico mi dissero che
+
+nell'[[Childhood|infanzia]] la leggenda (o meglio, la [[Truth|verità]]) del '98 era così
+
+# così vivo che sua madre non avrebbe usato la parola "soldato"
+
+parlato nella sua [[house|casa]]. Ovunque troviamo viva la tradizione, troviamo
+
+Il soldato odioso è soprattutto il soldato tedesco. Quando il
+
+Gli irlandesi dicono che il mercenario tedesco era peggio
+
+Più degli Orangisti, dicono tutto ciò che una bocca umana può dire. Oltre a
+
+Non c'è altro che la maledizione di Dio, che verrà pronunciata
+
+una lingua sconosciuta.
+
+L'uso di soldati tedeschi e interi reggimenti tedeschi
+
+Nella composizione dell'esercito britannico, arrivarono con i nostri principi tedeschi e...
+
+Riapparso in molte occasioni importanti nel nostro diciottesimo secolo
+
+[[history|storia]]. Erano probabilmente tra coloro che accamparono trionfalmente su
+
+La brughiera di Drumossie e anche (pensiero più confortante) tra...
+
+Quelli che scapparono velocemente da Prestonpans. Quando proprio
+
+# Tipico tedesco, Giorgio III, ristretto, serio, di una cultura limitata e
+
+# volgare nella sua stessa vita domestica, litigava con tutto ciò che era vivace
+
+non solo nella [[democracy|democrazia]] della [[america|America]], ma anche nell'aristocrazia dell'Inghilterra,
+
+Le truppe tedesche erano molto adatte per essere i suoi ambasciatori oltre il...
+
+Atlantico. Con le loro formazioni ben addestrate seguirono Burgoyne in
+
+Quella marcia nel bosco che fallì a Saratoga e i loro volti di legno
+
+# Hanno assistito al nostro declino. La loro presenza aveva già da tempo avuto il suo effetto in vari modi.
+
+Modi. Curiosamente, il loro stesso militarismo ha aiutato l'Inghilterra in un certo senso
+
+Essere meno militari e soprattutto più mercantili. Iniziò a...
+
+# Si può sentire, ovviamente in modo vago e mai consapevolmente, che combattere è...
+
+La cosa che gli stranieri dovevano fare. Aumentava vagamente il prestigio di...
+
+I tedeschi come popolo militare, a svantaggio dei francesi
+
+chi era nell'interesse della nostra [[Vanity|vanità]] sminuire. La semplice miscela di
+
+# I loro uniformi con i nostri creavano uno sfondo di spettacolo in cui
+
+Sembrava sempre più naturale che i potenti inglesi e tedeschi dovessero...
+
+Ci salutiamo come cugini e, in un certo senso, viviamo l'uno nella vita dell'altro
+
+# Paesi. Così nel 1908 l'imperatore tedesco era già considerato come...
+
+Qualcosa di minaccioso da parte dei politici inglesi e nient'altro che un...
+
+# pazzo agli occhi del popolo inglese, eppure non sembrava affatto disgustoso
+
+o pericoloso che Edoardo VII appaia occasionalmente in abiti prussiani
+
+# Uniforme. Edoardo VII era lui stesso un amico della Francia e lavorò per la...
+
+L'alleanza francese. Eppure apparve nei pantaloni rossi di un francese
+
+Un soldato avrebbe fatto ridere molte persone, come se fosse stato...
+
+vestito da cinese.
+
+Ma i mercenari o alleati tedeschi avevano un altro carattere che (a quel
+
+La stessa serie di coincidenze negative che stiamo analizzando in questo libro
+
+# incoraggiò tutto ciò che c'era di peggio nel conservatorismo inglese e
+
+# Disuguaglianza, scoraggiando tutto ciò che c'era di meglio in essa. È vero che
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_13" data-title="TheCrimesOfEngland — Chapter 10 (part 13)" data-chapter="Chapter 10" data-kind="excerpt"></span>
@@ -9625,6 +9971,176 @@ trained with the tomahawk and half the best journalism of the capital
 
 written in picture-writing, if later, by general consent, the Chief
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'inglese ideale era troppo un gentiluomo di campagna; ma è giusto aggiungere
+
+# che il gentiluomo ideale fosse un buon gentiluomo. Il miglior gentiluomo che conosco è
+
+Il personaggio di finzione è il Duca [[Theseus|Teseo]] ne "Il sogno di una notte di mezza estate", che si dimostra gentile con
+
+il suo popolo e orgoglioso dei suoi [[dogs|cani]]; sarebbe un essere umano perfetto se
+
+Non era solo un po' incline ad essere gentile con entrambi
+
+allo stesso modo. Ma una simile naturale e persino pagana buona [[Nature|indole]] è in armonia con
+
+Le calde foreste umide e le nuvole confortevoli del sud dell'Inghilterra; non l'hanno mai avuto
+
+Qualsiasi posto tra i duri e parsimoniosi proprietari terrieri nelle pianure dell'Est
+
+La Prussia, la terra del vento orientale [[Wind|vento]]. Erano petulanti oltre che orgogliosi [[Well|oltre]].
+
+e tutto ciò che crearono, ma soprattutto il loro esercito, fu fatto
+
+Coerente per pura brutalità. La disciplina era abbastanza crudele in tutti i...
+
+eserciti del diciottesimo secolo, creati molto tempo dopo il [[Decay|declino]] di ogni [[Faith|fede]] o
+
+speranza che potesse tenere uniti gli uomini. Ma lo stato che fu il primo a
+
+La [[Germany|Germania]] fu la prima nella ferocia. Federico il Grande dovette vietare ai suoi
+
+Gli ammiratori inglesi che seguono i suoi reggimenti durante la campagna, per timore che...
+
+Scoprirete che il più illuminato dei re aveva solo escluso
+
+La tortura: imposta dalla legge e inflitta senza di essa. Questa influenza, come abbiamo...
+
+ha lasciato sull'Irlanda un'impronta terribile che non verrà mai cancellata.
+
+Il dominio inglese in Irlanda era già stato brutto prima, ma alla luce che si allarga
+
+del secolo rivoluzionario io [[Doubt|dubito]] che avrebbe potuto continuare come
+
+Male, se non avessimo preso una parte che ci costringeva ad adulare i barbari
+
+tirannia in Europa. Non avremmo quasi visto un tale [[nightmare|incubo]] come il
+
+L'anglicizzazione dell'Irlanda se non avessimo già visto la germanizzazione della...
+
+L'Inghilterra. Ma anche qui non mancarono gli effetti, e uno di questi fu...
+
+# i suoi effetti furono di risvegliare un uomo che è forse il migliore testimone inglese
+
+sull'effetto che l'alleanza con la [[Germany|Germania]] ebbe sull'Inghilterra di quel [[Time|periodo]].
+
+Mi occuperò di quell'uomo nel capitolo che segue.
+
+# L'Inghilterra perduta
+
+Dire la [[Truth|verità]] sull'Irlanda non è molto piacevole per un patriota
+
+inglese; ma è molto patriottica. È la [[Truth|verità]] e nient'altro che
+
+la [[Truth|verità]] che ho solo accennato nell'ultimo capitolo. Diversi
+
+# Tempi, e specialmente all'inizio di questa guerra, siamo sfuggiti per un pelo
+
+rovinati perché abbiamo trascurato quella [[Truth|verità]] e avremmo voluto continuare a trattarla come fosse nostra.
+
+I crimini del 1898 e successivi come molto lontani; mentre nel sentimento irlandese,
+
+# infatti sono molto vicini. Il pentimento di questo tipo remoto non è
+
+# Tutto ciò che è appropriato al caso non va bene. Potrebbe essere una buona cosa...
+
+Dimenticare e perdonare; ma dimenticare è un trucco troppo facile
+
+perdonato.
+
+La [[Truth|verità]] sull'Irlanda è semplicemente questa: che le relazioni tra
+
+Inghilterra e Irlanda sono come due viaggiatori che devono percorrere la stessa strada
+
+Insieme, uno dei quali ha cercato di pugnalare l'altro all'ultima fermata
+
+o di [[Poison|avvelenare]] l'altro all'ultima locanda. La conversazione può essere cortese,
+
+Ma sarà occasionalmente forzato. Il tema del tentativo di omicidio, il suo
+
+esempi nella [[history|storia]] e nella narrativa possono essere evitati con tatto
+
+Scorrerie; ma sarà occasionalmente presente nei pensieri. Silenzi,
+
+non privi di tensione, cadranno di [[Time|tempo]] in [[Time|tempo]]. Quelli parzialmente
+
+La vittima di un omicidio potrebbe anche pensare che l'aggressione non si ripeterà; ma è...
+
+Forse si chiede troppo aspettarsi che gli risulti impossibile
+
+Immagina. E anche se, come Dio vuole, il partner predominante è davvero
+
+Scusa per il suo precedente comportamento arrogante e lo dimostra in qualche modo
+
+Maniera inconfondibile - come salvare qualcuno da ladri con grande...
+
+Rischio personale: la vittima potrebbe ancora non riuscire a reprimere un'astrazione
+
+il [[Wonder|meravigliamento]] psicologico su quando il suo compagno avesse iniziato a sentirsi come
+
+Ora questo non è affatto un'esagerata [[Parable|parabola]] della
+
+La posizione dell'Inghilterra verso l'Irlanda non solo nel 1798 ma anche molto prima
+
+Il tradimento che infranse il Trattato di Limerick e molto oltre
+
+La grande carestia e dopo: il comportamento degli inglesi verso gli irlandesi
+
+Dopo la ribellione fu semplicemente il comportamento di un uomo che intrappola
+
+e lega un altro, e poi lo taglia con calma con un coltello. Il
+
+Comportamento durante la carestia era semplicemente quello del primo uomo
+
+Se intrattenne i momenti successivi del secondo uomo, osservando in un...
+
+con un tono amichevole sulle speranze molto rosee di morire dissanguato alla [[Death|morte]]. Il
+
+Il Primo Ministro britannico rifiutò pubblicamente di fermare la carestia con l'uso della forza
+
+Navi inglesi. Il Primo Ministro britannico ha diffuso positivamente la carestia.
+
+facendo pagare alle popolazioni mezzo affamate dell'Irlanda per gli affamati
+
+# Il verdetto comune di una giuria d'inchiesta su qualche povero disgraziato emaciato
+
+"Omaggio volontario da parte di Lord John Russell": e quella sentenza non era solo...
+
+il verdetto dell'opinione pubblica irlandese, ma è il verdetto della [[history|storia]]. Ma
+
+C'erano persone influenti in Inghilterra che non erano
+
+# Contento di approvare pubblicamente l'atto, ma proclamato pubblicamente il
+
+# Motivo: il Times, che allora aveva un'autorità nazionale e...
+
+La rispettabilità che dava alle sue parole un peso sconosciuto ai tempi moderni
+
+il giornalismo esultava apertamente alla prospettiva di una [[Golden Age|età dell'oro]] quando il genere
+
+Un irlandese nativo d'Irlanda sarebbe «altrettanto raro sulle rive del
+
+Il Liffey come un uomo rosso sulle rive della [[Manhattan]]." Sembra
+
+abbastanza folle da dire una cosa del genere
+
+# Europeo di un altro, o anche di un indiano d'America, se gli indiani d'America fossero...
+
+# occupato un posto simile a quello degli irlandesi allora e da allora; se c'era
+
+ci fosse un Signore Giudice Capo indiano d'America e un indiano d'America [[Lord Chief Justice|Signore Giudice Capo]]
+
+Comandante in capo, se il partito degli indiani d'America al congresso contiene
+
+Oratori di prim'ordine e romanzieri alla moda avrebbero potuto trasformare
+
+Presidenti che vanno e vengono; se metà delle migliori truppe del paese fossero...
+
+Addestrato con il tomahawk e metà del miglior giornalismo della capitale
+
+Scritto con pittogrammi, se più tardi, per comune accordo, dal Capo
 
 
 
@@ -11511,6 +12027,180 @@ the decoration of his [[house]], the same aesthetic humourist had undertaken
 
 to procure some Indian Red and had produced a Red Indian.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si sentono protetti da un tetto come dalle ali ripiegate di qualcosa di immenso
+
+Uccelli domestici e porte comuni che si aprono come grandi bocche
+
+Benvenuto assoluto. Nella storia del «Pino» lo ha trapiantato a...
+
+L'Inghilterra è un cespuglio vivente che può ancora fiorire di candele. E in lui
+
+La storia del "Soldatino di stagno": la vera difesa del romantico
+
+Militarismo contro i puritani che lo vorrebbero vietare anche come giocattolo per i...
+
+# La nursery e la tradizione dei racconti popolari
+
+La dignità del combattente non sta nella sua grandezza, ma piuttosto...
+
+Piccolezza, nella sua rigida lealtà e impotenza eroica nelle mani di
+
+cose più grandi e più basse. Purtroppo queste cose erano un'[[Allegory|allegoria]]. Quando
+
+La Prussia, trovando i suoi crimini impuniti, li portò poi in...
+
+La Francia così come la [[Denmark|Danimarca]], Carlyle e la sua scuola fecero qualche sforzo per
+
+Giustificare il loro germanesimo opponendo ciò che chiamavano la devozione e...
+
+la semplicità della [[Germany|Germania]] contro quello che chiamavano cinismo e licenziosità
+
+della Francia. Ma nessuno potrebbe sostenere che Bismarck fosse più
+
+# Più pio e semplice di Hans Christian Andersen; eppure i carlisti osservavano con...
+
+Il [[Silence|silenzio]] o l'approvazione mentre il regno giocattolo [[Innocent|innocente]] veniva distrutto come un
+
+Giocattolo. Anche qui è estremamente probabile che l'Inghilterra avrebbe...
+
+Colpiti sul lato giusto, se gli inglesi fossero stati veramente inglesi
+
+[[government|Governo]]. Tra le altre coincidenze, la principessa danese che aveva
+
+# sposò l'erede inglese era qualcosa di molto simile a una principessa delle fate per la
+
+Folla inglese. Il poeta nazionale l'aveva salutata come figlia della...
+
+Re dei mari; e lei era, ed è ancora oggi, la regina più popolare
+
+Figure in Inghilterra. Ma qualunque cosa il nostro popolo possa essere stato, il nostro...
+
+i politici erano al livello più moderato di timidità e la [[Fear|paura]] di
+
+La forza alla quale sono mai arrivati. Il soldatino di stagno dell'esercito danese
+
+e la barca di carta della marina danese, come nella storia, furono spazzate via
+
+Giù per il grande canale, giù per quella colossale cloaca che conduce alla
+
+enorme fogna di Berlino.
+
+Perché l'Inghilterra non intervenne? Ci furono molte ragioni
+
+Ragioni date, ma penso che fossero tutte deduzioni da una sola
+
+Ragione: risultati indiretti e talvolta del tutto illogici di ciò che
+
+Abbiamo chiamato la germanizzazione dell'Inghilterra. In primo luogo, l'isolamento stesso
+
+Su cui insistevamo fosse barbarico, nel rifiuto di un posto nella
+
+Senato centrale delle nazioni: la nostra cosiddetta splendida isolazione
+
+Divenne una piuttosto ignominiosa alleanza dormiente con la Prussia. Poi, noi
+
+Siamo stati ampiamente educati all'irresponsabilità dai nostri storici contemporanei
+
+# Freeman e Green ci insegnano ad essere orgogliosi di una possibile discendenza da
+
+I nemici senza nome di [[King Arthur|Re Artù]] e non da [[King Arthur|Re Artù]]. [[King Arthur|Re Artù]]
+
+# Potrebbe non essere storico, ma almeno era leggendario. Hengist e...
+
+# Horsa non erano neanche leggendari, perché non lasciarono alcuna leggenda. Chiunque potesse...
+
+vedere cosa era obbligatorio per il rappresentante di [[Arthur|Artù]]; egli era tenuto a
+
+Sii cavalleresco, cioè europeo. Ma nessuno poteva immaginare cosa fosse.
+
+Era obbligatorio per il rappresentante di Horsa, a meno che non dovesse essere
+
+# cavallino. Forse quella era l'unica parte del programma anglosassone che
+
+L'inglese contemporaneo ha davvero portato a termine. Poi, nel senso più vero
+
+Declino da Cobbett a Cobden (cioè dal largo al ristretto)
+
+# virilità e buon senso) era nato il culto di un curioso...
+
+Un tipo di pace da diffondere in tutto il mondo non dai pellegrini, ma dai...
+
+# venditori ambulanti. I mistici fin dall'inizio avevano fatto voto di pace...
+
+aggiunti a essi i voti di [[Poverty|povertà]]. I voti di [[Poverty|povertà]] non erano nei
+
+La linea di Cobdenite. Poi, ancora, c'era l'elogio positivo della Prussia.
+
+al quale caso sempre più grave i carlisti erano già impegnati.
+
+Ma oltre questi c'era qualcos'altro, uno spirito che aveva di più
+
+ci ha contagiati tutti quanti. Quello spirito era lo spirito di [[Hamlet|Amleto]]. Abbiamo dato
+
+Il grande nome di "evoluzione" per un'idea che le cose si fanno da sole. Il nostro
+
+la ricchezza, il nostro isolamento, la nostra graduale perdita di [[Faith|fede]] ci avevano talmente storditi che
+
+la vecchia Inghilterra cristiana ci perseguitava come un [[Ghost|fantasma]] in cui non potevamo
+
+crederci del tutto. Un [[aristocrat|aristocratico]] come Palmerston, amante della [[Freedom|libertà]] e che odia
+
+Il dispotismo emergente, deve aver osservato la sua fredda brutalità non
+
+senza quella brutta domanda che si fece [[Hamlet|Amleto]]: sono un codardo?
+
+Non può essere
+
+Ma sono codardo e manco di coraggio
+
+Per rendere l'oppressione amara; o prima di allora
+
+Avrei dovuto ingrassare tutti i rapaci della zona
+
+Con queste interiora di schiavo.
+
+Abbiamo reso muti il nostro sdegno e la nostra [[Honour|onore]]; ma ciò non ci ha portato pace.
+
+# VII - La mezzanotte dell'Europa
+
+Tra i crimini minori dell'Inghilterra si può annoverare la critica superficiale
+
+# e l'abbandono facile di Napoleone III. Gli inglesi vittoriani avevano un atteggiamento molto
+
+cattiva abitudine di lasciarsi influenzare dalle parole e nello stesso [[Time|tempo]] fingere
+
+per disprezzarli. Costruirebbero tutta la loro filosofia storica sulla
+
+Due o tre titoli e poi rifiutarsi di fare bene anche solo i titoli.
+
+# solido inglese vittoriano con i suoi baffi e il suo Parlamento
+
+# Voto: era del tutto soddisfatto di dire che Luigi Napoleone e Guglielmo di...
+
+La Prussia divenne imperiale, intendendo per questo autocratica. I suoi baffi
+
+Sarebbe scoppiato di rabbia e vi avrebbe aggredito per
+
+# Sottigliezze e gergo, se aveste risposto che Guglielmo era tedesco
+
+Imperatore: Napoleone non era imperatore francese, ma solo imperatore di...
+
+# Francese: perché mai l'ordine delle parole dovrebbe contare? Eppure lo stesso...
+
+Un vittoriano sarebbe stato ancora più indignato se gli fosse stato chiesto di
+
+Soddisfarsi di un Maestro d'Arte quando si cercava un Maestro di...
+
+Le arti. La sua irritazione sarebbe aumentata se il maestro d'arte avesse promesso
+
+Un dipinto marino e un pezzo di mare; o se, durante...
+
+la decorazione della sua [[house|casa]], lo stesso umorista estetico si era impegnato
+
+per procurarsi un po' di rosso indiano e aveva prodotto un pellerossa.
 
 
 
@@ -14442,7 +15132,7 @@ del nauseante terrore del [[Time|tempo]]. Poiché era un giorno del giudizio in
 
 cui sul trono nei cieli e al di sopra dei cherubini, sedeva non Dio, ma
 
-un altro.
+altrove.
 
 I britannici erano stati postati all'estremità occidentale estrema dello schieramento alleato
 

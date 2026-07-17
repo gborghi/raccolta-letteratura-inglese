@@ -8028,7 +8028,7 @@ dal suo consueto modo mite di parlare.
 «Mi accingo a sostenere» disse, «proprio ciò che lei diceva essere così
 ridicolo e impossibile.»
 
-«Che intendete dire?»
+«Cosa volete dire?»
 
 «Fonderò la difesa» disse [[Father Brown]], «sul fatto che
 il pubblico accusatore ha la testa calva.»
@@ -12405,7 +12405,7 @@ Il prete, che parlava così con leggerezza per calmare i nervi dell'altro
 uomo, concluse dicendo, in tono più serio: «Capisco benissimo
 quanto debba avervi sconvolto. Purtroppo, ha anche sconvolto qualcos'altro.»
 
-«Che intendete dire?»
+«Cosa volete dire?»
 
 «Ha sconvolto tutta la nostra teoria così completa,» replicò l'altro;
 e cominciò a scendere arrampicandosi giù per la riva sulla piccola striscia di sabbia presso il
@@ -17180,4 +17180,4 @@ potreste concepire un uomo tanto simile a un Giuda?»
 
 «Potrei provarci», disse [[Father Brown|Padre Brown]].
 
-FINE
+LA FINE

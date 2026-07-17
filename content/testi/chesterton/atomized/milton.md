@@ -1935,4 +1935,4 @@ non sappiamo che cosa davvero vide con i suoi occhi senza vista.
 
 Sappiamo soltanto che lo mutò in pietra.
 
-FINE
+LA FINE

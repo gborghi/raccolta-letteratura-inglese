@@ -8244,7 +8244,7 @@ in qualcosa che somigliava al sospetto.
 «Difficilmente la chiamerei una sezione» disse Syme, ridendo; «la chiamerei
 tutt'al più una radice.»
 
-«Che intendete dire?»
+«Cosa volete dire?»
 
 «Il fatto è» disse Syme serenamente, «la [[Truth|verità]] è che sono un sabbatario.  Sono
 stato mandato qui appositamente per verificare che voi diate la debita osservanza alla [[Sunday|Domenica]].»
@@ -19381,7 +19381,7 @@ fuori da un [[Garden|giardino]] recintato.  Là vide la sorella di Gregory,
 la ragazza dai capelli d'oro rosso, che recideva lillà prima di colazione,
 con la grande, inconsapevole gravità di una ragazza.
 
-FINE
+LA FINE
 
 UN RACCONTO SFRENATO, FOLLE, ESILARANTE E PROFONDAMENTE COMMOVENTE
 

@@ -460,7 +460,25 @@ tutte le sillabe gli escono diverse, allora, se si è uomini, si sente
 l'inclinazione a ridere, sebbene, se si è gentiluomini, si resista
 all'inclinazione.
 
-Il signor Max Beerbohm, lo ricordo, dichiarava di comprendere le prime due forme dello spirito popolare, ma diceva che la terza lo lasciava del tutto perplesso. Non riusciva a capire perché ci dovesse essere alcunché di buffo nel [[cheese|formaggio]] andato a male. Posso spiegarglielo all'istante. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre egli cercava qualcosa d'ignorante e sciocco. Il [[cheese|formaggio]] andato a male è buffo perché è (come lo straniero o l'uomo caduto sul selciato) il tipo del passaggio o della trasgressione attraverso un grande confine mistico. Il [[cheese|formaggio]] andato a male simboleggia il mutamento dall'inorganico all'organico. Il [[cheese|formaggio]] andato a male simboleggia lo strabiliante prodigio della materia che assume vitalità. Simboleggia l'origine stessa della vita. Ed è soltanto su faccende solenni come l'origine della vita che la [[democracy|democrazia]] si degna di scherzare. Così, per esempio, la [[democracy|democrazia]] scherza sul [[Marriage|matrimonio]], perché il [[Marriage|matrimonio]] è una parte del genere umano. Ma la [[democracy|democrazia]] non si degnerebbe mai di scherzare sul Libero [[Love|Amore]], perché il Libero [[Love|Amore]] è un pezzo di saccenteria.
+Il signor Max Beerbohm, ricordo, professava di comprendere le prime due
+forme dell'arguzia popolare, ma diceva che la terza lo lasciava del
+tutto perplesso. Non riusciva a capire perché ci dovesse essere
+qualcosa di comico nel [[cheese|formaggio]] andato a male. Posso dirglielo
+subito. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre
+lui cercava qualcosa di ignorante e sciocco. Il [[cheese|formaggio]]
+andato a male è comico perché è (come lo straniero o l'uomo caduto sul
+selciato) il tipo del passaggio o della trasgressione al di là di un
+grande confine mistico. Il [[cheese|formaggio]] andato a male simboleggia
+il mutamento dall'inorganico all'organico. Il [[cheese|formaggio]] andato
+a male simboleggia lo sbalorditivo prodigio della materia che assume
+vitalità. Simboleggia l'origine stessa della vita. Ed è solo di
+questioni così solenni come l'origine della vita che la
+[[democracy|democrazia]] si degna di scherzare. Così, per esempio, la
+[[democracy|democrazia]] scherza sul [[Marriage|matrimonio]], perché il
+[[Marriage|matrimonio]] è parte del genere umano. Ma la
+[[democracy|democrazia]] non si degnerebbe mai di scherzare sul Libero
+[[Love|Amore]], perché il Libero [[Love|Amore]] è un pezzo di
+pedanteria saccente.
 
 In effetti, si troverà generalmente che la barzelletta popolare non è
 vera alla lettera, ma è vera nello spirito. La barzelletta volgare è di

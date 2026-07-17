@@ -16387,4 +16387,4 @@ Assai per tempo mi formai l'impressione che questa nera macchia fosse piuttosto 
 
 «Sì,» disse il dottore, sistemandosi comodamente all'indietro contro i cuscini. «Se si tratta di una piccola e intima compagnia in un [[Journey|viaggio]] ferroviario, preferirei il cadavere.»
 
-FINE
+LA FINE

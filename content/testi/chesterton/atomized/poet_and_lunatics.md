@@ -17685,7 +17685,7 @@ stati intrappolati dentro un manicomio.»
 rispose lui con fermezza. «E in tali circostanze, non mi dispiace
 dirvi che, con mio rammarico, non è un manicomio.»
 
-«Che intendete dire?»
+«Cosa volete dire?»
 
 «È qualcosa di peggio», rispose Gale.
 
@@ -17907,4 +17907,4 @@ appena detto?  Mi metto di nuovo a testa in giù."
 I bambini nell'angolo del piccolo [[Garden|giardino]] fissarono con interesse
 un signore in stretto abito da lutto che si comportava in modo alquanto insolito.
 
-FINE
+LA FINE

@@ -5890,6 +5890,224 @@ that purpose, if words and acts have any meaning at all, is the destruction
 of liberty throughout the world.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+con l'Inghilterra, con l'Austria, con la [[Russia]]. Può qualcuno dire sinceramente che esse
+
+# hanno lasciato in una di queste persone il più pallido segno di progresso o
+
+Liberazione? La Prussia era nemica della monarchia francese, ma c'era di peggio
+
+nemico della [[French Revolution|Rivoluzione Francese]]. La Prussia era stata nemica dello Zar, ma
+
+Era una nemica peggiore della Duma. La Prussia ignorava completamente l'Austria
+
+# Diritti; ma oggi è pronta ad infliggere torti austriaci. Questo è
+
+la forte differenza particolare tra un impero e l'altro.
+
+La [[Russia|Rusia]] sta perseguendo certi fini comprensibili e sinceri che per lei sono
+
+# Ideali minimi per i quali è disposta a sacrificarsi
+
+Proteggerà i deboli. Ma il soldato del nord della Germania è una specie di astratto
+
+[[Tyrant|tiranno]], ovunque e sempre dalla parte della tirannia materialistica. Questo
+
+Il Teutone in divisa è stato trovato in luoghi strani, sparando ai contadini prima di...
+
+# Saratoga e la frustazione dei soldati nel Surrey, l'impiccagione di negri in Africa e
+
+Violando ragazze nel Wicklow; ma mai, per una misteriosa fatalità, prestando un...
+
+mano alla liberazione di una sola [[City|città]] o all'indipendenza di un solo
+
+[[Flag|bandiera]]. Ovunque ci siano disprezzo e oppressione prospera, lì c'è il prussiano;
+
+Inconsapevolmente coerente, istintivamente restrittivo, innocente malvagio;
+
+«seguendo l'oscurità come [[A Dream|un sogno]].»
+
+Supponiamo di sentire parlare di una persona (dotata di una certa longevità) che avesse aiutato
+
+# Alva perseguita i protestanti olandesi, poi aiuta Cromwell a farlo
+
+Cattolici irlandesi e poi aiutò Claverhouse a perseguitare i puritani scozzesi
+
+Dovremmo trovare più facile chiamarlo un persecutore che...
+
+Protestante o cattolico? È proprio questa la situazione, curiosamente.
+
+La posizione della Prussia in Europa. Nessun argomento può cambiare il fatto che in...
+
+Tre casi conclusivi e convergenti in cui è stato dalla parte di tre
+
+# Sovrani distinti di religioni diverse che non avevano nulla in comune
+
+# tranne che governassero in modo oppressivo. In questi tre Governi,
+
+Considerati separatamente, si può vedere qualcosa di scusabile o almeno umano. Quando
+
+L'imperatore incoraggiò i governanti russi a soffocare la rivoluzione,
+
+I governanti russi credevano senza dubbio di lottare contro un inferno di
+
+Ateismo e anarchia
+
+Su di me quando parlai di Stolypin e dissi che era principalmente conosciuto per il
+
+# La corda chiamata "La cravatta di Stolypin". In realtà, c'erano molte altre cose...
+
+# Curiosità su Stolypin oltre alla sua cravatta: la sua politica contadina
+
+proprietà, il suo straordinario coraggio personale [[Courage|coraggio]] e certamente niente di più
+
+più interessante di quel movimento nella sua agonia di [[Death|morte]], quando fece il segno della
+
+la [[Cross|croce]] verso lo zar, come la [[Crown|corona]] e il capitano della sua [[Christianity|Cristianità]].
+
+Ma il Kaiser non considera lo Zar come il capitano della [[Christianity|cristianità]]. Lontano
+
+# Ciò che sosteneva in Stolypin era la cravatta e nient'altro che la
+
+cravatta: il patibolo e non la [[Cross|croce]]. Il sovrano russo credeva che
+
+La Chiesa Ortodossa era ortodossa. L'arciduca d'Austria desiderava davvero [[Desire|desiderare]].
+
+per rendere la [[Catholic Church|Chiesa Cattolica]] cattolica. Credeva davvero di essere
+
+Essere pro-cattolico significa essere pro-austriaco. Ma il Kaiser non può...
+
+# A favore dei cattolici e quindi non poteva essere veramente filo-austriaco
+
+Semplicemente e unicamente anti-serbo. Anzi, anche nella forza crudele e sterile
+
+della Turchia, chiunque abbia un po' di [[Imagination|immaginazione]] può vedere qualcosa della [[Tragedy|tragedia]] e
+
+Quindi della tenerezza della vera fede. Il peggio che si possa dire di
+
+I musulmani offrirono all'uomo la scelta di...
+
+Corano o la [[Sword|spada]]. La cosa migliore che si possa dire del tedesco è che
+
+non gli importa nulla del Corano, ma è soddisfatto se può avere la [[Sword|spada]].
+
+E per quanto mi riguarda, confesso, anche i peccati di questi tre altri imperi in lotta
+
+Prendi in considerazione qualcosa di triste e dignitoso: e io
+
+Sentono di non meritare che questo pigro luterano li tratti con sufficienza
+
+Tutto ciò che è male in loro, ignorando tutto ciò che è buono. Non è
+
+# Cattolico, non è ortodosso, non è maomettano. È semplicemente un anziano
+
+un gentiluomo che desidera condividere il crimine anche se non può condividere la fede.
+
+Desidera essere un persecutore con il dolore ma senza la palma. Così intensamente...
+
+Tutti gli istinti del prussiano si oppongono alla libertà
+
+Preferire opprimere i sudditi altrui piuttosto che pensare che qualcuno possa fare a meno di qualcosa
+
+I benefici dell'oppressione. È una specie di despota disinteressato. È come
+
+disinteressato come il diavolo che è pronto a fare qualsiasi sporco lavoro per chiunque.
+
+Questo sembrerebbe ovviamente fantastico se non fosse supportato da fatti concreti
+
+# che non può essere spiegato diversamente. Infatti sarebbe inconcepibile se noi...
+
+pensavano a un intero popolo composto da individui liberi e diversi.
+
+Ma nella Prussia la classe dirigente è davvero una classe dirigente: e molto
+
+# poche persone sono necessarie per pensare in questo modo e farlo capire agli altri
+
+le persone agiscono secondo di esse. E il [[Paradox|paradosso]] della Prussia è questo: che mentre la sua
+
+i principi e i nobili non hanno altro scopo su questa terra se non quello di distruggere la [[democracy|democrazia]]
+
+Ovunque si manifesti, sono riusciti ad ottenere fiducia,
+
+Non come custodi del passato, ma come precursori del futuro. Anche loro
+
+# non credono che la loro teoria sia popolare, ma credono che lo sia
+
+# Progressivo: il divario spirituale tra i due
+
+Monarchie in discussione: le istituzioni russe sono, in molti casi,
+
+# veramente rimasti indietro rispetto al popolo russo e molti dei russi
+
+La gente lo sa. Ma le istituzioni prussiane dovrebbero essere all'avanguardia
+
+Del popolo prussiano e la maggior parte del popolo prussiano ci crede. È
+
+# così è più facile per i signori della guerra andare ovunque e imporre una situazione senza speranza
+
+La [[Slavery|schiavitù]] su tutti, perché hanno già imposto una specie di speranza
+
+la [[Slavery|schiavitù]] sulla loro semplice razza.
+
+E quando gli uomini ci parleranno delle antiche ingiustizie della [[Russia]] e di come
+
+# Il sistema russo è antiquato, risponderemo "Sì, ecco perché"
+
+superiorità della [[Russia]]." Le loro istituzioni fanno parte della loro [[history|storia]],
+
+# Che siano reliquie o fossili. I loro abusi sono stati in realtà usi: ecco
+
+# Per dire, sono stati consumati. Se hanno vecchi motori di terrore o...
+
+# tormento, possono disintegrarsi per semplice ruggine, come un vecchio abito di...
+
+L'armatura. Ma nel caso della tirannia prussiana, se lo è davvero,
+
+Il punto cruciale della sua pretesa è che non sia antiquato, ma semplicemente...
+
+# Iniziare come un venditore di biglietti: la Prussia ha una fiorente fabbrica di...
+
+# Morsetti per le dita, un intero laboratorio ronzante di ruote e rack, dei più moderni
+
+e il modello più ordinato con cui riportare l'Europa alla Reazione...
+
+È infame rinnovare il dolore. E se vogliamo mettere alla prova la [[Truth|verità]] di ciò,
+
+può essere fatto con lo stesso metodo che ci ha mostrato che la [[Russia]], se la sua razza o
+
+La religione poteva renderla talvolta invasore e oppressore, ma anche...
+
+Diventare un liberatore e un cavaliere errante. Allo stesso modo, se il russo...
+
+le istituzioni sono antiquate e mostrano onestamente il bene così come [[Well|così]] come
+
+Il male che si può trovare nelle cose vecchio stile. Nel loro sistema di polizia
+
+Hanno una disuguaglianza che va contro le nostre idee di legge, ma nella loro
+
+# Il sistema comune: un'uguaglianza più antica della legge stessa
+
+Quando si frustavano come barbari, si chiamavano l'un l'altro
+
+# Per i loro nomi cristiani come bambini. Al peggio, conservavano tutto
+
+Il meglio di una società rozza
+
+I bambini o le brave suore. Ma nella Prussia tutto ciò che c'è di meglio nella civiltà...
+
+le macchine sono messe al servizio di tutto ciò che c'è di peggio nella mentalità barbara.
+
+Anche qui il prussiano non ha meriti casuali, nessuna di quelle fortunose
+
+Sopravvivenze: nessuno di quei tardi pentimenti che creano la gloria a pezzi e bocconi
+
+della [[Russia]]. Qui tutto è affilato fino ad un punto e diretto verso uno scopo e
+
+Quel proposito, se le parole e i gesti hanno un senso, è la distruzione
+
+della libertà in tutto il mondo.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="TheAppOfTyranny — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -8074,6 +8292,170 @@ any reasons, for any length of [[Time|time]], for any [[Eternity|eternity]] of f
 to be praised. Probably he is proud of this; probably he thinks he has a
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Poi si rifugia nel picchiare i ragazzini per aver detto le preghiere
+
+La lingua madre. Tutti coloro che ricordano qualcosa di dignità, di ironia, insomma di...
+
+Roma e ragione: perché un ufficiale non deve, non dovrebbe, farebbe meglio
+
+Non picchia i bambini, ma un ufficiale può...
+
+Ragazzini: e un ufficiale prussiano continuerà finché non gli togliete
+
+Il bastone: nulla potrebbe essere più comico, se è tutto qui, della situazione
+
+Dei prussiani in Alsazia: che dichiarano essere puramente tedesca e ammettono a...
+
+Siate furiosamente francesi; così dovranno terrorizzarvi sgozzando chiunque,
+
+Inclusi gli handicappati. Di nuovo, chiunque di noi può capire perché un ufficiale non debba...
+
+Non dovrebbe, sarebbe meglio di no e generalmente non lo fa: sgozzare un invalido. Ma un...
+
+Un ufficiale può sferzare un invalido, e un ufficiale prussiano continuerà a farlo
+
+Fino a quando non togli il pugnale. È questo realismo folle e rigido che
+
+Rendono il loro caso peculiare: come quello di un cinese che copia qualcosa, o di un...
+
+Il servitore mezzo scemo che porta un messaggio. Se avessero il potere di mettere nero su...
+
+e pali bianchi intorno alla [[Grave|tomba]] di Virgilio o dissotterrare [[Dante]] per vedere se aveva
+
+# capelli biondi, il semplice fatto di farlo che per alcuni di noi sarebbe la cosa più...
+
+# L'impensabile sarebbe per loro la cosa meno impensabile. Non sentono il
+
+La risata dei secoli. Se avessero il potere di trattare gli inglesi o gli italiani
+
+# Primo ministro come traditore e fucilarlo contro un muro
+
+Sono perfettamente in grado di trasformare tale retorica isterica in realtà: e
+
+Disperdendo il suo cervello prima che avesse raccolto se stesso. Non sentono
+
+Atmosfere: tutti un po' sordi, come tutti un po'...
+
+# Miopi. Si irritano quando i loro nemici, dopo tali esperienze
+
+Come quelli del Belgio, li accusano di non mantenere le promesse. E in uno
+
+# Hanno ragione: ci sono certi tipi di promesse che probabilmente...
+
+# Rispetterebbero. Se hanno promesso di rispettare un paese libero o una vecchia tradizione
+
+Amico, per rispettare una fedeltà giurata o per risparmiare una popolazione innocua
+
+Troveranno queste restrizioni opprimenti e fastidiose. Chiederanno...
+
+Su quale principio stanno rinunciando ad esso? Ma se lo fanno,
+
+promise di sparare alla [[Cross|croce]] sulla guglia della chiesa o di svuotare l'inchiostro nel
+
+birra di qualcuno o portare a [[Home|casa]] le orecchie di qualcun altro nella propria tasca per la
+
+Il piacere delle loro famiglie, penso che in questi casi sentirebbero una specie di...
+
+di un'[[Shadow|ombra]] di ciò che gli uomini civili provano nell'adempimento di una promessa, come
+
+Diverso dalla sua creazione. E, considerando tali casi, io
+
+Non posso concordare pienamente con quei critici severi che dicono di un prussiano
+
+non manterrà mai la sua promessa.
+
+Purtroppo è proprio questo tipo di realtà e realizzazione che
+
+Rende urgente che l'Europa metta in campo tutta la sua energia per abbattere
+
+# Questi antichi demoni; questi idioti pieni di forza come da demoni. Essi
+
+Farebbe le cose, come farebbe un pazzo, fino a quando non potrebbe più farle. Per me è...
+
+# sembrava che alcune cose non potessero essere dette e fatte. Pensavo che un uomo avrebbe
+
+# Avrebbero dovuto vergognarsi di corrompere un nuovo nemico come l'Inghilterra per tradire un vecchio nemico
+
+Come la Francia. Pensavo che un uomo si sarebbe vergognato di punire i puri
+
+La [[Self|difesa]] di popoli così inoffensivi come i belgi. Queste speranze devono andarsene.
+
+Da noi, mio amico. C'è solo una cosa di cui il prussiano avrebbe paura.
+
+vergognoso; e di questo, lo abbiamo giurato a Dio, egli assaggerà prima della fine.
+
+*       *       *       *       *
+
+Mio caro ------
+
+Il tedesco prussianizzato, indipendentemente dalla sua miscela di razze, ha una...
+
+# una qualità che potrebbe essere razzialmente semplice, ma comunque...
+
+# Molto semplice: Chamberlain, il filosofo o storico tedesco (non so
+
+che cosa chiamarlo o come chiamarlo (in ogni caso) osserva da qualche parte che
+
+Le razze pure possiedono fedeltà; egli cita l'esempio del negro e del cane...
+
+Supponiamo il tedesco. Comunque sia, è vero che esiste un riconoscibile e
+
+La vera cosa che potrebbe essere chiamata fedeltà (o forse monotonia)
+
+esiste nei tedeschi pressappoco nello stesso stile che esiste nei [[dogs|cani]] e negri. Il Nord
+
+Il Teutone ha davvero in questo senso le semplicità del selvaggio e...
+
+animali [[Animals|inferiori]]; che non ha reazioni. Non ride di se stesso. Egli
+
+Non vuole darsi una lezione. Non si pente, come la maggior parte di noi...
+
+A volte si pente persino di pentirsi. Non legge le proprie opere e
+
+# Scopre che sono molto peggio o molto meglio di quanto si aspettasse. Non prova
+
+Un vago senso irrazionale di eccesso, anche dopo piaceri divini come questo
+
+La vita. Osservatelo in un ristorante tedesco e vi convincerete che...
+
+Non lo fa. Insomma, sia nel modo più scientifico che nel più casuale
+
+Non sa cosa significhi avere un carattere.
+
+Non si piega e torna indietro come l'acciaio; rimane rigido, come il legno.
+
+Differisce da ogni nazione che ho conosciuto, dalla tua e dalla mia,
+
+Francesi, spagnoli, scozzesi, galesi e irlandesi: sfortuna mai
+
+Lo rafforza come fa con noi. La buona sorte non lo spaventa mai come fa con noi.
+
+Si può vedere nel cosiddetto sciovinismo francese e nel nostro jingoismo. Per noi
+
+per lui è pieno giorno. La notte di Mafeking [[Night|Notte]], celebrando una
+
+un piccolo ma pittoresco [[success|successo]] contro i boeri, quasi tutti a [[London|Londra]]
+
+uscì agitando piccole bandiere. Ora quasi tutti a [[London|Londra]] sono sinceramente
+
+# Vergognarsi di ciò. Ma ai prussiani non verrebbe mai in mente di non cavalcare i loro...
+
+# Cavalli altani con la più fresca insolenza per la lontana vittoria di Sedan;
+
+anche se proprio in quella data anniversaria la stella del loro destino si era fatta beffarda
+
+nel cielo e Von Kluck era in ritirata da [[Paris|Parigi]]. Soprattutto, il
+
+Il prussiano non si sente irritato come me quando gli stranieri lodano il suo paese
+
+Per tutti i motivi sbagliati. Il prussiano ti permetterà di lodarlo per
+
+per qualsiasi motivo, per qualsiasi durata di [[Time|tempo]], per qualsiasi [[Eternity|eternità]] di follia; lui c'è
+
+Da lodare. Probabilmente ne è orgoglioso; probabilmente pensa di averne il diritto.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_08" data-title="TheAppOfTyranny — Chapter 4 (part 8)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -8241,6 +8623,170 @@ that neither religion at its worst nor republicanism at its worst ever
 
 offered the coarse insult to all mankind that is offered by this new and
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+buona digestione, perché il [[Poison|veleno]] dei complimenti non lo fa ammalare. Egli
+
+pensa che l'assenza di tale [[Doubt|dubbio]] o [[Self-Knowledge|conoscenza di sé]] contribuisca alla compostezza,
+
+Grandezza, una calma colossale, una razza superiore - in breve, l'intera pretesa di...
+
+i Tedeschi come il più alto prodotto spirituale della [[Nature|Natura]] e dell'evoluzione.
+
+Ma ho notato una calma [[unity|unità]] ancora più completa, non solo nei [[dogs|cani]] e
+
+Negri, ma anche lumache, vermi lenti, rape da foraggio, muschio, fango e pezzetti di...
+
+# Pietra, sono scettico su questo test per l'ordinamento di tutti in fila
+
+I figli di Dio: un'osservazione pratica
+
+# Il prussiano non capirà mai le rivoluzioni - che sono...
+
+# Reazioni generali: le considera non solo con antipatia, ma con...
+
+Un misterioso senso di pietà. Nei suoi confusi resoconti storici popolari, c'è
+
+# Una strana idea: le popolazioni civiche hanno fallito finora
+
+# Fallirono perché combattevano sempre. La popolazione di Berlino non lo fece.
+
+Combattere o non poterlo fare; e quindi Berlino avrà successo dove Grecia e Roma...
+
+# Ha fallito. Finora è evidente che Berlino ha avuto successo
+
+Niente se non nelle cattive copie della Grecia e di Roma, e i prussiani sarebbero...
+
+È più saggio discutere i dettagli del passato greco e romano, che possiamo
+
+Seguire piuttosto che i dettagli del loro futuro, su cui siamo
+
+naturalmente non così bene informati. Bene, ogni cupola che costruiscono, ogni pilastro
+
+# hanno eretto ogni piedistallo per epigrafe o pannello per decorazione, ogni
+
+Tipo di chiesa, cattolica o protestante, ogni tipo di strada, grande o...
+
+# Piccoli, hanno copiato dalle antiche città pagane o cattoliche; e quelli
+
+Le città, quando crearono queste cose, erano in ebollizione per le rivoluzioni.
+
+Ricordo un professore tedesco che mi disse: «Non avrei alcun scrupolo a...
+
+# Sopprimere repubbliche come il Brasile, il Venezuela, la Bolivia, il Nicaragua;
+
+Sono sempre in rivolta per una cosa o l'altra" Dissi che supponevo lui
+
+Non avrebbe esitato ad estinguere Atene, Roma, Firenze e...
+
+[[Paris|Parigi]]; perché c'era sempre qualche rivolta per una cosa o l'altra. La sua risposta
+
+Indicava, pensavo, che provasse per Cesare o Rienzi più o meno lo stesso sentimento...
+
+Il ministro presbiteriano scozzese provava per [[Christ|Cristo]] quando gli veniva ricordato il
+
+Sgranare il grano di sabato e disse: «Beh, non ne penso bene...
+
+"lui". In altre parole era assolutamente sicuro, come tutti i suoi connazionali, che
+
+Poteva imporre una specie di Pax Germanica che avrebbe soddisfatto tutti i bisogni
+
+di ordine e di [[Freedom|libertà]] per sempre; senza lasciare spazio a rivoluzioni o
+
+reazioni. Io stesso ho un'opinione diversa. Quando ero un [[Child|bambino]], quando il
+
+Il commercio di giocattoli della [[Germany|Germania]] aveva iniziato ad invadere questo paese e c'era un atteggiamento pedante
+
+Coppia di versi britannici incisi nella mente delle governanti:
+
+Quello che i bambini tedeschi amano fare
+
+I bambini inglesi amano distruggere.
+
+Posso rispondere per la gioia dei bambini inglesi; giusta e divina
+
+# Delizia. Non sono così sicuro della delizia dei bambini tedeschi, quando
+
+Sono stati catturati dalle ruote infernali della civiltà moderna
+
+# Fabbriche. Ma per ora mi preme solo dire che non lo faccio.
+
+accettare questa linea di divisione storica. Non credo che la [[history|storia]] sostenga
+
+l'idea che coloro che potevano rompere le cose non potessero crearle.
+
+Questo è il modo meno invadente per affrontare un argomento
+
+deve per forza essere delicata; eppure può [[Well|benissimo]] essere una difficoltà
+
+Tra i latini come voi. Contro questo ridicolo arrivista prussiano noi
+
+non dobbiamo solo proteggere la nostra [[unity|unità]]; dobbiamo persino proteggere le nostre liti.
+
+E la più profonda delle reazioni o rivolte di cui ho parlato è la
+
+# una disputa che (molto tragicamente, secondo me) dura da centinaia di anni
+
+Separare il cristiano dall'ideale liberale. Non mi competerebbe, in...
+
+Non esiste un paese con una dottrina così chiara e combattiva come questo
+
+La [[democracy|democrazia]] suppone che possa essere facile per ognuno di voi chiudere in sé tali sacri...
+
+# Ferite. Ci devono essere ancora cattolici che sentono di non poter mai perdonare...
+
+Giacobino. Ci devono essere ancora vecchi repubblicani che sentono di non poter mai
+
+Sopportare un prete. Eppure c'è qualcosa che solo il vedere dovrebbe...
+
+# Un'alleanza immediata tra loro. Basta che guardino verso nord e...
+
+# Detenere la terza cosa che si ritiene superiore alle altre: l'enorme
+
+Faccia da rapa di quel tipo lì, come dicono i francesi, che crede di poter...
+
+li renda simili a sé eppure rimanga superiore a entrambi.
+
+Vi imploro di tenere lontano da questo [[Fool|pazzo]] la contesa del
+
+Grandi santi e grandi bestemmiatori
+
+# farà per l'arte: mescolare tutti i colori della tavolozza in un colore
+
+Fango: e poi dicono che solo gli occhi purificati dei Tedeschi possono vedere che è...
+
+# Bianco puro. L'altro giorno si diceva che il Direttore dei Musei di Berlino fosse...
+
+La creazione di un nuovo tipo d'arte: l'arte tedesca. I filosofi
+
+e gli uomini di scienza furono allo stesso [[Time|tempo]] invitati a riunirsi attorno al tavolo
+
+E hanno trovato una nuova religione: la religione tedesca. Come possono queste persone apprezzare...
+
+L'arte: come possono apprezzare la religione - anzi, come possono apprezzare
+
+l'irreligione? Come si può inventare un messaggio? Come si può creare un Creatore?
+
+Non è forse il chiaro significato del Vangelo quello di essere buone novelle? E non è...
+
+non è forse il semplice significato di buone notizie che devono provenire da fuori se stessi?
+
+Altrimenti potrei rendere me stesso felice in questo momento, inventando qualcosa di enorme
+
+La vittoria nelle Fiandre. E immagino che...
+
+I tedeschi lo fanno.
+
+Per la pienezza della vostra [[Faith|fede]] e persino per la pienezza del vostro [[Despair|dispero]], voi che
+
+Ricordate Roma, avete guadagnato il diritto di evitare che tutte le nostre dispute siano...
+
+spegneva quella sete nell'acqua così fredda del nord. Ma non è eccessivo dire
+
+Né la religione al suo peggio né il repubblicanesimo al suo peggio mai
+
+# offeso l'umanità con il volgare affronto di questa nuova e
 
 
 

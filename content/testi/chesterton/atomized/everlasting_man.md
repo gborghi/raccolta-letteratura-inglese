@@ -9703,6 +9703,34 @@ to do what he can with the facts which the specialists provide.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+NOTA PRELIMINARE
+
+Questo libro ha bisogno di una nota preliminare, affinché non se ne fraintenda
+la portata. La prospettiva che vi si suggerisce è storica più che teologica, e non
+tratta direttamente di quel mutamento religioso che è stato l'evento capitale
+della mia stessa vita, e intorno al quale sto già scrivendo un volume di natura
+più schiettamente controversistica. È impossibile, lo [[Hope|spero]], per qualsiasi
+cattolico scrivere un libro su un qualunque argomento, e soprattutto su questo,
+senza mostrare di essere cattolico; ma questo studio non si occupa in modo
+particolare delle differenze tra un cattolico e un protestante.
+Buona parte di esso è dedicata a molte specie di pagani più che a qualsiasi specie
+di cristiani; e la sua tesi è che coloro i quali affermano che [[Christ|Cristo]]
+sta a fianco di miti a lui simili, e la sua religione a fianco di religioni simili,
+non fanno che ripetere una formula assai stantia, contraddetta da un fatto
+assai clamoroso. Per suggerire questo non ho avuto bisogno di spingermi molto
+oltre le cose note a tutti noi; non pretendo di essere erudito, e per alcune cose
+devo affidarmi, come è ormai piuttosto di moda, a chi è più dotto di me.
+Poiché ho più di una volta dissentito dal signor H. G. Wells sulla sua visione
+della [[history|storia]], è tanto più giusto che io mi congratuli qui con lui
+per il [[Courage|coraggio]] e l'[[Imagination|immaginazione]] costruttiva che hanno condotto
+in porto la sua opera vasta, varia e intensamente interessante;
+ma ancor più per aver rivendicato il ragionevole diritto del dilettante
+a fare quel che può con i fatti che gli specialisti gli forniscono.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_02_introduction--part_01" data-title="everlasting man — Chapter 2: INTRODUCTION (part 1)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
@@ -9826,6 +9854,126 @@ the imaginative effort of conceiving the Twelve Apostles as Chinamen.
 In other words, I recommend these critics to try to do as much
 justice to Christian saints as if they were Pagan sages.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+INTRODUZIONE
+
+IL DISEGNO DI QUESTO LIBRO
+
+Vi sono due modi di tornare a [[Home|casa]]; e uno di essi è restarci.
+L'altro è camminare tutt'intorno al mondo finché non si ritorni allo
+stesso punto; e ho tentato di tracciare un tale [[Journey|viaggio]] in un racconto che scrissi un tempo.
+È però un sollievo passare da quel tema a un'altra storia
+che non ho mai scritto. Come ogni libro che non ho mai scritto, è di gran lunga
+il miglior libro che io abbia mai scritto. È fin troppo probabile che
+non lo scriverò mai, sicché me ne servirò qui in senso simbolico; perché
+era il simbolo di una medesima [[Truth|verità]]. Lo concepii come un [[Romance|romanzo]] di quelle
+immense vallate dai fianchi digradanti, come quelle lungo cui gli antichi
+Cavalli Bianchi del Wessex sono tracciati a graffio sui costoni delle colline.
+Riguardava un ragazzo la cui fattoria o casetta sorgeva su un simile pendio,
+e che si mise in viaggio in cerca di qualcosa, come l'effigie
+e la [[Grave|tomba]] di qualche gigante; e quando fu abbastanza lontano da [[Home|casa]] si volse
+indietro e vide che la sua fattoria e l'[[Garden|orto]] della cucina, splendenti e piatti
+sul fianco della [[Hill|collina]] come i colori e le partizioni di uno scudo,
+non erano che parti di una qualche gigantesca figura, sulla quale egli aveva
+sempre vissuto, ma che era troppo grande e troppo vicina per essere vista.
+Questo, io credo, è un vero ritratto del progredire di ogni intelligenza
+davvero indipendente al giorno d'oggi; ed è questo il senso di questo libro.
+
+Il senso di questo libro, in altre parole, è che la cosa migliore, dopo l'essere
+davvero dentro la Cristianità, è l'esserne davvero fuori.
+E un punto particolare è che i critici popolari del [[Christianity|Cristianesimo]]
+non ne sono realmente fuori. Si trovano su un terreno controverso,
+in ogni senso del termine. Sono dubbiosi persino nei loro dubbi.
+La loro critica ha assunto un tono curioso; quello di una contestazione
+casuale e ignorante. Così spingono in circolazione le frasi fatte anticlericali
+alla stregua di chiacchiere da salotto. Si lagnano che i pastori si vestano
+da pastori; come se fossimo più liberi qualora tutti i poliziotti
+che ci pedinano o ci acciuffano fossero agenti in borghese.
+Oppure si lagnano che un sermone non possa essere interrotto, e chiamano
+un pulpito il [[Castle|castello]] del vigliacco; sebbene non chiamino l'ufficio di un direttore
+di giornale il [[Castle|castello]] del vigliacco. Sarebbe ingiusto tanto verso i giornalisti quanto verso i preti;
+ma sarebbe assai più vero del giornalista. L'uomo di chiesa compare
+di persona e potrebbe essere facilmente preso a pedate all'uscita dalla chiesa;
+il giornalista cela persino il proprio nome, così che nessuno possa prenderlo a pedate.
+Scrivono articoli e lettere sfrenati e insensati sulla stampa
+sul perché le chiese siano vuote, senza nemmeno andarvi
+per accertare se siano vuote, o quali di esse lo siano.
+I loro suggerimenti sono più insipidi e vacui del più scipito curato
+di una farsa in tre atti, e ci muovono a consolarlo alla maniera
+del curato delle Bab Ballads: «La tua mente non è così vuota come quella
+di Hopley Porter». Sicché possiamo dire in tutta verità al più fiacco dei chierici:
+«La tua mente non è così vuota come quella dell'Indignato Laico o dell'Uomo Comune
+o dell'Uomo della Strada, o di uno qualunque dei tuoi critici sui giornali;
+perché costoro non hanno la più vaga idea di ciò che essi stessi vogliono.
+[[Alone|Per non parlare]] di ciò che tu dovresti dar loro». D'un tratto si voltano
+e vituperano la Chiesa per non aver impedito la Guerra, che essi
+stessi non volevano impedire; e che nessuno aveva mai preteso
+di poter impedire, tranne alcuni di quella stessa scuola di scettici progressisti
+e cosmopoliti che sono i principali nemici della Chiesa.
+Fu il mondo anticlericale e agnostico a profetizzare sempre
+l'avvento di una pace universale; è quel mondo che fu, o avrebbe dovuto
+essere, sconcertato e confuso dall'avvento di una guerra universale.
+Quanto all'opinione generale che la Chiesa sia stata screditata dalla Guerra,
+potrebbero altrettanto [[Well|bene]] dire che l'Arca fu screditata dal Diluvio.
+Quando il mondo va storto, ciò dimostra piuttosto che la Chiesa ha ragione.
+La Chiesa è giustificata non perché i suoi figli non pecchino,
+ma perché peccano. Ma ciò segna il loro stato d'animo verso l'intera
+tradizione religiosa: sono in uno stato di reazione contro di essa.
+[[Well|Bene]] è per il ragazzo quando vive sulla terra di suo padre;
+e [[Well|bene]] di nuovo per lui quando è abbastanza lontano da essa per volgersi indietro
+a guardarla e vederla come un tutto. Ma questa gente è caduta in uno
+stato intermedio, è precipitata in una valle interposta dalla quale
+non può vedere né le alture al di là né le alture alle sue spalle.
+Non riescono a uscire dalla penombra della controversia cristiana.
+Non possono essere cristiani e non possono smettere di essere
+anticristiani. La loro intera atmosfera è l'atmosfera di una reazione:
+malumori, ostinazione, critica meschina. Vivono ancora nell'[[Shadow|ombra]]
+della [[Faith|fede]] e hanno perduto la luce della [[Faith|fede]].
+
+Ora, la miglior relazione con la nostra [[Home|dimora]] spirituale è essere abbastanza vicini da
+[[Love|amarla]]. Ma la seconda migliore è essere abbastanza lontani da non odiarla.
+È l'assunto di queste pagine che, mentre il miglior giudice
+del [[Christianity|Cristianesimo]] è un cristiano, il secondo miglior giudice sarebbe
+qualcosa di più simile a un confuciano. Il peggior giudice di tutti è l'uomo
+oggi più pronto a emettere giudizi; il cristiano mal istruito
+che si va trasformando a poco a poco nell'agnostico dal cattivo carattere, invischiato
+nella coda di una faida di cui non ha mai capito l'inizio,
+funestato da una sorta di noia ereditaria per non sa che cosa,
+e già stanco di udire ciò che non ha mai udito.
+Egli non giudica il [[Christianity|Cristianesimo]] con la calma con cui lo farebbe un confuciano; non lo
+giudica come giudicherebbe il confucianesimo. Non riesce, con uno sforzo
+di fantasia, a collocare la [[Catholic Church|Chiesa cattolica]] a migliaia di miglia di distanza, in strani
+cieli mattutini, e a giudicarla con l'imparzialità con cui giudicherebbe una pagoda cinese.
+Si dice che il grande san Francesco Saverio, che quasi riuscì
+a erigervi la Chiesa come una torre sovrastante tutte le pagode,
+fallì in parte perché i suoi seguaci furono accusati dagli altri
+missionari di rappresentare i Dodici Apostoli con le vesti
+o gli attributi di cinesi. Ma sarebbe assai meglio vederli
+come cinesi, e giudicarli lealmente come cinesi, che vederli
+come idoli senza volto, fatti solo per essere fracassati dagli iconoclasti;
+o piuttosto come bersagli da colpire da parte di [[cockneys]] a mani vuote. Sarebbe
+meglio vedere l'intera faccenda come un remoto culto asiatico; le mitre
+dei suoi vescovi come i torreggianti copricapi di misteriosi bonzi;
+i suoi bastoni [[Pastoral|pastorali]] come le verghe attorte a serpente portate
+in qualche processione asiatica; vedere il libro delle [[Prayer|preghiere]] fantastico
+quanto la [[Wheel|ruota]] delle [[Prayer|preghiere]] e la [[Cross|Croce]] tanto ricurva quanto la svastica.
+Allora, almeno, non perderemmo le staffe come sembrano perderle alcuni dei critici
+scettici, per non dire il senno.
+Il loro anticlericalismo è divenuto un'atmosfera, un'atmosfera
+di negazione e ostilità dalla quale non riescono a evadere.
+In confronto a questo, sarebbe meglio vedere l'intera faccenda
+come qualcosa che appartiene a un altro continente, o a un altro pianeta.
+Sarebbe più filosofico fissare con indifferenza dei bonzi
+che brontolare perpetuamente e inutilmente contro i vescovi.
+Sarebbe meglio passare davanti a una chiesa come se fosse una pagoda
+che restarsene stabilmente sotto il portico, incapaci tanto di entrare
+per aiutare quanto di uscire e dimenticare. A coloro nei quali una mera
+reazione è così diventata un'ossessione, raccomando sul serio
+lo sforzo immaginativo di concepire i Dodici Apostoli come cinesi.
+In altre parole, raccomando a questi critici di tentare di rendere ai santi
+cristiani tanta giustizia quanta ne renderebbero a dei saggi pagani.
 
 
 
@@ -9955,6 +10103,131 @@ of the [[Horse|horse]] has been given to the highest mood and moment of the man;
 so that we might almost say that the handsomest compliment to a man
 is to call him a [[Horse|horse]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma con ciò giungiamo al punto ultimo e vitale: cercherò
+di mostrare in queste pagine che, quando compiamo davvero questo sforzo
+immaginativo di vedere l'intera faccenda dall'esterno, scopriamo che essa
+somiglia realmente a ciò che tradizionalmente se ne dice all'interno.
+È esattamente quando il ragazzo si allontana abbastanza da vedere il gigante
+che si accorge che è davvero un gigante. È esattamente quando finalmente
+scorgiamo la Chiesa cristiana lontana, sotto quei cieli orientali limpidi e distesi,
+che ci accorgiamo che essa è realmente la Chiesa di [[Christ|Cristo]].
+Per dirla in breve, nel momento stesso in cui siamo davvero imparziali verso di essa,
+capiamo perché la gente le sia parziale. Ma questa seconda proposizione
+richiede una discussione più seria; e qui mi accingo
+a discuterla.
+
+Non appena ebbi chiaramente in mente questa concezione di qualcosa
+di solido nel carattere solitario e unico della storia divina,
+mi colpì il fatto che vi fosse esattamente lo stesso carattere strano eppure solido
+nella storia umana che vi aveva condotto; perché anche quella storia umana
+aveva una radice che era divina. Voglio dire che, così come la Chiesa
+sembra crescere in prodigiosità quando la si paragona equamente alla
+comune vita religiosa dell'umanità, così l'umanità stessa sembra crescere
+in prodigiosità quando la paragoniamo alla comune vita della [[Nature|natura]].
+E ho notato che la maggior parte della [[history|storia]] moderna è spinta a qualcosa
+come un sofisma, dapprima per attenuare la brusca transizione dagli [[Animals|animali]]
+all'uomo, e poi per attenuare la brusca transizione dai pagani
+ai cristiani. Ora, quanto più leggiamo con spirito realistico
+di quelle due transizioni, tanto più nette le troveremo.
+È perché i critici non sono distaccati che non vedono
+questo distacco; è perché non guardano le cose in una luce
+asciutta che non riescono a vedere la differenza tra il bianco e il nero.
+È perché si trovano in un particolare stato d'animo di reazione e rivolta
+che hanno un motivo per far apparire tutto il bianco
+come grigio sporco e il nero non così nero come lo si dipinge.
+Non dico che non vi siano scuse umane per la loro rivolta; non dico
+che essa non sia per certi versi simpatica; quel che dico è che essa non è
+in alcun modo scientifica. Un iconoclasta può essere indignato; un iconoclasta
+può essere giustamente indignato; ma un iconoclasta non è imparziale.
+Ed è pura ipocrisia fingere che nove decimi degli alti
+critici, degli evoluzionisti scientifici e dei professori di religione
+comparata siano minimamente imparziali. Perché dovrebbero essere imparziali,
+che cos'è essere imparziali, quando il mondo intero è in guerra sul
+se una data cosa sia una superstizione divorante o una divina [[Hope|speranza]]?
+Non pretendo di essere imparziale nel senso che l'atto finale
+di [[Faith|fede]] fissi la mente di un uomo perché ne appaga la mente.
+Ma professo di essere assai più imparziale di loro;
+nel senso che io so raccontare la storia con lealtà, con una qualche
+sorta di giustizia immaginativa verso tutte le parti; e loro non lo sanno fare.
+Professo di essere imparziale nel senso che mi vergognerei
+di dire tante sciocchezze sul Lama del Tibet quante ne dicono loro sul Papa
+di Roma, o di avere così poca simpatia per Giuliano l'Apostata
+quanta ne hanno loro per la Compagnia di Gesù. Non sono imparziali;
+non tengono mai, per nessun caso, la bilancia storica in equilibrio;
+e soprattutto non sono mai imparziali su questo punto dell'evoluzione
+e della transizione. Suggeriscono ovunque le grigie gradazioni
+del crepuscolo, perché credono che sia il crepuscolo degli dèi.
+Mi propongo di sostenere che, sia o no il crepuscolo degli dèi,
+non è certo il pieno giorno degli uomini.
+
+Sostengo che, quando le si porti alla luce del giorno, queste due
+cose appaiono del tutto strane e uniche; e che è soltanto
+nel falso crepuscolo di un immaginario periodo di transizione
+che le si può far sembrare minimamente simili a qualcos'altro.
+La prima di esse è la creatura chiamata uomo, e la seconda è l'uomo
+chiamato [[Christ|Cristo]]. Ho perciò diviso questo libro in due parti:
+la prima è uno [[Sketch|schizzo]] della principale avventura del genere
+umano nella misura in cui rimase pagano; e la seconda un compendio
+della reale differenza prodotta dal suo diventare cristiano.
+Entrambi i moventi impongono un certo metodo, un metodo che non è
+molto facile da maneggiare, e forse ancor meno facile da definire o difendere.
+
+Per toccare, nell'unico senso sano o possibile, la nota
+dell'imparzialità, è necessario toccare il nervo della novità.
+Voglio dire che, in un certo senso, vediamo le cose con lealtà quando le vediamo per la prima volta.
+Ed è per questo, lo noto di sfuggita, che i bambini generalmente
+hanno assai poca difficoltà con i dogmi della Chiesa.
+Ma la Chiesa, essendo una cosa altamente pratica, fatta per lavorare e combattere,
+è necessariamente una cosa per uomini e non soltanto per bambini.
+Vi dev'essere in essa, a fini operativi, una gran quantità di tradizione,
+di familiarità e persino di consuetudine. Finché i suoi fondamenti
+sono sinceramente sentiti, questa può persino essere la condizione più sana.
+Ma quando i suoi fondamenti sono messi in dubbio, come al presente, dobbiamo
+tentare di recuperare il candore e la [[Wonder|meraviglia]] del [[Child|fanciullo]]; il non guastato
+realismo e l'oggettività dell'[[innocence|innocenza]]. O, se non possiamo far questo,
+dobbiamo tentare almeno di scuoterci di dosso la nube della mera consuetudine
+e vedere la cosa come nuova, non foss'altro che vedendola come innaturale.
+Le cose che possono [[Well|ben]] essere familiari finché la familiarità genera affetto
+farebbero assai meglio a diventare estranee quando la familiarità genera disprezzo.
+Poiché, riguardo a cose così grandi come quelle qui considerate,
+qualunque sia la nostra opinione su di esse, il disprezzo dev'essere un errore.
+Anzi, il disprezzo dev'essere un'illusione. Dobbiamo invocare la specie più selvaggia
+e più alta d'[[Imagination|immaginazione]]; l'[[Imagination|immaginazione]] capace di vedere
+ciò che è là.
+
+L'unico modo per suggerire il punto è per mezzo di un esempio di qualcosa, anzi di
+quasi qualsiasi cosa, che sia stata considerata bella o meravigliosa.
+George Wyndham mi disse un giorno di aver visto uno dei primi
+aeroplani sollevarsi per la prima [[Time|volta]], ed era cosa assai meravigliosa,
+ma non tanto meravigliosa quanto un [[Horse|cavallo]] che consente a un uomo di cavalcarlo.
+Qualcun altro ha detto che un bell'uomo su un bel [[Horse|cavallo]] è il più nobile
+oggetto corporeo del mondo. Ora, finché la gente sente questo nel
+modo giusto, tutto va [[Well|bene]]. Il primo e miglior modo di apprezzarlo
+è discendere da gente con una tradizione di trattare gli [[Animals|animali]] come si deve;
+da uomini nel giusto rapporto coi cavalli. Un ragazzo che ricorda suo
+padre il quale cavalcava un [[Horse|cavallo]], lo cavalcava [[Well|bene]] e lo trattava [[Well|bene]],
+saprà che quel rapporto può essere soddisfacente e ne sarà soddisfatto.
+Sarà tanto più indignato per il maltrattamento dei cavalli
+perché sa come dovrebbero essere trattati; ma non vedrà
+nulla se non ciò che è normale in un uomo che cavalca un [[Horse|cavallo]].
+Non darà retta al grande filosofo moderno che gli spiega
+che dovrebbe essere il [[Horse|cavallo]] a cavalcare l'uomo.
+Non perseguirà la pessimistica fantasia di Swift, e non dirà che gli uomini vanno
+disprezzati come scimmie e i cavalli adorati come dèi. E poiché [[Horse|cavallo]]
+e uomo, insieme, formano per lui un'immagine umana e civile,
+sarà facile, per così dire, sollevare [[Horse|cavallo]] e uomo insieme in qualcosa di
+eroico o simbolico; come una visione di san Giorgio tra le nubi.
+La [[Fable|favola]] del [[Horse|cavallo]] alato non gli riuscirà del tutto innaturale:
+e saprà perché l'Ariosto pose più di un [[Hero|eroe]] cristiano su una simile
+aerea sella, e ne fece il cavaliere del cielo. Poiché il [[Horse|cavallo]]
+è stato realmente innalzato insieme all'uomo, nel modo più sfrenato,
+in quella stessa parola che usiamo quando diciamo «cavalleria». Il nome stesso
+del [[Horse|cavallo]] è stato dato all'umore e al momento più alto dell'uomo;
+al punto che potremmo quasi dire che il più bel complimento a un uomo
+è chiamarlo un [[Horse|cavallo]].
 
 
 
@@ -10128,6 +10401,174 @@ and still as new as it is old.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma se un uomo è caduto in uno stato d'animo in cui non è capace di sentire questa
+sorta di [[Wonder|meraviglia]], allora la sua cura deve cominciare proprio dall'altro capo. Dobbiamo
+ora supporre che sia scivolato in uno stato d'animo ottuso, in cui qualcuno
+seduto su un [[Horse|cavallo]] non significa più di qualcuno seduto su una sedia.
+La [[Wonder|meraviglia]] di cui parlava Wyndham, la [[Beauty|bellezza]] che faceva della cosa
+una statua equestre, il significato del cavaliere più cavalleresco,
+possono essergli diventati una mera convenzione e una noia.
+Forse sono stati soltanto una moda; forse sono passati
+di moda; forse se n'è parlato troppo,
+o se n'è parlato nel modo sbagliato; forse era allora difficile
+avere a cuore i cavalli senza l'orribile rischio di darsi arie da cavallerizzo.
+Comunque sia, è caduto in una condizione in cui non gli importa più di un [[Horse|cavallo]]
+di quanto gli importi di un [[Horse|attaccapanni]]. La carica di suo nonno a Balaklava gli sembra
+tediosa e polverosa quanto l'album che contiene simili ritratti di famiglia.
+Una tale persona non si è realmente illuminata sull'album;
+al contrario, si è soltanto accecata con la [[Dust|polvere]].
+Ma quando avrà raggiunto quel grado di cecità, non sarà in grado
+di guardare affatto un [[Horse|cavallo]] o un cavaliere finché non avrà visto l'intera
+cosa come qualcosa di del tutto insolito e quasi ultraterreno.
+
+Da qualche foresta oscura, sotto qualche antica [[Dawn|alba]],
+deve venire verso di noi, con movenze goffe eppure danzanti,
+una delle più bizzarre creature preistoriche.
+Dobbiamo vedere per la prima [[Time|volta]] la testa stranamente piccola posata su un collo
+non solo più lungo ma più spesso di essa, come il volto di un gargoyle
+protende sopra un doccione, l'unica sproporzionata cresta
+di peli che corre lungo il crinale di quel collo pesante come una barba
+fuori posto; gli zoccoli, ciascuno simile a una solida clava di corno,
+[[Alone|soli]] tra i piedi di tanto bestiame; sicché il vero [[Fear|terrore]] si
+trova nel mostrare non lo zoccolo fesso, ma quello non fesso.
+Né è mera fantasia verbale vederlo così come un [[Monster|Mostro]] unico;
+poiché, in un certo senso, un [[Monster|mostro]] significa ciò che è unico, ed egli è davvero unico.
+Ma il punto è che, quando lo vediamo così come lo vide il primo uomo,
+cominciamo di nuovo ad avere un qualche senso immaginativo di ciò che significò
+quando il primo uomo lo cavalcò. In un tale [[A Dream|sogno]] può sembrare brutto,
+ma non sembra privo di grandezza; e certamente quel [[Dwarf|nano]]
+bipede che riuscì a montargli in groppa non sembrerà privo di grandezza.
+Per una [[Road|strada]] più lunga e più erratica torneremo alla stessa
+meraviglia dell'uomo e del [[Horse|cavallo]]; e la meraviglia sarà, se possibile,
+ancor più meravigliosa. Avremo di nuovo un barlume di san Giorgio;
+tanto più glorioso in quanto san Giorgio non cavalca il [[Horse|cavallo]],
+bensì cavalca il drago.
+
+In questo esempio, che ho scelto semplicemente perché è un esempio,
+si noterà che io non dico che l'[[nightmare|incubo]] visto dal
+primo uomo della foresta sia più vero o più meraviglioso
+della normale cavalla della stalla vista dalla persona civilizzata
+che sa apprezzare ciò che è normale. Dei due estremi, credo
+nel complesso che il tradizionale possesso della [[Truth|verità]] sia il migliore.
+Ma dico che la [[Truth|verità]] si trova all'uno o all'altro di questi due estremi,
+e si perde nella condizione intermedia della mera stanchezza e
+dell'oblio della tradizione. In altre parole, dico che è meglio
+vedere un [[Horse|cavallo]] come un [[Monster|mostro]] che vederlo soltanto come un lento surrogato
+di un'automobile. Se siamo caduti in quello stato d'animo verso un [[Horse|cavallo]]
+come qualcosa di stantìo, è di gran lunga meglio essere spaventati da un [[Horse|cavallo]]
+perché è di gran lunga troppo fresco.
+
+Ora, come è del [[Monster|mostro]] che si chiama [[Horse|cavallo]], così
+è del [[Monster|mostro]] che si chiama uomo. Naturalmente la condizione migliore
+di tutte, a mio parere, è aver sempre considerato l'uomo
+come lo si considera nella mia [[philosophy|filosofia]]. Chi tiene per la visione cristiana
+e cattolica della [[Nature|natura]] umana sentirà con certezza che è
+una visione universale e perciò sana, e ne sarà appagato.
+Ma se ha perduto la visione sana, può riacquistarla soltanto
+mediante qualcosa di molto simile a una visione folle; ossia vedendo l'uomo
+come uno strano animale e rendendosi conto di quanto strano animale sia.
+Ma proprio come il vedere il [[Horse|cavallo]] come un prodigio preistorico condusse infine
+di nuovo verso, e non lontano da, un'ammirazione per la padronanza dell'uomo,
+così la considerazione davvero distaccata della curiosa carriera dell'uomo
+condurrà di nuovo verso, e non lontano da, l'antica [[Faith|fede]] nei tenebrosi
+disegni di Dio. In altre parole, è esattamente quando vediamo
+quanto sia bizzarro il quadrupede che lodiamo l'uomo che lo monta;
+ed esattamente quando vediamo quanto sia bizzarro il bipede che lodiamo
+la [[Providence|Provvidenza]] che lo fece.
+
+In breve, è scopo di questa introduzione sostenere questa tesi:
+che è esattamente quando consideriamo l'uomo come un animale che sappiamo
+che egli non è un animale. È precisamente quando tentiamo di raffigurarcelo
+come una sorta di [[Horse|cavallo]] sulle zampe posteriori che d'un tratto ci accorgiamo
+che egli dev'essere qualcosa di miracoloso quanto il [[Horse|cavallo]] alato che
+si levò torreggiando fino alle nubi del cielo. Tutte le strade conducono a Roma,
+tutte le vie riportano di nuovo alla centrale e civile [[philosophy|filosofia]],
+compresa questa [[Road|strada]] attraverso il paese degli elfi e il mondo alla rovescia.
+Ma può darsi che sia meglio non aver mai lasciato la terra
+della ragionevole tradizione, dove gli uomini cavalcano leggeri
+e sono possenti cacciatori al cospetto del Signore.
+
+Così pure, nel caso specialmente cristiano, dobbiamo reagire
+contro la pesante inclinazione della stanchezza. È quasi impossibile
+rendere vividi i fatti, perché i fatti sono familiari;
+e per gli uomini caduti è spesso vero che la familiarità è stanchezza.
+Sono convinto che, se potessimo raccontare la storia [[Supernatural|soprannaturale]] di [[Christ|Cristo]]
+parola per parola come quella di un [[Hero|eroe]] cinese, chiamandolo il Figlio del Cielo
+invece del Figlio di Dio, e tracciandone il nimbo raggiante nell'oro
+dei ricami cinesi o nella lacca dorata delle ceramiche cinesi,
+invece che nella foglia d'oro delle nostre antiche pitture cattoliche, vi
+sarebbe una testimonianza unanime della purezza spirituale della storia.
+Non udremmo allora nulla dell'ingiustizia della sostituzione
+o dell'illogicità dell'espiazione, della superstiziosa esagerazione
+del peso del peccato o dell'impossibile insolenza di un'invasione
+delle leggi della [[Nature|natura]]. Ammireremmo la cavalleria della cinese
+concezione di un dio che cadde dal cielo per combattere i draghi e
+salvare i malvagi dall'essere divorati dalla loro stessa colpa e follia.
+Ammireremmo la sottigliezza della cinese visione della vita, che scorge
+come ogni umana imperfezione sia in vera [[Truth|verità]] un'imperfezione clamorosa.
+Ammireremmo la cinese saggezza esoterica e superiore,
+la quale diceva che vi sono leggi cosmiche più alte delle leggi che conosciamo;
+prestiamo fede a ogni comune giocoliere indiano che scelga di venire da noi a parlare
+nel medesimo stile. Se il [[Christianity|Cristianesimo]] fosse soltanto una nuova moda orientale,
+non gli si rimprovererebbe mai di essere una vecchia e orientale [[Faith|fede]].
+Non mi propongo, in questo libro, di seguire il presunto esempio di
+san Francesco Saverio con l'opposta intenzione immaginativa, e trasformare
+i Dodici Apostoli in mandarini; non tanto per farli sembrare
+indigeni quanto per farli sembrare stranieri. Non mi propongo
+di mettere in atto quello che, credo, sarebbe uno scherzo pratico pienamente riuscito;
+quello di raccontare l'intera storia del Vangelo e l'intera [[history|storia]]
+della chiesa in una cornice di pagode e codini; e di notare
+con maligno [[Humour|umorismo]] quanto essa venisse ammirata come storia pagana,
+proprio in quei circoli dove è condannata come storia cristiana.
+Ma mi propongo di far risuonare, ovunque sia possibile, questa nota di ciò che è nuovo
+e strano, e per questa ragione lo stile, persino su un argomento così serio,
+potrà talora essere deliberatamente [[Grotesque|grottesco]] e fantasioso. [[Desire|Desidero]]
+aiutare il lettore a vedere la Cristianità dall'esterno, nel senso
+di vederla come un tutto, sullo sfondo di altre cose storiche;
+proprio come [[Desire|desidero]] che egli veda l'umanità come un tutto sullo sfondo
+delle cose naturali. E dico che in entrambi i casi, viste così,
+esse spiccano dal loro sfondo come cose [[Supernatural|soprannaturali]].
+Non sfumano nel resto coi colori dell'impressionismo;
+spiccano dal resto coi colori dell'araldica; vivide
+come una [[Cross|croce]] rossa su uno scudo bianco o un [[Lion|leone]] nero su un fondo d'oro.
+Così si erge la Rossa Argilla contro il verde campo della [[Nature|natura]],
+o il Bianco [[Christ|Cristo]] contro la rossa argilla della sua stirpe.
+
+Ma per vederle chiaramente dobbiamo vederle come un tutto.
+Dobbiamo vedere come si svilupparono [[Well|tanto quanto]] come cominciarono;
+poiché la parte più incredibile della storia è che cose le quali cominciarono
+così avrebbero dovuto svilupparsi così. Chiunque scelga di abbandonarsi
+alla mera [[Imagination|immaginazione]] può immaginare che sarebbero potute accadere altre cose
+o essersi evolute altre entità. Chiunque pensi a ciò che sarebbe potuto
+accadere può concepire una sorta di eguaglianza evolutiva; ma chiunque
+affronti ciò che accadde davvero deve affrontare un'eccezione e un prodigio.
+Se mai vi fu un momento in cui l'uomo era soltanto un animale, possiamo,
+se vogliamo, farci un quadro fantasioso della sua carriera trasferita a qualche
+altro animale. Si potrebbe comporre una divertente fantasia in cui
+elefanti costruivano in architettura elefantina, con torri e torrette
+simili a zanne e proboscidi, città al di là della scala di ogni colosso.
+Si potrebbe concepire una piacevole [[Fable|favola]] in cui una mucca avesse messo su
+un abbigliamento, e indossato quattro stivali e due paia di pantaloni.
+Potremmo immaginare una Superscimmia più prodigiosa di qualsiasi Superuomo,
+una creatura quadrumane che intaglia e dipinge con le mani e
+cucina e fa il falegname con i piedi. Ma se stiamo considerando
+ciò che accadde davvero, decideremo di certo che l'uomo ha distanziato
+tutto il resto con una distanza pari a quella degli spazi astronomici
+e una [[Speed|velocità]] pari a quella dell'immobile folgore della luce.
+E allo stesso modo, mentre possiamo, se vogliamo, vedere la Chiesa
+in mezzo a una folla di superstizioni mitraiche o manichee che si accapigliano
+e si uccidono a vicenda alla fine dell'Impero, mentre possiamo,
+se vogliamo, immaginare la Chiesa uccisa nella lotta e qualche
+altro culto fortuito a prenderne il posto, saremo tanto più sorpresi
+(e forse sconcertati) se la incontriamo duemila anni dopo
+sfrecciare attraverso i secoli come l'alata folgore del pensiero
+e dell'eterno entusiasmo; una cosa senza rivali né somiglianze;
+e ancora nuova quanto è antica.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_01" data-title="everlasting man — Chapter 3: The Man In The Cave (part 1)" data-chapter="The Man In The Cave" data-kind="excerpt"></span>
@@ -10232,6 +10673,20 @@ of facility and ease given by the mere suggestion of going slow;
 the sort of comfort that might be given to a nervous old woman
 travelling for the first [[Time|time]] in a motor-car.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I
+
+L'UOMO NELLA [[Cave|CAVERNA]]
+
+Lontano, in qualche strana costellazione entro cieli infinitamente remoti, vi è una piccola stella che forse un giorno gli astronomi scopriranno. O almeno, nei volti e nel contegno della maggior parte degli astronomi e degli uomini di scienza non ho mai potuto scorgere prova alcuna che l'abbiano scoperta; sebbene, a dire il vero, essi vi camminassero sopra da sempre, per tutto il [[Time|tempo]]. È una stella che trae fuori da sé piante assai strane e assai strani [[Animals|animali]]; e nessuno più strano degli uomini di scienza. Così, quantomeno, comincerei una [[history|storia]] del mondo, se dovessi seguire l'uso scientifico di aprire con un ragguaglio sull'universo astronomico. Cercherei di vedere anche questa terra dal di fuori, non con la trita insistenza sulla sua posizione relativa rispetto al sole, ma con qualche sforzo d'immaginazione per concepire la sua remota collocazione agli occhi di uno spettatore disumanizzato. Se non che io non credo che ci si debba disumanizzare per studiare l'umanità. Non credo che valga la pena di indugiare sulle distanze che si suppone [[Dwarf|impiccioliscano]] il mondo; anzi, trovo che ci sia qualcosa di un tantino volgare in questa idea di voler mortificare lo spirito con la mole. E poiché la prima idea non è praticabile, quella cioè di fare della terra un pianeta strano per renderla significativa, non mi abbasserò all'altro espediente di farne un piccolo pianeta per renderla insignificante. Preferirei insistere sul fatto che noi non sappiamo neppure che sia un pianeta, nel senso in cui sappiamo che è un luogo; e per giunta un luogo straordinarissimo. Questa è la nota che desidero far risuonare fin da principio, se non in chiave astronomica, almeno in qualche foggia più familiare.
+
+Una delle mie prime avventure, o disavventure, giornalistiche riguardò un commento a Grant Allen, il quale aveva scritto un libro sull'Evoluzione dell'Idea di Dio. Mi accadde di osservare che sarebbe stato assai più interessante se Dio avesse scritto un libro sull'evoluzione dell'idea di Grant Allen. E ricordo che il direttore obiettò al mio rilievo sostenendo che fosse blasfemo; il che, com'è naturale, mi divertì non poco. Poiché il bello, s'intende, era che non gli venne mai in mente di badare al titolo stesso del libro, il quale sì che era davvero blasfemo; giacché esso significava, tradotto in italiano: «Vi mostrerò come questa insensata fantasticheria che esista un Dio abbia preso a germogliare fra gli uomini». Il mio rilievo era invece rigorosamente pio e conveniente, poiché confessava il disegno divino perfino nelle sue manifestazioni all'apparenza più oscure o prive di senso. In quell'ora imparai molte cose, compreso il fatto che vi è qualcosa di puramente acustico in gran parte di quella riverenza di stampo agnostico. Il direttore non aveva colto il punto, perché nel titolo del libro la parola lunga veniva al principio e quella breve alla fine; mentre nei miei commenti la parola breve veniva al principio e gli procurava una specie di scossa. Ho notato che, se si mette una parola come Dio nella stessa frase con una parola come cane, questi vocaboli bruschi e angolosi colpiscono la gente come [[Pistol|colpi di pistola]]. Che si dica che Dio ha fatto il cane o che il cane ha fatto Dio non pare avere importanza; è soltanto una delle sterili dispute dei teologi troppo sottili. Ma finché si comincia con una parola lunga come evoluzione, tutto il resto scivolerà via senza danno; molto probabilmente il direttore non aveva letto per intero il titolo, giacché è un titolo piuttosto lungo ed egli era un uomo piuttosto indaffarato.
+
+Ma questo piccolo episodio mi è sempre rimasto nella mente come una sorta di [[Parable|parabola]]. La maggior parte delle storie moderne dell'umanità comincia con la parola evoluzione, e con una esposizione dell'evoluzione piuttosto prolissa, per la medesima ragione che operò in quel caso. C'è qualcosa di lento, di blando e di graduale in quella parola e perfino in quell'idea. In realtà, toccando queste cose primordiali, non è una parola molto pratica né un'idea molto proficua. Nessuno riesce a immaginare come il nulla possa mutarsi in qualcosa. Nessuno si avvicina di un pollice alla cosa spiegando come qualcosa possa mutarsi in qualcos'altro. È in verità assai più logico cominciare col dire «In principio Dio creò il cielo e la terra», anche se con ciò si intende soltanto «In principio una qualche potenza impensabile diede avvio a un qualche processo impensabile». Poiché Dio è per sua [[Nature|natura]] un nome di mistero, e nessuno ha mai supposto che l'uomo potesse immaginare come un mondo fosse creato, più di quanto potesse crearne uno. L'evoluzione, invece, viene davvero scambiata per una spiegazione. Ha la fatale qualità di lasciare in molte menti l'impressione che esse comprendano l'evoluzione e ogni altra cosa; proprio come molti di costoro vivono in una sorta d'illusione di aver letto l'Origine delle specie.
+
+Ma questa nozione di qualcosa di dolce e lento, come il salire di un pendio, è gran parte dell'illusione. È un'illogicità non meno che [[Well|pure]] un'illusione; giacché la lentezza non ha in realtà nulla a che vedere con la questione. Un evento non è intrinsecamente più intelligibile o inintelligibile a seconda del passo con cui procede. Per un uomo che non crede al miracolo, un miracolo lento sarebbe altrettanto incredibile quanto uno rapido. La [[Witch|maga]] greca può aver mutato i marinai in porci con un colpo di bacchetta. Ma vedere un gentiluomo di marina di nostra conoscenza somigliare ogni giorno un po' di più a un maiale, finché non finisse con quattro zampette e una coda arricciata, non sarebbe punto più rasserenante. Sarebbe forse alquanto più raccapricciante e [[Uncanny|perturbante]]. Il mago medievale può aver volato per l'aria dalla cima di una torre; ma vedere un vecchio signore passeggiare per l'aria, con fare agiato e indolente, sembrerebbe pur sempre reclamare qualche spiegazione. Eppure per tutta la trattazione razionalistica della [[history|storia]] corre questa curiosa e confusa idea che la difficoltà si eluda, o addirittura il mistero si elimini, indugiando sul mero ritardo o su qualcosa di dilatorio nel corso delle cose. Vi sarà qualcosa da dire su esempi particolari altrove; qui la questione è la falsa atmosfera di agevolezza e di comodità offerta dalla semplice suggestione dell'andare adagio; quella sorta di conforto che si potrebbe dare a una vecchietta nervosa che viaggia per la prima [[Time|volta]] in automobile.
 
 
 
@@ -10347,6 +10802,116 @@ have never even looked at their own term for what could really
 be learned from it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor H. G. Wells ha confessato di essere un [[Prophet|profeta]]; e in questa
+faccenda fu un [[Prophet|profeta]] a proprie spese. È curioso che la sua prima
+fiaba fosse una risposta compiuta al suo ultimo libro di [[history|storia]].
+La [[Machine|Macchina]] del [[Time|Tempo]] distruggeva in anticipo ogni comoda conclusione
+fondata sulla mera relatività del [[Time|tempo]]. In quel [[Sublime|sublime]] [[nightmare|incubo]]
+l'[[Hero|eroe]] vedeva gli alberi schizzare in alto come verdi razzi, e la vegetazione
+propagarsi a vista d'occhio come un verde incendio, oppure il sole
+sfrecciare per il cielo da oriente a occidente con la rapidità di una meteora.
+Eppure, nel suo modo di sentire, tali cose erano del tutto naturali quando
+avvenivano in fretta; e nel nostro modo di sentire sono altrettanto [[Supernatural|soprannaturali]]
+quando avvengono lentamente. La domanda ultima è perché avvengano affatto;
+e chiunque comprenda davvero quella domanda saprà
+che essa sempre è stata e sempre sarà una domanda religiosa;
+o comunque una domanda filosofica o metafisica.
+E di certo non riterrà la domanda risolta da una qualche
+sostituzione del mutamento graduale a quello brusco; o, in altre parole,
+da una questione meramente relativa, come quella della medesima storia dipanata lentamente o
+fatta scorrere in fretta, così come si può fare con qualunque storia al cinematografo
+girando una manovella.
+
+Ora, ciò che occorre a questi problemi dell'esistenza
+primitiva è qualcosa di più simile a uno spirito primitivo.
+Nell'evocare questa visione delle prime cose, chiederei
+al lettore di compiere con me una sorta di esperimento in semplicità.
+E per semplicità non intendo stupidità, bensì piuttosto quella sorta di
+chiarezza che vede cose come la vita anziché parole come l'evoluzione.
+A questo scopo sarebbe davvero meglio girare la manovella
+della [[Machine|Macchina]] del [[Time|Tempo]] un poco più in fretta e veder crescere l'erba
+e gli alberi slanciarsi verso il cielo, se quell'esperimento potesse
+contrarre e concentrare e rendere vivido l'esito dell'intera faccenda.
+Ciò che sappiamo, in un senso in cui non sappiamo nient'altro, è che gli
+alberi e l'erba crebbero davvero e che un certo numero di altre cose
+straordinarie di fatto accadono; che bizzarre creature si sostengono
+nell'aria vuota battendola con ventagli di svariate forme fantastiche;
+che altre bizzarre creature si dirigono vive sotto un carico
+di possenti acque; che altre bizzarre creature vanno attorno su quattro zampe,
+e che la più bizzarra creatura di tutte va attorno su due.
+Questi sono fatti e non teorie; e al loro confronto l'evoluzione
+e l'atomo e persino il sistema solare non sono che teorie.
+La materia, qui, è di [[history|storia]] e non di [[philosophy|filosofia]], sicché
+basterà notare che nessun filosofo nega che un mistero
+ancora si accompagni alle due grandi transizioni: l'origine dell'
+universo stesso e l'origine del principio della vita stessa.
+La maggior parte dei filosofi ha l'accortezza di aggiungere che un terzo mistero
+si accompagna all'origine dell'uomo stesso. In altre parole, un terzo
+ponte fu gettato su un terzo abisso dell'impensabile quando venne
+al mondo ciò che chiamiamo ragione e ciò che chiamiamo volontà.
+L'uomo non è semplicemente un'evoluzione, bensì piuttosto una rivoluzione.
+Che egli abbia una spina dorsale o altre parti su un disegno simile a quello degli [[Birds|uccelli]]
+e dei pesci è un fatto ovvio, quale che ne sia il significato.
+Ma se tentiamo di considerarlo, per così dire, come un quadrupede ritto
+sulle zampe posteriori, troveremo ciò che ne segue assai più fantastico
+e sovversivo che se stesse ritto sulla testa.
+
+Prenderò un solo esempio a servire d'introduzione alla storia dell'uomo.
+Esso illustra ciò che intendo dicendo che una certa fanciullesca schiettezza
+è necessaria per vedere la [[Truth|verità]] intorno all'[[Childhood|infanzia]] del mondo.
+Illustra ciò che intendo dicendo che un miscuglio di scienza
+popolare e di gergo giornalistico ha confuso i fatti intorno alle
+prime cose, sicché non riusciamo a vedere quale di essi venga davvero per primo.
+Illustra, sebbene in una sola comoda illustrazione,
+tutto ciò che intendo con la necessità di vedere le nette differenze
+che danno forma alla [[history|storia]], anziché restarne sommersi
+in tutte queste generalizzazioni sulla lentezza e sull'uniformità.
+Poiché noi abbiamo davvero bisogno, per dirla con la frase del signor Wells, di un abbozzo di [[history|storia]].
+Ma possiamo azzardarci a dire, per dirla con la frase del signor Mantalini, che questa
+[[history|storia]] evoluzionistica non ha abbozzo, o è un maledetto abbozzo.
+Ma, soprattutto, illustra ciò che intendo dicendo che quanto più
+guardiamo davvero all'uomo come a un animale, tanto meno egli somiglierà a uno.
+
+Oggi tutti i nostri romanzi e giornali si troveranno brulicanti di
+innumerevoli allusioni a un personaggio popolare chiamato l'uomo delle [[Cave|caverne]]. Egli
+ci pare del tutto familiare, non solo come personaggio pubblico
+ma come personaggio privato. La sua psicologia è presa sul serio
+in considerazione nella narrativa psicologica e nella medicina psicologica.
+Per quanto riesco a capire, la sua principale occupazione nella vita era
+malmenare la moglie, o trattare le donne in genere con ciò che, a quanto
+credo, è noto nel mondo del film come «roba pesante».
+Non mi è mai capitato d'imbattermi nella prova di quest'idea;
+e non so su quali diari primitivi o resoconti preistorici di [[divorce|divorzio]]
+essa si fondi. Né, come ho spiegato altrove, ho mai
+potuto scorgerne la probabilità, nemmeno considerata a priori.
+Ci vien sempre detto, senza alcuna spiegazione né autorità, che l'uomo
+primitivo brandiva una clava e atterrava la donna prima di portarla via.
+Ma, su ogni analogia animale, parrebbe una modestia e una riluttanza
+quasi morbose, da parte della signora, insistere sempre
+per essere atterrata prima di acconsentire a farsi portare via.
+E ripeto che non riuscirò mai a comprendere perché, quando il maschio
+era così rozzo, la femmina dovesse essere così raffinata.
+L'uomo delle [[Cave|caverne]] può essere stato un bruto, ma non c'è ragione per cui dovesse
+essere stato più brutale delle bestie brute. E gli amori delle giraffe
+e la [[Romance|romanza]] [[River|fluviale]] degl'ippopotami si compiono senza nulla
+di questo preliminare parapiglia o baccano. L'uomo delle [[Cave|caverne]] può essere stato
+non migliore dell'[[Cave|orso]] delle caverne; ma l'orsa [[Child|bambina]], così celebre
+nell'innologia, non è educata con una simile inclinazione allo zitellaggio.
+Insomma, questi particolari della vita domestica delle [[Cave|caverne]] mi lasciano
+perplesso tanto sull'ipotesi rivoluzionaria quanto su quella statica;
+e in ogni caso vorrei esaminare le prove che li sostengono,
+ma sfortunatamente non sono mai riuscito a trovarle.
+Ma la cosa curiosa è questa: che mentre diecimila lingue
+di pettegolezzo più o meno scientifico o letterario parevano parlare
+tutte in una volta di questo sventurato individuo, sotto il titolo di uomo delle [[Cave|caverne]],
+l'unico ambito in cui è davvero pertinente e sensato
+parlare di lui come dell'uomo delle [[Cave|caverne]] è stato comparativamente trascurato.
+La gente ha usato questo termine vago in venti modi vaghi, ma non ha
+mai nemmeno guardato il proprio termine per ciò che davvero se ne
+potrebbe apprendere.
+
 
 
 <span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_03" data-title="everlasting man — Chapter 3: The Man In The Cave (part 3)" data-chapter="The Man In The Cave" data-kind="excerpt"></span>
@@ -10461,6 +11026,14 @@ without taking away the character of the [[Cave|cave]]-man, about whom we
 know next to nothing except what we can gather from a few harmless
 and pleasing pictures on a wall.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In realtà, la gente si è interessata di ogni cosa riguardante l'uomo delle [[Cave|caverne]], tranne che di ciò che egli faceva nella [[Cave|caverna]]. Ora, si dà il caso che di ciò che egli faceva nella [[Cave|caverna]] esista qualche prova concreta. È ben poca cosa, come tutte le prove preistoriche, ma riguarda il vero uomo delle [[Cave|caverne]] e la sua [[Cave|caverna]], e non l'uomo delle [[Cave|caverne]] della letteratura con la sua clava. E gioverà al nostro senso della realtà considerare in tutta semplicità quale sia questa prova autentica, senza spingerci oltre. Ciò che si trovò nella [[Cave|caverna]] non fu la clava, l'orribile clava insanguinata, intaccata da tante tacche quante erano le donne che aveva accoppato. La [[Cave|caverna]] non era la Camera di Barbablù piena degli scheletri di mogli trucidate; non era piena di teschi femminili disposti in file e tutti spaccati come uova. Era qualcosa di del tutto slegato, nell'uno o nell'altro senso, da tutte le frasi moderne, dalle implicazioni filosofiche e dalle voci letterarie che confondono per noi l'intera questione. E se desideriamo vedere qual è davvero questo autentico scorcio del mattino del mondo, sarà assai meglio concepire perfino la storia della sua scoperta come una qualche leggenda della terra del mattino. Sarebbe assai meglio raccontare la vicenda di ciò che realmente si trovò con la stessa semplicità con cui si narra la storia degli eroi che scoprono il Vello d'Oro o i Giardini delle Esperidi, se così potessimo sfuggire da una nebbia di teorie controverse verso i colori limpidi e i contorni netti di una tale [[Dawn|alba]]. Gli antichi poeti [[Epic|epici]] sapevano almeno raccontare una storia, magari una storia esagerata, ma mai una storia contorta, mai una storia torturata e strappata alla propria forma per adattarsi a teorie e filosofie inventate secoli dopo. Sarebbe [[Well|bene]] che gli studiosi moderni descrivessero le loro scoperte con lo stile narrativo scarno dei primi viaggiatori, senza tutte quelle lunghe parole allusive che sono cariche di implicazioni e suggestioni irrilevanti. Allora potremmo renderci conto esattamente di ciò che davvero sappiamo dell'uomo delle [[Cave|caverne]], o quantomeno della [[Cave|caverna]].
+
+Un sacerdote e un ragazzo entrarono, qualche tempo fa, in una cavità tra le colline, e s'inoltrarono in una sorta di galleria sotterranea che conduceva a un labirinto di corridoi di roccia così sigillati e segreti. Strisciarono attraverso fenditure che parevano quasi impraticabili, s'insinuarono per cunicoli che avrebbero potuto essere scavati da talpe, si calarono in buche disperate come pozzi, parevano seppellirsi vivi sette volte, di là da ogni [[Hope|speranza]] di [[Resurrection|resurrezione]]. Ma tutto ciò non è che l'ordinaria consuetudine di ogni esplorazione così ardimentosa; ciò che qui occorre è invece qualcuno che sappia porre simili storie sotto quella luce primigenia in cui esse non sono affatto ordinarie. C'è, per esempio, qualcosa di stranamente simbolico nel caso volle che i primi intrusi in quel mondo sommerso fossero un sacerdote e un ragazzo, i tipi dell'antichità e della giovinezza del mondo. Ma qui mi preme ancor più il simbolismo del ragazzo che quello del sacerdote. Chiunque ricordi la propria fanciullezza non ha bisogno che gli si dica cosa potesse significare per un ragazzo entrare, come Peter Pan, sotto un tetto fatto delle radici di tutti gli alberi, e scendere sempre più giù, fino a raggiungere ciò che William Morris chiamava le radici stesse delle [[Mountains|montagne]]. Si supponga che qualcuno, con quel realismo semplice e non guastato che è parte dell'[[innocence|innocenza]], compia quel [[Journey|viaggio]] fino in fondo, non per amore di ciò che avrebbe potuto dedurre o dimostrare in qualche polverosa polemica da rivista, ma semplicemente per amore di ciò che avrebbe potuto vedere. Ciò che egli vide alla fine fu una caverna tanto lontana dalla luce del giorno che avrebbe potuto essere la leggendaria caverna di Domdaniel, che si trovava sotto il fondo del mare. Questa segreta camera di roccia, illuminata dopo la sua lunga [[Night|notte]] di ere innumerevoli, rivelò sulle sue pareti contorni ampi e sparsi, ravvivati da terre colorate; e quando ne seguirono le linee, essi riconobbero, attraverso quel vasto vuoto delle ere, il movimento e il gesto della mano di un uomo. Erano disegni o pitture di [[Animals|animali]]; ed erano stati disegnati o dipinti non solo da un uomo, ma da un [[Artist|artista]]. Sotto qualunque arcaica limitazione, essi rivelavano quell'[[Love|amore]] per la lunga linea slanciata o per la lunga linea ondeggiante che ogni uomo il quale abbia mai disegnato, o tentato di disegnare, saprà riconoscere; e riguardo alla quale nessun [[Artist|artista]] permetterà mai di essere contraddetto da alcuno scienziato. Rivelavano lo spirito sperimentale e avventuroso dell'[[Artist|artista]], lo spirito che non evita ma tenta le cose difficili; come là dove il disegnatore aveva rappresentato il gesto del cervo quando volge di scatto la testa all'indietro e fiuta verso la propria coda, un gesto abbastanza familiare nel [[Horse|cavallo]]. Ma vi sono molti pittori d'animali moderni che si troverebbero non poco impegnati a renderlo fedelmente. In questo e in venti altri particolari è chiaro che l'[[Artist|artista]] aveva osservato gli [[Animals|animali]] con un certo interesse e, presumibilmente, con un certo piacere. In tal senso parrebbe che egli non fosse soltanto un [[Artist|artista]], ma anche un naturalista; quella specie di naturalista che è davvero naturale.
+
+Ora è superfluo osservare, se non di sfuggita, che non v'è nulla nell'atmosfera di quella [[Cave|caverna]] che suggerisca la tetra e pessimistica atmosfera di quella giornalistica [[Cave|caverna]] dei venti, che soffia e mugghia intorno a noi con echi innumerevoli a proposito dell'uomo delle [[Cave|caverne]]. Per quanto un carattere umano possa essere adombrato da simili tracce del passato, quel carattere umano è del tutto umano, e persino umanissimo. Non è certo l'ideale di un carattere disumano, come l'astrazione invocata dalla scienza popolare. Quando romanzieri, pedagoghi e psicologi di ogni sorta parlano dell'uomo delle [[Cave|caverne]], non lo concepiscono mai in rapporto a qualcosa che sia realmente nella [[Cave|caverna]]. Quando il realista del [[Novel|romanzo]] erotico scrive: «Scintille rosse danzavano nel cervello di Dagmar Doubledick; egli sentiva lo spirito dell'uomo delle [[Cave|caverne]] destarsi dentro di sé», i lettori del romanziere resterebbero assai delusi se Dagmar se ne andasse soltanto a disegnare grandi immagini di mucche sulla parete del salotto. Quando lo psicanalista scrive a un paziente: «Gli istinti sommersi dell'uomo delle [[Cave|caverne]] la spingono senza dubbio a soddisfare un impulso violento», egli non allude all'impulso di dipingere ad [[Water|acquerello]]; né a fare coscienziosi studi sul modo in cui il bestiame volge la testa mentre pascola. Eppure sappiamo per certo che l'uomo delle [[Cave|caverne]] faceva queste cose miti e [[Innocent|innocenti]]; e non abbiamo il più minuscolo granello di prova che egli facesse alcuna di quelle cose violente e feroci. In altre parole, l'uomo delle [[Cave|caverne]] così come comunemente ci viene presentato non è che un mito, o piuttosto un guazzabuglio; giacché un mito ha almeno un immaginoso contorno di [[Truth|verità]]. L'intero modo corrente di parlarne è semplicemente una confusione e un fraintendimento, fondato su nessuna sorta di prova scientifica e apprezzato solo come pretesto per un umore assai moderno di anarchia. Se un qualche signore ha voglia di malmenare una donna, può bene essere un mascalzone senza per questo togliere la reputazione all'uomo delle [[Cave|caverne]], del quale non sappiamo quasi nulla, tranne ciò che possiamo desumere da poche innocue e gradevoli immagini su una parete.
 
 
 
@@ -10581,6 +11154,14 @@ Something of division and disproportion has appeared; and it is unique.
 Art is the signature of man.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma non è questo il punto che riguarda le pitture, né la morale particolare che se ne deve trarre. Quella morale è qualcosa di assai più vasto e più semplice, tanto vasto e semplice che, a enunciarla per la prima volta, suonerà puerile. E in verità è puerile nel senso più alto; ed è per questo che in questo apologo l'ho in un certo senso vista con gli occhi di un [[Child|bambino]]. È il più grande di tutti i fatti che realmente si presentano al ragazzo nella caverna; e forse è troppo grande per essere visto. Se il ragazzo faceva parte del gregge del sacerdote, si può presumere che fosse stato educato a una certa qualità di buon senso; quel buon senso che spesso ci giunge sotto forma di tradizione. In tal caso egli riconoscerebbe semplicemente l'opera dell'uomo primitivo come l'opera di un uomo, interessante ma per nulla incredibile in quanto primitiva. Vedrebbe ciò che c'era da vedere; e non si lascerebbe tentare a vedere ciò che non c'era, spinto da qualche eccitazione evoluzionistica o da qualche speculazione alla moda. Se avesse sentito parlare di simili cose, ammetterebbe, naturalmente, che le speculazioni potrebbero essere vere e non erano incompatibili con i fatti che erano veri. L'[[Artist|artista]] può aver avuto un altro lato del suo carattere oltre a quello che egli ha [[Alone|soltanto]] affidato alla memoria nelle sue opere d'arte. L'uomo primitivo può aver provato piacere tanto a picchiare le donne [[Well|quanto]] a disegnare [[Animals|animali]]; tutto ciò che possiamo dire è che i disegni testimoniano l'uno ma non l'altro. Può darsi che, quando l'uomo delle [[Cave|caverne]] ha finito di saltare addosso a sua madre, o a sua moglie a seconda dei casi, ami udire il gorgoglio del ruscelletto, e anche osservare i cervi che scendono a bere al ruscello. Queste cose non sono impossibili, ma sono irrilevanti. Il buon senso del [[Child|bambino]] potrebbe limitarsi a imparare dai fatti ciò che i fatti hanno da insegnare; e le pitture nella [[Cave|caverna]] sono press'a poco tutti i fatti che ci sono. Per quanto quella prova permette, il [[Child|bambino]] sarebbe giustificato nel supporre che un uomo avesse rappresentato [[Animals|animali]] con la roccia e l'ocra rossa per la stessa ragione per cui egli stesso soleva tentare di rappresentare [[Animals|animali]] col carboncino e il [[chalk|gesso]] rosso. L'uomo aveva disegnato un cervo proprio come il [[Child|bambino]] aveva disegnato un [[Horse|cavallo]]; perché era divertente. L'uomo aveva disegnato un cervo con la testa voltata come il [[Child|bambino]] aveva disegnato un maiale con gli occhi chiusi; perché era difficile. Il [[Child|bambino]] e l'uomo, essendo entrambi umani, sarebbero uniti dalla fratellanza degli uomini; e la fratellanza degli uomini è ancor più nobile quando getta un ponte sull'abisso delle età che quando ne getta uno soltanto sulla voragine delle classi. Ma in ogni caso non vedrebbe alcuna prova dell'uomo delle [[Cave|caverne]] del rozzo evoluzionismo; perché non ce n'è alcuna da vedere. Se qualcuno gli dicesse che le pitture erano state tutte disegnate da san Francesco d'Assisi per puro e santo [[Love|amore]] degli [[Animals|animali]], non ci sarebbe nulla nella [[Cave|caverna]] a contraddirlo.
+
+In verità conobbi una volta una signora che, mezzo per scherzo, avanzò l'ipotesi che la [[Cave|caverna]] fosse un asilo, in cui si mettevano i bambini perché fossero particolarmente al sicuro, e che gli [[Animals|animali]] colorati fossero dipinti sulle pareti per divertirli; press'a poco come le figure di elefanti e giraffe adornano una moderna scuola per l'infanzia. E per quanto questo non fosse che una facezia, richiama pur l'attenzione su alcune altre supposizioni che facciamo fin troppo prontamente. Le pitture non provano nemmeno che gli uomini delle [[Cave|caverne]] vivessero nelle caverne, non più di quanto la scoperta di una cantina di vini a Balham (molto tempo dopo che quel sobborgo fosse stato distrutto dall'ira umana o divina) proverebbe che la borghesia vittoriana viveva interamente sottoterra. La [[Cave|caverna]] può aver avuto uno scopo speciale come la cantina; può essere stata un santuario religioso o un rifugio in tempo di guerra o il luogo di ritrovo di una società segreta o ogni sorta di cose. Ma è del tutto vero che la sua decorazione artistica ha molto più l'atmosfera di una stanza dei bambini che di alcuno di questi incubi di furore anarchico e di [[Fear|paura]]. Ho immaginato un [[Child|bambino]] in piedi nella [[Cave|caverna]]; ed è facile immaginare qualunque [[Child|bambino]], moderno o incommensurabilmente remoto, mentre fa un gesto vivo come per accarezzare le bestie dipinte sulla parete. In quel gesto vi è un presagio, come vedremo più avanti, di un'altra caverna e di un altro [[Child|bambino]].
+
+Ma supponiamo che il ragazzo non fosse stato istruito da un sacerdote ma da un professore, da uno di quei professori che riducono la relazione tra gli uomini e le bestie a una semplice variazione evolutiva. Supponiamo che il ragazzo vedesse se stesso, con la stessa semplicità e sincerità, come un semplice Mowgli che corre col branco della [[Nature|natura]] e grossolanamente indistinguibile dagli altri salvo che per una variazione relativa e recente. Quale sarebbe per lui la lezione più semplice di quello strano libro illustrato di pietra? Dopo tutto, si ridurrebbe a questo: che aveva scavato molto in profondità e trovato il luogo dove un uomo aveva disegnato l'immagine di una renna. Ma dovrebbe scavare ben più a fondo prima di trovare un luogo dove una renna avesse disegnato l'immagine di un uomo. Questo suona come un truismo, ma in questo contesto è davvero una [[Truth|verità]] tremenda. Potrebbe scendere a profondità impensabili, potrebbe sprofondare in continenti sommersi strani quanto [[Stars|stelle]] remote, potrebbe ritrovarsi nell'interno del mondo lontano dagli uomini quanto l'altra faccia della [[Moon|luna]]; potrebbe vedere in quei freddi abissi o in quelle colossali terrazze di pietra, tracciate nel debole geroglifico del fossile, le rovine di perdute dinastie di vita biologica, più simili alle rovine di creazioni successive e di universi separati che alle tappe della storia di uno solo. Troverebbe la traccia di mostri che si sviluppano ciecamente in direzioni al di fuori di tutta la nostra comune immagine del pesce e dell'uccello; brancolando e afferrando e toccando la vita con ogni stravagante allungamento di corno e di lingua e di tentacolo; facendo crescere una foresta di fantastiche caricature dell'artiglio e della pinna e del dito. Ma in nessun luogo troverebbe un dito che avesse tracciato una sola linea significativa sulla sabbia; in nessun luogo un artiglio che avesse anche solo cominciato a graffiare il debole accenno di una forma. A ogni apparenza, la cosa sarebbe altrettanto impensabile in tutte quelle innumerevoli variazioni cosmiche di eoni dimenticati quanto lo sarebbe nelle bestie e negli [[Birds|uccelli]] sotto i nostri occhi. Il [[Child|bambino]] non si aspetterebbe di vederla, più di quanto si aspetterebbe di veder il gatto graffiare sul muro una vendicativa caricatura del cane. Il buon senso infantile impedirebbe al più evoluzionista dei [[Child|bambini]] di aspettarsi di vedere qualcosa del genere; eppure nelle tracce dei rozzi e da poco evoluti antenati dell'umanità egli avrebbe visto esattamente quello. Deve certo colpirlo come strano che uomini tanto remoti da lui siano così vicini, e che bestie tanto vicine a lui siano così remote. Alla sua semplicità deve sembrare quanto meno singolare che non riesca a trovare alcuna traccia dell'inizio di alcuna arte tra alcun [[Animals|animale]]. Questa è la lezione più semplice da imparare nella caverna delle pitture colorate; solo che è troppo semplice per essere imparata. È la semplice [[Truth|verità]] che l'uomo differisce dai bruti per natura e non per grado; e la prova di ciò è qui: che suona come un truismo dire che l'uomo più primitivo disegnò l'immagine di una scimmia, e suona come una barzelletta dire che la scimmia più intelligente disegnò l'immagine di un uomo. Qualcosa di divisione e di sproporzione è comparso; ed è unico. L'arte è la firma dell'uomo.
+
 
 
 <span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_05" data-title="everlasting man — Chapter 3: The Man In The Cave (part 5)" data-chapter="The Man In The Cave" data-kind="excerpt"></span>
@@ -10682,6 +11263,14 @@ This is realised by the whole popular instinct called religion,
 until disturbed by pedants, especially the laborious pedants of the
 Simple Life.  The most sophistical of all sophists are gymnosophists.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa è la sorta di semplice [[Truth|verità]] con cui una storia delle origini dovrebbe davvero cominciare. L'evoluzionista se ne sta a fissare, nella caverna dipinta, le cose che sono troppo grandi per essere viste e troppo semplici per essere comprese. Tenta di dedurre ogni sorta di altre cose indirette e dubbie dai particolari delle immagini, perché non riesce a scorgere il significato primario dell'insieme; sottili e teoriche deduzioni sull'assenza di religione o sulla presenza di superstizione; sul [[government|governo]] tribale e sulla caccia e sul sacrificio umano e su Dio sa cos'altro. Nel capitolo seguente cercherò di rintracciare con qualche dettaglio in più la controversa questione di queste origini preistoriche delle idee umane e specialmente dell'idea religiosa. Qui prendo soltanto questo singolo caso della [[Cave|caverna]] come una sorta di simbolo del genere più semplice di [[Truth|verità]] con cui la storia dovrebbe cominciare. Tutto sommato, il fatto principale che la testimonianza degli uomini della renna attesta, insieme a tutte le altre testimonianze, è che l'uomo della renna sapeva disegnare e la renna no. Se l'uomo della renna era altrettanto animale quanto la renna, tanto più straordinario era che egli potesse fare ciò che tutti gli altri [[Animals|animali]] non potevano. Se era un prodotto ordinario della crescita biologica, come qualsiasi altra bestia o uccello, tanto più straordinario è che non somigliasse minimamente ad alcun'altra bestia o uccello. Egli appare piuttosto più [[Supernatural|soprannaturale]] come prodotto naturale che come prodotto [[Supernatural|soprannaturale]].
+
+Ma ho cominciato questa storia nella [[Cave|caverna]], come la [[Cave|caverna]] delle speculazioni di Platone, perché essa è una sorta di modello dell'errore delle introduzioni e delle prefazioni puramente evoluzionistiche. È inutile cominciare col dire che tutto fu lento e graduale e mera questione di sviluppo e di grado. Poiché nella cosa più piana, come le immagini, non v'è in realtà traccia alcuna di un simile sviluppo o grado. Le scimmie non cominciarono le immagini e gli uomini non le portarono a compimento; il Pithecanthropus non disegnò male una renna e l'Homo Sapiens non la disegnò [[Well|bene]]. Gli [[Animals|animali]] superiori non disegnarono ritratti sempre migliori; il cane non dipinse meglio nel suo periodo migliore che nella sua precoce cattiva maniera di sciacallo; il [[Horse|cavallo]] selvaggio non era un impressionista e il [[Horse|cavallo]] da corsa un post-impressionista. Tutto ciò che possiamo dire di questa nozione di riprodurre le cose in [[Shadow|ombra]] o in forma rappresentativa è che essa non esiste in alcun luogo della [[Nature|natura]] tranne che nell'uomo; e che non possiamo nemmeno parlarne senza trattare l'uomo come qualcosa di separato dalla [[Nature|natura]]. In altre parole, ogni sana specie di [[history|storia]] deve cominciare con l'uomo in quanto uomo, una cosa che sta assoluta e [[Alone|sola]]. Come sia giunto là, o invero come qualsiasi altra cosa sia giunta là, è faccenda per teologi e filosofi e scienziati, non per storici. Ma un eccellente caso di prova di questo isolamento e mistero è la questione dell'impulso all'arte. Questa creatura era veramente diversa da tutte le altre creature; perché era un creatore oltre che una creatura. Nulla, in tal senso, poteva essere fatto a immagine di altro che dell'immagine dell'uomo. Ma la [[Truth|verità]] è così vera che, perfino in assenza di ogni credenza religiosa, essa deve essere assunta sotto forma di qualche principio morale o metafisico. Nel capitolo seguente vedremo come questo principio si applichi a tutte le ipotesi storiche e alle etiche evoluzionistiche ora di moda; alle origini del [[government|governo]] tribale o della credenza mitologica. Ma l'esempio più chiaro e più comodo da cui partire è questo, così diffuso, di ciò che l'uomo della [[Cave|caverna]] realmente fece nella sua [[Cave|caverna]]. Significa che in un modo o nell'altro una cosa nuova era apparsa nella [[Night|notte]] cavernosa della [[Nature|natura]], una mente che è come uno [[Mirror|specchio]]. È come uno [[Mirror|specchio]] perché è veramente una cosa di riflessione. È come uno [[Mirror|specchio]] perché in esso [[Alone|soltanto]] tutte le altre forme possono essere vedute come ombre splendenti in una visione. Soprattutto, è come uno [[Mirror|specchio]] perché è l'unica cosa del suo genere. Altre cose possono somigliargli o somigliarsi a vicenda in vari modi; altre cose possono superarlo o superarsi a vicenda in vari modi; proprio come, tra le suppellettili di una stanza, una tavola può essere rotonda come uno [[Mirror|specchio]] o una credenza può essere più grande di uno [[Mirror|specchio]]. Ma lo [[Mirror|specchio]] è l'unica cosa che può contenerle tutte. L'uomo è il microcosmo; l'uomo è la misura di tutte le cose; l'uomo è l'immagine di Dio. Queste sono le uniche vere lezioni da apprendere nella [[Cave|caverna]], ed è [[Time|tempo]] di abbandonarla per la [[Road|strada]] aperta.
+
+Sarà [[Well|bene]], tuttavia, riassumere in questo punto una volta per tutte che cosa si intenda dicendo che l'uomo è a un tempo l'eccezione a ogni cosa e lo [[Mirror|specchio]] e la misura di tutte le cose. Ma per vedere l'uomo qual è, è necessario ancora una volta tenersi stretti a quella semplicità che sa liberarsi delle nubi accumulate della sofisticheria. La più semplice [[Truth|verità]] intorno all'uomo è che egli è un essere assai strano; quasi nel senso di essere uno straniero sulla terra. In tutta sobrietà, egli ha molto più l'apparenza esteriore di uno che rechi abitudini aliene da un'altra terra che non di un mero prodotto di questa. Ha un vantaggio ingiusto e uno svantaggio ingiusto. Non sa [[Sleep|dormire]] nella propria pelle; non sa fidarsi dei propri istinti. È a un tempo un creatore che muove mani e dita miracolose e una specie di storpio. È avvolto in bende artificiali chiamate abiti; è puntellato su stampelle artificiali chiamate mobili. La sua mente ha le stesse dubbie libertà e gli stessi selvaggi limiti. [[Alone|Solo]] fra gli [[Animals|animali]], egli è scosso dalla bella [[Madness|follia]] chiamata riso; come se avesse intravisto qualche segreto nella forma stessa dell'universo, nascosto all'universo medesimo. [[Alone|Solo]] fra gli [[Animals|animali]], egli sente il bisogno di distogliere il proprio pensiero dalle radici reali del proprio essere corporeo; di nasconderle come al cospetto di qualche possibilità più alta che crea il mistero della vergogna. Che lodiamo queste cose come naturali all'uomo o le biasimiamo come artificiali nella [[Nature|natura]], esse rimangono nel medesimo senso uniche. Ciò è avvertito da tutto l'istinto popolare chiamato religione, finché non venga turbato dai pedanti, specialmente dai laboriosi pedanti della Vita Semplice. I più sofistici di tutti i sofisti sono i gimnosofisti.
 
 
 
@@ -10790,6 +11379,14 @@ of another order, a man may be an ordinary thing.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non è naturale vedere nell'uomo un prodotto naturale. Non è buon senso chiamare l'uomo un oggetto comune della campagna o del litorale. Non è vedere con occhio retto scorgere in lui un animale. Non è sano di mente. È un peccato contro la luce; contro quella piena luce del giorno che è la proporzione, principio di ogni realtà. Vi si arriva forzando un poco le cose, costruendo un'arringa, selezionando artificiosamente una certa distribuzione di luci e di ombre, mettendo in risalto le cose minori o più basse che per caso possono somigliargli. La cosa solida che sta ritta nel sole, quella intorno a cui possiamo camminare e che possiamo vedere da ogni lato, è tutt'altra faccenda. Ed è pure del tutto straordinaria, e quanti più lati ne vediamo, tanto più straordinaria appare. Non è affatto, con enfasi lo si dica, una cosa che segua o scaturisca naturalmente da qualcos'altro. Se immaginassimo che un'intelligenza disumana o impersonale avesse potuto avvertire fin da principio la [[Nature|natura]] generale del mondo non umano abbastanza da prevedere che le cose si sarebbero evolute nel modo, qualunque esso fosse, in cui in effetti si evolsero, non ci sarebbe stato proprio nulla, in tutto quel mondo naturale, capace di preparare una simile mente a una simile innaturale novità. A una tale mente l'uomo non sarebbe di certo apparso come una mandria su cento mandrie che trova un pascolo più ricco, o come una [[Swallow|rondine]] su cento rondini che fa [[Summer|estate]] sotto un cielo straniero. Non sarebbe stato nella stessa scala e a stento nella stessa dimensione. Con altrettanta verità potremmo dire che non sarebbe stato nemmeno nello stesso universo. Somiglierebbe piuttosto al vedere una mucca su cento mucche saltare d'un tratto oltre la [[Moon|luna]], o un maiale su cento maiali metter le ali in un lampo e volare. Non si tratterebbe del bestiame che trova il proprio terreno da pascolo, ma che si costruisce le proprie stalle; non di una [[Swallow|rondine]] che fa [[Summer|estate]], ma che si fabbrica una [[Summer|casa d'estate]] — una casa da villeggiatura. Giacché il fatto stesso che gli [[Birds|uccelli]] costruiscano i nidi è una di quelle somiglianze che acuiscono la differenza sconcertante. Il fatto stesso che un uccello sappia spingersi fino a costruire un nido, e non sappia andare oltre, prova che egli non ha una mente come l'uomo ha una mente; lo prova più compiutamente che se non costruisse nulla del tutto. Se non costruisse nulla, potrebbe forse essere un filosofo della scuola quietista o buddhista, indifferente a tutto tranne che alla mente interiore. Ma quando costruisce come costruisce, ed è soddisfatto, e canta a gran voce per la soddisfazione, allora sappiamo che tra lui e noi c'è davvero un velo invisibile come una lastra di vetro, come la [[Window|vetrata]] contro cui un uccello si dibatterà invano. Ma supponiamo che il nostro astratto osservatore vedesse uno degli [[Birds|uccelli]] cominciare a costruire come costruiscono gli uomini. Supponiamo che in uno spazio di [[Time|tempo]] incredibilmente breve vi fossero sette stili d'architettura per un solo stile di nido. Supponiamo che l'uccello scegliesse con cura ramoscelli biforcuti e [[Leaves|foglie]] appuntite per esprimere la pungente pietà del gotico, ma passasse a larghe fronde e a fango nero quando cercasse, in un umore più cupo, di evocare le pesanti colonne di Bel e di Astaroth, facendo davvero del suo nido uno dei giardini pensili di Babilonia. Supponiamo che l'uccello facesse piccole statue d'argilla di [[Birds|uccelli]] illustri nelle lettere o nella politica e le rizzasse dinanzi al nido. Supponiamo che un uccello su mille [[Birds|uccelli]] cominciasse a fare una delle mille cose che l'uomo aveva già fatto persino nel mattino del mondo; e possiamo esser ben certi che l'osservatore non riguarderebbe un tale uccello come una semplice varietà evolutiva degli altri [[Birds|uccelli]]; lo riguarderebbe come un pennuto selvatico davvero spaventoso; forse come un uccello di malaugurio, di certo come un augurio. Quell'uccello direbbe agli auguri non di qualcosa che sarebbe accaduto, ma di qualcosa che era accaduto. Quel qualcosa sarebbe l'apparire di una mente con una nuova dimensione di profondità; una mente come quella dell'uomo. Se non esiste Dio, nessun'altra mente avrebbe potuto concepibilmente prevederlo.
+
+Ora, di fatto, non c'è l'[[Shadow|ombra]] di una prova che questa cosa si sia mai evoluta affatto. Non c'è una particella di prova che questa transizione sia avvenuta lentamente, né tantomeno che sia avvenuta naturalmente. In senso strettamente scientifico, semplicemente non sappiamo nulla di nulla su come essa sia cresciuta, o se sia cresciuta, o che cosa sia. Vi può essere una traccia spezzata di pietra e d'osso che vagamente suggerisce lo sviluppo del [[Body|corpo]] umano. Non c'è nulla che suggerisca, neppure vagamente, un simile sviluppo di questa mente umana. Non era, e fu: non sappiamo in quale istante o in quale infinità d'anni. Qualcosa accadde; e ha tutta l'apparenza di una transazione al di fuori del [[Time|tempo]]. Non ha perciò nulla a che vedere con la [[history|storia]] nel senso ordinario. Lo storico deve prenderla, o qualcosa di simile, come un dato di fatto; non è compito suo, come storico, spiegarla. Ma se non può spiegarla come storico, non la spiegherà come biologo. In nessuno dei due casi vi è per lui disdoro nell'accettarla senza spiegarla; poiché essa è una realtà, e la [[history|storia]] e la biologia hanno a che fare con le realtà. È del tutto giustificato nel confrontarsi con calma col maiale alato e con la mucca che saltò oltre la [[Moon|luna]], per il solo fatto che sono accaduti. Può ragionevolmente accettare l'uomo come un fenomeno bizzarro, perché accetta l'uomo come un fatto. Può stare perfettamente a suo agio in un mondo pazzo e sconnesso, o in un mondo capace di produrre una cosa tanto pazza e sconnessa. Giacché la realtà è una cosa in cui tutti possiamo riposare, anche se pare a stento imparentata con qualsiasi altra cosa. La cosa è lì; e ciò basta ai più di noi. Ma se davvero vogliamo sapere come essa possa concepibilmente essere giunta lì, se davvero desideriamo vederla imparentata realisticamente con le altre cose, se davvero insistiamo nel vederla evolversi dinanzi ai nostri stessi occhi da un ambiente più prossimo alla sua propria [[Nature|natura]], allora è di certo verso cose ben diverse che dobbiamo volgerci. Dovremo destare memorie assai strane e tornare a [[Dreams|sogni]] assai semplici, se [[Desire|desideriamo]] un'origine capace di fare dell'uomo qualcosa di diverso da un [[Monster|mostro]]. Avremo scoperto cause assai diverse prima che egli divenga una creatura della causazione; e invocato un'altra autorità per mutarlo in qualcosa di ragionevole, o anche solo in qualcosa di probabile. Da quella parte giace tutto ciò che è al tempo stesso tremendo e familiare e dimenticato, con folle di terribili volti e braccia di fuoco. Possiamo accettare l'uomo come un fatto, se ci accontentiamo di un fatto inspiegato. Possiamo accettarlo come un animale, se sappiamo convivere con un animale favoloso. Ma se ci occorrono a ogni costo la sequenza e la necessità, allora dobbiamo davvero predisporre un preludio e un crescendo di miracoli sempre più alti, affinché, introdotto con impensabili tuoni in tutti i sette cieli di un altro ordine, un uomo possa essere una cosa ordinaria.
+
+* * *
 
 
 
@@ -10902,6 +11499,18 @@ in a narrative or the hole in an argument, of taking a walk with
 a non-sequitur or dining with an undistributed middle.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+II
+
+I PROFESSORI E GLI UOMINI PREISTORICI
+
+La scienza è debole riguardo a queste cose preistoriche in un modo che quasi non è mai stato notato. La scienza, le cui moderne meraviglie tutti ammiriamo, riesce nei suoi intenti aggiungendo incessantemente ai propri dati. In tutte le invenzioni pratiche, nella maggior parte delle scoperte naturali, essa può sempre accrescere le prove per mezzo dell'esperimento. Ma non può fare esperimenti sul modo di fabbricare gli uomini; e nemmeno stare a osservare che cosa fabbrichino i primi uomini. Un inventore può avanzare passo dopo passo nella costruzione di un aeroplano, anche se non fa altro che sperimentare con stecchi e ritagli di metallo nel proprio cortile. Ma non può stare a guardare l'Anello Mancante che si evolve nel proprio cortile. Se ha commesso un errore nei suoi calcoli, sarà l'aeroplano a correggerlo schiantandosi al suolo. Ma se ha commesso un errore riguardo all'habitat arboreo del suo antenato, non può vedere il suo antenato arboreo cadere giù dall'albero. Non può tenere un [[Cave|uomo delle caverne]] come un gatto nel cortile e osservarlo per vedere se davvero pratichi il cannibalismo o porti via la propria compagna secondo i princìpi del [[Marriage|matrimonio]] per ratto. Non può tenere una tribù di uomini primitivi come una muta di segugi e notare fino a che punto siano influenzati dall'istinto del gregge. Se vede un determinato uccello comportarsi in un determinato modo, può procurarsi altri [[Birds|uccelli]] e vedere se si comportino allo stesso modo; ma se trova un teschio, o il frammento di un teschio, nella cavità di una [[Hill|collina]], non può moltiplicarlo fino a ottenere una visione della valle delle ossa aride. Nel trattare con un passato che è quasi interamente perito, egli può procedere soltanto per prove e non per esperimenti. E le prove bastano appena a essere anche solo indiziarie. Così, mentre la maggior parte della scienza si muove in una sorta di curva, essendo costantemente corretta da nuove prove, questa scienza vola via nello spazio in linea retta, non corretta da nulla. Ma l'abitudine di trarre conclusioni, così come esse possono realmente essere tratte in campi più fecondi, è talmente radicata nella mente scientifica che questa non sa resistere al parlare in tal modo. Essa discorre dell'idea suggerita da un frammento d'osso come se fosse qualcosa di simile all'aeroplano che alla fine viene costruito con interi cumuli di rottami di metallo. Il guaio con [[The Professor|il professore]] del preistorico è che egli non può gettar via il proprio frammento fra i rottami. Il meraviglioso e trionfante aeroplano è fatto di cento errori. Lo studioso delle origini può fare un solo errore e attenersi a quello.
+
+Parliamo con molta verità della pazienza della scienza; ma in questo settore sarebbe più veritiero parlare dell'impazienza della scienza. A causa della difficoltà sopra descritta, il teorico ha di gran lunga troppa fretta. Abbiamo una serie di ipotesi tanto affrettate che possono [[Well|bene]] essere chiamate fantasie, e che in ogni caso non possono essere ulteriormente corrette dai fatti. Il più empirico degli antropologi è qui limitato quanto un antiquario. Egli può solo aggrapparsi a un [[Fragment|frammento]] del passato e non ha modo di accrescerlo per il futuro. Può solo stringere il suo [[Fragment|frammento]] di fatto, quasi come l'uomo primitivo stringeva il suo [[Fragment|frammento]] di selce. E in verità lo maneggia più o meno nello stesso modo e per più o meno la stessa ragione. È il suo strumento e il suo unico strumento. È la sua arma e la sua unica arma. Spesso lo brandisce con un [[Fanaticism|fanatismo]] di gran lunga superiore a qualsiasi cosa mostrata dagli uomini di scienza quando possono raccogliere più fatti dall'esperienza e persino aggiungere fatti nuovi per mezzo dell'esperimento. Talvolta [[The Professor|il professore]] con il suo osso diventa quasi pericoloso quanto un cane con il suo osso. E il cane, almeno, non ne deduce una teoria, dimostrando che l'umanità va in rovina come i [[dogs|cani]]... o che è venuta da loro.
+
+Per esempio, ho fatto notare la difficoltà di tenere una scimmia e osservarla evolversi in uomo. Essendo impossibile una prova sperimentale di una simile evoluzione, [[The Professor|il professore]] non si accontenta di dire (come la maggior parte di noi sarebbe pronta a dire) che una tale evoluzione è comunque abbastanza probabile. Egli tira fuori il suo piccolo osso, o la sua piccola collezione di ossa, e ne deduce le cose più meravigliose. Trovò a Giava un pezzo di teschio, che dal suo contorno sembrava più piccolo di quello umano. Da qualche parte nei pressi trovò un osso di femore eretto e, nella medesima maniera sparpagliata, alcuni denti che non erano umani. Se tutti insieme fanno parte di un'unica creatura, il che è dubbio, la nostra concezione di quella creatura sarebbe quasi altrettanto dubbia. Ma l'effetto sulla scienza popolare fu di produrre una figura completa e persino complessa, rifinita fin nei minimi dettagli dei capelli e delle abitudini. Gli fu dato un nome come se fosse un ordinario personaggio storico. Si parlava del Pitecantropo come di Pitt o di Fox o di Napoleone. Le storie divulgative ne pubblicarono ritratti come i ritratti di Carlo Primo e di Giorgio Quarto. Fu riprodotto un disegno dettagliato, accuratamente ombreggiato, per mostrare che perfino i capelli del suo capo erano tutti contati. Nessuna persona non informata, guardando quel volto accuratamente delineato e quegli occhi malinconici, immaginerebbe per un istante che quello fosse il ritratto di un osso di femore; o di qualche dente e di un [[Fragment|frammento]] di cranio. Allo stesso modo si parlava di lui come se fosse un individuo la cui influenza e il cui carattere fossero familiari a tutti noi. Ho appena letto in una rivista un racconto su Giava, e su come i moderni abitanti bianchi di quell'isola si lascino indurre a comportarsi male per l'influenza personale del povero vecchio Pitecantropo. Che i moderni abitanti di Giava si comportino male, lo posso credere prontissimamente; ma non immagino che abbiano bisogno di alcun incoraggiamento dalla scoperta di poche ossa altamente dubbie. In ogni caso, quelle ossa sono di gran lunga troppo poche e frammentarie e dubbie per colmare l'intero, vasto vuoto che, secondo ragione e secondo realtà, si stende tra l'uomo e i suoi antenati bestiali, se mai furono suoi antenati. Ammessa quella connessione evolutiva (una connessione che non ho il minimo interesse a negare), il fatto davvero sorprendente e notevole è la relativa assenza di qualsiasi resto simile che registri quella connessione in quel punto. La sincerità di Darwin lo ammetteva realmente; ed è così che siamo giunti a usare un termine come l'Anello Mancante. Ma il dogmatismo dei darwiniani è stato troppo forte per l'agnosticismo di Darwin; e gli uomini sono caduti insensibilmente nel trasformare questo termine interamente negativo in un'immagine positiva. Parlano di andare in cerca delle abitudini e dell'habitat dell'Anello Mancante; come se si parlasse di essere in rapporti amichevoli con la lacuna di una narrazione o con il buco di un ragionamento, di fare una passeggiata con un non sequitur o di pranzare con un medio non distribuito.
+
 
 
 <span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_02" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 2)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt"></span>
@@ -11010,6 +11619,110 @@ he does not begin to begin to do it at all.  A line of some kind
 is crossed before the first faint line can begin.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In questo [[Sketch|abbozzo]], dunque, dell'uomo nella sua relazione con certi
+problemi religiosi e storici, non sprecherò altro spazio
+in queste speculazioni sulla [[Nature|natura]] dell'uomo prima che divenisse uomo.
+Il suo [[Body|corpo]] può bene essersi evoluto dalle bestie; ma non sappiamo nulla
+di alcuna simile transizione che getti il più piccolo barlume di luce sulla sua
+[[Soul|anima]] quale si è manifestata nella [[history|storia]].  Purtroppo la medesima
+scuola di scrittori insegue il medesimo stile di ragionamento quando
+giunge alla prima prova reale intorno ai primi uomini reali.
+A rigor di termini, naturalmente, dell'uomo preistorico non sappiamo nulla,
+per la semplice ragione che era preistorico.  La [[history|storia]] dell'uomo preistorico
+è una assai evidente contraddizione in termini.  È quella sorta
+di sragionatezza che soltanto ai razionalisti è concesso concedersi.
+Se un parroco osservasse con noncuranza che il Diluvio fu antidiluviano,
+è possibile che verrebbe un poco canzonato per la sua [[logic|logica]].
+Se un vescovo dicesse che Adamo era preadamitico, potremmo trovarlo
+un tantino bizzarro.  Ma non ci è dato accorgerci di simili
+inezie verbali quando storici scettici parlano di quella parte della [[history|storia]] che
+è preistorica.  La [[Truth|verità]] è che essi adoperano i termini storico
+e preistorico senza alcun chiaro criterio o definizione nella mente.
+Ciò che intendono è che vi sono tracce di vite umane prima
+del principio delle storie umane; e in tal senso almeno noi
+sappiamo che l'umanità esisteva prima della [[history|storia]].
+
+La civiltà umana è più antica dei documenti umani.  Questo è
+il modo assennato di enunciare le nostre relazioni con queste cose remote.
+L'umanità ha lasciato esempi delle sue altre arti prima dell'arte
+dello scrivere; o almeno di qualunque scrittura che noi sappiamo leggere.
+Ma è certo che le arti primitive erano arti;
+ed è in ogni modo probabile che le civiltà primitive
+fossero civiltà.  L'uomo lasciò un'immagine della renna,
+ma non lasciò un racconto di come cacciasse la renna;
+e perciò quel che diciamo di lui è ipotesi e non [[history|storia]].
+Ma l'arte che egli praticò era quanto mai artistica; il suo disegno era quanto mai
+intelligente e non v'è ragione di [[Doubt|dubitare]] che il suo racconto della caccia
+sarebbe stato quanto mai intelligente, senonché, se esiste, non è intelligibile.
+In breve, il periodo preistorico non deve significare il periodo primitivo,
+nel senso del periodo barbarico o bestiale.  Non significa
+il [[Time|tempo]] prima della civiltà o il [[Time|tempo]] prima delle arti e dei mestieri.
+Significa semplicemente il [[Time|tempo]] prima di qualunque racconto connesso che noi
+sappiamo leggere.  Ciò fa davvero tutta la pratica differenza
+tra il ricordo e l'oblio; ma è perfettamente possibile
+che vi fossero ogni sorta di forme dimenticate di civiltà,
+come [[Well|pure]] ogni sorta di forme dimenticate di barbarie.  E in ogni caso
+ogni cosa indicava che molti di questi stadi sociali dimenticati o mezzo dimenticati
+erano assai più civili e assai meno barbarici
+di quanto oggi volgarmente si immagini.  Ma anche intorno a queste non scritte
+storie dell'umanità, quando l'umanità era di certo pienamente umana,
+non possiamo che congetturare con il più grande [[Doubt|dubbio]] e con la più grande cautela.
+E purtroppo il [[Doubt|dubbio]] e la cautela sono le ultime cose che comunemente
+vengano incoraggiate dal fiacco evoluzionismo della cultura corrente.
+Poiché quella cultura è colma di curiosità; e l'unica cosa che essa non può
+sopportare è l'angoscia dell'agnosticismo.  Fu nell'età darwiniana
+che la parola divenne per la prima volta nota e la cosa divenne per la prima volta impossibile.
+
+È necessario dire schiettamente che tutta questa ignoranza è
+semplicemente coperta dalla sfrontatezza.  Le affermazioni si fanno tanto schiettamente
+e positivamente che gli uomini a stento hanno il morale [[Courage|coraggio]]
+di soffermarvisi e di scoprire che sono prive di sostegno.
+L'altro giorno un compendio scientifico sullo stato di una tribù
+preistorica cominciava fiducioso con le parole «Non portavano vestiti».
+Non un lettore su cento, probabilmente, si fermò a domandarsi come
+dovremmo giungere a sapere se un tempo i vestiti fossero stati portati da gente
+di cui tutto è perito eccetto pochi frammenti d'osso e di pietra.
+Si sperava senza dubbio che avremmo trovato un cappello di pietra come [[Well|pure]]
+un'accetta di pietra.  Si prevedeva evidentemente che noi
+si potesse scoprire un eterno paio di calzoni della medesima
+sostanza dell'eterna roccia.  Ma alle persone di temperamento meno
+sanguigno apparirà immediatamente evidente che la gente
+poteva bene portare vesti semplici, o anche vesti riccamente ornate,
+senza lasciarne più tracce di quante ne abbia lasciate questa gente.
+L'intreccio di giunchi e di erbe, per esempio, potrebbe essere divenuto
+sempre più elaborato senza per questo divenire punto più eterno.
+Una civiltà potrebbe specializzarsi in cose che si dà il caso
+siano deperibili, come la tessitura e il ricamo, e non in cose
+che si dà il caso siano più durevoli, come l'architettura e la scultura.
+Vi sono stati esempi in abbondanza di simili società specialiste.
+Un uomo del futuro che trovasse le rovine dei macchinari delle nostre fabbriche
+potrebbe con altrettanta imparzialità dire che noi conoscevamo il ferro e nessun'altra
+sostanza; e annunciare la scoperta che il proprietario
+e direttore della fabbrica indubbiamente andava attorno nudo —
+o forse portava cappello e calzoni di ferro.
+
+Non si sostiene qui che questi uomini primitivi portassero
+vestiti, non più di quanto intrecciassero giunchi; ma soltanto che noi
+non abbiamo prove sufficienti per sapere se lo facessero o no.
+Ma può valere la pena di volgere per un momento lo sguardo ad alcune
+delle pochissime cose che sappiamo e che essi facevano.
+Se le consideriamo, non le troveremo di certo incompatibili
+con idee quali l'abito e l'ornamento.  Non sappiamo se
+adornassero altre cose.  Non sappiamo se
+avessero ricami, e se li avevano i ricami non ci si potrebbe
+attendere che fossero rimasti.  Ma sappiamo che avevano immagini;
+e le immagini sono rimaste.  E con esse rimane,
+come già s'è suggerito, la testimonianza di qualcosa che è assoluto
+e unico; che appartiene all'uomo e a null'altro se non all'uomo;
+che è una differenza di genere e non una differenza di grado.
+Una scimmia non disegna goffamente e un uomo abilmente; una scimmia non
+comincia l'arte della rappresentazione e un uomo la porta alla perfezione.
+Una scimmia non lo fa affatto; non comincia affatto a farlo;
+non comincia affatto a cominciare a farlo.  Una linea di qualche specie
+è varcata prima che la prima debole linea possa cominciare.
+
 
 
 <span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_03" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 3)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt"></span>
@@ -11113,6 +11826,106 @@ likely that this sort of mystical sentiment did exist already;
 and that in the light of it [[Dreams|dreams]] and kings and corn-fields could
 appear mystical then, as they can appear mystical now.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un altro scrittore di chiara fama, poi, commentando i disegni rupestri
+della [[Cave|caverna]] attribuiti agli uomini neolitici dell'età delle renne,
+osservava che nessuna di quelle immagini pareva avere un qualche scopo religioso;
+e sembrava quasi dedurne che quegli uomini non avessero religione.
+Difficilmente saprei immaginare un filo argomentativo più sottile di questo,
+che ricostruisce le pieghe più intime della mente preistorica a partire
+dal fatto che qualcuno, il quale ha graffiato pochi schizzi sopra una roccia,
+per quale motivo non sappiamo, con quale scopo non sappiamo,
+sottomesso a quali usi o convenzioni non sappiamo, forse ha semplicemente
+trovato più facile disegnare renne che disegnare la religione.
+Può averla disegnata perché era il suo simbolo religioso.
+Può averla disegnata perché non era il suo simbolo religioso.
+Può aver disegnato qualsiasi cosa tranne il suo simbolo religioso.
+Può aver disegnato il suo vero simbolo religioso in un altro luogo;
+oppure quel simbolo può essere stato deliberatamente distrutto una volta disegnato.
+Può aver fatto o non fatto mezzo milione di cose; ma in ogni
+caso è un salto sbalorditivo di [[logic|logica]] dedurre che egli non avesse
+alcun simbolo religioso, o addirittura dedurre, dal fatto che non avesse un simbolo
+religioso, che egli non avesse religione. Ora questo caso particolare si dà
+il caso illustri con singolare chiarezza l'inconsistenza di simili congetture.
+Poiché poco tempo dopo si scoprirono nelle caverne non soltanto pitture
+ma sculture di [[Animals|animali]]. Di alcune si disse che fossero
+sciupate da incavi o fori supposti essere i segni di frecce;
+e le immagini danneggiate furono congetturate come i resti di qualche
+rito [[Magic|magico]] volto a uccidere in effigie le bestie; mentre le immagini
+intatte venivano spiegate in rapporto a un altro rito [[Magic|magico]] che invocava
+la fertilità sulle mandrie. Anche qui vi è qualcosa di vagamente
+comico nell'abitudine scientifica di prendersi la ragione in ogni caso.
+Se l'immagine è danneggiata prova una superstizione, e se è
+intatta ne prova un'altra. Anche qui vi è un balzo alle conclusioni
+piuttosto avventato; a stento è venuto in mente a questi teorizzatori
+che una folla di cacciatori rinchiusi d'[[Winter|inverno]] in una [[Cave|caverna]] potrebbe concepibilmente
+aver mirato a un bersaglio per divertimento, come una sorta di primitivo gioco di società.
+Ma in ogni caso, se fu fatto per superstizione, che ne è
+stato della tesi secondo cui esso non aveva nulla a che vedere con la religione?
+La [[Truth|verità]] è che tutto questo congetturare non ha nulla a che vedere con alcunché.
+Non è nemmeno un gioco di società altrettanto buono che scoccare frecce contro
+una renna intagliata, giacché le scaglia in aria.
+
+Simili teorizzatori tendono piuttosto a dimenticare, per esempio, che gli uomini
+del mondo moderno pure fanno talvolta segni nelle caverne. Quando una folla
+di gitanti viene condotta per il labirinto della Grotta Meravigliosa
+o della [[Magic|Magica]] Caverna delle Stalattiti, si è osservato che dei geroglifici
+[[spring|balzano]] alla vista là dov'essa è passata; iniziali e iscrizioni
+che i dotti si rifiutano di riferire a qualsivoglia data remota. Ma verrà il
+[[Time|tempo]] in cui queste iscrizioni saranno davvero di data remota.
+E se i professori del futuro somiglieranno in qualche modo ai professori
+del presente, sapranno dedurre un gran numero di cose assai vivide
+e interessanti da queste scritte della [[Cave|caverna]] del ventesimo secolo.
+Se conosco qualcosa della razza, e se essi non saranno decaduti
+dalla piena e sanguigna sicurezza dei loro padri,
+sapranno scoprire i fatti più affascinanti sul conto nostro
+a partire dalle iniziali lasciate nella [[Magic|Magica]] Grotta da 'Arry e 'Arriet,
+forse nella forma di due A intrecciate. Da questo [[Alone|soltanto]]
+essi sapranno (1) che, siccome le lettere sono rozzamente intaccate con un
+temperino spuntato, il ventesimo secolo non possedeva delicati
+strumenti d'incisione ed era ignaro dell'arte della scultura.
+(2) Che, siccome le lettere sono maiuscole, la nostra civiltà
+non sviluppò mai lettere minuscole né alcunché di simile a una scrittura corsiva.
+(3) Che, poiché consonanti iniziali stanno insieme in
+modo impronunciabile, la nostra lingua era forse affine al gallese
+o più probabilmente del tipo semitico arcaico che ignorava le vocali.
+(4) Che, siccome le iniziali di 'Arry e 'Arriet non pretendono in alcun
+modo particolare di essere simboli religiosi, la nostra civiltà non possedeva
+religione. Forse quest'ultima è quella che più si avvicina alla [[Truth|verità]];
+giacché una civiltà che avesse religione avrebbe un po' più di ragione.
+
+Si afferma comunemente, poi, che la religione crebbe in maniera molto lenta
+ed evolutiva; e persino che essa non nacque da una sola causa,
+ma da una combinazione che si potrebbe chiamare coincidenza.
+In linea generale, i tre elementi principali della combinazione sono,
+primo, la [[Fear|paura]] del capo della tribù (che il signor Wells si ostina
+a chiamare, con deplorevole familiarità, il Vecchio), secondo,
+il fenomeno dei [[Dreams|sogni]], e terzo, le associazioni sacrificali
+del raccolto e della [[Resurrection|resurrezione]] simboleggiata nel grano che cresce.
+Osserverò di passaggio che mi pare psicologia assai dubbia
+riferire un solo spirito vivo e unico a tre cause morte e
+sconnesse, se davvero non fossero che cause morte e sconnesse.
+Supponiamo che il signor Wells, in uno dei suoi affascinanti romanzi del futuro,
+venisse a dirci che sorgerà tra gli uomini una passione nuova e finora
+senza nome, di cui gli uomini sogneranno come si sogna del primo [[Love|amore]],
+per la quale moriranno come si muore per una [[Flag|bandiera]] e una patria.
+Credo che resteremmo un poco sconcertati s'egli ci dicesse che questo
+singolare sentimento sarebbe una combinazione dell'abitudine di
+fumare Woodbines, dell'aumento dell'imposta sul reddito e del piacere
+di un automobilista nel superare il limite di [[Speed|velocità]]. Non riusciremmo facilmente
+a immaginarlo, perché non riusciremmo a immaginare alcun legame tra
+i tre elementi né alcun sentimento comune capace di includerli tutti.
+Né alcuno potrebbe immaginare un legame tra il grano e i [[Dreams|sogni]]
+e un vecchio capo con una lancia, a meno che non esistesse già un sentimento
+comune a includerli tutti. Ma se un tale sentimento comune esisteva,
+esso non poteva essere che il sentimento religioso; e queste cose non
+potevano essere gli inizi di un sentimento religioso che esisteva già.
+Credo che il buon senso di chiunque gli dirà che è assai più
+probabile che questa sorta di sentimento mistico esistesse già;
+e che alla sua luce i [[Dreams|sogni]] e i re e i campi di grano potessero
+apparire mistici allora, come possono apparire mistici oggi.
 
 
 
@@ -11225,6 +12038,10 @@ He could not only see the dead but see the [[Shadow|shadow]] of [[Death|death]];
 and was possessed with that mysterious [[Mystification|mystification]] that forever
 finds [[Death|death]] incredible.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La semplice [[Truth|verità]] è che tutto questo non è che un trucco per far apparire le cose lontane e disumanizzate, fingendo semplicemente di non comprendere cose che invece comprendiamo benissimo. È come dire che gli uomini preistorici avevano la brutta e sgraziata abitudine di spalancare a intervalli la bocca e di cacciarvi dentro strane sostanze, come se non avessimo mai sentito parlare del mangiare. È come dire che i terribili Trogloditi dell'età della pietra sollevavano alternativamente le gambe a turno, come se non avessimo mai sentito parlare del camminare. Se ciò fosse inteso a toccare il nervo mistico e a destarci alla [[Wonder|meraviglia]] del camminare e del mangiare, potrebbe essere una fantasia legittima. Ma poiché qui è inteso a uccidere il nervo mistico e a intorpidirci alla [[Wonder|meraviglia]] della religione, è una sciocchezza irrazionale. Pretende di trovare qualcosa di incomprensibile in sentimenti che tutti comprendiamo. Chi non trova misteriosi i [[Dreams|sogni]], e non sente che essi giacciono sull'oscuro confine dell'essere? Chi non sente la [[Death|morte]] e la [[Resurrection|risurrezione]] delle cose che crescono sulla terra come qualcosa di prossimo al segreto dell'universo? Chi non comprende che deve esservi sempre il sapore di qualcosa di sacro nell'autorità e nella solidarietà che è l'[[Soul|anima]] della tribù? Se vi fosse un antropologo che davvero trovasse queste cose remote e impossibili da concepire, di quel signore scientifico non potremmo dire altro se non che non possiede una mente così vasta e illuminata quanto quella di un uomo primitivo. A me pare ovvio che nient'altro se non un sentimento spirituale già attivo poteva aver rivestito di santità queste cose separate e diverse. Dire che la religione nacque dal venerare un capo o dal sacrificare al tempo del raccolto è mettere un carro assai elaborato davanti a un [[Horse|cavallo]] davvero primitivo. È come dire che l'impulso a disegnare figure nacque dalla contemplazione delle figure di renne nella [[Cave|caverna]]. In altre parole, è spiegare la pittura dicendo che essa sorse dall'opera dei pittori; ovvero rendere conto dell'arte dicendo che essa sorse dall'arte. È ancor più simile al dire che la cosa che chiamiamo poesia sorse come risultato di certe consuetudini; come quella di comporre ufficialmente un'ode per celebrare l'avvento della [[spring|primavera]]; oppure quella di un giovane che si leva a un'ora fissa per ascoltare l'allodola e poi scrive il suo resoconto su un foglio di carta. È verissimo che i giovani spesso divengono poeti in [[spring|primavera]]; ed è verissimo che, una volta che vi siano poeti, nessun potere mortale può trattenerli dallo scrivere dell'allodola. Ma le [[Poems|poesie]] non esistevano prima dei poeti. La poesia non sorse dalle forme poetiche. In altre parole, non è certo una spiegazione adeguata di come una cosa sia apparsa per la prima [[Time|volta]] dire che essa esisteva già. Similmente, non possiamo dire che la religione sorse dalle forme religiose, perché questo è soltanto un altro modo di dire che essa sorse solo quando già esisteva. Occorreva una certa specie di mente per vedere che vi fosse alcunché di mistico nei [[Dreams|sogni]] o nei morti, come occorreva una particolare specie di mente per vedere che vi fosse alcunché di poetico nell'allodola o nella [[spring|primavera]]. Quella mente era presumibilmente ciò che chiamiamo la mente umana, molto simile a com'è ancor oggi; poiché i mistici ancora meditano sulla [[Death|morte]] e sui [[Dreams|sogni]] come i poeti ancora scrivono della [[spring|primavera]] e delle allodole. Ma non v'è il più tenue indizio che suggerisca che qualcosa al di sotto della mente umana che conosciamo provi in alcun modo queste associazioni mistiche. Una mucca in un prato non sembra ricavare alcun impulso lirico né alcun insegnamento dalle sue impareggiabili occasioni di ascoltare l'allodola. E similmente non v'è ragione di supporre che le pecore vive comincino mai a servirsi delle pecore morte come base di un sistema di elaborato culto degli antenati. È vero che in [[spring|primavera]] la fantasia di un giovane quadrupede può volgersi lievemente a pensieri d'[[Love|amore]], ma nessun succedersi di primavere l'ha mai indotto a volgersi, per quanto lievemente, a pensieri di letteratura. E allo stesso modo, benché sia vero che un cane fa [[Dreams|sogni]], mentre la maggior parte degli altri quadrupedi non pare neppure averne, abbiamo atteso un lungo [[Time|tempo]] che il cane sviluppasse i suoi [[Dreams|sogni]] in un elaborato sistema o cerimoniale religioso. Abbiamo atteso tanto a lungo che davvero abbiamo cessato di aspettarcelo; e non ci aspettiamo più di vedere un cane applicare i suoi [[Dreams|sogni]] alla costruzione ecclesiastica, di quanto ci aspettiamo di vederlo esaminare i suoi [[Dreams|sogni]] secondo le regole della psicoanalisi. È evidente, in breve, che per una ragione o per l'altra queste esperienze naturali, e persino queste eccitazioni naturali, non oltrepassano mai la linea che le separa dall'espressione creativa come l'arte e la religione, in nessuna creatura tranne l'uomo. Non l'hanno mai fatto, non lo fanno mai, e ora, a quanto pare, è assai improbabile che mai lo faranno. Non è impossibile, nel senso di essere in contraddizione con [[Self|sé]] stesso, che possiamo vedere le mucche digiunare dall'erba ogni venerdì o mettersi in ginocchio come nell'antica leggenda della vigilia di Natale. Non è impossibile, in quel senso, che le mucche contemplino la [[Death|morte]] fino a poter levare un [[Sublime|sublime]] salmo di lamentazione sull'aria di cui morì la vecchia mucca. Non è impossibile, in quel senso, che esprimano le loro speranze di una carriera celeste in una [[Dance|danza]] simbolica, in [[Honour|onore]] della mucca che saltò oltre la [[Moon|luna]]. Può darsi che il cane abbia infine accumulato una scorta sufficiente di [[Dreams|sogni]] da consentirgli di erigere un tempio a Cerbero come una sorta di trinità canina. Può darsi che i suoi [[Dreams|sogni]] abbiano già cominciato a mutarsi in visioni capaci di espressione verbale, in qualche rivelazione intorno alla Stella del Cane come [[Home|dimora]] spirituale per i [[dogs|cani]] smarriti. Queste cose sono logicamente possibili, nel senso che è logicamente difficile provare quella negazione universale che chiamiamo impossibilità. Ma tutto quell'istinto per il probabile, che chiamiamo buon senso, deve averci detto da tempo che gli [[Animals|animali]], a quanto pare, non si stanno evolvendo in quel senso; e che, a dir poco, è improbabile che abbiamo mai una qualche prova personale del loro passaggio dall'esperienza animale agli esperimenti umani. Ma la [[spring|primavera]] e la [[Death|morte]] e persino i [[Dreams|sogni]], considerati semplicemente come esperienze, sono loro esperienze tanto quanto nostre. L'unica conclusione possibile è che tali esperienze, considerate come esperienze, non generano nulla di simile a un senso religioso in nessuna mente tranne una mente come la nostra. Torniamo così al fatto di una certa specie di mente che era già viva e [[Alone|sola]]. Era unica e poteva creare credi come poteva creare disegni nelle [[Cave|caverne]]. I materiali per la religione erano rimasti là per età incalcolabili, come i materiali per ogni altra cosa; ma la potenza della religione era nella mente. L'uomo poteva già vedere in queste cose gli enigmi e i cenni e le speranze che ancora vi vede. Egli poteva non solo sognare, ma sognare intorno ai [[Dreams|sogni]]. Poteva non solo vedere i morti, ma vedere l'[[Shadow|ombra]] della [[Death|morte]]; ed era posseduto da quella misteriosa [[Mystification|mistificazione]] che per sempre trova la [[Death|morte]] incredibile.
 
 
 
@@ -11339,6 +12156,14 @@ and mother of all laws as it is itself founded on a father and mother;
 the thing that is before all thrones and even all commonwealths.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+È verissimo che questi indizi, sia pure tanto scarsi, li abbiamo soprattutto intorno all'uomo quando esso appare, inconfondibilmente, come uomo. Non possiamo affermare questo né alcun'altra cosa a proposito del presunto animale che in origine avrebbe collegato l'uomo e i bruti. Ma ciò dipende soltanto dal fatto che egli non è un animale, bensì una supposizione. Non possiamo essere certi che il Pitecantropo abbia mai adorato, perché non possiamo essere certi che abbia mai vissuto. Non è che una visione evocata a colmare il vuoto che di fatto si spalanca fra le prime creature che furono con certezza uomini e qualunque altra creatura che sia con certezza scimmia o altro genere di [[Animals|animali]]. Alcuni frammenti assai dubbi vengono raccogliticci accostati per suggerire una simile creatura intermedia, perché una certa [[philosophy|filosofia]] lo esige; ma nessuno pretende che essi bastino a fondare alcunché di filosofico, neppure a sostegno di quella [[philosophy|filosofia]]. Un frammento di cranio rinvenuto a Giava non può fondare nulla intorno alla religione o all'assenza di religione. Se mai vi fu un simile uomo-scimmia, egli può aver esibito nella religione tanto rituale quanto un uomo, oppure tanta semplicità quanto una scimmia. Può essere stato un mitologo oppure può essere stato un mito. Sarebbe interessante indagare se questa qualità mistica sia comparsa in una transizione dalla scimmia all'uomo, ammesso che vi fossero davvero esemplari di quella transizione su cui indagare. In altre parole, l'anello mancante potrebbe essere o non essere mistico, se non fosse mancante. Ma, a paragone delle prove che abbiamo di esseri umani reali, non abbiamo prova alcuna che egli fosse un essere umano, o un mezzo essere umano, o addirittura un essere. Neppure gli evoluzionisti più intransigenti tentano di dedurre da lui una qualsiasi veduta evolutiva sull'origine della religione. Perfino nello sforzo di dimostrare che la religione crebbe lentamente da fonti rozze o irrazionali, essi cominciano la loro dimostrazione dai primi uomini che furono uomini. Ma la loro stessa dimostrazione prova soltanto che gli uomini i quali erano già uomini erano già mistici. Usavano gli elementi rozzi e irrazionali come soltanto gli uomini e i mistici sanno usarli. Torniamo ancora una volta alla semplice [[Truth|verità]]: che in un tempo troppo remoto perché questi critici lo possano rintracciare, era avvenuta una transizione della quale ossa e pietre non possono per loro [[Nature|natura]] rendere testimonianza; e l'uomo divenne un'[[Soul|anima]] vivente.
+
+Toccando questa faccenda dell'origine della religione, la [[Truth|verità]] è che coloro i quali cercano così di spiegarla cercano di spiegarla via. Sottilmente sentono che essa appare meno formidabile quando venga in tal modo distesa in un processo graduale e quasi invisibile. Ma in realtà questa prospettiva falsa interamente la verità dell'esperienza. Essi accostano due cose totalmente diverse, gli sparsi indizi di origini evolutive e il blocco solido ed [[Self|evidente di per sé]] dell'umanità, e si sforzano di spostare il proprio punto di vista finché non li scorgano allineati in un'unica linea scorciata. Ma è un'illusione ottica. Gli uomini, di fatto, non stanno rispetto alle scimmie o agli anelli mancanti in nessuna di quelle catene in cui gli uomini stanno rispetto agli uomini. Vi possono essere state creature intermedie le cui tracce sbiadite si ritrovano qua e là nell'enorme lacuna. Di questi esseri, se mai esisterono, può darsi che fosse vero che erano cose assai dissimili dagli uomini, ovvero uomini assai dissimili da noi stessi. Ma degli uomini preistorici, come quelli che si chiamano uomini delle [[Cave|caverne]] o uomini delle renne, ciò non è vero in nessun senso. Gli uomini preistorici di quella specie erano cose esattamente simili agli uomini, e uomini straordinariamente simili a noi stessi. Erano soltanto uomini sui quali non sappiamo gran che, per la semplice ragione che non hanno lasciato documenti né cronache; ma tutto quello che di essi sappiamo li rende umani e ordinari esattamente quanto gli uomini di un maniero medievale o di una [[City|città]] greca.
+
+Guardando dal nostro punto di vista umano su per la lunga prospettiva dell'umanità, riconosciamo semplicemente questa cosa come umana. Se dovessimo riconoscerla come animale, avremmo dovuto riconoscerla come anormale. Se scegliessimo di guardare attraverso l'altra estremità del cannocchiale, come ho fatto più d'una volta in queste speculazioni, se scegliessimo di proiettare la figura umana in avanti a partire da un mondo non umano, potremmo solo dire che uno degli [[Animals|animali]] era evidentemente impazzito. Ma vedendo la cosa dall'estremità giusta, o meglio dal di dentro, sappiamo che è [[Sanity|sanità di mente]]; e sappiamo che questi uomini primitivi erano sani di mente. Salutiamo una certa massoneria umana ovunque la scorgiamo, nei selvaggi, negli stranieri o nei personaggi storici. Per esempio, tutto ciò che possiamo inferire dalla leggenda primitiva, e tutto ciò che sappiamo della vita barbarica, avvalora una certa idea morale e persino mistica, il cui simbolo più comune sono gli abiti. Poiché gli abiti sono, assai letteralmente, paramenti, e l'uomo li indossa perché è un sacerdote. È vero che perfino come animale egli è, in questo, diverso dagli [[Animals|animali]]. La [[Nakedness|nudità]] non gli è [[Nature|natura]]; non è la sua vita, ma piuttosto la sua [[Death|morte]]; anche nel senso volgare della sua [[Death|morte]] per il freddo. Ma gli abiti si portano per dignità o decenza o ornamento là dove non servono in alcun modo a riscaldare. Talvolta parrebbe che siano apprezzati per l'ornamento prima ancora che per l'uso. E parrebbe quasi sempre che li si senta connessi con un qualche decoro. Le convenzioni di questo genere variano assai col variare dei tempi e dei luoghi; e vi è chi non riesce a superare tale riflessione, e a cui essa sembra argomento sufficiente per lasciar cadere ogni convenzione. Non si stancano mai di ripetere, con ingenua [[Wonder|meraviglia]], che l'abito è diverso nelle Isole dei Cannibali e a Camden Town; non sanno andare oltre, e gettano a mare tutta l'idea della decenza nella [[Despair|disperazione]]. Tanto varrebbe [[Well|che]] dicessero che, poiché sono esistiti cappelli di parecchie fogge diverse, e certe fogge alquanto stravaganti, allora i cappelli non contano o non esistono. Aggiungerebbero probabilmente che non esistono l'insolazione né la calvizie. Gli uomini hanno sentito dappertutto che certe norme erano necessarie per recingere e proteggere certe cose intime dal disprezzo o dal grossolano fraintendimento; e l'osservanza di quelle forme, quali che fossero, giovava alla dignità e al rispetto reciproco. Il fatto che esse per lo più si riferiscano, più o meno remotamente, ai rapporti fra i sessi illustra i due fatti che devono essere posti proprio all'inizio della cronaca della stirpe. Il primo è il fatto che il [[Original Sin|peccato originale]] è davvero originario. Non soltanto in teologia, ma nella [[history|storia]], è una cosa radicata nelle origini. Qualunque altra cosa gli uomini abbiano creduto, tutti hanno creduto che qualcosa non vada nel genere umano. Questo senso del peccato ha reso impossibile essere naturali e non aver vesti, così come ha reso impossibile essere naturali e non aver leggi. Ma soprattutto lo si ritrova in quell'altro fatto, che è il padre e la madre di tutte le leggi, come esso stesso è fondato su un padre e una madre; la cosa che precede tutti i troni e persino tutte le repubbliche.
+
 
 
 <span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_06" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 6)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt"></span>
@@ -11414,6 +12239,78 @@ except in being turned upside-down.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo fatto è la famiglia. Anche qui dobbiamo mantenere le enormi
+proporzioni di una cosa normale al riparo dalle varie modificazioni,
+dalle gradazioni e dai dubbi più o meno ragionevoli, come nuvole
+aggrappate a una montagna. Può darsi che ciò che chiamiamo famiglia
+abbia dovuto farsi strada a partire da, o attraverso, varie anarchie
+e aberrazioni; ma di certo è sopravvissuta ad esse ed è altrettanto
+probabile che le abbia anche precedute. Come vedremo nel caso del
+comunismo e del nomadismo, cose più informi potevano stare, e stettero,
+sul fianco di società che avevano assunto una forma fissa; ma nulla
+prova che la forma non esistesse prima dell'informità.
+Ciò che è vitale è che la forma sia più importante dell'informità;
+e che la materia chiamata umanità abbia assunto questa forma.
+Per esempio, tra le regole che ruotano attorno al sesso, di cui si è
+fatta poco fa menzione, nessuna è più curiosa della selvaggia usanza
+comunemente detta la couvade. Sembra una legge uscita dal paese del
+sottosopra; per la quale il padre viene trattato come se fosse la madre.
+In ogni caso essa implica chiaramente il senso mistico del sesso;
+ma molti hanno sostenuto che si tratti in realtà di un atto simbolico
+con cui il padre accetta la responsabilità della paternità.
+In tal caso quella [[Grotesque|grottesca]] pantomima è in realtà un atto solennissimo;
+poiché è il fondamento di tutto ciò che chiamiamo famiglia e di tutto ciò che conosciamo
+come società umana. Alcuni, brancolando in questi oscuri inizi, hanno detto
+che l'umanità fu un tempo sotto un matriarcato; suppongo che sotto
+un matriarcato non la si chiamerebbe umanità ma femminilità.
+Ma altri hanno congetturato che ciò che si chiama matriarcato
+fosse semplicemente anarchia morale, in cui la madre [[Alone|sola]] rimaneva
+fissa perché tutti i padri erano fuggitivi e irresponsabili.
+Poi venne il momento in cui l'uomo decise di custodire e guidare ciò che
+aveva creato. Così divenne il capo della famiglia, non come un bruto
+con una grossa clava per picchiare le donne, ma piuttosto come una persona
+rispettabile che cerca di essere una persona responsabile. Ora, tutto ciò potrebbe
+essere perfettamente vero, e potrebbe persino essere stato il primo atto familiare,
+e sarebbe pur sempre vero che l'uomo allora per la prima [[Time|volta]] agì
+da uomo, e perciò per la prima [[Time|volta]] divenne pienamente uomo.
+Ma potrebbe altrettanto [[Well|bene]] essere vero che il matriarcato o l'anarchia morale,
+o comunque la si chiami, fosse solo una delle cento dissoluzioni
+sociali o ricadute barbariche che possono essersi verificate a
+intervalli nella preistoria come certamente accaddero in tempi storici.
+Un simbolo come la couvade, se davvero fu un tale simbolo, può aver
+commemorato la soppressione di un'eresia più che il primo sorgere
+di una religione. Non possiamo concludere nulla con certezza su queste cose,
+salvo che nei loro grandi risultati nell'edificazione dell'umanità, ma possiamo
+dire in quale stile ne sia costruita la maggior parte e la parte migliore.
+Possiamo dire che la famiglia è l'unità dello Stato; che è
+la cellula che compone la formazione. Attorno alla famiglia si radunano
+davvero le sacralità che separano gli uomini dalle formiche e dalle [[Bees|api]].
+Il decoro è la tenda di quel padiglione; la libertà è il muro di quella [[City|città]];
+la proprietà non è che la fattoria di famiglia; l'[[Honour|onore]] non è che la [[Flag|bandiera]] di famiglia.
+Nelle proporzioni pratiche della [[history|storia]] umana, torniamo
+a quel fondamento del padre, della madre e del [[Child|figlio]].
+Si è già detto che, se questa storia non può cominciare con
+assunti religiosi, deve nondimeno cominciare con qualche assunto morale o
+metafisico, altrimenti non si può dare senso alcuno alla storia dell'uomo.
+E questo è un ottimo esempio di quella necessità alternativa.
+Se non siamo di coloro che cominciano invocando una Trinità divina, dobbiamo
+nondimeno invocare una Trinità umana; e vedere quel triangolo ripetersi
+ovunque nel disegno del mondo. Poiché il più alto evento della [[history|storia]],
+a cui tutta la [[history|storia]] guarda e conduce, è soltanto qualcosa
+che è a un tempo il rovesciamento e il rinnovamento di quel triangolo.
+O piuttosto è l'unico triangolo sovrapposto in modo da intersecare
+l'altro, formando un sacro pentacolo di cui, in un senso più possente
+di quello dei maghi, i demòni hanno paura. L'antica Trinità
+era di padre, madre e [[Child|figlio]] e si chiama la famiglia umana.
+La nuova è di [[Child|figlio]], madre e padre e ha il nome della
+Sacra Famiglia. Non è in alcun modo mutata, se non nell'essere interamente rovesciata;
+proprio come il mondo che ne viene trasformato non era per nulla diverso,
+se non nell'essere capovolto.
+
+* * *
 
 
 
@@ -11556,6 +12453,146 @@ and probably stiffened society, not the spirit of a new one.
 As his name implies, the Old Man is the ruler of an old humanity.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III
+
+L'ANTICHITÀ DELLA CIVILTÀ
+
+L'uomo moderno che guarda alle più antiche origini è stato
+come un uomo che spia lo spuntar del giorno in una terra straniera; e si aspetta
+di vedere quell'[[Dawn|alba]] sorgere dietro nude alture o vette solitarie.
+Ma quell'[[Dawn|alba]] sorge dietro la nera mole di grandi città
+edificate da tempo e per noi perdute nell'originaria [[Night|notte]]; città colossali
+come le case dei giganti, in cui perfino gli scolpiti [[Animals|animali]]
+ornamentali sono più alti delle palme; in cui il ritratto dipinto
+può essere dodici volte la grandezza dell'uomo; con tombe simili a [[Mountains|montagne]]
+d'uomo poste in quadrato e puntate verso le [[Stars|stelle]]; con tori alati e
+barbuti ritti a fissare enormi ai portali dei templi;
+ritti immobili in eterno come se un colpo di zoccolo dovesse scuotere il mondo.
+L'[[Dawn|alba]] della [[history|storia]] rivela un'umanità già civilizzata.
+Forse rivela una civiltà già antica. E fra altre cose più
+importanti, rivela la follia di gran parte delle generalizzazioni
+sul precedente e ignoto periodo in cui essa era davvero giovane.
+Le due prime società umane di cui abbiamo qualche testimonianza attendibile e
+particolareggiata sono Babilonia e l'[[Egypt|Egitto]]. Accade che questi
+due vasti e splendidi risultati del genio degli antichi
+rechino testimonianza contro due dei più comuni e grossolani assunti
+della cultura dei moderni. Se vogliamo sbarazzarci di metà
+delle sciocchezze sui nomadi, sugli uomini delle [[Cave|caverne]] e sul vecchio della foresta,
+basta guardare fermamente ai due solidi e stupendi fatti
+chiamati [[Egypt|Egitto]] e Babilonia.
+
+Naturalmente la maggior parte di questi teorici che parlano dell'uomo
+primitivo hanno in mente i selvaggi moderni. Dimostrano la loro
+evoluzione progressiva presupponendo che gran parte del genere umano non
+sia progredita né si sia evoluta; anzi, che non sia affatto mutata in
+alcun modo. Non condivido la loro teoria del mutamento; né condivido il
+loro dogma delle cose immutabili. Potrò anche non credere che l'uomo
+civile abbia compiuto un progresso tanto rapido e recente; ma non riesco
+a capire bene perché l'uomo incivile debba essere così misticamente
+immortale e immutabile. Mi pare che in tutta questa indagine occorra un
+modo di pensare e di parlare alquanto più semplice. I selvaggi moderni
+non possono essere esattamente come l'uomo primitivo, per la ragione che
+non sono primitivi. I selvaggi moderni non sono antichi, per la ragione
+che sono moderni. Qualcosa è accaduto alla loro stirpe non meno che alla
+nostra, durante le migliaia di anni della nostra esistenza e della nostra
+[[Endurance|resistenza]] sulla terra. Hanno avuto qualche esperienza, e
+presumibilmente hanno agito in base a essa, se non ne hanno tratto
+profitto. Come tutti noialtri. Hanno avuto un qualche ambiente, e persino
+un qualche mutamento d'ambiente, e presumibilmente vi si sono adattati in
+una maniera evolutiva conveniente e decorosa. E ciò sarebbe vero anche se
+le esperienze fossero state blande o l'ambiente monotono; poiché vi è un
+effetto nel puro [[Time|tempo]], quando esso assume la forma morale della
+monotonia. Ma a un buon numero di persone intelligenti e [[Well|bene]]
+informate è parso altrettanto probabile che l'esperienza dei selvaggi sia
+stata quella di un declino dalla civiltà. Quasi nessuno di coloro che
+criticano questa opinione sembra avere un'idea molto chiara di che cosa
+sarebbe un declino dalla civiltà. Il Cielo li aiuti: è assai verosimile
+che presto lo scopriranno. Sembrano appagarsi del fatto che gli
+[[Cave|uomini delle caverne]] e i cannibali delle isole abbiano alcune
+cose in comune; per esempio certi particolari strumenti. Ma è evidente a
+prima vista che due popoli qualsiasi ridotti per un qualunque motivo a una
+vita più rozza avrebbero alcune cose in comune. Se perdessimo tutte le
+nostre armi da fuoco, ci costruiremmo archi e frecce; ma non
+assomiglieremmo necessariamente in ogni cosa ai primi uomini che
+fabbricarono archi e frecce. Si dice che i Russi, nella loro grande
+ritirata, fossero così a corto di armi da combattere con clave tagliate
+nel bosco. Ma un professore del futuro sbaglierebbe nel supporre che
+l'esercito russo del 1916 fosse una nuda tribù di Sciti che non era mai
+uscita dal bosco. È come dire che un uomo nella sua seconda
+[[Childhood|fanciullezza]] debba ricopiare esattamente la prima. Un
+neonato è calvo come un vecchio; ma sarebbe un errore, per chi ignorasse
+che cosa sia l'infanzia, dedurne che il neonato avesse una lunga barba
+bianca. Sia il neonato sia il vecchio camminano a stento; ma chi si
+aspettasse che il vecchio signore si sdrai supino e scalci allegramente
+resterebbe deluso.
+
+È dunque assurdo sostenere che i primi pionieri dell'umanità debbano
+essere stati identici ad alcune delle sue ultime e più stagnanti scorie.
+Vi erano quasi certamente alcune cose, e probabilmente molte cose, in cui
+i due erano ampiamente diversi o addirittura del tutto contrari. Un
+esempio del modo in cui questa distinzione opera, ed esempio essenziale
+al nostro argomento in questa sede, è quello della [[Nature|natura]] e
+dell'origine del [[government|governo]]. Ho già accennato al signor H. G.
+Wells e al Vecchio, col quale egli pare essere in così intimi rapporti. Se
+considerassimo i freddi fatti della testimonianza preistorica a proposito
+di questo ritratto del preistorico capo della tribù, potremmo scusarlo
+soltanto dicendo che il suo brillante e versatile autore semplicemente
+dimenticò per un momento di dover scrivere una [[history|storia]], e sognò
+di scrivere uno dei suoi meravigliosi e fantasiosi romanzi. Per lo meno
+non riesco a immaginare come egli possa mai sapere che il sovrano
+preistorico fosse chiamato il Vecchio, o che l'etichetta di
+[[Court|corte]] esiga che lo si scriva con le lettere maiuscole. Del
+medesimo potentato egli dice: «A nessuno era consentito toccare la sua
+lancia o sedersi al suo posto». Faccio fatica a credere che qualcuno abbia
+dissotterrato una lancia preistorica con una etichetta preistorica: «Si
+prega i visitatori di non toccare», oppure un trono completo con la
+[[Inscription|iscrizione]]: «Riservato al Vecchio». Ma si può presumere
+che lo scrittore, il quale non si può certo supporre stia semplicemente
+inventando cose di sana pianta, stesse semplicemente dando per scontato
+questo assai dubbio parallelo tra l'uomo preistorico e l'uomo
+decivilizzato. Può darsi che presso certe tribù selvagge il capo sia
+chiamato il Vecchio e a nessuno sia consentito toccare la sua lancia o
+sedersi al suo posto. Può darsi che in quei casi egli sia circondato da
+terrori superstiziosi e tradizionali; e può darsi che in quei casi, per
+quel che ne so, egli sia dispotico e tirannico. Ma non vi è un briciolo di
+prova che il [[government|governo]] primitivo fosse dispotico e tirannico.
+Può esserlo stato, s'intende, giacché può essere stato qualsiasi cosa o
+anche niente; può darsi che non sia affatto esistito. Ma il dispotismo di
+certe squallide e decadute tribù del ventesimo secolo non prova che i
+primi uomini fossero governati dispoticamente. Non lo lascia neppure
+supporre; non comincia neppure ad accennarlo. Se vi è un fatto che
+possiamo davvero provare, dalla [[history|storia]] che davvero
+conosciamo, è che il dispotismo può essere uno sviluppo, spesso uno
+sviluppo tardivo e ben sovente la fine di società che erano state
+altamente democratiche. Un dispotismo si potrebbe quasi definire una
+[[democracy|democrazia]] stanca. Man mano che la stanchezza cala su una
+comunità, i cittadini sono meno inclini a quell'eterna vigilanza che è
+stata giustamente chiamata il prezzo della libertà; e preferiscono armare
+una sola sentinella a guardia della [[City|città]] mentre essi
+[[Sleep|dormono]]. È altrettanto vero che talvolta ne avevano bisogno per
+qualche improvviso e battagliero atto di [[Reform|riforma]]; ed è
+ugualmente vero che egli spesso approfittò di essere l'uomo forte in armi
+per farsi [[Tyrant|tiranno]], come alcuni dei Sultani d'Oriente. Ma non
+vedo perché il Sultano avrebbe dovuto comparire nella [[history|storia]]
+prima di tante altre figure umane. Al contrario, l'uomo forte in armi
+dipende evidentemente dalla superiorità della sua armatura, e un
+armamento di quel genere viene con una civiltà più complessa. Un solo uomo
+può ucciderne venti con una [[Machine|mitragliatrice]]; è evidentemente
+meno probabile che possa farlo con una scheggia di selce. Quanto alle
+correnti chiacchiere sul più forte che governa con la forza e con la
+[[Fear|paura]], non è che una favola da nursery su un gigante dalle cento
+mani. Venti uomini potrebbero tenere a terra l'uomo più forte di qualsiasi
+società, antica o moderna. Senza dubbio potrebbero ammirare, in senso
+romantico e poetico, l'uomo che era davvero il più forte; ma questa è cosa
+del tutto diversa, ed è puramente morale e persino mistica quanto
+l'ammirazione per il più puro o il più saggio. Ma lo spirito che sopporta
+le mere crudeltà e i capricci di un dispota costituito è lo spirito di una
+società antica e assestata e probabilmente irrigidita, non lo spirito di
+una società nuova. Come il suo nome implica, il Vecchio è il sovrano di
+un'umanità vecchia.
+
 
 
 <span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_02" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 2)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
@@ -11665,6 +12702,14 @@ which may or may not be a progress but most assuredly a [[Romance|romance]].
 But the first chapters of the [[Romance|romance]] have been torn out of the book;
 and we shall never read them.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+È assai più probabile che una società primitiva assomigliasse a una pura [[democracy|democrazia]]. Ancora oggi le comunità agricole relativamente semplici sono di gran lunga le democrazie più pure. La [[democracy|democrazia]] è una cosa che continua a rovinare per la complessità della civiltà. Chi voglia può esprimerlo dicendo che la [[democracy|democrazia]] è la nemica della civiltà. Ma deve ricordare che alcuni di noi preferiscono davvero la [[democracy|democrazia]] alla civiltà, nel senso di preferire la [[democracy|democrazia]] alla complessità. Comunque sia, i contadini che coltivano i propri appezzamenti in una rozza uguaglianza, e si riuniscono per votare direttamente sotto l'albero del villaggio, sono gli uomini che più veramente si [[Self|governano]] da sé. È dunque tanto probabile quanto no che un'idea così semplice si trovasse nella prima condizione di uomini persino più semplici. In verità la visione dispotica è esagerata, anche se non consideriamo gli uomini come uomini. Persino in un'ipotesi evoluzionistica del tipo più materialistico, non vi è davvero alcuna ragione perché gli uomini non dovessero avere almeno tanto cameratismo quanto i ratti o le cornacchie. Una qualche forma di guida senza dubbio l'avevano, come l'hanno gli [[Animals|animali]] gregari; ma la guida non implica quella servilità irrazionale che si attribuisce ai sudditi superstiziosi del Vecchio. Vi era senza dubbio qualche [[Body|corpo]] corrispondente, per usare l'espressione di Tennyson, alla cornacchia dai molti inverni che conduce a [[Home|casa]] lo stormo garrulo. Ma immagino che, se quel venerabile volatile cominciasse ad agire alla maniera di certi Sultani dell'antica e decaduta Asia, diverrebbe uno stormo assai garrulo e la cornacchia dai molti inverni non vedrebbe molti altri inverni. Si può osservare, a questo proposito, che persino tra gli [[Animals|animali]] parrebbe che qualcos'altro sia rispettato più della violenza bestiale, non fosse che quella familiarità che negli uomini si chiama tradizione o quell'esperienza che negli uomini si chiama saggezza. Non so se le cornacchie seguano davvero la cornacchia più vecchia, ma se lo fanno, di certo non seguono la cornacchia più forte. E so, nel caso umano, che se qualche rito di anzianità induce i selvaggi a riverire qualcuno chiamato il Vecchio, allora almeno essi non hanno la nostra servile e sentimentale debolezza per l'adorazione dell'Uomo Forte.
+
+Si può dunque dire che il [[government|governo]] primitivo, come l'arte e la religione primitive e ogni altra cosa, è conosciuto — o piuttosto congetturato — assai imperfettamente; ma che è almeno una congettura tanto buona supporre che fosse popolare come un villaggio balcanico o pirenaico, quanto che fosse capriccioso e segreto come un divano turco. Sia la [[democracy|democrazia]] montanara sia il palazzo orientale sono moderni nel senso che sono ancora là, o sono una qualche sorta di crescita della [[history|storia]]; ma dei due il palazzo ha molto più l'aspetto di un'accumulazione e di una corruzione, il villaggio molto più l'aspetto di una cosa davvero immutata e primitiva. Ma i miei suggerimenti a questo punto non vanno oltre l'esprimere un salutare [[Doubt|dubbio]] sull'assunto corrente. Trovo interessante, per esempio, che le istituzioni liberali siano state fatte risalire persino da moderni ai barbari o a stati non sviluppati, quando ciò accadeva di tornare comodo a sostegno di qualche razza o nazione o [[philosophy|filosofia]]. Così i Socialisti professano che il loro ideale di proprietà comune esisteva in tempi assai remoti. Così gli Ebrei si vantano dei Giubilei o delle più giuste ridistribuzioni sotto la loro antica legge. Così i Teutonisti si vantavano di rintracciare parlamenti e giurie e varie cose popolari tra le tribù germaniche del nord. Così i Celtofili e coloro che testimoniano dei torti dell'Irlanda hanno addotto la più equa giustizia del sistema clanico, di cui i capi irlandesi resero testimonianza prima di Strongbow. La forza dell'argomento varia nei diversi casi; ma poiché vi è qualche argomento per tutti, sospetto che vi sia qualche argomento per la proposizione generale che istituzioni popolari di qualche sorta non erano affatto rare nelle società precoci e semplici. Ciascuna di queste scuole separate faceva l'ammissione per provare una particolare tesi moderna; ma prese insieme suggeriscono una [[Truth|verità]] più antica e generale, che vi era qualcosa di più, nei consigli preistorici, che ferocia e [[Fear|paura]]. Ciascuno di questi teorici separati aveva il proprio interesse da difendere, ma era disposto a usare un'ascia di pietra; e riesce a suggerire che l'ascia di pietra potesse essere tanto repubblicana quanto la ghigliottina.
+
+Ma la [[Truth|verità]] è che il sipario si leva su una recita già in corso. In un certo senso è un vero [[Paradox|paradosso]] che vi fosse [[history|storia]] prima della [[history|storia]]. Ma non è l'irrazionale [[Paradox|paradosso]] implicito nella [[history|storia]] preistorica; poiché è una [[history|storia]] che non conosciamo. Assai probabilmente essa era straordinariamente simile alla [[history|storia]] che conosciamo, tranne nell'unico particolare che non la conosciamo. Essa è dunque l'esatto opposto della pretenziosa [[history|storia]] preistorica, che pretende di rintracciare ogni cosa in un corso coerente dall'ameba all'antropoide e dall'antropoide all'agnostico. Ben lungi dall'essere questione del nostro sapere tutto su strane creature molto diverse da noi, essi erano assai probabilmente gente molto simile a noi, tranne che di loro non sappiamo nulla. In altre parole, i nostri documenti più antichi risalgono soltanto a un [[Time|tempo]] in cui l'umanità era da lungo umana, e persino da lungo civilizzata. I documenti più antichi che abbiamo non solo menzionano ma danno per scontate cose come re e sacerdoti e principi e assemblee del popolo; descrivono comunità che sono grossolanamente riconoscibili come comunità nel nostro stesso senso. Alcune di esse sono dispotiche; ma non possiamo dire che siano state sempre dispotiche. Alcune di esse possono essere già decadenti e quasi tutte sono menzionate come se fossero antiche. Non sappiamo che cosa realmente accadde nel mondo prima di quei documenti; ma il poco che sappiamo non ci lascerebbe affatto stupiti se apprendessimo che fu molto simile a ciò che accade in questo mondo oggi. Non vi sarebbe nulla di incoerente o di sconcertante nella scoperta che quelle età ignote fossero piene di repubbliche che crollavano sotto le monarchie e risorgevano di nuovo come repubbliche, di imperi che si espandevano e trovavano colonie e poi perdevano colonie. Regni che si combinavano di nuovo in stati mondiali e si frantumavano di nuovo in piccole nazionalità, classi che si vendevano nella [[Slavery|schiavitù]] e marciavano ancora una volta verso la libertà; tutta quella processione dell'umanità che può essere o non essere un progresso, ma è assai certamente un [[Romance|romanzo]]. Ma i primi capitoli del [[Romance|romanzo]] sono stati strappati dal libro; e non li leggeremo mai.
 
 
 
@@ -11804,6 +12849,14 @@ and the whole difference between the historic and the prehistoric:
 the archetypal script, the art of writing.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lo stesso accade con la più particolare fantasticheria intorno all'evoluzione e alla stabilità sociale. Stando alle testimonianze reali di cui disponiamo, barbarie e civiltà non furono stadi successivi nel progresso del mondo. Furono condizioni che esistevano fianco a fianco, come ancora esistono fianco a fianco. C'erano allora civiltà come oggi vi sono civiltà; ci sono oggi selvaggi come allora vi erano selvaggi. Si suggerisce che tutti gli uomini attraversarono uno stadio nomade; ma è certo che ve ne sono alcuni che non ne sono mai usciti, e non pare inverosimile che ve ne fossero alcuni che non vi entrarono mai. È probabile che fin da tempi assai primitivi lo statico coltivatore del suolo e il pastore errante fossero due tipi d'uomo distinti; e la loro sistemazione cronologica non è che il segno di quella mania per gli stadi progressivi che ha in gran parte falsificato la [[history|storia]]. Si suggerisce che vi fu uno stadio comunista, in cui la proprietà privata era ovunque sconosciuta, un'intera umanità che viveva sulla negazione della proprietà; ma le prove di questa negazione sono esse stesse piuttosto negative. Redistribuzioni della proprietà, giubilei e leggi agrarie ricorrono a vari intervalli e in varie forme; ma che l'umanità sia inevitabilmente passata attraverso uno stadio comunista pare tanto dubbio quanto la parallela proposizione che l'umanità vi ritornerà inevitabilmente. È interessante soprattutto come prova che i piani più arditi per l'avvenire invocano l'autorità del passato; e che perfino un rivoluzionario cerca di persuadersi d'essere anche un reazionario. C'è un divertente esempio parallelo nel caso di ciò che si chiama femminismo. A dispetto di tutte le chiacchiere pseudoscientifiche sul [[Marriage|matrimonio]] per ratto e sull'uomo delle [[Cave|caverne]] che picchia la donna delle [[Cave|caverne]] con una clava, si può osservare che, non appena il femminismo divenne un grido di moda, si prese a sostenere che la civiltà umana nel suo primo stadio fosse stata un matriarcato. A quanto pare era la donna delle [[Cave|caverne]] a portare la clava. In ogni caso tutte queste idee non valgono molto più di congetture; hanno una curiosa maniera di seguire la fortuna delle teorie e delle mode moderne. In ogni caso non sono [[history|storia]] nel senso di documento; e possiamo ripetere che, quando si viene al documento, l'ampia [[Truth|verità]] è che barbarie e civiltà sono sempre coesistite nel mondo, la civiltà talvolta espandendosi fino ad assorbire i barbari, talvolta decadendo in relativa barbarie, e quasi in tutti i casi possedendo in forma più compiuta certe idee e istituzioni che i barbari possiedono in forma più rozza; quali il [[government|governo]] o l'autorità sociale, le arti e specialmente le arti decorative, misteri e tabù di vario genere specialmente intorno alla questione del sesso, e qualche forma di quella cosa fondamentale che è la principale preoccupazione di questa indagine: la cosa che chiamiamo religione.
+
+Ora l'[[Egypt|Egitto]] e Babilonia, quei due mostri primigeni, in questa materia avrebbero potuto essere forniti apposta come modelli. Si potrebbero quasi chiamare modelli funzionanti per mostrare come queste teorie moderne non funzionino. Le due grandi verità che conosciamo intorno a queste due grandi culture si dà il caso che contraddicano nettamente le due correnti fallacie or ora considerate. La storia dell'[[Egypt|Egitto]] avrebbe potuto essere inventata per illustrare la morale che l'uomo non comincia necessariamente col dispotismo perché è barbaro, ma assai spesso trova la via del dispotismo perché è civile. La trova perché è esperto; o, ciò che spesso è quasi lo stesso, perché è esausto. E la storia di Babilonia avrebbe potuto essere inventata per illustrare la morale che l'uomo non ha bisogno di essere un nomade o un comunista prima di diventare un contadino o un cittadino, e che tali culture non sono sempre in stadi successivi ma spesso in stati contemporanei. Perfino toccando queste grandi civiltà con cui comincia la nostra [[history|storia]] scritta c'è naturalmente la [[Temptation|tentazione]] di essere troppo ingegnosi o troppo presuntuosi. Possiamo leggere i mattoni di Babilonia in un senso assai diverso da quello in cui congetturiamo intorno alle pietre a coppelle e anelli; e sappiamo con certezza che cosa significhino gli [[Animals|animali]] nel geroglifico egizio, come nulla sappiamo dell'animale nella [[Cave|caverna]] neolitica. Ma anche qui gli ammirevoli archeologi che hanno decifrato riga dopo riga miglia di geroglifici possono essere tentati di leggere troppo tra le righe; perfino la vera autorità in materia di Babilonia può dimenticare quanto frammentaria sia la sua faticosamente conquistata conoscenza; può dimenticare che Babilonia gli ha scagliato addosso soltanto mezzo mattone, benché mezzo mattone sia meglio di nessun cuneiforme. Ma alcune verità, storiche e non preistoriche, dogmatiche e non evolutive, fatti e non fantasie, emergono davvero dall'[[Egypt|Egitto]] e da Babilonia; e queste due verità sono fra esse.
+
+L'[[Egypt|Egitto]] è un nastro verde lungo il margine del [[River|fiume]] che orla la cupa rossa desolazione del [[Desert|deserto]]. È un proverbio, e d'antichità immensa, che esso sia creato dalla misteriosa munificenza e dalla quasi sinistra benevolenza del Nilo. Quando per la prima volta udiamo parlare degli Egiziani, essi vivono come in una fila di villaggi lungo il [[River|fiume]], in comunità piccole e distinte ma cooperative lungo la sponda del Nilo. Là dove il [[River|fiume]] si ramificava nell'ampio Delta si trovava tradizionalmente il principio di un distretto o popolo alquanto diverso; ma questo non deve complicare la [[Truth|verità]] principale. Questi popoli più o meno indipendenti benché interdipendenti erano già considerevolmente civili. Avevano una sorta di araldica; cioè, arte decorativa usata a fini simbolici e sociali; ciascuno navigando sul Nilo sotto la propria insegna che rappresentava qualche uccello o animale. L'araldica implica due cose d'enorme importanza per la normale umanità; la combinazione delle due formando quella nobile cosa chiamata cooperazione; su cui riposano tutte le contadinerie e i popoli che sono liberi. L'arte dell'araldica significa indipendenza; un'immagine scelta dall'[[Imagination|immaginazione]] per esprimere l'individualità. La scienza dell'araldica significa interdipendenza; un accordo fra corpi diversi per riconoscere immagini diverse; una scienza dell'immagine. Abbiamo qui dunque esattamente quel compromesso di cooperazione fra famiglie o gruppi liberi che è il più normale modo di vita per l'umanità ed è particolarmente evidente ovunque gli uomini possiedano la propria terra e vi vivano. Alla sola menzione dell'immagine di uccello e bestia lo studioso di mitologia mormorerà la parola «totem» quasi nel [[Sleep|sonno]]. Ma a mio giudizio gran parte del guaio nasce dalla sua abitudine di pronunciare tali parole come nel [[Sleep|sonno]]. In tutto questo rozzo abbozzo ho fatto un tentativo necessariamente inadeguato di tenermi all'interno piuttosto che all'esterno di simili cose; di considerarle dove possibile in termini di pensiero e non meramente in termini di terminologia. Ha ben poco valore parlare di totem se non abbiamo qualche sentimento di che cosa significasse davvero avere un totem. Ammesso che essi avessero i totem e noi non ne abbiamo; era perché avevano più [[Fear|paura]] degli [[Animals|animali]] o più familiarità con gli [[Animals|animali]]? Un uomo il cui totem era un lupo si sentiva come un lupo mannaro o come un uomo che fugge da un lupo mannaro? Si sentiva come lo Zio Remo verso Fratel Lupo, o come san Francesco verso il suo fratello lupo, o come Mowgli verso i suoi fratelli lupi? Un totem era una cosa come il [[Lion|leone]] britannico o una cosa come il bulldog britannico? Il culto di un totem era come il sentimento dei negri verso Mumbo Jumbo, o dei bambini verso Jumbo? Non ho mai letto alcun libro di folklore, per quanto dotto, che mi abbia gettato qualche luce su questa questione, che ritengo di gran lunga la più importante. Mi limiterò a ripetere che le prime comunità egizie avevano una comune intesa intorno alle immagini che stavano per i loro singoli stati; e che questa quantità di comunicazione è preistorica nel senso che è già presente al principio della [[history|storia]]. Ma man mano che la [[history|storia]] si dispiega, questa questione della comunicazione è chiaramente la questione principale di queste comunità rivierasche. Col bisogno di comunicazione viene il bisogno di un comune [[government|governo]] e la crescente [[Greatness|grandezza]] e la sempre più estesa [[Shadow|ombra]] del [[King|re]]. L'altra forza vincolante oltre al [[King|re]], e forse più antica del [[King|re]], è il sacerdozio; e il sacerdozio ha presumibilmente ancora più a che fare con quei simboli e segnali rituali per mezzo dei quali gli uomini possono comunicare. E qui in [[Egypt|Egitto]] sorse probabilmente la primaria e certamente la tipica invenzione a cui dobbiamo tutta la [[history|storia]], e l'intera differenza tra lo storico e il preistorico: la scrittura archetipica, l'arte di scrivere.
+
 
 
 <span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_04" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 4)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
@@ -11906,6 +12959,14 @@ of stale politicians and philanthropists.  But one of the strange
 marks of the strength of [[Christianity]] is that, since it came,
 no pagan in our civilisation has been able to be really human.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le raffigurazioni popolari di questi imperi primordiali non sono neppure lontanamente popolari quanto potrebbero essere. Si è distesa su di esse l'[[Shadow|ombra]] di una cupezza esagerata, ben più grave della normale e persino salubre tristezza degli uomini pagani. Fa parte di quella stessa specie di segreto pessimismo che si compiace di fare dell'uomo primitivo una creatura strisciante, il cui [[Body|corpo]] è lordura e la cui [[Soul|anima]] è [[Fear|paura]]. Nasce, s'intende, dal fatto che gli uomini sono mossi soprattutto dalla loro religione; specialmente quando è irreligione. Per costoro tutto ciò che è primario ed elementare non può che essere malvagio. Ma la conseguenza curiosa è che, mentre siamo stati inondati dai più sfrenati esperimenti di [[Romance|romanzo]] primitivo, essi hanno mancato tutti il vero [[Romance|romanticismo]] dell'essere primitivi. Hanno descritto scene interamente immaginarie, in cui gli uomini dell'età della pietra sono uomini di pietra, come statue che camminano; in cui gli Assiri o gli Egizi sono rigidi o dipinti quanto la loro stessa arte più arcaica. Ma nessuno di questi fabbricatori di scene immaginarie ha tentato di immaginare che cosa dovette essere davvero vedere come cose fresche ciò che noi vediamo come cose familiari. Non hanno visto un uomo che scopre il [[Fire|fuoco]] come un [[Child|bambino]] che scopre i fuochi d'artificio. Non hanno visto un uomo che gioca con la meravigliosa invenzione chiamata la [[Wheel|ruota]], come un ragazzo che gioca a montare una stazione radiotelegrafica. Non hanno mai infuso lo spirito della giovinezza nelle loro descrizioni della giovinezza del mondo. Ne consegue che, in mezzo a tutte le loro fantasie primitive o preistoriche, non ci sono scherzi. Non ci sono nemmeno scherzi pratici, in rapporto con le invenzioni pratiche. E ciò si delinea assai nettamente nel caso particolare dei geroglifici; poiché sembra esservi un serio indizio che l'intera nobile arte umana della scrittura sia cominciata con uno scherzo.
+
+Vi sarà chi apprenderà con rammarico che pare sia cominciata con un gioco di parole. Il [[King|re]], o i sacerdoti, o qualche persona responsabile, desiderando inviare un messaggio su per il [[River|fiume]] in quel territorio scomodamente lungo e stretto, ebbe l'idea di mandarlo in scrittura per immagini, come quella dei Pellirosse. Come la maggior parte di coloro che hanno scritto per gioco con figure, s'accorse che le parole non sempre combaciavano. Ma quando la parola per «tasse» suonava piuttosto simile alla parola per «porco», egli mise arditamente giù un porco, come un cattivo bisticcio, e tirò a indovinare. Così un moderno geroglifista potrebbe rappresentare «at once» disegnando senza scrupoli un cappello («hat») seguito da una serie di cifre in verticale («ones»). Andava bene per i Faraoni e dovrebbe andar bene anche per lui. Ma dovette essere un grande spasso scrivere, e persino leggere, questi messaggi, quando scrivere e leggere erano davvero cosa nuova. E se proprio si devono scrivere romanzi sull'antico [[Egypt|Egitto]] (e pare che né preghiere né [[Tears|lacrime]] né maledizioni possano trattenerne gli uomini dall'abitudine), suggerisco che scene come questa ci ricorderebbero davvero che gli antichi Egizi erano esseri umani. Suggerisco che qualcuno descriva la scena del grande monarca seduto in mezzo ai suoi sacerdoti, tutti scoppianti di risa e traboccanti di suggerimenti man mano che i giochi di parole regali si facevano sempre più bizzarri e indifendibili. Vi potrebbe essere un'altra scena di eccitazione quasi pari, intorno alla decifrazione di questo codice; con le congetture, gli indizi e le scoperte cariche di tutto il brivido popolare di un racconto [[Detective|poliziesco]]. È così che il [[Romance|romanzo]] primitivo e la [[history|storia]] primitiva dovrebbero davvero essere scritti. Perché, quale che fosse la qualità della vita religiosa o morale delle epoche remote — e fu probabilmente assai più umana di quanto convenzionalmente si supponga — l'interesse scientifico di un simile [[Time|tempo]] dovette essere intenso. Le parole dovettero essere più prodigiose della telegrafia senza fili; e gli esperimenti con le cose comuni una serie di scariche elettriche. Attendiamo ancora che qualcuno scriva una vivace storia della vita primitiva. Il punto è, in un certo senso, una parentesi qui; ma si ricollega alla questione generale dello sviluppo politico, per il tramite dell'istituzione che fu più attiva in queste prime e più affascinanti fra tutte le fiabe della scienza.
+
+Si ammette che dobbiamo gran parte di questa scienza ai sacerdoti. Scrittori moderni come il signor Wells non possono essere accusati di alcuna debolezza di simpatia verso una gerarchia pontificale; eppure concordano almeno nel riconoscere ciò che i sacerdozi pagani fecero per le arti e le scienze. Fra i più ignoranti degli illuminati vi era in effetti l'uso di dire che i sacerdoti avevano ostacolato il progresso in ogni epoca; e un uomo politico un giorno mi disse, in un [[debate|dibattito]], che io mi opponevo alle riforme moderne esattamente come qualche antico sacerdote si oppose probabilmente alla scoperta delle ruote. Replicai, obiettando, che era assai più verosimile che l'antico sacerdote avesse fatto egli stesso la scoperta delle ruote. È in modo schiacciante probabile che l'antico sacerdote abbia avuto molto a che fare con la scoperta dell'arte della scrittura. È abbastanza evidente nel fatto che la parola stessa «geroglifico» è affine alla parola «gerarchia». La religione di questi sacerdoti era, a quanto pare, un politeismo più o meno aggrovigliato, di un tipo descritto più particolarmente altrove. Attraversò un periodo in cui cooperò con il [[King|re]], un altro periodo in cui fu temporaneamente distrutta dal [[King|re]], che si dava il caso fosse un principe fornito d'un suo privato teismo, e un terzo periodo in cui essa distrusse praticamente il [[King|re]] e regnò in sua vece. Ma il mondo deve esserle grato per molte cose che considera comuni e necessarie: e i creatori di quelle cose comuni dovrebbero davvero avere un posto tra gli eroi dell'umanità. Se fossimo in pace dentro un paganesimo autentico, invece di essere inquieti in una reazione piuttosto irrazionale contro il [[Christianity|Cristianesimo]], potremmo tributare qualche sorta di [[Honour|onore]] pagano a questi anonimi artefici del genere umano. Potremmo avere statue velate dell'uomo che per primo trovò il [[Fire|fuoco]], o dell'uomo che per primo costruì una barca, o dell'uomo che per primo domò un [[Horse|cavallo]]. E se recassimo loro ghirlande o sacrifici, vi sarebbe più senno che nel deturpare le nostre città con statue plebee di politici e filantropi ormai stantii. Ma uno dei segni singolari della forza del [[Christianity|Cristianesimo]] è che, da quando esso venne, nessun pagano della nostra civiltà è stato capace di essere davvero umano.
 
 
 
@@ -12016,6 +13077,14 @@ those wanderers went westward to waste whatever they could find.
 The last [[Time|time]] they came they found Babylon vanished; but that was
 in historic times and the name of their leader was Mahomet.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il punto, tuttavia, è questo: il [[government|governo]] egiziano, sia esso pontificale o regale, trovò sempre più necessario stabilire una comunicazione; e alla comunicazione si accompagnò sempre un certo elemento di coercizione. Non è cosa necessariamente indifendibile che lo stato si facesse più dispotico man mano che si faceva più civile; anzi, si può sostenere che dovette farsi più dispotico proprio per potersi fare più civile. È questo l'argomento a favore dell'autocrazia in ogni epoca; e l'interesse sta nel vederlo illustrato nell'epoca più remota. Ma non è affatto vero che esso fosse più dispotico nell'epoca più antica e divenisse più liberale in un'epoca posteriore; il processo concreto della [[history|storia]] è esattamente il contrario. Non è vero che la tribù cominciò nell'estremo del terrore del Vecchio con il suo seggio e la sua lancia; è probabile, almeno in [[Egypt|Egitto]], che il Vecchio fosse piuttosto un Nuovo armato per far fronte a nuove condizioni. La sua lancia si allungò sempre più e il suo trono si [[Rose|innalzò]] sempre più in alto, man mano che l'[[Egypt|Egitto]] si [[Rose|innalzava]] verso una civiltà complessa e compiuta. È questo che intendo quando dico che la [[history|storia]] del territorio egiziano è, in ciò, la [[history|storia]] della terra; e nega direttamente la volgare presunzione secondo cui il terrorismo può venire soltanto all'inizio e non può venire alla fine. Non sappiamo quale fosse la condizione primissima di quel più o meno feudale amalgama di proprietari terrieri, contadini e schiavi nelle piccole comunità in riva al Nilo; ma può darsi che fosse un contadiname di natura ancor più popolare. Ciò che sappiamo è che è per esperienza e per [[Education|educazione]] che le piccole comunità perdono la loro libertà; che la sovranità assoluta è qualcosa non semplicemente antico, ma piuttosto relativamente moderno; ed è alla fine del sentiero chiamato progresso che gli uomini fanno ritorno al [[King|re]].
+
+L'[[Egypt|Egitto]] presenta, in quel breve resoconto dei suoi più remoti inizi, il problema primario della libertà e della civiltà. È il fatto che gli uomini realmente perdono varietà per via della complessità. Non abbiamo risolto il problema meglio di quanto lo risolsero loro; ma volgarizza la dignità umana del problema stesso il suggerire che perfino la tirannia non abbia altro movente se non il terrore tribale. E come l'esempio egiziano confuta la fallacia sul dispotismo e la civiltà, così l'esempio babilonese confuta la fallacia sulla civiltà e la barbarie. Anche di Babilonia sentiamo parlare per la prima volta quando è già civile; per la semplice ragione che non possiamo sentir parlare di nulla finché non sia abbastanza istruito da saper parlare. Essa ci parla in ciò che si chiama cuneiforme; quel simbolismo triangolare strano e rigido che contrasta con il pittoresco alfabeto dell'[[Egypt|Egitto]]. Per quanto relativamente rigida possa essere l'arte egizia, vi è sempre qualcosa che la distingue dallo spirito babilonese, il quale era troppo rigido per avere un'arte qualsiasi. Vi è sempre una grazia viva nelle linee del loto e qualcosa di rapidità così [[Well|come]] di rigidità nel movimento delle frecce e degli [[Birds|uccelli]]. Forse vi è qualcosa della curva contenuta ma viva del [[River|fiume]], che ci induce, parlando del serpente dell'antico Nilo, a pensare quasi al Nilo come a un serpente. Babilonia fu una civiltà di diagrammi più che di disegni. Il signor W.B. Yeats, che possiede un'[[Imagination|immaginazione]] storica pari alla sua [[Imagination|immaginazione]] mitologica (e in verità la prima è impossibile senza la seconda), scrisse con verità degli uomini che osservavano le [[Stars|stelle]] «dalla loro pedantesca Babilonia». Il cuneiforme veniva inciso sui mattoni, con i quali era edificata tutta la loro architettura; i mattoni erano di fango cotto, e forse quel materiale aveva in sé qualcosa che vietava al senso della forma di svilupparsi nella scultura o nel rilievo. La loro era una civiltà statica ma scientifica, assai progredita nel meccanismo della vita e per certi versi altamente moderna. Si dice che avessero molto del moderno culto della zitellità superiore e riconoscessero una classe ufficiale di lavoratrici indipendenti. Vi è forse qualcosa, in quella possente roccaforte di fango indurito, che suggerisce l'attività utilitaria di un enorme alveare. Ma per quanto enorme, era umana; vi scorgiamo molti degli stessi problemi sociali che nell'antico [[Egypt|Egitto]] o nell'Inghilterra moderna; e quali che fossero i suoi mali, anche questo fu uno dei primissimi capolavori dell'uomo. Sorgeva, s'intende, nel triangolo formato dai fiumi quasi leggendari del Tigri e dell'Eufrate, e la vasta agricoltura del suo impero, da cui dipendevano le sue città, era perfezionata da un sistema di canali altamente scientifico. Aveva per tradizione un'alta vita intellettuale, benché più filosofica che artistica; e presiedono alla sua fondazione primordiale quelle figure che sono venute a incarnare la sapienza dell'antichità che scrutava gli astri: i maestri di Abramo, i Caldei.
+
+Contro questa società solida, come contro una vasta e nuda muraglia di mattoni, si infransero epoca dopo epoca gli eserciti senza nome dei Nomadi. Venivano dai deserti dove la vita nomade era stata vissuta fin dal principio e dove è vissuta ancor oggi. È inutile soffermarsi sulla [[Nature|natura]] di quella vita; era abbastanza evidente e persino abbastanza facile seguire una mandria o un gregge che generalmente trovava da sé il proprio pascolo, e vivere del latte o della carne che esso forniva. Né vi è ragione di [[Doubt|dubitare]] che questa abitudine di vita potesse dare quasi ogni cosa umana tranne una [[Home|casa]]. Molti di tali pastori o mandriani possono aver discusso, nel primo [[Time|tempo]] di tutti, tutte le verità e gli enigmi del Libro di Giobbe; e di questi furono Abramo e i suoi figli, che hanno dato al mondo moderno, come enigma senza fine, il monoteismo quasi maniacale degli Ebrei. Ma erano un popolo selvaggio, privo di comprensione della complessa organizzazione sociale; e uno spirito simile al [[Wind|vento]] dentro di loro li spingeva a farle guerra ancora e ancora. La [[history|storia]] della Babilonia è in gran parte la [[history|storia]] della sua difesa contro le orde del [[Desert|deserto]], che si presentavano a intervalli di un secolo o due e generalmente si ritiravano come erano venute. Alcuni dicono che una mescolanza di invasione nomade edificò a Ninive l'arrogante regno degli Assiri, i quali intagliarono grandi mostri sui loro templi, tori barbuti con ali come cherubini, e mandarono innumerevoli conquistatori militari che marcarono il mondo come con colossali zoccoli. L'Assiria fu un interludio imperiale; ma fu un interludio. La vicenda principale di tutta quella terra è la guerra tra i popoli erranti e lo stato che era veramente statico. Presumibilmente in tempi preistorici, e certamente in tempi storici, quegli erranti mossero verso occidente per devastare tutto ciò che potessero trovare. L'ultima [[Time|volta]] che vennero trovarono Babilonia scomparsa; ma ciò accadde in tempi storici, e il nome del loro condottiero era Maometto.
 
 
 
@@ -12175,6 +13244,160 @@ the very contrary of the [[Truth|truth]].  It is the large thing that is secret
 and invisible; it is the small thing that is evident and enormous.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora vale la pena di soffermarsi su quella storia perché, come si è
+suggerito, essa contraddice direttamente l'impressione tuttora
+diffusa che il nomadismo sia soltanto una cosa preistorica e la
+stanzialità sociale una cosa relativamente recente. Nulla dimostra
+che i Babilonesi avessero mai errato di luogo in luogo; ben poco
+dimostra che le tribù del [[Desert|deserto]] si siano mai stabilite.
+Anzi, è probabile che questa nozione di uno stadio nomade seguito
+da uno stadio statico sia già stata abbandonata dagli studiosi sinceri
+e autentici alle cui ricerche tutti dobbiamo tanto.
+Ma in questo libro io non sono in polemica con studiosi sinceri e autentici,
+bensì con una vasta e vaga opinione pubblica che è stata prematuramente
+diffusa a partire da certe indagini imperfette, e che ha reso
+di moda una falsa nozione dell'intera [[history|storia]] dell'umanità.
+È tutta quella vaga nozione secondo cui una scimmia si è evoluta in un uomo e allo
+stesso modo un barbaro si è evoluto in un uomo civile e dunque a ogni
+stadio dobbiamo guardare all'indietro verso la barbarie e in avanti verso la civiltà.
+Purtroppo questa nozione è, in un [[Double|duplice]] senso, interamente campata in aria.
+È un'atmosfera in cui gli uomini vivono più che una tesi
+che essi difendano. Gli uomini in quella disposizione si confutano più facilmente
+con gli oggetti che con le teorie; e sarà [[Well|bene]] se chiunque sia tentato
+di fare quell'assunzione, in qualche banale svolta di discorso o di scrittura,
+possa essere trattenuto per un istante chiudendo gli occhi e vedendo per
+un attimo, vasto e vagamente gremito, come un precipizio popoloso,
+la [[Wonder|meraviglia]] della muraglia babilonese.
+
+Un fatto certo cade su di noi come la sua [[Shadow|ombra]].
+I nostri sprazzi di veduta su entrambi questi imperi antichi mostrano che la prima relazione
+domestica era stata complicata da qualcosa che era meno umano,
+ma che spesso veniva considerato altrettanto domestico. Il tetro gigante chiamato
+[[Slavery|Schiavitù]] era stato evocato come un genio e affaticava a gigantesche
+opere di mattoni e di pietra. Anche qui non dobbiamo troppo facilmente supporre
+che ciò che era arretrato fosse barbarico; in materia di affrancamento
+la servitù più antica sembra per certi versi più liberale di quella più tarda;
+forse più liberale della servitù dell'avvenire.
+Assicurare il cibo all'umanità costringendone una parte a lavorare era, in fondo,
+un espediente assai umano; ed è per questo che probabilmente verrà tentato di nuovo.
+Ma in un senso c'è un significato nell'antica [[Slavery|schiavitù]].
+Essa sta a rappresentare un fatto fondamentale riguardo a tutta l'antichità
+prima di [[Christ|Cristo]]; qualcosa da presupporre dal principio alla fine.
+È l'insignificanza dell'individuo di fronte allo Stato.
+Ciò era vero della più democratica [[City|Città]]-Stato dell'Ellade come di qualunque
+dispotismo in Babilonia. È uno dei segni di questo spirito che un'
+intera classe di individui potesse essere insignificante o persino invisibile.
+Doveva essere normale perché era necessaria a ciò che oggi
+si chiamerebbe «servizio sociale». Qualcuno disse: «L'Uomo è nulla e
+l'Opera è tutto», intendendolo come un arioso luogo comune carlyliano.
+Era il sinistro motto del pagano Stato Servile.
+In quel senso c'è [[Truth|verità]] nella tradizionale visione di enormi
+pilastri e piramidi che salgono sotto quei cieli eterni per sempre
+grazie alla fatica di uomini innumerevoli e senza nome, che sgobbano come formiche
+e muoiono come mosche, spazzati via dall'opera delle loro stesse mani.
+
+Ma vi sono altre due ragioni per cominciare dai due punti fissi
+dell'[[Egypt|Egitto]] e di Babilonia. Anzitutto perché essi sono fissati nella tradizione
+come i tipi dell'antichità; e la [[history|storia]] senza tradizione è morta.
+Babilonia è ancora il ritornello di una filastrocca infantile, e l'[[Egypt|Egitto]]
+(con la sua enorme popolazione di principesse in attesa di reincarnazione)
+è ancora il tema di un inutile numero di romanzi.
+Ma una tradizione è generalmente una [[Truth|verità]]; purché la tradizione
+sia sufficientemente popolare; anche se è quasi volgare. E vi
+è un significato in questo elemento babilonese ed egizio nelle
+filastrocche e nei romanzi; perfino i giornali, normalmente tanto in ritardo
+sui tempi, sono già arrivati fino al regno di Tutankhamon.
+La prima ragione è tutta impregnata del buon senso della leggenda popolare;
+è il semplice fatto che di queste cose tradizionali sappiamo davvero
+di più che di altre cose a esse contemporanee; e che così è sempre stato.
+Tutti i viaggiatori, da Erodoto a Lord Carnarvon, seguono questo itinerario.
+Le speculazioni scientifiche d'oggi dispiegano bensì una mappa dell'intero
+mondo primitivo, con flussi di emigrazione o di mescolanza razziale
+segnati ovunque in linee punteggiate; su spazi che il non scientifico
+cartografo medievale si sarebbe accontentato di chiamare «Terra incognita»,
+se non avesse riempito l'invitante vuoto con la figura di un drago,
+a indicare la probabile accoglienza riservata ai pellegrini.
+Ma queste speculazioni sono, nel migliore dei casi, soltanto speculazioni; e nel
+peggiore le linee punteggiate possono essere assai più favolose del drago.
+
+C'è purtroppo qui un errore in cui è molto facile per gli uomini
+cadere, anche per i più intelligenti e forse specialmente
+per i più fantasiosi. È l'errore di supporre
+che, poiché un'idea è più grande nel senso di più ampia, essa perciò
+sia più grande nel senso di più fondamentale e fissa e certa.
+Se un uomo vive [[Alone|solo]] in una capanna di paglia nel mezzo del Tibet, gli si potrà
+dire che vive nell'Impero Cinese; e l'Impero Cinese
+è certamente una cosa splendida e spaziosa e imponente.
+Oppure, in alternativa, gli si potrà dire che vive nell'Impero Britannico,
+e ne sarà debitamente impressionato. Ma la cosa curiosa è che in certi
+stati mentali egli può sentirsi molto più certo dell'Impero Cinese
+che non può vedere di quanto lo sia della capanna di paglia che può vedere.
+Ha nella mente qualche strano giuoco di prestigio magico, per cui il suo ragionamento
+comincia con l'impero benché la sua esperienza cominci con la capanna.
+Talvolta impazzisce e sembra dimostrare che una capanna di paglia non può
+esistere nei domini del Trono del Drago; che è impossibile che una tale
+civiltà quale egli gode contenga un tugurio quale egli abita.
+Ma la sua follia nasce dallo scivolone intellettuale di supporre
+che, poiché la Cina è un'ipotesi grande e onnicomprensiva,
+essa perciò sia qualcosa di più di un'ipotesi. Ora le persone
+moderne ragionano perpetuamente in questo modo; e lo estendono
+a cose assai meno reali e certe dell'Impero Cinese.
+Sembrano dimenticare, per esempio, che un uomo non è certo del
+Sistema Solare quanto lo è delle South Downs. Il Sistema Solare
+è una deduzione, e senza dubbio una deduzione vera; ma il punto è che è
+una deduzione vastissima e di larghissima portata e perciò egli dimentica
+che è affatto una deduzione e la tratta come un primo principio.
+Potrebbe scoprire che l'intero calcolo è un calcolo sbagliato;
+e il sole e le [[Stars|stelle]] e i lampioni avrebbero esattamente lo stesso aspetto.
+Ma egli ha dimenticato che è un calcolo, ed è quasi pronto
+a contraddire il sole se questo non si accorda con il sistema solare.
+Se questo è un errore perfino nel caso di fatti abbastanza [[Well|bene]] accertati,
+come il Sistema Solare e l'Impero Cinese, è un errore
+ancora più devastante in rapporto alle teorie e ad altre
+cose che non sono affatto realmente accertate. Così la [[history|storia]],
+e specialmente la [[history|storia]] preistorica, ha l'orribile abitudine di cominciare
+con certe generalizzazioni sulle razze. Non descriverò
+il disordine e la miseria che questa inversione ha prodotto nella politica moderna.
+Poiché si suppone vagamente che la razza abbia prodotto la nazione,
+gli uomini parlano come se la nazione fosse qualcosa di più vago della razza.
+Poiché hanno essi stessi inventato una ragione per spiegare un risultato,
+quasi negano il risultato pur di giustificare la ragione.
+Trattano dapprima un Celta come un assioma e poi trattano un Irlandese
+come un'inferenza. E poi si stupiscono che un grande, combattivo,
+ruggente Irlandese si adiri d'essere trattato come un'inferenza.
+Non riescono a vedere che gli Irlandesi sono Irlandesi, siano o no
+Celti, siano o non siano mai esistiti Celti.
+E ciò che ancora una volta li trae in inganno è la mole della teoria;
+la sensazione che la fantasticheria sia più grande del fatto.
+Si suppone che una grande e sparsa razza celtica contenga gli Irlandesi,
+sicché naturalmente gli Irlandesi devono dipendere per la loro stessa esistenza da essa.
+La stessa confusione, s'intende, ha eliminato gli Inglesi e i Tedeschi
+sommergendoli nella razza teutonica; e alcuni cercarono di provare
+dal fatto che le razze fossero una sola che le nazioni non potessero essere in guerra.
+Ma io porto questi esempi volgari e triti soltanto di passaggio, come esempi più
+familiari dell'errore; la questione qui in gioco non è la sua
+applicazione a queste cose moderne, bensì piuttosto alle cose più antiche.
+Ma quanto più remoto e non documentato era il problema razziale, tanto più fissa
+era questa curiosa certezza rovesciata nell'uomo di scienza vittoriano.
+Ancora oggi dà a un uomo di quelle tradizioni scientifiche lo stesso
+tipo di scossa mettere in dubbio queste cose, che erano soltanto le ultime
+inferenze quando egli le convertì in primi principi. Egli è ancora
+più certo di essere un Ariano di quanto non sia di essere un Anglosassone,
+proprio come è più certo di essere un Anglosassone di quanto non sia di essere
+un Inglese. Non ha mai realmente scoperto di essere un Europeo.
+Ma non ha mai dubitato di essere un Indoeuropeo. Queste teorie
+vittoriane hanno mutato molto nella loro forma e nella loro portata;
+ma questa abitudine di un rapido indurirsi di un'ipotesi in una teoria,
+e di una teoria in un'assunzione, non è ancora affatto passata di moda.
+Le persone non riescono a liberarsi facilmente della confusione mentale di sentire
+che le fondamenta della [[history|storia]] devono pur essere sicure; che i primi
+passi devono essere saldi; che la generalizzazione più grande dev'essere ovvia.
+Ma per quanto la contraddizione possa sembrar loro un [[Paradox|paradosso]], questo è
+proprio il contrario della [[Truth|verità]]. È la cosa grande a essere segreta
+e invisibile; è la cosa piccola a essere evidente ed enorme.
+
 
 
 <span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_07" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 7)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
@@ -12274,6 +13497,14 @@ modern Europe.  But when we ask what was that world that we inherit,
 and why those particular people and places seem to belong to it,
 we are led to the central fact of civilised [[history]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ogni stirpe sulla faccia della terra è stata oggetto di queste congetture, ed è impossibile persino accennare a un quadro d'insieme della questione. Ma se prendiamo la razza europea [[Alone|da sola]], la sua [[history|storia]], o piuttosto la sua preistoria, ha subìto molte rivoluzioni retrospettive nel breve arco della mia stessa vita. Un tempo la si chiamava razza caucasica; e nella [[Childhood|fanciullezza]] lessi il racconto del suo scontro con la razza mongolica; l'aveva scritto Bret Harte, e si apriva con la domanda «O forse il Caucasico è ormai bell'e finito?». A quanto pare il Caucasico era bell'e finito, giacché in brevissimo [[Time|tempo]] venne trasformato nell'uomo indoeuropeo; talvolta, mi duole dirlo, orgogliosamente presentato come l'uomo indogermanico. Sembra che l'indù e il tedesco abbiano parole simili per madre o padre; vi erano altre somiglianze tra il sanscrito e varie lingue occidentali; e con ciò tutte le differenze superficiali tra un indù e un tedesco parvero d'un tratto svanire. Di solito questo personaggio composito veniva descritto più comodamente come l'Ariano, e il punto davvero importante era che egli aveva marciato verso occidente muovendo da quelle alte terre dell'India dove si potevano ancora rinvenire frammenti della sua lingua. Quando lessi tutto ciò da [[Child|bambino]], mi venne la fantasia che, dopotutto, l'Ariano non avesse bisogno di marciare verso occidente lasciandosi dietro la propria lingua; poteva anche aver marciato verso oriente portandosi appresso la lingua. Se lo leggessi adesso, mi accontenterei di confessare la mia ignoranza dell'intera faccenda. Ma di fatto ho grande difficoltà a leggerlo adesso, perché adesso non lo si scrive più. Pare che anche l'Ariano sia ormai bell'e finito. In ogni caso non ha soltanto cambiato nome, ma ha cambiato indirizzo: il suo punto di partenza e il suo itinerario di viaggio. Una nuova teoria sostiene che la nostra stirpe non sia giunta all'attuale [[Home|dimora]] dall'Oriente, bensì dal Meridione. Alcuni dicono che gli Europei non vennero dall'Asia, ma dall'Africa. Alcuni hanno perfino avuto la balzana idea che gli Europei venissero dall'Europa; o meglio, che non l'avessero mai lasciata.
+
+Vi è poi una certa quantità di indizi di una pressione più o meno preistorica proveniente dal Nord, come quella che sembra aver condotto i Greci a ereditare la civiltà cretese e che tanto spesso portò i Galli oltre i monti nelle campagne d'[[Italy|Italia]]. Ma menziono questo esempio di etnologia europea soltanto per mettere in luce che i dotti hanno ormai piuttosto [[Well|bene]] percorso l'intera rosa dei venti a questo [[Time|punto]]; e che io, che non sono tra i dotti, non posso pretendere neppure per un istante di decidere là dove tali dottori dissentono. Ma posso servirmi del mio buon senso, e talvolta immagino che il loro sia un po' arrugginito per mancanza d'uso. Il primo atto del buon senso è riconoscere la differenza tra una nuvola e una montagna. E affermerò che nessuno conosce alcuna di queste cose nel senso in cui tutti conosciamo l'esistenza delle Piramidi d'[[Egypt|Egitto]].
+
+La [[Truth|verità]], si può ripeterlo, è che ciò che realmente vediamo, a differenza di ciò che possiamo ragionevolmente congetturare, in questa prima fase della [[history|storia]] è tenebra che copre la terra e fitta tenebra che avvolge i popoli, con uno o due lumi che baluginano qua e là su fortuiti lembi di umanità; e che due di queste fiamme ardono davvero su due di quelle alte città primeve: sulle eccelse terrazze di Babilonia e sulle immani piramidi del Nilo. Vi sono in verità altri lumi antichi, o lumi che si possono congetturare antichissimi, in parti remotissime di quella vasta landa deserta della [[Night|notte]]. Lontano, a oriente, vi è una civiltà elevata e di sterminata antichità in Cina; vi sono i resti di civiltà in Messico e nell'[[America|America]] meridionale e in altri luoghi, alcune delle quali apparentemente così alte in civiltà da aver raggiunto le forme più raffinate del culto del diavolo. Ma la differenza sta nell'elemento dell'antica tradizione; la tradizione di queste culture perdute si è spezzata, e sebbene la tradizione della Cina viva ancora, è dubbio che noi ne sappiamo alcunché. Inoltre, chi cerchi di misurare l'antichità cinese deve usare le misure tradizionali cinesi; ed egli ha la strana sensazione di essere passato in un altro mondo, sotto altre leggi del [[Time|tempo]] e dello spazio. Il [[Time|tempo]] si dilata come un cannocchiale verso l'esterno e i secoli assumono il moto lento e rigido degli eoni; l'uomo bianco che cerca di vederlo come lo vede l'uomo giallo sente come se la testa gli girasse e si domanda con smarrimento se non gli stia spuntando un codino. In ogni caso egli non riesce a cogliere in senso scientifico quella bizzarra prospettiva che conduce alla pagoda primeva del primo dei Figli del Cielo. Egli è il vero antipode; l'unico autentico mondo alternativo alla Cristianità; e in un certo qual modo cammina a testa in giù. Ho parlato del cartografo medievale e del suo drago; ma quale viaggiatore medievale, per quanto interessato ai mostri, si aspetterebbe di trovare un paese in cui il drago è un essere benevolo e amabile? Del lato più serio della tradizione cinese si dirà qualcosa in altra sede; ma qui sto parlando soltanto di tradizione e del criterio dell'antichità. E menziono la Cina solo come un'antichità a cui, per noi, non si giunge attraverso un ponte di antica tradizione; e Babilonia ed [[Egypt|Egitto]] come antichità a cui invece si giunge. Erodoto è un essere umano, nel senso in cui un cinese con la bombetta in capo, seduto di fronte a noi in una sala da tè di [[London|Londra]], è a stento umano. Sentiamo di sapere che cosa provassero Davide e Isaia, in un modo in cui non fummo mai del tutto certi di che cosa provasse Li Hung Chang. Gli stessi peccati che ghermirono [[Helen|Elena]] o Betsabea sono trapassati in un proverbio dell'umana debolezza privata, del patetico e persino del perdono. Le stesse virtù del cinese hanno in sé qualcosa di terrificante. È questa la differenza prodotta dalla distruzione o dalla conservazione di un'eredità storica ininterrotta; come da un antico [[Egypt|Egitto]] all'Europa moderna. Ma quando ci domandiamo quale fosse quel mondo che ereditiamo, e perché quei particolari popoli e luoghi paiano appartenervi, siamo condotti al fatto centrale della [[history|storia]] civile.
 
 
 
@@ -12381,6 +13612,14 @@ If the world becomes pagan and perishes, the last man left alive
 would do [[Well|well]] to quote the Iliad and die.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quel centro era il Mediterraneo; che non era tanto una distesa d'[[Water|acqua]] quanto un mondo. Ma era un mondo che aveva qualcosa del carattere di una simile [[Water|acqua]]; perché divenne sempre più un luogo di unificazione in cui confluivano le correnti di culture strane e assai diverse. Il Nilo e il Tevere sfociano entrambi nel Mediterraneo; e così l'Egizio e l'Etrusco contribuirono del pari a una civiltà mediterranea. Il fascino del grande mare si diffuse invero assai lontano nell'entroterra, e l'[[unity|unità]] fu avvertita tra gli Arabi [[Alone|soli]] nei deserti e i Galli oltre le colline settentrionali. Ma il graduale edificarsi di una cultura comune che si stende lungo tutte le coste di questo mare interno è l'affare principale dell'antichità. Come si vedrà, fu talvolta un cattivo affare non [[Well|meno]] che un buon affare. In quell'orbis terrarum, ossia cerchia di terre, vi erano gli estremi del male e della pietà, vi erano razze contrapposte e religioni ancor più contrapposte. Fu il teatro di una lotta senza fine tra l'Asia e l'Europa, dalla [[Night|notte]] delle navi persiane a Salamina alla fuga delle navi turche a [[lepanto|Lepanto]]. Fu il teatro, come si suggerirà più specialmente in seguito, di una suprema lotta spirituale tra i due tipi di paganesimo, che si fronteggiavano nelle città latine e in quelle fenicie; nel foro romano e nel mercato punico. Fu il mondo della guerra e della pace, il mondo del bene e del male, il mondo di tutto ciò che più conta: con tutto il rispetto per gli Aztechi e i Mongoli dell'Estremo Oriente, essi non contarono come contò, e conta ancora, la tradizione mediterranea. Fra esso e l'Estremo Oriente vi furono, certo, culti e conquiste interessanti di vario genere, più o meno in contatto con esso, e nella misura in cui lo erano, intelligibili anche a noi. I Persiani vennero cavalcando per porre fine a Babilonia; e una storia greca ci narra come questi barbari imparassero a tendere l'arco e a dire la [[Truth|verità]]. Alessandro, il grande Greco, marciò con i suoi Macedoni verso l'aurora e ne riportò strani [[Birds|uccelli]] colorati come le nuvole dell'alba e strani [[Flowers|fiori]] e gioielli dai giardini e dai tesori di re senza nome. L'[[Islam]] penetrò a oriente in quel mondo e in parte ce lo rese immaginabile; proprio perché l'[[Islam]] stesso era nato in quella cerchia di terre che orlava il nostro mare antico e avito. Nel Medioevo l'impero dei Moghul accrebbe la propria maestà senza perdere il proprio mistero; i Tartari conquistarono la Cina e i Cinesi, a quanto pare, ne fecero pochissimo conto. Tutte queste cose sono interessanti in sé; ma è impossibile spostare il centro di gravità dagli spazi interni dell'Asia e portarlo lontano dal mare interno dell'Europa. A conti fatti, se nel mondo non vi fosse null'altro che ciò che fu detto e fatto e scritto ed edificato nelle terre che circondano il Mediterraneo, esso sarebbe ancora, in tutte le cose più vitali e preziose, il mondo in cui viviamo. Quando quella cultura meridionale si diffuse verso nord-ovest produsse molte cose meravigliose; delle quali senza dubbio noi stessi siamo le più meravigliose. Quando di lì si diffuse alle colonie e ai paesi nuovi, rimase pur sempre la stessa cultura, finché fu cultura del tutto. Ma attorno a quel piccolo mare simile a un lago vi erano le cose stesse, a prescindere da tutte le estensioni, gli echi e i commenti sulle cose: la Repubblica e la Chiesa; la [[Bible|Bibbia]] e i poemi eroici; l'[[Islam]] e Israele e la memoria degli imperi perduti, Aristotele e la misura di tutte le cose. È perché la prima luce su questo mondo è davvero luce, la luce del giorno in cui ancora oggi camminiamo, e non la dubbia visita di strane [[Stars|stelle]], che ho cominciato qui col rilevare dove quella luce cade per la prima volta sulle città turrite del Mediterraneo orientale.
+
+Ma benché Babilonia e l'[[Egypt|Egitto]] abbiano così una sorta di primo diritto, per il fatto stesso di essere enigmi familiari e tradizionali, affascinanti per noi ma affascinanti anche per i nostri padri, non dobbiamo immaginare che fossero le uniche antiche civiltà del mare meridionale; o che tutta la civiltà fosse meramente sumera o semitica o copta, e tanto meno meramente asiatica o africana. La ricerca autentica va sempre più esaltando l'antica civiltà dell'Europa e specialmente di ciò che possiamo ancora vagamente chiamare i Greci. Va inteso nel senso che vi furono Greci prima dei Greci, come in tante delle loro mitologie vi furono dèi prima degli dèi. L'isola di Creta era il centro della civiltà oggi detta minoica, dal Minosse che indugiò nell'antica leggenda e il cui labirinto fu realmente scoperto dall'archeologia moderna. Questa elaborata società europea, con i suoi porti e le sue fognature e i suoi congegni domestici, sembra essere crollata sotto qualche invasione dei suoi vicini settentrionali, che fecero o ereditarono l'Ellade che conosciamo nella [[history|storia]]. Ma quel periodo anteriore non tramontò prima di aver dato al mondo doni così grandi che il mondo si è da allora sforzato invano di ripagarli, non foss'altro col plagio.
+
+Da qualche parte lungo la costa ionica, di fronte a Creta e alle isole, sorgeva una città di qualche sorta, probabilmente della sorta che noi chiameremmo un villaggio o un [[Hamlet|borgo]] con una cinta. Si chiamava Ilio, ma finì per chiamarsi Troia, e il nome non perirà mai dalla terra. Un poeta che forse fu un mendicante e un cantastorie, che forse non sapeva né leggere né scrivere, e che la tradizione descrisse come cieco, compose un poema sui Greci che mossero guerra a questa città per riconquistare la donna più bella del mondo. Che la donna più bella del mondo vivesse in quell'unica cittadina suona come una leggenda; che il poema più bello del mondo fosse scritto da qualcuno che non conosceva nulla di più grande di simili cittadine è un fatto storico. Si dice che il poema venisse alla fine del periodo; che la cultura primitiva lo generasse nel suo [[Decay|declino]]; nel qual caso si sarebbe voluto vedere quella cultura nel suo fiore. Ma comunque sia, è vero che questo, che è il nostro primo poema, potrebbe [[Well|benissimo]] essere anche il nostro ultimo poema. Potrebbe [[Well|benissimo]] essere l'ultima parola non [[Well|meno]] che la prima parola pronunciata dall'uomo intorno alla sua sorte mortale, quale la vede lo sguardo meramente mortale. Se il mondo diventasse pagano e perisse, l'ultimo uomo rimasto in vita farebbe [[Well|bene]] a citare l'Iliade e a morire.
+
 
 
 <span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_09" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 9)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
@@ -12437,6 +13676,16 @@ when the world woke to Rome.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma in questa grande rivelazione umana dell'antichità v'è un altro elemento di grande importanza storica, al quale non è stato dato, credo, il posto che gli spetta nella [[history|storia]]. Il poeta ha concepito il poema in modo tale che le sue simpatie, a quanto pare, e quelle del lettore, di certo, stanno dalla parte del vinto piuttosto che del vincitore. Ed è un sentimento che cresce nella tradizione poetica via via che la stessa origine poetica si allontana. [[Achilles|Achille]] godeva di un certo rango, come una sorta di semidio, ai tempi pagani; ma scompare del tutto nelle epoche più tarde. [[Hector|Ettore]] invece si fa più grande col passare dei secoli, ed è il suo nome quello di un Cavaliere della Tavola Rotonda, e la sua [[Sword|spada]] quella che la leggenda pone nella mano di Orlando, mentre mena colpi all'intorno con l'arma dello sconfitto [[Hector|Ettore]], nell'estrema rovina e nello splendore della propria disfatta. Il nome anticipa tutte le sconfitte attraverso cui sarebbero passate la nostra stirpe e la nostra religione; quella [[Survival|sopravvivenza]] a cento sconfitte che è il suo trionfo.
+
+Il racconto della fine di Troia non avrà fine, perché è innalzato per sempre in echi viventi, immortale come la nostra disperazione e la nostra [[Hope|speranza]]. Troia in piedi era una piccola cosa, che poté restare senza nome per età intere. Ma Troia che cade è stata rapita in una fiamma e sospesa in un istante immortale d'annientamento; e poiché fu distrutta col [[Fire|fuoco]], il [[Fire|fuoco]] non sarà mai distrutto. E come per la [[City|città]] così per l'[[Hero|eroe]]; tracciata in linee arcaiche in quel crepuscolo primevo si trova la prima figura del Cavaliere. V'è una coincidenza profetica nel suo titolo; abbiamo parlato della parola cavalleria e di come essa sembri fondere il cavaliere col [[Horse|cavallo]]. Ciò è quasi anticipato secoli prima nel tuono dell'esametro omerico, e in quella lunga parola balzante con cui si chiude l'Iliade. È quella stessa [[unity|unità]] alla quale non sappiamo dare altro nome se non il santo centauro della cavalleria. Ma vi sono altre ragioni per dare, in questo scorcio d'antichità, il nome alla città sacra. La santità di tali città correva come un [[Fire|fuoco]] lungo le coste e le isole del Mediterraneo settentrionale, il [[Hamlet|borgo]] dalle alte mura per cui morivano gli eroi. Dalla piccolezza della [[City|città]] veniva la [[Greatness|grandezza]] del cittadino. L'Ellade dalle cento statue non produsse nulla di più maestoso di quella statua che cammina; l'ideale dell'uomo padrone di [[Self|sé]]. L'Ellade dalle cento statue era una sola leggenda e letteratura; e tutto quel labirinto di piccole nazioni cinte di mura risuonava del lamento di Troia.
+
+Una leggenda posteriore, un ripensamento ma non un accidente, narrò che alcuni fuggiaschi da Troia fondarono una repubblica sulla sponda italica. Era vero, nello spirito, che la virtù repubblicana avesse una tale radice. Un mistero di [[Honour|onore]], che non era nato da Babilonia né dall'[[Pride|orgoglio]] egizio, vi splendeva come lo scudo di [[Hector|Ettore]], sfidando l'Asia e l'Africa; finché la luce di un nuovo giorno si sciolse, con l'irrompere delle aquile e il venire del nome; il nome che giunse come uno scoppio di tuono quando il mondo si destò a Roma.
+
+* * *
 
 
 
@@ -12567,6 +13816,77 @@ a believer in [[Immortality|immortality]] or a hundred-per-cent American.
 Confucianism may be a civilisation but it is not a religion.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IV
+
+DIO E LA RELIGIONE COMPARATA
+
+Un tempo fui accompagnato tra le fondamenta romane di un'antica [[City|città]] britannica da un professore, il quale disse qualcosa che mi pare una [[Satire|satira]] su un buon numero di altri professori. Forse [[The Professor|il professore]] colse lo scherzo, benché mantenesse una gravità di ferro, e può darsi che si rendesse conto, o no, che era uno scherzo ai danni di gran parte di ciò che si chiama religione comparata. Additai una scultura della testa del sole con la consueta aureola di raggi, ma con la differenza che il volto nel disco, invece di essere fanciullesco come [[Apollo|Apollo]], era barbuto come Nettuno o Giove. «Sì», disse con una certa delicata esattezza, «quello dovrebbe rappresentare il dio locale Sul. Le migliori autorità identificano Sul con Minerva, ma questo è stato addotto a dimostrazione che l'identificazione non è completa.»
+
+Ecco ciò che chiamiamo una potente attenuazione. Il mondo moderno è più folle di qualsiasi satira su di esso; tempo fa il signor Belloc fece dire al suo caricaturale professore che un busto di Arianna era stato dimostrato dalla ricerca moderna essere un Sileno. Ma ciò non è meglio della reale apparizione di Minerva come la Donna Barbuta del signor Barnum. Se non che entrambe assomigliano molto a numerose identificazioni operate dalle «migliori autorità» della religione comparata; e quando i credi cattolici vengono identificati con svariati miti selvaggi, io non rido né impreco né mi comporto male; mi limito con decoro a dire che l'identificazione non è completa.
+
+Ai giorni della mia giovinezza la Religione dell'Umanità era un termine comunemente applicato al comtismo, la teoria di certi razionalisti che adoravano l'umanità corporativa come un Essere Supremo. Già ai giorni della mia giovinezza notavo che v'era qualcosa di lievemente strano nel disprezzare e liquidare la dottrina della Trinità come una contraddizione mistica e persino maniacale; e poi nel chiederci di adorare una divinità che è cento milioni di persone in un solo Dio, senza confondere le persone né dividere la sostanza.
+
+Ma v'è un'altra entità, più o meno definibile e assai più immaginabile del molteplice e mostruoso idolo dell'umanità. Ed essa ha un titolo assai migliore per essere chiamata, in un senso ragionevole, la religione dell'umanità. L'uomo non è invero l'idolo; ma l'uomo è quasi dovunque l'idolatra. E queste moltitudinarie idolatrie dell'umanità hanno in sé qualcosa che, per molti versi, è più umano e più simpatico delle moderne astrazioni metafisiche. Se un dio asiatico ha tre teste e sette braccia, vi è almeno in ciò un'idea di incarnazione materiale che avvicina a noi una potenza ignota, invece di allontanarla. Ma se i nostri amici Brown, [[Jones]] e Robinson, usciti per una passeggiata della [[Sunday|domenica]], venissero trasformati e amalgamati sotto i nostri occhi in un idolo asiatico, ci parrebbero di certo più lontani. Se le braccia di Brown e le gambe di Robinson si agitassero dal medesimo [[Body|corpo]] composito, sembrerebbero agitare qualcosa come un triste addio. Se le teste di tutti e tre i signori apparissero sorridenti sul medesimo collo, esiteremmo perfino sul nome con cui rivolgerci al nostro nuovo e alquanto anomalo amico. Nel molteplice idolo orientale, dalle molte teste e dalle molte mani, v'è un certo senso di misteri che divengono almeno in parte intelligibili; di forze informi della [[Nature|natura]] che assumono una forma oscura ma materiale; ma ciò che può valere per il dio multiforme non vale per l'uomo multiforme. Gli esseri umani divengono meno umani facendosi meno separati; potremmo dire meno umani nell'essere meno soli. Gli esseri umani divengono meno intelligibili quanto meno restano isolati; potremmo dire con rigorosa [[Truth|verità]] che quanto più ci sono vicini, tanto più sono lontani. Un [[Hymn|Innario]] etico di questa religione umanitaria fu accuratamente selezionato ed espurgato secondo il principio di conservare tutto ciò che era umano ed eliminare tutto ciò che era divino. Una conseguenza fu che un [[Hymn|inno]] apparve nella forma emendata di «Più presso all'Umanità, o Te, più presso a Te». Mi ha sempre suggerito le sensazioni di uno che sta aggrappato alla maniglia durante una calca nel Tube. Ma è strano e mirabile quanto lontane possano sembrare le anime degli uomini, quando i loro corpi sono così vicini come tutto ciò.
+
+L'[[unity|unità]] umana di cui mi occupo qui non va confusa con questa
+moderna monotonia industriale e con questo istinto di gregge, che è
+piuttosto una congestione che una comunione. È qualcosa verso cui i
+gruppi umani lasciati a se stessi, e perfino i singoli individui
+lasciati a se stessi, hanno ovunque teso per un istinto che si può
+davvero chiamare umano. Come tutte le cose umane sane, essa ha variato
+moltissimo entro i limiti di un carattere generale; ché tale è la
+caratteristica di ogni cosa appartenente a quell'antica terra di libertà
+che si stende dinanzi e attorno alla servile città industriale.
+L'industrialismo si vanta anzi che i suoi prodotti siano tutti di un
+solo modello; che uomini in Giamaica o in Giappone possano rompere lo
+stesso sigillo e bere lo stesso pessimo whisky, che un uomo al Polo Nord
+e un altro al Polo Sud possano riconoscere lo stesso livello ottimistico
+sullo stesso dubbio salmone in scatola. Ma il vino, dono degli dèi agli
+uomini, sa variare con ogni valle e ogni vigna, sa mutarsi in cento vini
+senza che un solo vino ci rammenti mai il whisky; e i formaggi sanno
+cambiare da contea a contea senza mai dimenticare la differenza fra
+il [[chalk|gesso]] e il [[cheese|formaggio]]. Quando parlo di questa cosa,
+dunque, parlo di qualcosa che senza dubbio comprende differenze
+amplissime; nondimeno sosterrò qui che essa è una cosa sola. Sosterrò
+che la maggior parte del moderno arrovellìo nasce dal non capire che
+essa è realmente una cosa sola. Avanzerò la tesi che, prima di ogni
+discorso sulla religione comparata e sui separati fondatori religiosi
+del mondo, la cosa essenziale è riconoscere questa cosa come un tutto,
+come una cosa quasi nativa e normale a quella grande consorteria che
+chiamiamo genere umano. Questa cosa è il Paganesimo, e mi propongo di
+mostrare in queste pagine che esso è l'unico vero rivale della Chiesa
+di [[Christ|Cristo]].
+
+La religione comparata è comparativa per davvero. Vale a dire, è a tal
+punto una faccenda di gradazione e di distanza e di differenza, che
+riesce soltanto comparativamente quando tenta di comparare. Quando la
+guardiamo da vicino, la troviamo intenta a comparare cose che sono in
+realtà del tutto incomparabili. Siamo avvezzi a vedere una tavola o un
+catalogo delle grandi religioni del mondo in colonne parallele, finché
+non ci immaginiamo che siano realmente parallele. Siamo avvezzi a vedere
+i nomi dei grandi fondatori religiosi tutti in fila: [[Christ|Cristo]];
+Maometto; Budda; Confucio. Ma in [[Truth|verità]] questo non è che un
+trucco, un'altra di quelle illusioni ottiche per cui oggetti qualsiasi
+possono essere posti in una relazione particolare spostando l'occhio a
+un particolare punto di vista. Quelle religioni e quei fondatori
+religiosi, o piuttosto coloro che scegliamo di ammucchiare insieme come
+religioni e fondatori religiosi, non mostrano in realtà alcun carattere
+comune. L'illusione è in parte prodotta dal fatto che l'[[Islam]] viene
+immediatamente dopo il [[Christianity|Cristianesimo]] nella lista; come
+l'[[Islam]] effettivamente venne dopo il [[Christianity|Cristianesimo]]
+e fu in larga misura un'[[Imitation|imitazione]] del
+[[Christianity|Cristianesimo]]. Ma le altre religioni orientali, o ciò
+che chiamiamo religioni, non solo non somigliano alla Chiesa, ma non
+somigliano l'una all'altra. Quando arriviamo al Confucianesimo in fondo
+alla lista, arriviamo a qualcosa che sta in un mondo di pensiero
+totalmente diverso. Comparare la religione cristiana e quella confuciana
+è come comparare un teista con uno squire inglese, o come domandare se
+un uomo sia un credente nell'[[Immortality|immortalità]] o un americano
+al cento per cento. Il Confucianesimo potrà essere una civiltà, ma non è
+una religione.
+
 
 
 <span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_02" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 2)" data-chapter="God And Comparative Religion" data-kind="excerpt"></span>
@@ -12669,6 +13989,71 @@ it will be [[Well|well]] to define at this stage for what I mean them to stand.
 And I will begin with the first, the simplest and the most [[Sublime|sublime]],
 in this chapter.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In [[Truth|verità]] la Chiesa è troppo unica per poter provare la propria
+unicità. Ché la prova più popolare e agevole è quella per parallelo; e
+qui non v'è parallelo alcuno. Non è facile, dunque, smascherare il
+sofisma per cui si crea una falsa classificazione allo scopo di
+sommergere una cosa unica, quando essa è realmente una cosa unica. Come
+in nessun altro luogo si dà esattamente lo stesso fatto, così in nessun
+altro luogo si dà esattamente lo stesso sofisma. Ma prenderò la cosa più
+vicina che io riesca a trovare a un simile fenomeno sociale solitario,
+per mostrare come esso venga in tal modo sommerso e assimilato. Immagino
+che i più di noi converrebbero che v'è qualcosa di insolito e di unico
+nella posizione degli Ebrei. Non v'è nulla che sia, esattamente nel
+medesimo senso, una nazione internazionale; un'antica cultura sparsa in
+paesi diversi eppure ancora distinta e indistruttibile. Ora, questa
+faccenda somiglia al tentativo di compilare una lista di Nazioni Nomadi
+allo scopo di attenuare la strana [[Solitude|solitudine]] dell'Ebreo.
+Sarebbe abbastanza facile riuscirvi, con il medesimo procedimento di
+porre per primo un plausibile termine di approssimazione, e poi di
+sfumare in cose del tutto diverse, buttate lì in qualche modo per
+completare la lista. Così, nella nuova lista delle nazioni nomadi, agli
+Ebrei seguirebbero gli Zingari; i quali almeno sono realmente nomadi, se
+non sono realmente nazionali. Poi [[The Professor|il professore]] della
+nuova scienza della Nomadica Comparata potrebbe agevolmente passare a
+qualcosa di diverso; anche se molto diverso. Potrebbe osservare la
+vagante avventura degli Inglesi, che hanno disseminato le loro colonie
+per tanti mari; e chiamarli nomadi. È verissimo che moltissimi Inglesi
+paiono stranamente inquieti in Inghilterra. È verissimo che non tutti
+hanno lasciato il proprio paese per il bene del proprio paese. Nel
+momento stesso in cui menzioniamo l'impero vagante degli Inglesi,
+dobbiamo aggiungere lo strano impero esiliato degli Irlandesi. Ché è un
+fatto curioso, da notarsi nella nostra letteratura imperiale, che quella
+stessa ubiquità e irrequietezza che è prova di intraprendenza e di
+trionfo inglese, è prova di futilità e di fallimento irlandese. Poi
+[[The Professor|il professore]] del Nomadismo si guarderebbe attorno
+pensoso e rammenterebbe che di recente si è fatto gran parlare di
+camerieri tedeschi, di barbieri tedeschi, di impiegati tedeschi, di
+Tedeschi che si naturalizzano in Inghilterra e negli Stati Uniti e nelle
+repubbliche sudamericane. I Tedeschi finirebbero nella lista come quinta
+razza nomade; e le parole Wanderlust e Migrazione dei Popoli tornerebbero
+qui molto utili. Poiché ci sono stati davvero storici che spiegavano le
+[[Crusades|Crociate]] suggerendo che i Tedeschi vennero trovati a
+vagabondare (come dice la polizia) in quelle che si dava il caso fossero
+le vicinanze della Palestina. Poi [[The Professor|il professore]],
+sentendo di essere ormai vicino alla fine, farebbe un ultimo balzo
+disperato. Rammenterebbe il fatto che l'esercito francese ha catturato
+quasi ogni capitale d'Europa, che ha marciato attraverso innumerevoli
+terre conquistate sotto Carlomagno o Napoleone; e anche quella sarebbe
+Wanderlust, e anche quella sarebbe la nota di una razza nomade. Così
+avrebbe le sue sei nazioni nomadi tutte compatte e complete, e sentirebbe
+che l'Ebreo non è più una sorta di misteriosa e perfino mistica
+eccezione. Ma le persone dotate di maggior buon senso si accorgerebbero
+probabilmente che egli non ha fatto che estendere il nomadismo estendendo
+il significato di nomadismo, e che lo ha esteso fino al punto in cui
+esso non ha più alcun significato. È verissimo che il soldato francese ha
+compiuto alcune delle più belle marce di tutta la [[history|storia]]
+militare. Ma è ugualmente vero, e assai più [[Self|auto]]-evidente, che se
+il contadino francese non è una realtà radicata, allora non esiste al
+mondo cosa alcuna che sia una realtà radicata; o, in altre parole, se
+egli è un nomade, non c'è nessuno che non sia un nomade.
+
+Ora, questo è esattamente il genere di trucco che si è tentato nel caso della religione comparata, con i fondatori delle religioni del mondo tutti schierati rispettabilmente in fila. Si cerca di classificare Gesù come si classificherebbero gli Ebrei, inventando allo scopo una nuova classe e riempiendone il resto con tappabuchi e copie di seconda mano. Non voglio dire che queste altre cose non siano spesso cose grandi, nel loro carattere e nella loro classe reali. Il confucianesimo e il buddhismo sono cose grandi, ma non è vero chiamarle Chiese; così come i Francesi e gli Inglesi sono grandi popoli, ma è un'assurdità chiamarli nomadi. Vi sono alcuni punti di somiglianza fra la cristianità e la sua [[Imitation|imitazione]] nell'[[Islam]]; e, se è per questo, vi sono alcuni punti di somiglianza fra gli Ebrei e gli Zingari. Ma dopo di ciò gli elenchi si compongono di qualunque cosa capiti sotto mano; di qualunque cosa possa essere messa nello stesso catalogo senza appartenere alla stessa categoria.
+
+In questo [[Sketch|abbozzo]] di [[history|storia]] religiosa, con tutta la debita deferenza verso uomini assai più dotti di me, mi propongo di tagliare per traverso e di ignorare questo moderno metodo di classificazione, che sono certo abbia falsato i fatti della [[history|storia]]. Sottoporrò qui una classificazione alternativa della religione o delle religioni, che credo si troverebbe a coprire tutti i fatti e, cosa qui altrettanto importante, tutte le fantasie. Invece di dividere la religione geograficamente e, per così dire, verticalmente, in cristiana, mussulmana, brahmanica, buddhista e via dicendo, la dividerei psicologicamente e, in un certo senso, orizzontalmente; negli strati di elementi e influenze spirituali che potevano talora coesistere nello stesso paese, o perfino nello stesso uomo. Mettendo per il momento da parte la Chiesa, sarei incline a dividere la religione naturale della massa dell'umanità sotto intestazioni come queste: Dio; gli Dèi; i Dèmoni; i Filosofi. Credo che una qualche classificazione di questo genere ci aiuterà a ordinare le esperienze spirituali degli uomini con assai maggior successo del convenzionale mestiere di comparare le religioni; e che molte figure celebri troveranno per questa via il loro posto naturale, mentre nell'altra vi vengono soltanto forzate. E poiché mi servirò di questi titoli o termini più d'una volta, nella narrazione e nell'allusione, sarà [[Well|bene]] definire fin d'ora ciò per cui intendo che essi stiano. E comincerò dal primo, il più semplice e il più [[Sublime|sublime]], in questo capitolo.
 
 
 
@@ -12785,6 +14170,18 @@ It seems reasonably probable that a good many men did have no other
 gods but one of these, worshipped as the author of all.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nel considerare gli elementi dell'umanità pagana, dobbiamo cominciare con un tentativo di descrivere l'indescrivibile. Molti superano la difficoltà di descriverlo con l'espediente di negarlo, o quanto meno di ignorarlo; ma tutto il punto sta in ciò, che esso era qualcosa che non venne mai del tutto eliminato, nemmeno quando veniva ignorato. Sono ossessionati dalla loro monomania evoluzionistica, secondo cui ogni cosa grande cresce da un seme, o da qualcosa di più piccolo di sé. Sembrano dimenticare che ogni seme viene da un albero, o da qualcosa di più grande di sé. Ora, vi è un ottimo fondamento per congetturare che la religione non sia in origine venuta da qualche particolare che fu dimenticato perché troppo piccolo per lasciar traccia. Assai più probabilmente fu un'idea che venne abbandonata perché troppo grande per essere maneggiata. Vi è ottima ragione per supporre che molti popoli abbiano davvero cominciato con l'idea semplice ma travolgente di un solo Dio che governa ogni cosa; e che poi siano decaduti in cose come il culto dei dèmoni, quasi come una sorta di segreta dissipazione. Perfino la prova delle credenze selvagge, di cui gli studiosi di folclore sono tanto ghiotti, si trova per ammissione comune a sostenere spesso una simile veduta. Alcuni fra i selvaggi più rozzi in assoluto, primitivi in ogni senso in cui gli antropologi usino la parola, gli aborigeni australiani per esempio, si trovano ad avere un puro monoteismo dall'alto tono morale. Un missionario predicava a una tribù molto selvaggia di politeisti, i quali gli avevano raccontato tutte le loro storie politeistiche, ed egli raccontava loro in cambio dell'esistenza dell'unico Dio buono, che è uno spirito e giudica gli uomini secondo criteri spirituali. E vi fu un improvviso brusio di eccitazione fra quei flemmatici barbari, come dinanzi a qualcuno che lasciasse trapelare un segreto, e si gridarono l'un l'altro: «Atahocan! Sta parlando di Atahocan!».
+
+Probabilmente era un punto di cortesia e perfino di decenza, fra quei politeisti, non parlare di Atahocan. Il nome non è forse così adatto come alcuni dei nostri all'esortazione religiosa diretta e solenne, ma molte altre forze sociali sono sempre intente a coprire e a confondere idee tanto semplici. Può darsi che l'antico dio rappresentasse un'antica [[morality|morale]] avvertita come molesta nei momenti più espansivi; può darsi che il commercio con i dèmoni fosse più alla moda fra le persone migliori, come nella moderna voga dello Spiritismo. In ogni caso, vi sono innumerevoli esempi simili. Tutti testimoniano l'inconfondibile psicologia di una cosa data per scontata, distinta da una cosa di cui si parla. Vi è un esempio impressionante in un racconto trascritto parola per parola da un Pellerossa della California, che esordisce con cordiale gusto leggendario e letterario: «Il sole è il padre e il signore dei cieli. È il gran capo. La [[Moon|luna]] è sua moglie e le [[Stars|stelle]] sono i loro figli»; e così via, attraverso una storia quanto mai ingegnosa e complicata, nel mezzo della quale s'inserisce un'improvvisa parentesi che dice come il sole e la [[Moon|luna]] debbano fare qualcosa perché «è così ordinato dal Grande Spirito che dimora al di sopra del luogo di ogni cosa». Questo è esattamente l'atteggiamento della maggior parte del paganesimo verso Dio. Egli è qualcosa di presupposto e di dimenticato e di ricordato per caso; un'abitudine forse non peculiare dei pagani. Talora la divinità superiore è ricordata nei gradi morali più alti ed è una sorta di mistero. Ma sempre, è stato detto con verità, il selvaggio è loquace intorno alla sua mitologia e taciturno intorno alla sua religione. I selvaggi australiani, in verità, esibiscono un capovolgimento tale quale gli antichi avrebbero potuto ritenere davvero degno degli antipodi. Il selvaggio che non si fa scrupolo di buttar là come un nonnulla un racconto sul sole e sulla [[Moon|luna]] che sarebbero le due metà di un bambino tagliato in due, o di scendere a chiacchiere su una colossale vacca cosmica munta per fare la pioggia, unicamente per essere socievole, si ritirerà poi in caverne segrete, sbarrate alle donne e agli uomini bianchi, templi di terribile iniziazione dove, al rombo del rombo sacro e allo stillare del [[Blood|sangue]] sacrificale, il sacerdote sussurra i [[Secrets|segreti]] finali, noti solo all'iniziato: che l'onestà è la miglior politica, che un po' di gentilezza non fa male a nessuno, che tutti gli uomini sono fratelli e che vi è un solo Dio, il Padre Onnipotente, creatore di tutte le cose visibili e invisibili.
+</content>
+</invoke>
+
+In altre parole, ci troviamo qui dinanzi a quella curiosità della [[history|storia]] religiosa per cui il selvaggio sembra ostentare tutte le parti più ripugnanti e inverosimili della sua credenza e nascondere invece tutte quelle più sensate e degne di stima. Ma la spiegazione è che esse non sono, in quel senso, parti della sua credenza, o almeno non parti dello stesso genere di credenza. I miti sono soltanto storie esagerate, per quanto esagerate sino all'altezza del cielo, della [[Water|tromba]] d'acqua o della pioggia tropicale. I misteri sono storie vere, e vengono accolti in segreto affinché possano essere presi sul serio. Anzi, non è che troppo facile dimenticare che nel teismo v'è un brivido. Un [[Novel|romanzo]] in cui un certo numero di personaggi distinti si rivelasse tutti quanti essere il medesimo personaggio sarebbe di certo un [[Novel|romanzo]] sensazionale. Così è con l'idea che il sole e l'albero e il [[River|fiume]] siano i travestimenti di un solo dio e non di molti. Ahimè, troviamo anche fin troppo facile dare Atahocan per scontato. Ma sia che gli si permetta di sbiadire in un truismo, sia che lo si conservi come sensazione conservandolo come segreto, è chiaro ch'egli è sempre o un vecchio truismo o una vecchia tradizione. Nulla induce a credere ch'egli sia un prodotto perfezionato della semplice mitologia, e tutto induce a credere che l'abbia preceduta. Egli è adorato dalle tribù più semplici senza alcuna traccia di [[Ghosts|spiriti]] o di offerte [[Grave|funebri]], né di alcuna di quelle complicazioni in cui Herbert Spencer e Grant Allen cercarono l'origine della più semplice di tutte le idee. Qualunque altra cosa vi sia stata, non vi fu mai una cosa come l'Evoluzione dell'Idea di Dio. L'idea fu celata, fu evitata, fu quasi dimenticata, fu perfino spiegata via; ma non fu mai evoluta.
+
+Non sono poche le indicazioni di questo mutamento in altri luoghi. Esso è implicito, per esempio, nel fatto che perfino il politeismo sembra spesso la combinazione di più monoteismi. Un dio otterrà soltanto un seggio secondario sul Monte Olimpo, quando aveva posseduto la terra e il cielo e tutte le [[Stars|stelle]] mentre viveva nella sua piccola valle. Come tante piccole nazioni che si dissolvono in un grande impero, egli rinuncia all'universalità locale solo per cadere sotto una limitazione universale. Il nome stesso di Pan lascia intendere ch'egli divenne un dio del bosco dopo essere stato un dio del mondo. Il nome stesso di Giove è quasi una [[Translation|traduzione]] pagana delle parole "Padre nostro che sei nei cieli". Come col Grande Padre simboleggiato dal cielo, così con la [[Great Mother|Grande Madre]] che ancora chiamiamo Madre Terra. Demetra e Cerere e Cibele spesso paiono quasi capaci di assumersi l'intera incombenza della divinità, sì che agli uomini non occorressero altri dèi. Sembra ragionevolmente probabile che non pochi uomini non avessero altri dèi se non una di queste, adorata come autrice di tutto.
+
 
 
 <span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_04" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 4)" data-chapter="God And Comparative Religion" data-kind="excerpt"></span>
@@ -12898,6 +14295,12 @@ in that mighty line in which Virgil spoke to all who suffer with
 the veritable cry of a Christian before [[Christ]]:  'O you that have
 borne things more terrible, to this also God shall give an end.'
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Su alcune delle più immense e popolose distese del mondo, come la Cina, parrebbe che l'idea più semplice del Grande Padre non si sia mai troppo complicata con culti rivali, benché in un certo senso possa aver cessato essa stessa di essere un culto. Le migliori autorità sembrano ritenere che, sebbene il confucianesimo sia in un senso agnosticismo, esso non contraddica direttamente l'antico teismo, appunto perché è divenuto un teismo piuttosto vago. È un teismo in cui Dio è chiamato Cielo, come nel caso delle persone garbate tentate di bestemmiare nei salotti. Ma il Cielo è pur sempre lassù, anche se molto in alto. Abbiamo tutta l'impressione di una semplice [[Truth|verità]] che si è ritirata, finché non è divenuta remota senza cessare di essere vera. E questa frase da [[Alone|sola]] ci ricondurrebbe alla medesima idea perfino nella mitologia pagana dell'Occidente. Vi è di certo qualcosa di questa medesima nozione del ritrarsi di una qualche potenza superiore, in tutti quei misteriosi e assai fantasiosi miti sulla separazione della terra e del cielo. In cento forme ci viene detto che il cielo e la terra furono un tempo [[lovers|amanti]], o furono un tempo una cosa sola, quando qualche cosa arrogante, spesso qualche [[Child|figlio]] snaturato, li separò con la forza; e il mondo fu edificato sopra un abisso; sopra una divisione e un distacco. Una delle sue versioni più grossolane fu data dalla civiltà greca nel mito di Urano e di [[Saturn|Saturno]]. Una delle sue versioni più affascinanti fu quella di certi selvaggi negri, i quali raccontano che una piccola pianta di pepe crebbe sempre più alta e sollevò l'intero cielo come un coperchio; una bella visione barbarica dell'alba per alcuni dei nostri pittori che [[Love|amano]] quel crepuscolo tropicale. Dei miti, e delle spiegazioni altamente mitiche che i moderni offrono dei miti, qualcosa si dirà in un'altra sezione; poiché non posso non pensare che la maggior parte della mitologia si collochi su un piano diverso e più superficiale. Ma in questa primeva visione della lacerazione di un solo mondo in due vi è di certo qualcosa di più delle idee ultime. Quanto al suo significato, un uomo ne imparerà assai di più giacendo supino in un campo, e limitandosi a contemplare il cielo, che leggendo tutte le biblioteche anche del più dotto e prezioso folclore. Egli saprà che cosa si intende dicendo che il cielo dovrebbe esserci più vicino di quanto non sia, che forse un tempo era più vicino di quanto non sia, che non è una cosa meramente aliena e abissale ma in qualche modo separata da noi e in atto di dirci addio. Gli si insinuerà nella mente il curioso suggerimento che, dopotutto, forse il creatore di miti non era soltanto un [[Moon|citrullo]] o l'idiota del villaggio che si figurava di poter tagliare le nuvole come una torta, ma aveva in sé qualcosa di più di quanto sia di moda attribuire al Troglodita; che è appena possibile che Thomas Hood non parlasse da Troglodita quando disse che, col passare del [[Time|tempo]], le cime degli alberi non facevano che dirgli che era più lontano dal cielo di quando era fanciullo. Ma comunque la leggenda di Urano, Signore del Cielo, detronizzato da [[Saturn|Saturno]] lo Spirito del [[Time|Tempo]], significherebbe qualcosa per l'autore di quella poesia. E significherebbe, tra le altre cose, questo bando della prima paternità. Vi è l'idea di Dio nella nozione stessa che vi furono dèi prima degli dèi. Vi è un'idea di maggiore semplicità in tutte le allusioni a quell'ordine più antico. Il suggerimento è avvalorato dal processo di propagazione che vediamo nei tempi storici. Dèi e semidèi ed eroi si moltiplicano come aringhe sotto i nostri stessi occhi e suggeriscono da sé che la famiglia possa aver avuto un solo fondatore; la mitologia si fa sempre più complicata, e la complicazione stessa suggerisce che al principio fosse più semplice. Perfino sulla prova esterna, di quella specie detta scientifica, vi è dunque un ottimo argomento a favore dell'ipotesi che l'uomo cominciò con il monoteismo prima che questo si sviluppasse o degenerasse in politeismo. Ma io mi occupo piuttosto di una [[Truth|verità]] interna che di una esterna; e, come ho già detto, la [[Truth|verità]] interna è quasi indescrivibile. Dobbiamo parlare di qualcosa il cui punto essenziale è per l'appunto che di essa la gente non parlava; non dobbiamo semplicemente tradurre da una lingua o da un idioma stranieri, ma da uno strano [[Silence|silenzio]].
+
+Dietro tutto il politeismo e il paganesimo io sospetto un'immensa implicazione. Sospetto che qua e là, in questi credi selvaggi o in queste origini greche, non ne cogliamo che un accenno. Non è esattamente ciò che intendiamo con la presenza di Dio; in un certo senso la si potrebbe più propriamente chiamare l'assenza di Dio. Ma assenza non significa inesistenza; e chi leva il calice agli amici assenti non intende dire che dalla sua vita ogni [[Friendship|amicizia]] sia assente. È un vuoto, ma non è una negazione; è qualcosa di positivo come una sedia vuota. Sarebbe un'esagerazione dire che il pagano vedesse, più in alto dell'Olimpo, un trono vuoto. Sarebbe più vicino alla [[Truth|verità]] riprendere quella gigantesca immagine dell'Antico Testamento, in cui il [[Prophet|profeta]] vide Dio di spalle; era come se qualche presenza incommensurabile avesse voltato le spalle al mondo. Eppure il senso andrà di nuovo perduto, se lo si suppone tanto cosciente e vivido quanto il monoteismo di Mosè e del suo popolo. Non intendo dire che i popoli pagani fossero minimamente soggiogati da questa idea solo perché essa è soverchiante. Al contrario, era così vasta che tutti la portavano con leggerezza, come tutti portiamo il peso del cielo. Fissando lo sguardo su qualche particolare, come un uccello o una nuvola, possiamo tutti ignorare il suo tremendo sfondo azzurro; possiamo trascurare il cielo; e proprio perché grava su di noi con una forza annientante lo si avverte come nulla. Una cosa di questo genere non può essere che un'impressione, e un'impressione piuttosto sottile; ma per me è un'impressione molto forte, prodotta dalla letteratura e dalla religione pagane. Ripeto che, nel nostro speciale senso sacramentale, vi è naturalmente l'assenza della presenza di Dio. Ma vi è, in un senso assai reale, la presenza dell'assenza di Dio. La avvertiamo nella insondabile tristezza della poesia pagana; poiché [[Doubt|dubito]] che vi sia mai stato, in tutta la meravigliosa virilità dell'antichità, un uomo felice come lo fu san Francesco. La avvertiamo nella leggenda di un'[[Golden Age|Età dell'oro]], e ancora nel vago suggerimento che gli dèi stessi siano in ultima analisi legati a qualcos'altro, anche quando quel Dio Ignoto è sbiadito in un Fato. La avvertiamo soprattutto in quei momenti immortali in cui la letteratura pagana sembra tornare a un'antichità più [[Innocent|innocente]] e parlare con voce più diretta, sicché nessuna parola le è degna se non il nostro stesso monosillabo monoteistico. Non possiamo dire altro che «Dio» in una frase come quella di Socrate che si accomiata dai suoi giudici: «Io vado a morire e voi restate a vivere; e Dio [[Alone|solo]] sa chi di noi segua la via migliore». Non possiamo usare altra parola nemmeno per i momenti migliori di Marco Aurelio: «Possono esse dire, cara [[City|città]] di Cecrope, e tu non puoi dire, cara [[City|città]] di Dio?». Non possiamo usare altra parola in quel possente verso in cui Virgilio parlò a tutti coloro che soffrono con il grido autentico di un cristiano prima di [[Christ|Cristo]]: «O voi che avete sopportato cose più terribili, anche a questa Dio porrà fine».
 
 
 
@@ -13073,6 +14476,16 @@ restless nomadic people; who bestowed on men the supreme and serene
 blessing of a jealous God.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In breve, vi è il sentimento che esista qualcosa di più alto degli dèi; ma proprio perché è più alto, è anche più lontano. Neppure Virgilio poteva ancora sciogliere l'[[Riddle|enigma]] e il [[Paradox|paradosso]] di quell'altra divinità, che è insieme più alta e più vicina. Per loro ciò che era veramente divino era assai distante, così distante che sempre più lo scacciavano dalla mente. Sempre meno aveva a che fare con la mera mitologia di cui scriverò più avanti. Eppure anche in questo vi era una sorta di tacita ammissione della sua intangibile purezza, se si considera come sono la maggior parte delle mitologie. Come gli Ebrei non volevano degradarlo con immagini, così i Greci non lo degradavano neppure con immaginazioni. Quando gli dèi venivano ricordati sempre più soltanto per birbonate e dissolutezze, era relativamente un moto di reverenza. Era un atto di pietà dimenticare Dio. In altre parole, vi è qualcosa nell'intero tono del [[Time|tempo]] che suggerisce come gli uomini avessero accettato un livello più basso, ed erano ancora a metà consapevoli che era un livello più basso. È difficile trovare parole per queste cose; eppure l'unica parola davvero giusta sta pronta. Questi uomini erano coscienti della Caduta, se erano coscienti di nient'altro; e lo stesso vale per un'umanità pagana. Coloro che sono caduti possono ricordare la caduta, anche quando dimenticano l'altezza. Un simile tantalico vuoto o strappo nella [[Memory|memoria]] sta al fondo di ogni sentimento pagano. Esiste una cosa come il potere momentaneo di ricordare che dimentichiamo. E i più ignoranti dell'umanità sanno, dal solo aspetto della terra, di avere dimenticato il cielo. Ma resta vero che anche per questi uomini vi furono momenti, simili ai ricordi dell'[[Childhood|infanzia]], in cui si udirono parlare con un linguaggio più semplice; vi furono momenti in cui il Romano, come Virgilio nel verso già citato, si aprì la via con un colpo di [[Sword|spada]] di [[Song|canto]] fuori dal groviglio delle mitologie, e la variopinta ressa di dèi e di dee sprofondò d'un tratto fuori dalla vista, e il Padre-Cielo rimase [[Alone|solo]] nel cielo.
+
+Quest'ultimo esempio è molto pertinente al passo successivo del processo. Una bianca luce, come di un mattino perduto, indugia ancora sulla figura di Giove, di Pan o del più antico [[Apollo]]; e può [[Well|ben]] darsi, come già notato, che ciascuno fosse un tempo una divinità solitaria quanto Jahvè o Allah. Persero questa solitaria universalità per un processo che qui è molto necessario notare; un processo di amalgama assai simile a ciò che in seguito fu chiamato sincretismo. L'intero mondo pagano si mise a edificare un Pantheon. Ammisero sempre più dèi, dèi non solo dei Greci ma dei barbari; dèi non solo d'Europa ma d'Asia e d'Africa. Più erano, meglio era, benché alcuni di quelli asiatici e africani non fossero granché allegri. Li ammisero su troni pari ai propri, talvolta li identificarono con i propri. Poterono considerarlo un arricchimento della loro vita religiosa; ma esso significò la perdita definitiva di tutto ciò che noi oggi chiamiamo religione. Significò che quell'antica luce di semplicità, che aveva un'unica sorgente come il sole, finalmente si spegne in un abbaglio di luci e colori contrastanti. Dio viene realmente sacrificato agli dèi; in un senso assai letterale della frase frivola, essi sono stati troppi per lui.
+
+Il politeismo, dunque, era in realtà una sorta di fondo comune; nel senso che i pagani avevano acconsentito a mettere in comune le loro religioni pagane. E questo punto è importantissimo in molte controversie antiche e moderne. Passa per cosa liberale e illuminata affermare che il dio dello straniero possa essere buono quanto il nostro; e senza dubbio i pagani si credevano assai liberali e illuminati quando acconsentivano ad aggiungere agli dèi della [[City|città]] o del focolare qualche selvaggio e fantastico Dioniso che scendeva dalle [[Mountains|montagne]], o qualche irsuto e rustico Pan che sbucava dai boschi. Ma proprio ciò che si perdeva con queste idee più larghe è la più larga idea di tutte. È l'idea della paternità che rende uno il mondo intero. E vale anche il contrario. Senza dubbio quegli uomini più antiquati dell'antichità che si aggrappavano alle loro statue solitarie e ai loro unici nomi sacri erano considerati selvaggi superstiziosi, ottenebrati e rimasti indietro. Ma questi selvaggi superstiziosi custodivano qualcosa che assomiglia assai di più alla potenza cosmica quale la concepisce la [[philosophy|filosofia]], o anche quale la concepisce la scienza. Questo [[Paradox|paradosso]], per cui il rozzo reazionario era una specie di progressista profetico, ha una conseguenza molto pertinente. In senso puramente storico, e a prescindere da ogni altra controversia connessa, esso getta una luce, una luce sola e costante, che risplende fin dal principio su un popolo piccolo e solitario. In questo [[Paradox|paradosso]], come in qualche [[Riddle|enigma]] di religione la cui risposta rimase sigillata per secoli, sta la missione e il significato degli Ebrei.
+
+È vero in questo senso, umanamente parlando, che il mondo deve Dio agli Ebrei. Deve quella [[Truth|verità]] a molto di ciò che si rimprovera agli Ebrei, e forse a molto di ciò che è rimproverabile negli Ebrei. Abbiamo già notato la posizione nomade degli Ebrei in mezzo agli altri popoli [[Pastoral|pastorali]] ai margini dell'Impero babilonese, e qualcosa di quella loro strana rotta erratica che divampò attraverso l'oscuro territorio dell'estrema antichità, mentre passavano dalla sede di Abramo e dei principi pastori in [[Egypt|Egitto]], e tornavano indietro fino alle colline della Palestina e le difendevano contro i Filistei venuti da Creta, e cadevano prigionieri a Babilonia; e poi di nuovo tornavano alla loro [[City|città]] montana per la politica sionista dei conquistatori persiani; e così proseguivano quello stupefacente [[Romance|romanzo]] d'inquietudine di cui non abbiamo ancora visto la fine. Ma attraverso tutte le loro peregrinazioni, e specialmente attraverso tutte le loro peregrinazioni antiche, essi portarono davvero il destino del mondo in quel tabernacolo di legno, che conteneva forse un simbolo privo di sembianze e certamente un dio invisibile. Possiamo dire che uno dei tratti più essenziali fosse proprio l'essere privo di tratti. Per quanto possiamo preferire quella libertà creativa che la cultura cristiana ha proclamato e con cui ha eclissato perfino le arti dell'antichità, non dobbiamo sottovalutare l'importanza decisiva, a quel [[Time|tempo]], della proibizione ebraica delle immagini. È un tipico esempio di una di quelle limitazioni che di fatto conservarono e perpetuarono un ampliamento, come un muro eretto intorno a un vasto spazio aperto. Il Dio che non poteva avere una statua rimase uno spirito. Né la sua statua avrebbe in ogni caso avuto la disarmante dignità e grazia delle statue greche di allora o delle statue cristiane di poi. Egli viveva in una terra di mostri. Avremo occasione di considerare più a fondo cosa fossero quei mostri: Moloch e Dagon e Tanit, la terribile dea. Se la divinità d'Israele avesse mai avuto un'immagine, avrebbe avuto un'immagine fallica. Col semplice dargli un [[Body|corpo]] avrebbero introdotto tutti i peggiori elementi della mitologia; tutta la poligamia del politeismo; la visione dell'harem in cielo. Questo punto del rifiuto dell'arte è il primo esempio delle limitazioni che vengono spesso criticate in modo avverso, solo perché i critici stessi sono limitati. Ma un caso ancora più forte si può trovare nell'altra critica avanzata dagli stessi critici. Si dice spesso con sarcasmo che il Dio d'Israele era soltanto un Dio delle battaglie, «un mero e barbaro Signore degli Eserciti», messo in rivalità con gli altri dèi solo come loro invidioso nemico. [[Well|Fu una fortuna]] per il mondo che egli fosse un Dio delle Battaglie. [[Well|Fu una fortuna]] per noi che per tutti gli altri egli fosse soltanto un rivale e un nemico. In circostanze ordinarie, sarebbe stato fin troppo facile per loro compiere la desolata sciagura di concepirlo come un amico. Sarebbe stato fin troppo facile per loro vederlo tendere le mani in [[Love|amore]] e [[Reconciliation|riconciliazione]], abbracciando Baal e baciando il volto dipinto di Astarte, banchettando in compagnia degli dèi; l'ultimo dio a vendere la sua [[Crown|corona]] di [[Stars|stelle]] per il Soma del pantheon indiano, o il nettare dell'Olimpo, o l'idromele del Valhalla. Sarebbe stato abbastanza facile per i suoi adoratori seguire il corso illuminato del sincretismo e la messa in comune di tutte le tradizioni pagane. È evidente, in effetti, che i suoi seguaci scivolavano sempre lungo questo facile pendio; e ci volle l'energia quasi demoniaca di certi ispirati demagoghi, che testimoniarono l'[[unity|unità]] divina con parole che sono ancora come venti d'ispirazione e di rovina. Quanto più comprendiamo davvero le antiche condizioni che contribuirono alla cultura finale della [[Faith|Fede]], tanto più avremo una reale e perfino realistica venerazione per la [[Greatness|grandezza]] dei Profeti d'Israele. Così come stavano le cose, mentre il mondo intero si scioglieva in questa massa di mitologia confusa, questa Divinità che vien detta tribale e angusta, proprio perché era ciò che si dice tribale e angusto, conservò la religione primaria di tutto il genere umano. Egli era tribale abbastanza da essere universale. Era angusto quanto l'universo. In una parola, esisteva un dio pagano popolare chiamato Giove-Ammone. Non ci fu mai un dio chiamato Jehovah-Ammone. Non ci fu mai un dio chiamato Jehovah-Giove. Se ci fosse stato, ce ne sarebbe stato di certo un altro chiamato Jehovah-Moloch. Molto prima che i liberali e illuminati fusori di dèi si fossero spinti così lontano fino a Giove, l'immagine del Signore degli Eserciti sarebbe stata deformata al punto da non suggerire più alcun creatore e sovrano monoteistico, e sarebbe divenuta un idolo assai peggiore di qualunque feticcio selvaggio; poiché avrebbe potuto essere civilizzata quanto gli dèi di Tiro e di Cartagine. Cosa significasse quella civiltà lo considereremo più a fondo nel capitolo che segue, quando noteremo come la potenza dei demoni quasi distrusse l'Europa e perfino la pagana salute del mondo. Ma il destino del mondo sarebbe stato distorto in modo ancora più fatale se il monoteismo fosse venuto meno nella tradizione mosaica. [[Hope|Spero]], in una sezione successiva, di mostrare che non sono privo di simpatia per tutta quella salute nel mondo pagano che produsse le sue fiabe e i suoi fantasiosi romanzi di religione. Ma [[Hope|spero]] anche di mostrare che questi erano destinati a fallire alla lunga; e il mondo sarebbe andato perduto se non fosse stato capace di tornare a quella grande, originaria semplicità di un'unica autorità in tutte le cose. Che noi conserviamo qualcosa di quella semplicità primaria, tanto che poeti e filosofi possono ancora in un certo senso recitare una [[Prayer|Preghiera]] universale, che viviamo in un mondo vasto e sereno sotto un cielo che si stende paternamente su tutti i popoli della terra, che la [[philosophy|filosofia]] e la filantropia siano truismi in una religione di uomini ragionevoli: tutto questo lo dobbiamo davvero, sotto il cielo, a un popolo nomade, riservato e inquieto; che elargì agli uomini la suprema e serena benedizione di un Dio geloso.
+
 
 
 <span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_06" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 6)" data-chapter="God And Comparative Religion" data-kind="excerpt"></span>
@@ -13162,6 +14575,12 @@ upon the [[Death|death]] of all.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quel possesso unico non era disponibile né accessibile al mondo pagano, poiché era altresì il possesso di un popolo geloso. Gli Ebrei erano malvisti, in parte a causa di quella ristrettezza già rilevata nel mondo romano, in parte forse perché erano già scivolati in quell'abitudine di limitarsi a maneggiare le cose per lo scambio, invece di lavorare a produrle con le proprie mani. Fu in parte anche perché il politeismo era divenuto una sorta di giungla in cui il monoteismo solitario poteva smarrirsi; ma è strano rendersi conto di quanto completamente esso vi si smarrì davvero. A prescindere da questioni più controverse, vi erano nella tradizione d'Israele cose che appartengono ora all'intera umanità, e che avrebbero potuto appartenere all'intera umanità già allora. Possedevano una delle colossali pietre angolari del mondo: il Libro di Giobbe. Esso ovviamente si erge di fronte all'Iliade e alle tragedie greche; e ancor più di quelle fu un precoce incontro e commiato della poesia e della [[philosophy|filosofia]] nei mattini del mondo. È uno spettacolo solenne ed edificante vedere quei due eterni stolti, l'ottimista e il pessimista, annientati nell'[[Dawn|alba]] del [[Time|tempo]]. E la [[philosophy|filosofia]] perfeziona davvero l'ironia tragica pagana, proprio perché è più monoteistica e dunque più mistica. In verità il Libro di Giobbe dichiaratamente non risponde al mistero che con altro mistero. Giobbe è consolato con enigmi; ma è consolato. In ciò vi è davvero una figura, nel senso di una profezia, di cose che parlano con autorità. Poiché, quando colui che dubita non sa dire che «Io non capisco», è vero che colui che sa non può che replicare o ripetere «Tu non capisci». E sotto quel rimprovero vi è sempre un'improvvisa [[Hope|speranza]] nel cuore; e il sentore di qualcosa che varrebbe la pena di comprendere. Ma questo possente poema monoteistico rimase inosservato dall'intero mondo dell'antichità, che pullulava di poesia politeistica. È un segno del modo in cui gli Ebrei si tennero in disparte e mantennero la propria tradizione incrollabile e incondivisa, l'aver essi tenuto una cosa come il Libro di Giobbe fuori dall'intero mondo intellettuale dell'antichità. È come se gli Egizi avessero modestamente nascosto la Grande Piramide. Ma vi erano altre ragioni per un [[Cross|contrasto]] di intenti e per un vicolo cieco, caratteristici di tutta la fine del paganesimo. Dopo tutto, la tradizione d'Israele si era impadronita solo di una metà della [[Truth|verità]], anche se, adoperando il popolare [[Paradox|paradosso]], la chiamiamo la metà più grande. Cercherò di [[Sketch|abbozzare]] nel prossimo capitolo quell'[[Love|amore]] del luogo e della personalità che percorreva la mitologia; qui basti dire che vi era in essa una [[Truth|verità]] che non poteva essere lasciata uscire, pur essendo una [[Truth|verità]] più lieve e meno essenziale. Il dolore di Giobbe doveva unirsi al dolore di [[Hector|Ettore]]; e mentre il primo era il dolore dell'universo, il secondo era il dolore della [[City|città]]; poiché [[Hector|Ettore]] poteva soltanto stare a indicare il cielo, come il pilastro della sacra Troia. Quando Dio parla dal turbine, [[Well|ben]] può parlare nel deserto. Ma il monoteismo del nomade non bastava a tutta quella varia civiltà di campi e siepi e città murate e templi e borghi; e sarebbe venuto il turno anche di queste cose, quando i due si fossero potuti combinare in una religione più definita e domestica. Qua e là, in tutta quella folla pagana, si poteva trovare un filosofo il cui pensiero verteva sul puro teismo; ma egli non ebbe mai, né suppose di avere, il potere di mutare i costumi dell'intera popolazione. Né è facile, persino in tali filosofie, trovare una vera definizione di questa profonda faccenda del rapporto fra politeismo e teismo. Forse ciò che più si avvicina a cogliere la nota, o a dare un nome alla cosa, sta in qualcosa di assai lontano da tutta quella civiltà e più remoto da Roma dell'isolamento d'Israele. Sta in un detto che udii una volta da qualche tradizione indù; che tanto gli dèi [[Well|quanto]] gli uomini sono soltanto i [[Dreams|sogni]] di Brahma, e periranno quando Brahma si desterà. Vi è davvero in una tale immagine qualcosa dell'[[Soul|anima]] dell'Asia che è meno sana dell'[[Soul|anima]] della cristianità. Noi la chiameremmo [[Despair|disperazione]], anche se essi la chiamerebbero pace. Questa nota di nichilismo potrà essere considerata più avanti in un confronto più ampio fra l'Asia e l'Europa. Basti dire qui che vi è più disillusione in quell'idea di un risveglio divino di quanta ne sia implicata per noi nel passaggio dalla mitologia alla religione. Ma il simbolo è assai sottile ed esatto sotto un aspetto: che suggerisce davvero la sproporzione e persino la frattura fra le idee stesse di mitologia e religione, l'abisso fra le due categorie. È davvero il crollo della religione comparata il fatto che non vi sia comparazione fra Dio e gli dèi. Non vi è più comparazione di quanta ve ne sia fra un uomo e gli uomini che si aggiravano nei suoi [[Dreams|sogni]]. Sotto il prossimo titolo si tenterà di indicare il crepuscolo di quel sogno in cui gli dèi si aggirano come uomini. Ma se qualcuno si immagina che il contrasto fra monoteismo e politeismo sia soltanto questione che alcuni popoli abbiano un solo dio e altri qualcuno in più, per lui sarà assai più vicino alla [[Truth|verità]] tuffarsi nell'elefantesca stravaganza della cosmologia braminica; affinché possa sentire un brivido correre attraverso il velo delle cose, i creatori dalle molte mani, e gli [[Animals|animali]] intronizzati e aureolati e tutta la rete degli intricati [[Stars|astri]] e dei signori della [[Night|notte]], mentre gli occhi di Brahma si aprono come un'[[Dawn|alba]] sulla [[Death|morte]] di ogni cosa.
+
+* * *
 
 
 
@@ -13269,6 +14688,66 @@ But though these [[Flowers|flowers]] may [[spring]] from the same soil,
 it is not the same faded flower that is flung from hand to hand.
 Those [[Flowers|flowers]] are always fresh.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+V
+
+L'UOMO E LE MITOLOGIE
+
+Ciò che qui è chiamato gli Dèi potrebbe quasi in alternativa esser chiamato i [[Dreams|sogni]] a occhi aperti. Paragonarli ai [[Dreams|sogni]] non significa negare che i [[Dreams|sogni]] possano avverarsi. Paragonarli ai racconti di viaggiatori non significa negare che possano essere racconti veri, o almeno racconti veritieri. In [[Truth|verità]] essi sono il genere di racconti che il viaggiatore narra a sé stesso. Tutta questa faccenda mitologica appartiene alla parte poetica dell'uomo. Sembra stranamente dimenticato, oggigiorno, che un mito è un'opera di [[Imagination|immaginazione]] e dunque un'opera d'arte. Occorre un poeta per farlo. Occorre un poeta per criticarlo. Vi sono al mondo più poeti che non-poeti, come prova l'origine popolare di simili leggende. Ma per qualche ragione che non ho mai sentito spiegare, è solo alla minoranza delle persone prive di poesia che è concesso scrivere studi critici su questi [[Poems|poemi]] popolari. Non sottoponiamo un [[Sonnet|sonetto]] a un matematico né una [[Song|canzone]] a un ragazzo prodigio del calcolo; eppure indulgiamo all'idea egualmente fantastica che il folclore possa essere trattato come una scienza. Se queste cose non sono apprezzate artisticamente, non sono affatto apprezzate. Quando [[The Professor|il professore]] si sente dire dal polinesiano che un tempo non c'era nulla tranne un grande serpente piumato, se il dotto non prova un fremito e una mezza [[Temptation|tentazione]] di desiderare che sia vero, non è affatto giudice di tali cose. Quando gli si assicura, sulla migliore autorità dei Pellirosse, che un [[Hero|eroe]] primitivo portava il sole e la [[Moon|luna]] e le [[Stars|stelle]] in una scatola, se non congiunge le mani e non scalcia quasi con le gambe, come farebbe un [[Child|bambino]] dinanzi a una così deliziosa fantasia, non sa nulla della faccenda. Questa prova non è insensata; i bambini primitivi e i bambini barbari ridono e scalciano come tutti gli altri bambini; e dobbiamo possedere una certa semplicità per raffigurarci di nuovo l'[[Childhood|infanzia]] del mondo. Quando la sua [[Nurse|balia]] disse a Hiawatha che un guerriero scagliò la propria nonna fin sulla [[Moon|luna]], egli rise come qualunque [[Child|bambino]] inglese cui la sua [[Nurse|balia]] racconti che una mucca saltò oltre la [[Moon|luna]]. Il [[Child|bambino]] coglie lo scherzo [[Well|bene]] quanto la maggior parte degli uomini, e meglio di certi uomini di scienza. Ma la prova ultima, persino del fantastico, è l'appropriatezza dell'inappropriato. E la prova deve apparire meramente arbitraria perché è meramente artistica. Se qualche studioso mi dice che il piccolo Hiawatha rise soltanto per rispetto dell'usanza tribale di sacrificare i vecchi a una parsimoniosa economia domestica, io rispondo che non fu così. Se qualche erudito mi dice che la mucca saltò oltre la [[Moon|luna]] soltanto perché una giovenca fu sacrificata a [[Diana]], io rispondo che non fu così. Accadde perché è ovviamente la cosa giusta, per una mucca, saltare oltre la [[Moon|luna]]. La mitologia è un'arte perduta, una delle poche arti che davvero siano perdute; ma è un'arte. La [[Moon|luna]] cornuta e il cornuto vitello lunare compongono un disegno armonioso e quasi quieto. E scagliare la propria nonna in cielo non è buona condotta; ma è di gusto perfettamente eccellente.
+
+Così gli scienziati raramente comprendono, come lo comprendono gli artisti,
+che un ramo del bello è il brutto.
+Raramente concedono la legittima libertà del [[Grotesque|grottesco]].
+E liquideranno un mito selvaggio come rozzo e goffo e nient'altro,
+prova di degradazione, perché non possiede tutta la [[Beauty|bellezza]]
+dell'araldo Mercurio appena posatosi su un [[Hill|colle]] che bacia il cielo;
+mentre in realtà possiede la [[Beauty|bellezza]] della Falsa Tartaruga o del Cappellaio Matto.
+È la prova suprema che un uomo è prosaico il fatto che egli insista sempre
+perché la poesia sia poetica. A volte l'[[Humour|umorismo]]
+sta nel soggetto stesso [[Well|non meno che]] nello stile della [[Fable|favola]].
+Gli aborigeni australiani, considerati i più rozzi tra i selvaggi,
+hanno una storia su un rana gigante che aveva inghiottito il mare e tutte
+le acque del mondo; e che fu costretto a rovesciarle fuori
+solo perché lo si fece ridere. Tutti gli [[Animals|animali]] con tutte le loro buffonerie
+gli sfilarono davanti e, come la [[Queen]] Vittoria, egli non si divertì.
+Alla fine crollò davanti a un'anguilla che stava delicatamente in equilibrio
+sulla punta della coda, senza dubbio con una dignità piuttosto disperata.
+Da quella [[Fable|favola]] si potrebbe ricavare una quantità di raffinata letteratura fantastica.
+C'è [[philosophy|filosofia]] in quella visione del mondo arido prima del beatifico
+[[deluge|Diluvio]] di risa. C'è [[Imagination|immaginazione]] nel montuoso [[Monster|mostro]]
+che erutta come un vulcano acquoreo; c'è un mondo di comicità nel pensiero
+del suo volto sbarrato mentre il pellicano o il pinguino gli passavano davanti.
+Comunque sia, la rana rise; ma lo studioso di folclore rimane [[Grave|serio]].
+
+Inoltre, anche là dove le favole sono inferiori in quanto arte, non possono essere
+giudicate propriamente dalla scienza; e ancor meno propriamente giudicate come scienza.
+Alcuni miti sono assai grezzi e bizzarri, come i primi disegni dei bambini;
+ma il [[Child|bambino]] sta cercando di disegnare. Non è meno un errore trattare
+il suo disegno come se fosse un diagramma, o come se pretendesse di essere un diagramma.
+Lo studioso non può fare un'affermazione scientifica sul selvaggio,
+perché il selvaggio non sta facendo un'affermazione scientifica sul mondo.
+Egli sta dicendo qualcosa di del tutto diverso; qualcosa che si potrebbe chiamare
+il pettegolezzo degli dèi. Possiamo dire, se ci piace, che vi si crede
+prima che ci sia il [[Time|tempo]] di esaminarlo. Sarebbe più esatto dire che
+lo si accetta prima che ci sia il [[Time|tempo]] di crederci.
+
+Confesso di [[Doubt|dubitare]] dell'intera teoria della disseminazione dei miti o
+(come di solito la si intende) di un unico mito. È vero che qualcosa nella nostra
+[[Nature|natura]] e nelle nostre condizioni rende simili molte storie; ma ciascuna di esse
+può essere originale. Un uomo non prende in prestito la storia dall'altro uomo,
+benché possa raccontarla mosso dallo stesso movente dell'altro uomo.
+Sarebbe facile applicare tutto il ragionamento sulla leggenda alla letteratura;
+e trasformarlo in una volgare monomania del plagio. Mi impegnerei
+a rintracciare una nozione come quella del Ramo d'Oro attraverso singoli
+romanzi moderni con la stessa facilità con cui la si segue nei miti comuni e antichi.
+Mi impegnerei a trovare qualcosa come un mazzo di [[Flowers|fiori]]
+che ricompare di continuo, dal fatale bouquet di Becky Sharpe
+al ramoscello di rose inviato dalla Principessa di Ruritania.
+Ma benché questi [[Flowers|fiori]] possano [[spring|sgorgare]] dallo stesso suolo,
+non è lo stesso fiore appassito a passare di mano in mano.
+Quei [[Flowers|fiori]] sono sempre freschi.
 
 
 
@@ -13390,6 +14869,75 @@ and is liable to leave the learned in the condition of [[Polonius]],
 only too ready to think it like a weasel, or very like a whale.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La vera origine di tutti i miti è stata scoperta fin troppe volte.
+Ci sono troppe chiavi della mitologia, come ci sono troppi crittogrammi
+in Shakespeare. Tutto è fallico; tutto è totemico;
+tutto è [[Time|semina]] e raccolto; tutto è [[Ghosts|fantasmi]]
+e offerte alla [[Grave|tomba]]; tutto è il ramo d'oro del sacrificio;
+tutto è il sole e la [[Moon|luna]]; tutto è tutto.
+Ogni studioso di folclore che sapesse un po' più della propria monomania,
+ogni uomo di più ampie letture e di cultura critica come Andrew Lang,
+ha praticamente confessato che lo smarrimento di fronte a queste cose gli lasciava
+la testa in un vortice. Eppure tutto il guaio nasce dal fatto che un uomo cerca di guardare
+queste storie dall'esterno, come se fossero oggetti scientifici.
+Non deve fare altro che guardarle dall'interno, e domandarsi come lui stesso
+comincerebbe una storia. Una storia può cominciare da qualsiasi cosa e andare ovunque.
+Può cominciare da un uccello senza che l'uccello sia un totem;
+può cominciare dal sole senza essere un mito solare. Si dice
+che al mondo esistano soltanto dieci trame; e vi saranno di certo
+elementi comuni e ricorrenti. Mettete diecimila bambini a chiacchierare
+tutti insieme, a raccontare frottole su ciò che hanno fatto nel bosco,
+e non sarà difficile trovare paralleli che facciano pensare al culto del sole
+o al culto degli animali. Alcune delle storie potranno essere graziose, altre sciocche
+e altre forse sconce; ma possono essere giudicate soltanto come storie.
+Nel dialetto moderno, possono essere giudicate soltanto esteticamente.
+È strano che l'estetica, o il puro sentire, cui oggi si consente
+di usurpare là dove non ha alcun diritto, di far naufragare la ragione con il pragmatismo
+e la morale con l'anarchia, non sia a quanto pare autorizzata a dare un giudizio
+puramente estetico su ciò che è manifestamente una questione puramente estetica.
+Possiamo essere fantasiosi su qualunque cosa tranne che sulle fiabe.
+
+Ora, il primo dato di fatto è che le persone più semplici hanno le idee
+più sottili. Tutti dovrebbero saperlo, perché tutti
+sono stati [[Child|bambini]]. Per quanto ignorante sia un [[Child|bambino]], egli sa più di
+quanto sappia dire e avverte non soltanto le atmosfere, ma le sfumature più delicate.
+E in questa materia vi sono parecchie sfumature delicate. Nessuno la comprende
+se non ha provato ciò che si può chiamare soltanto lo struggimento dell'[[Artist|artista]]
+nel cercare qualche senso e qualche storia nelle cose belle che vede;
+la sua fame di [[Secrets|segreti]] e la sua ira verso ogni torre o albero che gli sfugga
+lasciando il proprio racconto non narrato. Egli sente che nulla è perfetto se non
+è personale. Senza di ciò la cieca, inconsapevole [[Beauty|bellezza]]
+del mondo se ne sta nel suo [[Garden|giardino]] come una statua senza testa.
+Basta essere un poeta minore di quart'ordine per aver lottato con la torre
+o con l'albero finché non ha parlato come un titano o una driade. Si dice spesso
+che la mitologia pagana fosse una personificazione delle potenze della [[Nature|natura]].
+La frase è vera in un certo senso, ma è assai insoddisfacente;
+perché implica che le forze siano astrazioni e
+la personificazione sia artificiale. I miti non sono allegorie.
+Le potenze naturali non sono, in questo caso, astrazioni. Non è come se ci
+fosse un Dio della Gravitazione. Può esserci un genio della cascata;
+ma non del mero cadere, e ancor meno che della mera [[Water|acqua]].
+La personificazione non è di qualcosa d'impersonale. Il punto
+è che la personalità perfeziona l'[[Water|acqua]] con un significato.
+Babbo Natale non è un'[[Allegory|allegoria]] della [[Snow|neve]] e dell'agrifoglio;
+non è semplicemente la sostanza chiamata [[Snow|neve]] cui in seguito si sia dato
+artificialmente forma umana, come a un pupazzo di [[Snow|neve]]. Egli è qualcosa che dà
+un nuovo significato al mondo bianco e ai sempreverdi, sicché la [[Snow|neve]]
+stessa pare calda anziché fredda. La prova, dunque,
+è puramente immaginativa. Ma immaginativo non significa immaginario.
+Non ne consegue che tutto sia ciò che i moderni chiamano soggettivo,
+quando intendono falso. Ogni vero [[Artist|artista]] sente davvero, consapevolmente
+o inconsapevolmente, di toccare verità trascendentali;
+che le sue immagini sono ombre di cose viste attraverso il velo.
+In altre parole, il mistico naturale sa che c'è
+qualcosa là; qualcosa dietro le nuvole o dentro gli alberi;
+ma crede che la ricerca della [[Beauty|bellezza]] sia la via per trovarlo;
+che l'[[Imagination|immaginazione]] sia una sorta d'incantesimo capace di evocarlo.
+
+Ora, noi non comprendiamo questo processo in noi stessi, e ancor meno nelle nostre più remote creature consimili. E il pericolo, quando queste cose vengono classificate, è che esse possano sembrare comprese. Un'opera di folklore davvero pregevole, come Il ramo d'oro, lascerà troppi lettori con l'idea, per esempio, che questa o quella storia del cuore di un gigante o di un mago rinchiuso in uno scrigno o in una [[Cave|caverna]] non 'significhi' altro che qualche stupida e inerte superstizione chiamata 'l'[[Soul|anima]] esterna'. Ma noi non sappiamo che cosa queste cose significhino, semplicemente perché non sappiamo che cosa significhiamo noi stessi quando ne siamo commossi. Supponiamo che in una storia qualcuno dica: «Cogli questo fiore e una principessa morirà in un [[Castle|castello]] di là dal mare», noi non sappiamo perché qualcosa si agiti nel subcosciente, né perché ciò che è impossibile sembri quasi inevitabile. Supponiamo di leggere: «E nell'ora in cui il [[King|re]] spense la candela, le sue navi naufragarono lontano, sulla costa delle Ebridi». Noi non sappiamo perché l'[[Imagination|immaginazione]] abbia accolto quell'immagine prima che la ragione possa respingerla; né perché tali corrispondenze sembrino davvero corrispondere a qualcosa nell'[[Soul|anima]]. Cose molto profonde della nostra [[Nature|natura]], un oscuro senso della dipendenza delle cose grandi da quelle piccole, un tenebroso suggerimento che le cose a noi più vicine si protendano assai al di là del nostro potere, un sentimento sacramentale della [[Magic|magia]] insita nelle sostanze materiali, e molte altre emozioni ormai quasi svanite, sono racchiuse in un'idea come quella dell'[[Soul|anima]] esterna. Il potere che è persino nei miti dei selvaggi è simile al potere che è nelle metafore dei poeti. L'[[Soul|anima]] di una tale metafora è spesso, e con grande enfasi, un'[[Soul|anima]] esterna. I migliori critici hanno osservato che, nei migliori poeti, la similitudine è spesso un quadro che pare del tutto separato dal testo. È tanto irrilevante quanto il remoto [[Castle|castello]] rispetto al fiore, o la costa delle Ebridi rispetto alla candela. Shelley paragona l'allodola a una fanciulla su una torretta, a una [[Rose|rosa]] annidata in un fitto fogliame, a una serie di cose che sembrano tanto dissimili da un'allodola nel cielo quanto qualsiasi altra cosa possiamo immaginare. Suppongo che il più potente frammento di pura [[Magic|magia]] della letteratura inglese sia il tanto citato passo dell'[[Nightingale|Usignolo]] di Keats sulle finestre che si aprono sulla spuma perigliosa. E nessuno nota che l'immagine sembra venire dal nulla; che essa compare bruscamente dopo alcune osservazioni quasi altrettanto irrilevanti su Ruth; e che non ha nulla al mondo a che vedere con il soggetto della poesia. Se c'è un luogo al mondo dove nessuno potrebbe ragionevolmente aspettarsi di trovare un [[Nightingale|usignolo]], è il davanzale di una [[Window|finestra]] in riva al mare. Ma è solo nel medesimo senso in cui nessuno si aspetterebbe di trovare il cuore di un gigante in uno scrigno sotto il mare. Ora, sarebbe assai pericoloso classificare le metafore dei poeti. Quando Shelley dice che la nube sorgerà «come un [[Child|bimbo]] dal grembo, come un [[Ghost|fantasma]] dalla tomba», sarebbe del tutto possibile chiamare la prima un caso del rozzo e primitivo mito della nascita, e la seconda una [[Survival|sopravvivenza]] del culto dei [[Ghost|fantasmi]], che divenne culto degli antenati. Ma è il modo sbagliato di trattare una nube; e rischia di lasciare i dotti nella condizione di [[Polonius|Polonio]], fin troppo pronti a giudicarla simile a una donnola, o assai simile a una balena.
+
 
 
 <span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_03" data-title="everlasting man — Chapter 7: Man And Mythologies (part 3)" data-chapter="Man And Mythologies" data-kind="excerpt"></span>
@@ -13491,6 +15039,14 @@ of the puzzle is this, that all this vagueness and variation arise
 from the fact that the whole thing began in fancy and in dreaming;
 and that there are no rules of architecture for a [[Castle|castle]] in the clouds.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Da questa psicologia dei [[Dreams|sogni]] a occhi aperti discendono due fatti, che vanno tenuti a mente lungo tutto il loro sviluppo nelle mitologie e persino nelle religioni. In primo luogo, queste impressioni immaginative sono spesso strettamente locali. Ben lungi dall'essere astrazioni mutate in allegorie, esse sono spesso immagini quasi concentrate in idoli. Il poeta sente il mistero di una foresta particolare; non della scienza del rimboschimento né del dipartimento dei boschi e delle foreste. Egli adora la vetta di una montagna particolare, non l'idea astratta dell'altezza. Così troviamo che il dio non è semplicemente [[Water|acqua]], ma spesso un unico, speciale [[River|fiume]]; egli può essere il mare, perché il mare è unico come una corrente; il [[River|fiume]] che scorre intorno al mondo. In ultimo, senza dubbio, molte divinità vengono ampliate fino a farsi elementi; ma esse sono qualcosa di più che onnipresenti. [[Apollo]] non dimora soltanto ovunque splenda il sole; la sua [[Home|dimora]] è sulla rupe di Delfi. [[Diana]] è tanto grande da essere in tre luoghi al tempo stesso, terra, cielo e inferno, ma più grande è la [[Diana]] degli Efesini. Questo sentimento localizzato ha la sua forma più bassa nel semplice feticcio o talismano, come quelli che i milionari appendono alle loro automobili. Ma esso può anche indurirsi in qualcosa che somigli a una religione alta e seria, laddove si lega a doveri alti e seri; negli dèi della [[City|città]] o persino negli dèi del focolare.
+
+La seconda conseguenza è questa: che in questi culti pagani si dà ogni sfumatura di sincerità — e di insincerità. In che senso, esattamente, un ateniese pensava davvero di dover sacrificare a Pallade Atena? Quale studioso è davvero certo della risposta? In che senso il dottor Johnson pensava davvero di dover toccare tutti i pali della strada, o di dover raccogliere le bucce d'arancia? In che senso un [[Child|bambino]] pensa davvero di dover calpestare una pietra sì e una no del selciato? Almeno due cose sono abbastanza chiare. In primo luogo, in tempi più semplici e meno [[Self|consapevoli]] di sé, queste forme potevano farsi più solide senza per questo farsi davvero più serie. I [[Dreams|sogni]] a occhi aperti potevano essere recitati in pieno giorno, con maggiore libertà di espressione artistica; ma forse ancora con qualcosa del passo leggero del sonnambulo. Avvolgete il dottor Johnson in un mantello antico, [[Crown|incoronatelo]] (col suo cortese permesso) con una ghirlanda, ed egli si muoverà in pompa sotto quegli antichi cieli del mattino; toccando una serie di pali sacri, scolpiti con le teste degli strani dèi terminali, che stanno ai confini della terra e della vita dell'uomo. Rendete il [[Child|bambino]] libero fra i marmi e i mosaici di qualche tempio classico, per giocare su un intero pavimento intarsiato di riquadri bianchi e neri; ed egli farà volentieri di questo compimento del suo ozioso e vagante sogno a occhi aperti il campo sgombro per una [[Dance|danza]] [[Grave|grave]] e aggraziata. Ma i pali e le pietre del selciato sono poco più e poco meno reali di quanto lo siano entro i confini moderni. Non sono davvero molto più seri per il fatto di essere presi sul serio. Hanno quella sorta di sincerità che hanno sempre avuto; la sincerità dell'arte come simbolo che esprime spiritualità assai reali sotto la superficie della vita. Ma sono sinceri soltanto nello stesso senso in cui lo è l'arte; non sinceri nello stesso senso in cui lo è la [[morality|moralità]]. La collezione di bucce d'arancia dell'eccentrico può mutarsi in arance in una festa mediterranea, o in mele d'oro in un mito mediterraneo. Ma esse non sono mai sullo stesso piano della differenza che passa tra il dare l'arancia a un mendicante cieco e il collocare accuratamente la buccia d'arancia perché il mendicante inciampi e si rompa una gamba. Tra queste due cose vi è una differenza di genere e non di grado. Il [[Child|bambino]] non pensa che sia male calpestare la pietra del selciato come pensa che sia male calpestare la coda del cane. Ed è cosa certissima che, quale che sia lo scherzo, il sentimento o la fantasia che spinse per la prima volta Johnson a toccare i pali di legno, egli non toccò mai il legno con nessuno di quei sentimenti con cui tese le mani verso il legno di quell'albero terribile, che fu la [[Death|morte]] di Dio e la vita dell'uomo.
+
+Come già osservato, ciò non significa che in un simile stato d'animo non vi fosse alcuna realtà, né alcun sentimento religioso. Di fatto la [[Catholic Church|Chiesa cattolica]] ha rilevato con clamoroso [[success|successo]] tutta questa faccenda popolare consistente nel donare alle genti leggende locali e movimenti cerimoniali più lievi. Nella misura in cui tutto questo paganesimo era [[Innocent|innocente]] e in contatto con la [[Nature|natura]], non vi è ragione perché non debba essere patrocinato dai santi patroni non meno che dagli dèi pagani. E in ogni caso vi sono gradi di serietà anche nella più naturale delle finzioni. Corre tutta la differenza tra l'immaginare che vi siano fate nel bosco — il che spesso significa soltanto immaginare un certo bosco come adatto alle fate — e lo spaventarci davvero fino a farci camminare un miglio pur di non passare davanti a una [[house|casa]] che ci siamo detti essere infestata. Dietro tutte queste cose sta il fatto che la [[Beauty|bellezza]] e il terrore sono cose molto reali e connesse a un mondo spirituale reale; e sfiorarle anche solo un poco, sia pure nel [[Doubt|dubbio]] o nella fantasia, significa smuovere le cose profonde dell'[[Soul|anima]]. Tutti lo intendiamo, e i pagani lo intendevano. Il punto è che il paganesimo non smuoveva davvero l'[[Soul|anima]] se non con questi dubbi e queste fantasie, con la conseguenza che noi oggi non possiamo avere sul paganesimo molto più di dubbi e fantasie. Tutti i migliori critici concordano nel dire che tutti i più grandi poeti, per esempio nell'Ellade pagana, avevano verso i loro dèi un atteggiamento che riesce assai bizzarro e sconcertante agli uomini dell'era cristiana. Pare esservi un conflitto ammesso tra il dio e l'uomo; ma tutti sembrano incerti su chi sia l'[[Hero|eroe]] e chi il [[Villain|malvagio]]. Questo [[Doubt|dubbio]] non si applica soltanto a un dubbioso come Euripide nelle Baccanti; si applica a un moderato conservatore come Sofocle nell'Antigone; o persino a un tory e reazionario di stretta osservanza come Aristofane nelle Rane. Talvolta parrebbe che i Greci credessero sopra ogni cosa nella riverenza, se non che non avevano nessuno da riverire. Ma il nodo dell'enigma è questo: che tutta questa vaghezza e mutevolezza nascono dal fatto che l'intera faccenda cominciò nella fantasia e nel sogno; e che non vi sono regole d'architettura per un [[Castle|castello]] tra le nuvole.
 
 
 
@@ -13610,6 +15166,12 @@ of the [[Mountains|mountains]] of Hellas.  But there was always a trouble in
 the triumph, which in these pages I have tried to analyse in vain;
 but perhaps I might in conclusion state it thus.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo è il possente e ramificato albero chiamato mitologia, che si dirama attorno al mondo intero, e i cui rami remoti, sotto cieli diversi, recano come [[Birds|uccelli]] variopinti i costosi idoli dell'Asia e i feticci mal cotti dell'Africa e i re e le principesse fatate delle fiabe della foresta, e, sepolti tra le viti e gli olivi, i Lari dei Latini, e portata sulle nubi dell'Olimpo la baldanzosa supremazia degli dèi di Grecia. Questi sono i miti: e chi non ha simpatia per i miti non ha simpatia per gli uomini. Ma chi più ha simpatia per i miti più pienamente comprenderà che essi non sono, e non furono mai, una religione, nel senso in cui il [[Christianity|Cristianesimo]] o perfino l'[[Islam]] è una religione. Essi soddisfano alcuni dei bisogni soddisfatti da una religione; e in particolare il bisogno di compiere certe cose in certe date; il bisogno delle due idee gemelle della festività e della formalità. Ma benché forniscano all'uomo un calendario, non gli forniscono un credo. Un uomo non si alzava in piedi a dire «Credo in Giove e Giunone e Nettuno», e via dicendo, come si alza in piedi e dice «Credo in Dio Padre onnipotente», e il resto del Credo degli Apostoli. Molti credevano in alcuni e non in altri, o più in alcuni e meno in altri, o soltanto in un senso poetico assai vago in uno qualsiasi. Non vi fu mai un momento in cui tutti fossero raccolti in un ordine ortodosso che gli uomini avrebbero combattuto e sofferto il supplizio per mantenere intatto. E ancor meno qualcuno disse mai a quel modo: «Credo in Odino e Thor e Freya», poiché fuori dall'Olimpo persino l'ordine olimpico si fa nuvoloso e caotico. A me pare chiaro che Thor non fosse affatto un dio, bensì un [[Hero|eroe]]. Nulla che assomigli a una religione raffigurerebbe qualcuno che assomigli a un dio mentre brancola come un pigmeo in una grande caverna che si rivela essere il guanto di un gigante. Questa è la gloriosa ignoranza chiamata avventura. Thor può essere stato un grande avventuriero; ma chiamarlo dio è come voler paragonare Jehovah con Giacomino e il fagiolo magico. Odino sembra essere stato un vero capo barbaro, forse dei secoli bui successivi al [[Christianity|Cristianesimo]]. Il politeismo si stempera ai suoi margini in fiabe o memorie barbariche; non è una cosa come il monoteismo quale è tenuto dai monoteisti seri. Di nuovo, esso soddisfa davvero il bisogno di gridare qualche nome elevato o qualche nobile [[Memory|memoria]] in momenti che sono essi stessi nobili ed elevati; come la nascita di un [[Child|bambino]] o la salvezza di una [[City|città]]. Ma il nome era usato in tal modo da molti per i quali era soltanto un nome. Infine esso soddisfaceva, o piuttosto soddisfaceva in parte, una cosa davvero molto profonda nell'umanità; l'idea di rinunciare a qualcosa come porzione delle potenze ignote; di versare del vino sul suolo, di gettare un anello nel mare; in una parola, di sacrificio. È l'idea saggia e degna di non spingere fino in fondo il nostro vantaggio; di porre qualcosa sull'altro piatto della bilancia per zavorrare il nostro dubbio [[Pride|orgoglio]], di pagare la decima alla [[Nature|natura]] per la nostra terra. Questa profonda [[Truth|verità]] del pericolo dell'insolenza, dell'essere troppo grandi per le nostre scarpe, percorre tutte le grandi tragedie greche e le rende grandi. Ma corre fianco a fianco con un agnosticismo quasi criptico circa la reale [[Nature|natura]] degli dèi da propiziare. Là dove quel gesto di resa è più magnifico, come tra i grandi Greci, vi è in realtà molto più l'idea che l'uomo si troverà meglio per aver perduto il bue che non che il dio si troverà meglio per averlo ottenuto. Si dice che nelle sue forme più grossolane vi siano spesso azioni grottescamente suggestive del dio che davvero mangia il sacrificio. Ma questo fatto è falsato dall'errore che ho posto per primo in questa nota sulla mitologia. È un fraintendimento della psicologia dei [[Dreams|sogni]] a occhi aperti. Un [[Child|bambino]] che finge esservi un folletto in un albero cavo compirà una cosa cruda e materiale, come lasciargli un pezzo di torta. Un poeta potrebbe compiere una cosa più dignitosa ed elegante, come portare al dio frutti oltre che [[Flowers|fiori]] [[Well|del pari]]. Ma il grado di serietà nei due atti può essere il medesimo, oppure può variare in quasi qualsiasi misura. La fantasia cruda non è un credo più di quanto lo sia la fantasia ideale. Certo il pagano non miscrede alla maniera di un ateo, non più di quanto creda alla maniera di un cristiano. Egli sente la presenza di potenze intorno alle quali indovina e inventa. San Paolo disse che i Greci avevano un altare a un dio ignoto. Ma in [[Truth|verità]] tutti i loro dèi erano dèi ignoti. E la vera frattura nella [[history|storia]] avvenne quando San Paolo annunciò loro colui che avevano ignorantemente adorato.
+
+La sostanza di ogni paganesimo simile si può riassumere così. È un tentativo di raggiungere la realtà divina attraverso la sola [[Imagination|immaginazione]]; nel proprio campo la ragione non lo trattiene affatto. È essenziale, per comprendere tutta la [[history|storia]], che la ragione sia qualcosa di distinto dalla religione perfino nella più razionale di queste civiltà. È soltanto per ripensamento, quando tali culti sono decadenti o sulla difensiva, che si trovano pochi neoplatonici o pochi brahmani intenti a razionalizzarli, e anche allora unicamente cercando di allegorizzarli. Ma in realtà i fiumi della mitologia e della [[philosophy|filosofia]] corrono paralleli e non si mescolano finché non si incontrano nel mare della cristianità. I laicisti ingenui parlano ancora come se la Chiesa avesse introdotto una sorta di scisma tra ragione e religione. La [[Truth|verità]] è che la Chiesa fu in realtà la prima cosa che abbia mai tentato di unire ragione e religione. Non era mai esistita prima una simile [[Union|unione]] dei sacerdoti e dei filosofi. La mitologia, dunque, cercava dio attraverso l'[[Imagination|immaginazione]]; ovvero cercava la [[Truth|verità]] per mezzo della [[Beauty|bellezza]], nel senso in cui la [[Beauty|bellezza]] comprende molta della più [[Grotesque|grottesca]] bruttezza. Ma l'[[Imagination|immaginazione]] ha leggi proprie e perciò propri trionfi, che né i logici né gli uomini di scienza sanno comprendere. Rimase fedele a quell'istinto immaginativo attraverso mille stravaganze, attraverso ogni rozza pantomima cosmica di un maiale che divora la [[Moon|luna]] o del mondo ricavato tagliando una mucca, attraverso tutte le vertiginose convoluzioni e le mistiche deformità dell'arte asiatica, attraverso tutta la rigidità fissa e stralunata del ritratto egizio e assiro, attraverso ogni sorta di [[Mirror|specchio]] incrinato di arte folle che sembrava sfigurare il mondo e spostare il cielo, rimase fedele a qualcosa su cui non può esserci discussione; qualcosa che rende possibile a un qualche [[Artist|artista]] di una qualche scuola arrestarsi d'improvviso immobile dinanzi a quella particolare deformità e dire: «Il mio sogno si è avverato.» Perciò tutti sentiamo di fatto che i miti pagani o primitivi sono infinitamente suggestivi, purché siamo abbastanza saggi da non domandare che cosa suggeriscano. Perciò tutti sentiamo che cosa significhi [[Prometheus|Prometeo]] che ruba il [[Fire|fuoco]] dal cielo, finché qualche saccente pessimista o progressista non ci spiega che cosa significhi. Perciò tutti conosciamo il significato di Jack e il fagiolo magico, finché non ce lo dicono. In questo senso è vero che sono gli ignoranti ad accettare i miti, ma solo perché sono gli ignoranti ad apprezzare le [[Poems|poesie]]. L'[[Imagination|immaginazione]] ha leggi e trionfi propri; e un potere immenso cominciò a rivestire le sue immagini, siano esse immagini nella mente o nel fango, sia nel bambù delle isole dei Mari del Sud sia nel marmo dei [[Mountains|monti]] dell'Ellade. Ma vi era sempre un turbamento nel trionfo, che in queste pagine ho tentato invano di analizzare; ma forse potrei, in conclusione, enunciarlo così.
 
 
 
@@ -13763,6 +15325,18 @@ things are.'  It is the voice of a dreamer and an idealist crying,
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il nodo e la crisi stanno nel fatto che l'uomo trovò naturale adorare; naturale perfino adorare cose innaturali. La posa dell'idolo poteva essere rigida e strana; ma il gesto dell'adorante era generoso e bello. Egli non solo si sentiva più libero quando si piegava; si sentiva realmente più alto quando si inchinava. D'ora innanzi qualunque cosa togliesse il gesto dell'adorazione lo avrebbe atrofizzato e persino mutilato per sempre. D'ora innanzi essere meramente laici sarebbe stata una servitù e un'inibizione. Se l'uomo non può pregare è imbavagliato; se non può inginocchiarsi è in catene. Perciò avvertiamo, in tutto il paganesimo, un curioso [[Double|duplice]] sentimento di fiducia e diffidenza. Quando l'uomo compie il gesto del saluto e del sacrificio, quando versa la libagione o leva la [[Sword|spada]], sa di compiere una cosa degna e virile. Sa di compiere una di quelle cose per cui l'uomo fu fatto. Il suo esperimento immaginativo è dunque giustificato. Ma proprio perché ebbe inizio con l'[[Imagination|immaginazione]], vi è sino alla fine qualcosa di beffardo in esso, e specialmente nel suo oggetto. Questa beffa, nei momenti più intensi dell'intelletto, diventa l'ironia quasi intollerabile della [[Greek Tragedy|tragedia greca]]. Sembra esservi una sproporzione tra il sacerdote e l'altare, o tra l'altare e il dio. Il sacerdote sembra più solenne e quasi più sacro del dio. Tutto l'ordine del tempio è saldo, sano e soddisfacente per certe parti della nostra [[Nature|natura]]; tranne il suo centro stesso, che sembra stranamente mutevole e dubbio, come una fiamma danzante. È il primo pensiero attorno al quale l'intero è stato edificato; e il primo pensiero è ancora una fantasia e quasi una frivolezza. In quello strano luogo d'incontro, l'uomo sembra più statuario della statua. Egli stesso può restare per sempre nell'atteggiamento nobile e naturale della statua del Fanciullo Orante. Ma qualunque nome sia scritto sul piedistallo, sia esso Zeus o Ammone o [[Apollo]], il dio che egli adora è [[Proteus|Proteo]].
+
+Del Fanciullo Orante si può dire che esprime un bisogno più che soddisfarlo. È per un atto normale e necessario che le sue mani sono levate; ma non è meno una [[Parable|parabola]] che le sue mani siano vuote. Della [[Nature|natura]] di quel bisogno ci sarà altro da dire; ma a questo punto si può dire che forse, dopo tutto, questo vero istinto, per cui la [[Prayer|preghiera]] e il sacrificio sono una libertà e un ampliamento, rimanda a quella vasta e semidimenticata concezione della paternità universale, che abbiamo già visto ovunque svanire dal cielo del mattino. Questo è vero; e tuttavia non è tutta la [[Truth|verità]]. Rimane un istinto indistruttibile, nel poeta quale è rappresentato dal pagano, per cui egli non ha del tutto torto nel localizzare il proprio Dio. È qualcosa nell'[[Soul|anima]] della poesia, se non della pietà. E il più grande dei poeti, quando definì il poeta, non disse che egli ci dà l'universo o l'assoluto o l'infinito; bensì, nella sua più ampia lingua, una dimora locale e un nome. Nessun poeta è meramente panteista; quelli che sono ritenuti più panteisti, come Shelley, prendono le mosse da qualche immagine locale e particolare, come facevano i pagani. Dopo tutto, Shelley scrisse dell'allodola perché era un'allodola. Non se ne potrebbe pubblicare una [[Translation|traduzione]] imperiale o internazionale da usarsi nel Sud [[America]], in cui essa fosse mutata in uno struzzo. Così l'[[Imagination|immaginazione]] mitologica si muove per così dire in cerchi, librandosi ora per trovare un luogo, ora per farvi ritorno. In una parola, la mitologia è una ricerca; è qualcosa che combina un [[Desire|desiderio]] ricorrente con un [[Doubt|dubbio]] ricorrente, mescolando una sincerità affamatissima nell'idea di cercare un luogo con una levità oscurissima, profondissima e misteriosa riguardo a tutti i luoghi trovati. Fin qui poté condurre la solitaria [[Imagination|immaginazione]], e dovremo volgerci più tardi alla solitaria ragione. In nessun punto lungo questa [[Road|strada]] i due viaggiarono mai insieme.
+
+È in questo che tutte queste cose differivano dalla religione, ossia dalla realtà in cui queste diverse dimensioni si incontravano in una sorta di solido. Differivano dalla realtà non per l'aspetto che avevano, ma per ciò che erano. Un quadro può somigliare a un paesaggio; può somigliare, in ogni singolo particolare, esattamente a un paesaggio. L'unico particolare in cui differisce è che non è un paesaggio. La differenza è soltanto quella che separa un ritratto di [[Queen Elizabeth|Elisabetta]] da [[Queen Elizabeth|Elisabetta]] stessa. Solo che, in questo mondo mitico e mistico, il ritratto poteva esistere prima della persona; e il ritratto era perciò più vago e più incerto. Ma chiunque abbia sentito e si sia nutrito dell'atmosfera di questi miti capirà ciò che intendo quando dico che, in un certo senso, essi non pretendevano affatto di essere realtà. I pagani avevano [[Dreams|sogni]] intorno a realtà; e sarebbero stati i primi ad ammettere, con parole loro, che alcuni venivano attraverso la porta d'avorio e altri attraverso la porta di corno. I [[Dreams|sogni]] tendono davvero a farsi [[Dreams|sogni]] assai vividi quando sfiorano quelle cose tenere o tragiche che possono realmente far svegliare un dormiente con la sensazione che il cuore gli si sia spezzato nel [[Sleep|sonno]]. Tendono di continuo ad aleggiare su certi temi appassionati d'incontro e di distacco, di una vita che si conclude nella [[Death|morte]] o di una [[Death|morte]] che è il principio della vita. Demetra vaga per un mondo colpito dalla sventura in cerca di un [[Child|figlio]] rapito; Iside tende invano le braccia sopra la terra per raccogliere le membra di Osiride; e c'è un lamento sui colli per Attis e per i boschi per [[Adonis]]. A ogni tale cordoglio si mescola il senso mistico e profondo che la [[Death|morte]] possa essere una liberatrice e una pacificazione; che una tale [[Death|morte]] ci dia un [[Blood|sangue]] divino per un [[River|fiume]] che rinnova, e che ogni bene si trovi nel raccogliere il [[Body|corpo]] spezzato del dio. Possiamo davvero chiamare queste cose prefigurazioni; purché ricordiamo che le prefigurazioni sono ombre. E la metafora dell'[[Shadow|ombra]] coglie per l'appunto con grande esattezza la [[Truth|verità]] che qui è di importanza vitale. Poiché un'[[Shadow|ombra]] è una forma; una cosa che riproduce la forma ma non la sostanza. Queste cose erano qualcosa di simile alla cosa reale; e dire che erano simili è dire che erano diverse. Dire che qualcosa somiglia a un cane è un altro modo di dire che non è un cane; ed è in questo senso di [[Identity|identità]] che un mito non è un uomo. Nessuno pensava davvero a Iside come a un essere umano, nessuno pensava davvero a Demetra come a un personaggio storico, nessuno pensava ad [[Adonis|Adone]] come al fondatore di una Chiesa. Non c'era l'idea che alcuno di essi avesse mutato il mondo; ma piuttosto che la loro ricorrente [[Death|morte]] e vita recasse il fardello triste e bello dell'immutabilità del mondo. Nessuno di essi era una rivoluzione, se non nel senso della rivoluzione del sole e della [[Moon|luna]]. Tutto il loro significato ci sfugge se non vediamo che essi significano le ombre che noi siamo e le ombre che noi inseguiamo. In certi aspetti sacrificali e comunitari essi suggeriscono naturalmente quale sorta di dio potrebbe appagarli; ma non pretendono di essere appagati. Chiunque affermi che lo siano è un cattivo giudice di poesia.
+
+Coloro che parlano di Cristi pagani hanno meno simpatia per il Paganesimo di quanta ne abbiano per il [[Christianity|Cristianesimo]]. Coloro che chiamano questi culti «religioni» e li «confrontano» con la certezza e la sfida della Chiesa hanno assai meno apprezzamento di quanto ne abbiamo noi di ciò che rese umano il paganesimo, o del perché la letteratura classica sia ancora qualcosa che resta sospeso nell'aria come un [[Song|canto]]. Non è una gran tenerezza umana verso l'affamato dimostrare che la fame è la stessa cosa del cibo. Non è una gran comprensione geniale della giovinezza sostenere che la [[Hope|speranza]] distrugge il bisogno della felicità. Ed è del tutto irreale sostenere che queste immagini della mente, ammirate interamente nell'astratto, fossero anche solo nel medesimo mondo di un uomo vivente e di una comunità vivente che venivano adorati proprio perché erano concreti. Tanto varrebbe [[Well|dire]] che un ragazzo che gioca ai briganti è la stessa cosa di un uomo al suo primo giorno in trincea; o che le prime fantasticherie di quel ragazzo intorno alla «non impossibile lei» siano la stessa cosa del sacramento del [[Marriage|matrimonio]]. Sono fondamentalmente diverse proprio là dove sono superficialmente simili; potremmo quasi dire che non sono la stessa cosa nemmeno quando sono la stessa cosa. Sono diverse solo perché una è reale e l'altra no. Non intendo semplicemente che io stesso creda che una sia vera e l'altra no. Intendo che una non fu mai concepita per essere vera nello stesso senso dell'altra. Il senso in cui essa fu concepita per essere vera ho cercato di suggerirlo qui vagamente, ma è senza dubbio assai sottile e quasi indescrivibile. È talmente sottile che gli studiosi i quali pretendono di erigerlo a rivale della nostra religione mancano tutto il significato e l'intento del loro stesso studio. Noi sappiamo meglio degli eruditi, anche quelli fra noi che eruditi non sono, che cosa vi fosse in quel grido vuoto che si levò sopra l'[[Adonis|Adone]] morto e perché la [[Great Mother|Grande Madre]] avesse una figlia sposata alla [[Death|morte]]. Noi siamo penetrati più a fondo di loro nei Misteri Eleusini e abbiamo varcato un grado più alto, là dove porta dentro porta custodiva la sapienza di Orfeo. Noi conosciamo il significato di tutti i miti. Noi conosciamo l'ultimo segreto rivelato all'iniziato perfetto. E non è la voce di un sacerdote o di un [[Prophet|profeta]] che dice: «Queste cose sono». È la voce di un sognatore e di un idealista che grida: «Perché queste cose non possono essere?».
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_01" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 1)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
@@ -13867,6 +15441,18 @@ kept his appointments and even in one sense kept his promises;
 even if a man sometimes wished afterwards, like [[Macbeth]],
 that he had broken them.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VI
+
+I DEMONI E I FILOSOFI
+
+Mi sono soffermato con una certa ampiezza su questa specie immaginativa di paganesimo, che ha affollato il mondo di templi ed è dovunque il genitore della festività popolare. Poiché la [[history|storia]] centrale della civiltà, per come io la vedo, consiste di due ulteriori stadi prima dello stadio finale della Cristianità. Il primo fu la lotta tra questo paganesimo e qualcosa di meno degno di esso, e il secondo il processo per cui esso divenne in se stesso meno degno. In questo politeismo tanto vario e spesso tanto vago c'era una debolezza di [[Original Sin|peccato originale]]. Gli dèi pagani venivano raffigurati mentre gettavano gli uomini come dadi; e in verità sono dadi truccati. Riguardo al sesso in particolare gli uomini nascono squilibrati; potremmo quasi dire che gli uomini nascono folli. A stento raggiungono la [[Sanity|sanità mentale]] prima di raggiungere la santità. Questa sproporzione trascinò a terra le fantasie alate; e riempì la fine del paganesimo di una mera sozzura e di un rifiuto di dèi che si riproducevano. Ma il primo punto da comprendere è che questa specie di paganesimo ebbe una precoce collisione con un'altra specie di paganesimo; e che l'esito di quella lotta essenzialmente spirituale determinò davvero la [[history|storia]] del mondo. Per comprenderla dobbiamo passare a una rassegna dell'altro genere di paganesimo. Lo si può considerare assai più brevemente; anzi, c'è un senso ben reale in cui meno se ne dice, meglio è. Se abbiamo chiamato la prima specie di mitologia il sogno a occhi aperti, potremmo assai [[Well|bene]] chiamare la seconda specie di mitologia l'[[nightmare|incubo]].
+
+La superstizione ritorna in ogni epoca, e specialmente nelle epoche razionalistiche. Ricordo di aver difeso la tradizione religiosa contro un'intera tavolata di eminenti agnostici a colazione; e prima che la conversazione volgesse al termine, ciascuno di loro aveva tratto di tasca, o esibito sulla catena dell'orologio, qualche amuleto o talismano dal quale, come confessava, non si separava mai. Ero l'unico presente ad aver trascurato di munirmi di un feticcio. La superstizione ritorna in un'epoca razionalista perché poggia su qualcosa che, se non è identico al razionalismo, non è però estraneo allo scetticismo. Con l'agnosticismo, quanto meno, è strettamente imparentata. Poggia su qualcosa che è davvero un sentimento molto umano e comprensibile, simile alle invocazioni locali del numen nel paganesimo popolare. Ma è un sentimento agnostico, poiché poggia su due convinzioni: primo, che in realtà non conosciamo le leggi dell'universo; e secondo, che esse possono essere assai diverse da tutto ciò che chiamiamo ragione. Uomini simili colgono la vera [[Truth|verità]] che le cose enormi dipendono spesso da cose minime. Quando giunge un sussurro, dalla tradizione o da chissà dove, che una certa cosa minuta sia la chiave o l'indizio, qualcosa di profondo e non del tutto insensato nella [[Nature|natura]] umana dice loro che non è improbabile. Questo sentimento esiste in entrambe le forme di paganesimo qui prese in esame. Ma quando giungiamo alla seconda di esse, la troviamo trasformata e colma di un altro e più terribile spirito.
+
+Trattando della cosa più leggera che si chiama mitologia, ho detto poco del suo aspetto più discutibile: fino a che punto una simile invocazione degli spiriti del mare o degli elementi possa davvero chiamare gli spiriti dai vasti abissi; o piuttosto (come diceva il beffardo personaggio di Shakespeare) se gli spiriti vengano quando li si chiama. Credo di aver ragione nel pensare che questo problema, per quanto pratico possa sembrare, non abbia avuto una parte dominante nell'affare poetico della mitologia. Ma ritengo ancora più evidente, alla luce dei fatti, che cose di tal genere siano talvolta apparse, anche se erano soltanto apparenze. Ma quando giungiamo al mondo della superstizione, in un senso più sottile, vi è una sfumatura di differenza; una sfumatura che si fa più cupa e più profonda. Senza dubbio la maggior parte della superstizione popolare è frivola quanto qualsiasi mitologia popolare. Gli uomini non credono come a un dogma che Dio scaglierebbe loro contro un fulmine per aver camminato sotto una scala; più spesso si divertono con il non troppo faticoso esercizio di farne il giro. Non c'è nulla di più di ciò che ho già adombrato: una sorta di aereo agnosticismo circa le possibilità di un mondo tanto strano. Ma esiste un'altra specie di superstizione che cerca decisamente dei risultati: quella che si potrebbe chiamare una superstizione realistica. E con essa la questione se gli spiriti rispondano davvero o appaiano davvero diventa assai più seria. Come ho detto, mi pare pressoché certo che talvolta lo facciano; ma a questo proposito vi è una distinzione che è stata l'origine di molto male nel mondo. Sia perché la Caduta ha davvero avvicinato gli uomini a vicini meno desiderabili del mondo spirituale, sia semplicemente perché l'animo degli uomini avidi o bramosi trova più facile immaginare il male, credo che la [[Magic|magia]] nera della stregoneria sia stata assai più pratica e assai meno poetica della [[Magic|magia]] bianca della mitologia. Immagino che il [[Garden|giardino]] della [[Witch|strega]] sia stato coltivato con molta più cura del bosco della ninfa. Immagino che il campo del male sia stato persino più fecondo di quello del bene. Tanto per cominciare, un qualche impulso, forse una sorta di impulso disperato, spinse gli uomini verso le potenze più tenebrose quando avevano a che fare con problemi pratici. Vi era una sorta di sentimento segreto e perverso che le potenze più tenebrose avrebbero davvero fatto le cose; che non ammettevano sciocchezze. E in verità quella frase popolare esprime esattamente il punto. Gli dèi della semplice mitologia avevano in sé moltissime sciocchezze. Avevano in sé moltissime buone sciocchezze; nel senso lieto e ilare in cui parliamo delle sciocchezze del Jabberwocky o del Paese dove vivono i Jumblies. Ma l'uomo che consultava un demone provava ciò che molti hanno provato consultando un [[Detective|investigatore]], specialmente un [[Detective|investigatore]] privato: che era un lavoro sporco, ma il lavoro sarebbe stato davvero fatto. Un uomo non entrava propriamente nel bosco per incontrare una ninfa; vi entrava piuttosto con la [[Hope|speranza]] di incontrarne una. Era un'avventura più che un appuntamento. Ma il diavolo manteneva davvero i suoi appuntamenti e, in un certo senso, manteneva persino le sue promesse; anche se talvolta, in seguito, un uomo avrebbe voluto, come [[Macbeth]], averle infrante.
 
 
 
@@ -13977,6 +15563,28 @@ purple to that [[Garden|garden]], which Swinburne compares to the Hesperides.
 There was at least no [[Doubt|doubt]] about the dragon.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nei resoconti che ci vengono dati di molte razze rozze o selvagge apprendiamo che il culto dei demoni venne spesso dopo il culto delle divinità, e persino dopo il culto di un'unica e suprema divinità. Si può sospettare che in quasi tutti quei luoghi la divinità superiore sia sentita come troppo lontana perché ci si appelli a lei in certe faccende meschine, e gli uomini invocano gli spiriti perché essi sono, in senso più letterale, spiriti familiari. Ma con l'idea di impiegare i demoni che sbrigano le cose, appare una nuova idea più degna dei demoni. La si può invero descrivere con verità come l'idea di essere degni dei demoni; di rendersi adatti alla loro società schifiltosa ed esigente. La superstizione di specie più leggera trastulla con l'idea che una qualche inezia, un piccolo gesto come il gettare il sale, possa toccare la [[spring|molla]] nascosta che aziona il misterioso meccanismo del mondo. E in fondo c'è qualcosa nell'idea di un simile Apriti Sesamo. Ma con l'appello agli spiriti inferiori giunge l'orribile nozione che il gesto non debba essere soltanto molto piccolo, ma anche molto vile; che debba essere una scimmiesca buffoneria di specie del tutto brutta e indegna. Prima o poi un uomo si accinge deliberatamente a compiere la cosa più disgustosa che riesca a immaginare. Si avverte che l'estremo del male estorcerà una sorta di attenzione o di risposta dalle potenze malvagie che stanno sotto la superficie del mondo. Questo è il significato di gran parte del cannibalismo nel mondo. Poiché la maggior parte del cannibalismo non è un'abitudine primitiva né tanto meno bestiale. È artificiale e persino artistica, una sorta di arte per l'arte. Gli uomini non lo fanno perché non lo ritengono orribile; ma, al contrario, proprio perché lo ritengono orribile. Desiderano, nel senso più letterale, cenare a base di orrori. È per questo che spesso si scopre che razze rozze come gli indigeni australiani non sono cannibali; mentre razze assai più raffinate e intelligenti, come i Maori della Nuova Zelanda, talvolta lo sono. Sono abbastanza raffinati e intelligenti da concedersi talvolta un diabolismo consapevole di [[Self|sé]]. Ma se potessimo comprendere le loro menti, o anche solo comprendere davvero la loro lingua, probabilmente scopriremmo che non agivano da cannibali ignoranti, vale a dire [[Innocent|innocenti]]. Non lo fanno perché non lo ritengono un male, ma proprio perché lo ritengono un male. Agiscono come un decadente parigino durante una Messa Nera. Ma la Messa Nera deve nascondersi sottoterra dalla presenza della Messa vera. In altre parole, i demoni si sono davvero nascosti dopo la venuta di [[Christ|Cristo]] sulla terra. Il cannibalismo dei barbari superiori si nasconde dalla civiltà dell'uomo bianco. Ma prima della Cristianità, e specialmente fuori d'Europa, non fu sempre così. Nel mondo antico i demoni spesso vagavano all'aperto come draghi. Potevano essere positivamente e pubblicamente intronizzati come dèi. Le loro enormi immagini potevano essere erette in templi pubblici nel centro di città popolose. E in tutto il mondo si possono trovare le tracce di questo fatto notevole e concreto, così curiosamente trascurato dai moderni che parlano di ogni male simile come di qualcosa di primitivo e di precoce nell'evoluzione: e cioè che in realtà alcune tra le più alte civiltà del mondo furono proprio i luoghi in cui le corna di [[Satan|Satana]] vennero esaltate, non solo fino alle [[Stars|stelle]], ma in faccia al sole. Si prendano ad esempio gli Aztechi e gli indiani d'America degli antichi imperi del Messico e del Perù. Erano elaborati almeno quanto l'[[Egypt|Egitto]] o la Cina, e solo meno vivaci di quella civiltà centrale che è la nostra. Ma coloro che criticano quella civiltà centrale (che è sempre la loro stessa civiltà) hanno la curiosa abitudine non solo di adempiere al loro legittimo dovere condannandone i crimini, ma di scomodarsi per idealizzarne le vittime. Danno sempre per scontato che prima dell'avvento dell'Europa non vi fosse in nessun luogo altro che l'Eden. E Swinburne, in quel vivace [[Chorus|coro]] delle nazioni in '[[songs|Songs]] before Sunrise', usò a proposito della Spagna nelle sue conquiste sudamericane un'espressione che mi è sempre parsa assai strana. Disse qualcosa a proposito dei «suoi peccati e dei suoi figli dispersi per terre senza peccato», e di come essi «resero maledetto il nome dell'uomo e tre volte maledetto il nome di Dio». Può essere abbastanza ragionevole che egli dica che gli spagnoli erano peccatori, ma perché mai al mondo dovrebbe dire che i sudamericani erano senza peccato? Perché avrebbe dovuto supporre che quel continente fosse abitato esclusivamente da arcangeli o da santi perfetti in cielo? Sarebbe una cosa forte da dire del più rispettabile dei vicinati; ma quando ci mettiamo a pensare a ciò che davvero sappiamo di quella società l'osservazione risulta piuttosto comica. Sappiamo che i sacerdoti senza peccato di questo popolo senza peccato adoravano dèi senza peccato, i quali accettavano come nettare e ambrosia del loro soleggiato paradiso null'altro che incessanti sacrifici umani accompagnati da orribili tormenti. Possiamo notare anche nella mitologia di questa civiltà americana quell'elemento di rovesciamento o di violenza contro l'istinto di cui scrisse [[Dante]]; elemento che scorre a ritroso ovunque attraverso la religione innaturale dei demoni. È notevole non solo nell'etica, ma nell'estetica. Un idolo sudamericano era reso quanto più brutto possibile, come un'immagine greca era resa quanto più bella possibile. Cercavano il segreto della potenza, operando a ritroso contro la propria [[Nature|natura]] e la [[Nature|natura]] delle cose. Vi era sempre una sorta di anelito a scolpire finalmente, nell'oro o nel granito o nel rosso cupo legname delle foreste, un volto dinanzi al quale il cielo stesso si sarebbe infranto come uno [[Mirror|specchio]] incrinato.
+
+In ogni caso è abbastanza chiaro che la civiltà dipinta e dorata
+dell'[[America]] tropicale si abbandonava sistematicamente al sacrificio umano.
+Non è affatto chiaro, per quanto ne so, che gli eschimesi si siano mai
+abbandonati al sacrificio umano. Non erano abbastanza civilizzati.
+Erano troppo strettamente imprigionati dal bianco [[Winter|inverno]] e dalle
+tenebre infinite. La gelida penuria reprimeva la loro nobile furia e gelava
+la genial corrente dell'[[Soul|anima]]. Fu in giorni più luminosi e in un più
+ampio chiarore che la nobile furia si trova a infuriare in modo inconfondibile.
+Fu in terre più ricche e più erudite che la genial corrente
+scorreva sopra gli altari, per essere bevuta da grandi dèi dai volti coperti
+di maschere sbarrate d'occhi e ghignanti, invocati nel terrore o nel tormento
+con lunghi nomi cacofonici che suonano come risate all'inferno.
+Occorrevano un clima più caldo e una coltivazione più scientifica
+per far sbocciare simili fioriture; per far salire verso il sole le grandi
+[[Leaves|foglie]] e i fiori sgargianti che diedero il loro oro, il loro cremisi e la loro
+porpora a quel [[Garden|giardino]] che Swinburne paragona alle Esperidi.
+Sul drago, almeno, non c'era alcun [[Doubt|dubbio]].
+
 
 
 <span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_03" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 3)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
@@ -14081,6 +15689,107 @@ God in Palestine and the guardians of all the household gods in Rome.
 This is what challenged two things naturally so much divided by every
 sort of distance and disunion, whose [[Union|union]] was to save the world.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non sollevo, a questo proposito, la particolare controversia sulla Spagna
+e sul Messico; ma posso osservare di sfuggita che essa somiglia esattamente
+alla questione che in un certo senso dovrà poi essere sollevata su Roma
+e Cartagine. In entrambi i casi c'è stata una bizzarra abitudine, fra
+gli inglesi, di schierarsi sempre contro gli europei, e di rappresentare
+la civiltà rivale, per usare la frase di Swinburne, come senza peccato;
+mentre i suoi peccati gridavano, o piuttosto urlavano, palesemente al cielo.
+Poiché anche Cartagine era un'alta civiltà, anzi una civiltà molto più
+altamente civilizzata. E anche Cartagine fondò quella
+civiltà su una religione del [[Fear|terrore]], levando dappertutto il fumo
+del sacrificio umano. Ora, è giustissimo rimproverare alla nostra stessa razza
+o alla nostra religione di non essere all'altezza dei nostri stessi ideali e criteri.
+Ma è assurdo pretendere che essa sia caduta più in basso delle altre razze
+e religioni che professavano criteri e ideali esattamente opposti.
+C'è un senso molto reale in cui il cristiano è peggiore
+del pagano, lo spagnolo peggiore del pellerossa, o persino il romano
+potenzialmente peggiore del cartaginese. Ma c'è un solo senso
+in cui egli è peggiore; e non è quello di essere positivamente peggiore.
+Il cristiano è peggiore solo perché è suo compito essere migliore.
+
+Questa [[Imagination|immaginazione]] rovesciata produce cose di cui è meglio
+non parlare. Alcune di esse, in verità, potrebbero quasi essere nominate senza
+essere comprese; poiché sono di quell'estremo male che pare [[Innocent|innocente]]
+agli [[Innocent|innocenti]]. Sono troppo inumane persino per essere indecenti.
+Ma senza indugiare più a lungo in questi angoli oscuri,
+può notarsi come non irrilevante qui che certi antagonismi
+anti-umani sembrano ricorrere in questa tradizione di [[Magic|magia]] nera.
+Vi si può sospettare, per esempio, come qualcosa che la percorre
+dappertutto, un mistico odio per l'idea dell'[[Childhood|infanzia]].
+Si comprenderebbe meglio la furia popolare contro le streghe,
+se si ricordasse che la malvagità più comunemente loro attribuita
+era d'impedire la nascita dei bambini. I profeti ebrei
+protestavano di continuo contro la razza ebraica che ricadeva in un'idolatria
+che comportava una simile guerra contro i bambini; ed è assai probabile
+che questa abominevole apostasia dal Dio d'Israele sia riapparsa
+occasionalmente in Israele da allora, nella forma di ciò che si chiama omicidio rituale;
+non certo per opera di alcun rappresentante della religione del giudaismo,
+ma di diabolisti individuali e irresponsabili che si dava il caso fossero ebrei.
+Questo senso che le forze del male minaccino in special modo l'[[Childhood|infanzia]] si ritrova
+di nuovo nell'enorme popolarità del [[Child|Fanciullo]] Martire del Medioevo.
+Chaucer non fece che dare un'altra versione di una leggenda inglese assai nazionale,
+quando concepì la più malvagia di tutte le streghe possibili come l'oscura
+donna straniera che spiava dietro la sua alta grata e udiva,
+come il chiacchiericcio di un ruscello giù per la strada selciata, il canto
+del piccolo San Ugo.
+
+Comunque, la parte di simili speculazioni che riguarda questa storia
+si accentrava soprattutto intorno a quell'estremità orientale del Mediterraneo,
+dove i nomadi si erano gradualmente trasformati in mercanti e avevano cominciato
+a commerciare con il mondo intero. Anzi, nel senso del commercio,
+dei viaggi e dell'espansione coloniale, essa possedeva già qualcosa
+come un impero sul mondo intero. La sua tintura purpurea, l'emblema
+del suo ricco fasto e della sua lussuria, aveva intriso le merci che venivano vendute
+lontano, fra gli ultimi scogli della Cornovaglia, e le vele che entravano
+nel [[Silence|silenzio]] dei mari tropicali in mezzo a tutto il mistero dell'Africa.
+Si potrebbe dire con verità che essa aveva dipinto di porpora la carta geografica.
+Era già un [[success|successo]] di portata mondiale, quando i principi di Tiro
+si sarebbero appena scomodati a notare che una delle loro principesse
+aveva accondisceso a sposare il capo di una tribù chiamata Giuda;
+quando i mercanti del suo avamposto africano avrebbero soltanto piegato
+le loro labbra barbute e semitiche in un lieve sorriso alla menzione
+di un villaggio chiamato Roma. E in verità due cose non avrebbero potuto sembrare
+più distanti l'una dall'altra, non solo nello spazio ma nello spirito,
+del monoteismo della tribù palestinese e delle stesse virtù
+della piccola repubblica italica. Una sola cosa stava fra loro;
+e ciò che le divideva le ha unite. Assai diverse e
+incompatibili erano le cose che potevano essere amate dai consoli di Roma
+e dai profeti d'Israele; ma erano concordi in ciò che odiavano.
+È facilissimo, in entrambi i casi, rappresentare quell'odio come qualcosa
+di semplicemente odioso. È abbastanza facile fare una figura meramente aspra
+e inumana tanto di Elia che smania sopra la strage
+del Carmelo quanto di Catone che tuona contro l'amnistia dell'Africa.
+Questi uomini avevano i loro limiti e le loro passioni locali;
+ma questa critica nei loro confronti è priva d'immaginazione e perciò irreale.
+[[Leaves|Tralascia]] qualcosa, qualcosa d'immenso e d'intermedio,
+che guarda a oriente e a occidente e suscita questa passione nei suoi nemici
+orientali e occidentali; e quel qualcosa è il primo argomento
+di questo capitolo.
+
+La civiltà che aveva il proprio centro in Tiro e Sidone era
+soprattutto pratica.  Ha lasciato poco in fatto di arte
+e nulla in fatto di poesia.  Ma si vantava di essere
+oltremodo efficiente; e seguiva, nella sua [[philosophy|filosofia]] e nella sua religione,
+quello strano e talvolta segreto filo di pensiero che
+abbiamo già notato in coloro che cercano effetti immediati.
+In una simile mentalità c'è sempre l'idea che esista una
+scorciatoia verso il segreto di ogni [[success|successo]]; qualcosa che sconvolgerebbe
+il mondo con questa sorta di sfrontata radicalità.  Essi credevano,
+per usare l'appropriata formula moderna, in coloro che consegnano la merce.
+Nei loro rapporti col dio Moloch, essi stessi erano sempre
+attenti a consegnare la merce.  Era un'operazione curiosa,
+sulla quale dovremo tornare più di una volta nel resto
+del racconto; qui basti dire che implicava la teoria
+che ho suggerito, circa un certo atteggiamento verso i figli.
+Fu questo a suscitargli contro, in un furore simultaneo, il servo dell'unico
+Dio in Palestina e i custodi di tutti gli dèi domestici a Roma.
+Fu questo a sfidare due realtà per natura tanto divise da ogni
+sorta di distanza e disunione, la cui [[Union|unione]] doveva salvare il mondo.
 
 
 
@@ -14213,6 +15922,133 @@ atmosphere of the east, we may approach a rather important [[Truth|truth]]
 by other path.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ho chiamato col nome di Filosofi la quarta e ultima divisione
+degli elementi spirituali in cui dovrei suddividere l'umanità
+pagana.  Confesso che essa comprende, nella mia mente, molto
+di ciò che di solito si classificherebbe altrimenti; e che quelle
+che qui si chiamano filosofie molto spesso si chiamano religioni.
+Credo tuttavia che la mia descrizione risulterà
+assai più realistica e non meno rispettosa.
+Ma dobbiamo anzitutto prendere la [[philosophy|filosofia]] nella sua forma più pura e limpida,
+per poterne tracciare il profilo normale; e ciò lo si trova
+nel mondo dei profili più puri e limpidi, in quella cultura
+del Mediterraneo di cui abbiamo considerato le mitologie
+e le idolatrie negli ultimi due capitoli.
+
+Il politeismo, ovvero quell'aspetto del paganesimo, non fu mai per il pagano
+ciò che il cattolicesimo è per il cattolico.  Non fu mai una visione dell'
+universo capace di appagare tutti i lati della vita; una [[Truth|verità]] completa e complessa,
+con qualcosa da dire su ogni cosa.  Era soltanto l'appagamento
+di un lato dell'[[Soul|anima]] dell'uomo, anche a volerlo chiamare il lato religioso;
+e io penso sia più esatto chiamarlo il lato immaginativo.
+Ma questo esso lo appagava; e alla fine lo appagò fino alla sazietà.
+Tutto quel mondo era un tessuto di racconti e culti intrecciati, e vi correva
+dentro e fuori, come già abbiamo visto, quel filo nero tra i suoi
+colori più innocenti; il paganesimo più tenebroso che era in realtà demonismo.
+Ma tutti sappiamo che ciò non significava che tutti i pagani pensassero
+soltanto agli dèi pagani.  Proprio perché la mitologia appagava soltanto
+un umore, in altri umori essi si volgevano a qualcosa di totalmente diverso.
+Ma è importantissimo rendersi conto che era totalmente diverso.
+Era troppo diverso per essere incoerente.  Era tanto estraneo che
+non entrava in urto.  Mentre una folla di gente si riversava, in un giorno
+di festa pubblica, alla festa di [[Adonis|Adone]] o ai giochi in [[Honour|onore]] di [[Apollo]],
+questo o quell'uomo preferiva restarsene a [[Home|casa]] a elaborare
+una piccola teoria sulla [[Nature|natura]] delle cose.  Talvolta il suo passatempo
+prendeva perfino la forma di riflettere sulla [[Nature|natura]] di Dio;
+o anche, in quel senso, sulla [[Nature|natura]] degli dèi.
+Ma assai di rado gli veniva in mente di contrapporre la sua [[Nature|natura]] degli dèi
+agli dèi della [[Nature|natura]].
+
+È necessario insistere su questa astrazione nel primo studioso
+delle astrazioni.  Egli non era tanto ostile quanto distratto.
+Il suo passatempo poteva essere l'universo; ma dapprima il passatempo era
+privato come se si fosse trattato di numismatica o di una partita a dama.
+E anche quando la sua saggezza divenne un possesso pubblico,
+e quasi una situazione politica, ben di rado si collocò sullo
+stesso piano delle istituzioni popolari e religiose.
+Aristotele, col suo colossale buon senso, fu forse il più grande
+di tutti i filosofi; certamente la più pratica di tutte le filosofie.
+Ma Aristotele non avrebbe eretto l'Assoluto accanto
+all'[[Apollo]] di Delfi, come religione simile o rivale,
+più di quanto Archimede avrebbe pensato di erigere la leva a una sorta
+di idolo o feticcio da sostituire al Palladio della [[City|città]].
+Oppure potremmo altrettanto [[Well|bene]] immaginare Euclide che innalza un altare a un triangolo
+isoscele, o che offre sacrifici al quadrato dell'ipotenusa.
+L'uno meditava sulla metafisica come l'altro sulla matematica;
+per [[Love|amore]] della [[Truth|verità]], o per curiosità, o per il gusto della cosa.
+Ma quel genere di gusto non sembra mai aver interferito granché con
+l'altro genere di gusto; il gusto di danzare o di cantare per celebrare
+qualche briccona [[Romance|storia]] su Zeus che si tramuta in toro o in cigno.
+È forse la prova di una certa superficialità e persino
+insincerità del politeismo popolare, che degli uomini potessero
+essere filosofi e persino scettici senza turbarlo.
+Quei pensatori potevano smuovere le fondamenta del mondo senza
+alterare nemmeno il contorno di quella nube colorata che pendeva su di esso
+nell'aria.
+
+Poiché i pensatori smuovevano davvero le fondamenta del mondo,
+anche quando un curioso compromesso sembrava impedir loro di
+smuovere le fondamenta della [[City|città]].  I due grandi filosofi
+dell'antichità ci appaiono in effetti come difensori di idee sane e persino
+sacre; le loro massime spesso si leggono come le risposte a
+domande scettiche troppo compiutamente risolte per essere sempre registrate.
+Aristotele annientò un centinaio di anarchici e di maniaci adoratori della [[Nature|natura]]
+con l'affermazione fondamentale che l'uomo è un animale politico.
+Platone in un certo senso anticipò il realismo cattolico, quale fu
+attaccato dal nominalismo eretico, insistendo sul fatto ugualmente
+fondamentale che le idee sono realtà; che le idee esistono proprio come esistono gli uomini.
+Platone tuttavia sembrava talvolta quasi immaginare che le idee esistano come gli uomini
+non esistono; o che degli uomini quasi non occorra tener conto laddove
+essi confliggano con le idee.  Aveva qualcosa di quel sentimento sociale
+che chiamiamo fabiano, nel suo ideale di adattare il cittadino alla [[City|città]].
+Come una testa immaginaria a un cappello ideale; e per quanto grande e glorioso
+egli resti, è stato il Padre di tutti i maniaci delle fisime.
+Aristotele anticipò più pienamente la [[Sanity|sanità]] sacramentale che doveva
+combinare il [[Body|corpo]] e l'[[Soul|anima]] delle cose; poiché egli considerò
+la [[Nature|natura]] degli uomini così [[Well|come]] la [[Nature|natura]] della morale, e guardò
+agli occhi così [[Well|come]] alla luce.  Ma benché questi grandi uomini
+fossero in quel senso costruttivi e conservatori, appartenevano
+a un mondo dove il pensiero era libero fino al punto di essere fantasioso.
+Molti altri grandi ingegni li seguirono in effetti,
+alcuni esaltando una visione astratta della virtù, altri seguendo più
+razionalisticamente la necessità dell'umana ricerca della felicità.
+I primi ebbero il nome di Stoici; e il loro nome è passato in
+proverbio per quello che è in effetti uno dei principali ideali morali dell'umanità:
+quello di fortificare la mente stessa finché non sia di una tempra tale da
+resistere alla sciagura o persino al [[Pain|dolore]].  Ma è ammesso che un gran numero
+di filosofi degenerò in ciò che ancora chiamiamo sofisti.
+Divennero una sorta di scettici di professione che andavano in giro a porre
+domande scomode, ed erano lautamente pagati per rendersi
+molesti alle persone normali.  Fu forse un'accidentale somiglianza
+con simili ciarlatani questuanti a essere responsabile dell'impopolarità
+del grande Socrate; la cui [[Death|morte]] potrebbe sembrare contraddire l'ipotesi
+di una tregua permanente tra i filosofi e gli dèi.
+Ma Socrate non morì come un monoteista che denunciava il politeismo;
+e certamente non come un [[Prophet|profeta]] che denunciava gli idoli.  È chiaro a chiunque
+sappia leggere tra le righe che vi era una certa idea, giusta o sbagliata,
+di un influsso puramente personale che toccava la morale e forse la politica.
+Il compromesso generale rimase, sia che i Greci ritenessero
+i loro miti uno scherzo, sia che ritenessero le loro teorie uno scherzo.
+Non vi fu mai alcuna collisione in cui l'uno davvero distruggesse l'altro,
+né vi fu mai alcuna combinazione in cui l'uno fosse davvero
+riconciliato con l'altro.  Di certo non lavoravano insieme;
+semmai il filosofo era un rivale del sacerdote.
+Ma entrambi parevano aver accettato una sorta di separazione delle funzioni
+e restavano parti dello stesso sistema sociale.  Un'altra importante
+tradizione discende da Pitagora; il quale è significativo perché sta
+più vicino di ogni altro ai mistici orientali che a loro volta dovranno essere considerati.
+Egli insegnò una sorta di misticismo della matematica, che il numero è la
+realtà ultima; ma sembra anche aver insegnato la trasmigrazione
+delle anime come i Brahmini; e aver lasciato ai suoi seguaci
+certi trucchi tradizionali di vegetarianismo e di bevitura d'[[Water|acqua]],
+assai comuni tra i saggi orientali, specie tra quelli che figurano
+nei salotti alla moda, come quelli del tardo Impero Romano.
+Ma nel passare ai saggi orientali, e all'atmosfera alquanto diversa
+dell'oriente, possiamo accostarci a una [[Truth|verità]] piuttosto importante
+per un'altra via.
+
 
 
 <span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_05" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 5)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
@@ -14335,6 +16171,124 @@ in which the priests [[Rose|rose]] on the shoulders of the people and ascended
 the throne of the kings.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Uno dei grandi filosofi disse che sarebbe stato un [[Well|bene]]
+se i filosofi fossero re, o i re filosofi.
+Ne parlava come di qualcosa di troppo bello per essere vero; ma, in realtà,
+non di rado lo era davvero. Un certo tipo d'uomo, forse troppo poco
+notato nella [[history|storia]], può a buon diritto essere chiamato il filosofo regale.
+Tanto per cominciare, a prescindere dalla regalità vera e propria, capitava talvolta
+che al saggio, per quanto non fosse ciò che noi chiamiamo
+un fondatore di religione, riuscisse di diventare qualcosa di simile a un fondatore politico.
+E il grande esempio di questo, uno dei più grandi in assoluto al mondo,
+al solo pensarlo ci porterà a migliaia di miglia di distanza attraverso
+le vaste distese dell'Asia, verso quel mondo di idee e di istituzioni tanto meraviglioso e per certi versi tanto
+saggio, che liquidiamo un po'
+a buon mercato quando parliamo della Cina. Gli uomini hanno servito molti dèi assai strani;
+e si sono affidati con lealtà a molti ideali e persino a molti idoli.
+La Cina è una società che ha davvero scelto di credere nell'intelletto.
+Ha preso sul serio l'intelletto; e può darsi che sia [[Alone|sola]]
+al mondo. Fin da un'epoca molto antica affrontò il dilemma del [[King|re]]
+e del filosofo, nominando concretamente un filosofo perché consigliasse
+il [[King|re]]. Fece una pubblica istituzione di un individuo privato,
+che non aveva altro da fare al mondo se non essere intellettuale.
+Aveva, e ha, naturalmente, molte altre cose sullo stesso modello.
+Crea tutti i ranghi e i privilegi mediante esami pubblici;
+non ha nulla che noi chiameremmo un'aristocrazia; è una [[democracy|democrazia]]
+dominata da un'intellighenzia. Ma il punto qui è che aveva
+filosofi che consigliavano i re; e uno di quei filosofi dev'essere
+stato un grande filosofo e un grande statista.
+
+Confucio non fu un fondatore di religione e nemmeno un maestro religioso;
+forse non fu neppure un uomo religioso. Non era ateo;
+era, a quanto pare, ciò che noi chiamiamo un agnostico. Ma il punto davvero cruciale
+è che è del tutto irrilevante parlare della sua religione. 
+È come parlare di teologia come della cosa più importante nella storia
+di come Rowland [[Hill]] fondò il sistema postale, o Baden Powell
+organizzò i Boy Scout. Confucio non era lì per recare
+un messaggio dal cielo all'umanità, ma per organizzare la Cina; e dev'essere
+stato un organizzatore straordinariamente [[Well|bravo]]. Ne consegue che si occupò
+molto di morale; ma la legò strettamente alle buone maniere.
+La particolarità del suo disegno e del suo paese, in ciò
+che contrasta col suo grande pendant, il sistema della Cristianità,
+è che egli insistette nel perpetuare una vita esteriore con tutte
+le sue forme, affinché la continuità esterna preservasse la pace interiore.
+Chiunque sappia quanta parte abbia l'abitudine nella salute,
+tanto della mente [[Well|quanto]] del [[Body|corpo]], vedrà la [[Truth|verità]] della sua idea.
+Ma vedrà anche che il culto degli antenati e la venerazione
+per il Sacro Imperatore erano abitudini e non credi. È ingiusto
+verso il grande Confucio dire che fu un fondatore di religione.
+È persino ingiusto verso di lui dire che non fu un fondatore di religione.
+È ingiusto come andarsi a scomodare per dire che Jeremy Bentham
+non fu un martire cristiano.
+
+Ma esiste una categoria di casi assai interessanti in cui
+i filosofi furono re, e non semplicemente amici dei re.
+La combinazione non è casuale. Ha molto a che vedere con
+questa piuttosto sfuggente questione della funzione del filosofo.
+Racchiude in sé qualche indizio del perché [[philosophy|filosofia]] e mitologia
+di rado giunsero a una rottura aperta. Non fu solo perché
+c'era qualcosa di un po' frivolo nella mitologia.
+Fu anche perché c'era qualcosa di un po' altezzoso
+nel filosofo. Egli disprezzava i miti, ma disprezzava anche
+la plebe; e riteneva che l'una si addicesse agli altri. Il filosofo
+pagano fu di rado un uomo del popolo, quanto meno nello spirito;
+fu di rado un democratico e spesso un aspro critico della [[democracy|democrazia]].
+Aveva in sé un'aria di aristocratico e umano ozio;
+e la sua parte era recitata con la massima facilità da uomini che si trovavano
+in una tale condizione. Era assai facile e naturale per un principe
+o un personaggio di rilievo giocare a essere filosofico come [[Hamlet|Amleto]]
+o [[Theseus|Teseo]] nel Sogno di una [[Night|notte]] di mezza estate. E fin dalle epoche più remote
+ci troviamo alla presenza di questi principeschi intellettuali.
+Anzi, ne troviamo uno proprio nelle prime [[Ages of the World|età del mondo]] di cui si abbia memoria;
+assiso sul trono primevo che dominava l'antico [[Egypt|Egitto]].
+
+L'interesse più intenso dell'episodio di Akhenaton, comunemente chiamato
+il Faraone Eretico, sta nel fatto che egli fu l'unico esempio, quanto meno
+prima dell'era cristiana, di uno di questi filosofi regali che si accinse
+a combattere la mitologia popolare in nome di una [[philosophy|filosofia]] privata.
+La maggior parte di essi assunse l'atteggiamento di Marco Aurelio,
+che è per molti versi il modello di questa specie di monarca e di saggio.
+Marco Aurelio è stato biasimato per aver tollerato l'anfiteatro pagano
+o i martìri cristiani. Ma era caratteristico;
+perché quest'uomo pensava davvero alla religione popolare proprio come
+pensava ai circhi popolari. Di lui il professor Phillimore ha
+detto profondamente: «un uomo grande e buono — e lo sapeva». Il faraone
+eretico ebbe una [[philosophy|filosofia]] più seria e forse più umile.
+Poiché c'è un corollario alla concezione dell'essere troppo fieri per combattere.
+Ed è che agli umili tocca gran parte del combattere.
+In ogni caso, il principe egizio fu abbastanza ingenuo da prendere sul serio
+la propria [[philosophy|filosofia]], e, [[Alone|solo]] fra questi principi intellettuali,
+attuò una sorta di colpo di Stato; abbattendo gli alti dèi dell'[[Egypt|Egitto]]
+con un unico gesto imperiale e innalzando davanti a tutti gli uomini, come uno [[Mirror|specchio]]
+fiammeggiante di [[Truth|verità]] monoteistica, il disco del sole universale.
+Ebbe altre idee interessanti che spesso si ritrovano in tali idealisti.
+Nel senso in cui parliamo di un Little Englander, egli fu un
+Little Egypter. Nell'arte fu realista perché fu idealista;
+poiché il realismo è più impossibile di qualunque altro ideale. Ma dopo
+tutto cade su di lui qualcosa dell'[[Shadow|ombra]] di Marco Aurelio,
+braccato dall'[[Shadow|ombra]] del professor Phillimore. Il guaio
+con questa nobile specie di principe è che non è mai riuscito del tutto a sfuggire
+all'essere un po' saccente. La saccenteria è un odore così pungente
+che si attacca, in mezzo alle spezie sbiadite, persino a una mummia egizia.
+Il guaio col faraone eretico, come con parecchi
+altri eretici, fu che probabilmente non si fermò mai a chiedersi
+se ci fosse qualcosa nelle credenze popolari e nei racconti
+di gente meno istruita di lui. E, come già si è suggerito,
+qualcosa c'era. C'era una vera fame umana
+in tutto quell'elemento di tratto e di luogo, in quella processione
+di divinità simili a enormi [[Animals|animali]] domestici, in quel vigilare
+instancabile presso certi luoghi incantati, in tutti i molti vagabondaggi della mitologia.
+La [[Nature|Natura]] può non avere il nome di Iside; Iside può non essere davvero
+alla ricerca di Osiride. Ma è vero che la [[Nature|Natura]] è davvero in cerca
+di qualcosa; la [[Nature|Natura]] è sempre in cerca del [[Supernatural|soprannaturale]].
+Qualcosa di ben più definito avrebbe soddisfatto quel bisogno; ma un dignitoso
+monarca con un disco del sole non lo soddisfece. Il regale
+esperimento fallì fra una rombante reazione di superstizioni popolari,
+nella quale i sacerdoti si [[Rose|levarono]] sulle spalle del popolo e ascesero
+il trono dei re.
+
 
 
 <span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_06" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 6)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
@@ -14436,6 +16390,14 @@ of Buddhism, or only in a tradition or a travesty of Buddhism,
 it is an idea entirely proper to this principle of recurrence.
 I mean of course the idea of Reincarnation.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il prossimo grande esempio di saggio principesco che intendo prendere è Gautama, il grande Signore Buddha. So bene che di solito non lo si annovera semplicemente tra i filosofi; ma sono sempre più convinto, da tutte le informazioni che mi giungono, che questa sia la vera interpretazione della sua immensa importanza. Fu di gran lunga il più grande e il migliore di questi intellettuali nati nella porpora. La sua reazione fu forse la più nobile e la più sincera fra tutte le azioni scaturite da quel connubio di pensatori e di troni. Poiché la sua reazione fu la [[Renunciation|rinuncia]]. Marco Aurelio si accontentava di dire, con raffinata ironia, che perfino in un palazzo si poteva vivere [[Well|bene]]. Il più focoso [[King|re]] egiziano concluse che vi si poteva vivere anche meglio dopo una rivoluzione di palazzo. Ma il grande Gautama fu l'unico fra loro che dimostrò di poter davvero fare a meno del suo palazzo. L'uno ripiegò sulla tolleranza e l'altro sulla rivoluzione. Ma dopo tutto vi è qualcosa di più assoluto nell'abdicazione. L'abdicazione è forse l'unica azione davvero assoluta di un monarca assoluto. Il principe indiano, cresciuto nel lusso e nel fasto orientali, uscì deliberatamente e visse la vita di un mendicante. Ciò è magnifico, ma non è guerra; vale a dire, non è necessariamente una Crociata in senso cristiano. Non decide la questione se la vita del mendicante fosse la vita del santo o la vita del filosofo. Non decide se questo grande uomo debba davvero finire nella botte di Diogene o nella [[Cave|caverna]] di san Girolamo. Ora coloro che sembrano più vicini allo studio del Buddha, e certamente coloro che scrivono di lui nel modo più chiaro e intelligente, convincono almeno me che egli fu semplicemente un filosofo, il quale fondò una fortunata scuola di [[philosophy|filosofia]], e fu trasformato in una sorta di *divus* o essere sacro soltanto per l'atmosfera più misteriosa e antiscientifica di tutte le tradizioni di questo genere in Asia. Sicché è necessario dire a questo punto una parola su quella linea di confine invisibile eppure vivida che [[Cross|attraversiamo]] passando dal Mediterraneo al mistero dell'Oriente.
+
+Forse non vi sono cose da cui ricaviamo così poca [[Truth|verità]] come dai truismi; specialmente quando sono davvero veri. Abbiamo tutti l'abitudine di dire certe cose sull'Asia, abbastanza vere ma che a stento ci giovano, perché non ne comprendiamo la [[Truth|verità]]; come quando diciamo che l'Asia è vecchia, o che guarda al passato, o che non è progressiva. Ora è vero che la Cristianità è più progressiva, in un senso che ha ben poco a che fare con la nozione piuttosto provinciale di un interminabile affannarsi di migliorie politiche. La Cristianità crede davvero, poiché il [[Christianity|Cristianesimo]] crede davvero, che l'uomo possa in definitiva approdare a qualcosa, qui o nell'aldilà, o in vari modi secondo varie dottrine. Il [[Desire|desiderio]] del mondo può in qualche modo essere soddisfatto come si soddisfano i desideri, sia mediante una vita nuova, sia mediante un antico [[Love|amore]], sia mediante qualche forma di possesso e di appagamento positivi. Del resto, sappiamo tutti che nelle cose vi è un ritmo e non un mero progresso, che le cose salgono e cadono; solo che presso di noi il ritmo è un ritmo assai libero e incalcolabile. Per la maggior parte dell'Asia il ritmo si è indurito in una ricorrenza. Non è più semplicemente un mondo alquanto capovolto; è una [[Wheel|ruota]]. Ciò che è accaduto a tutti quei popoli così intelligenti e così inciviliti è che sono stati risucchiati in una sorta di rotazione cosmica, il cui mozzo cavo è in realtà nulla. In questo senso la parte peggiore dell'esistenza è che essa potrebbe altrettanto [[Well|bene]] proseguire così per sempre. È questo che intendiamo veramente quando diciamo che l'Asia è vecchia, o non progressiva, o rivolta all'indietro. È per questo che vediamo perfino le sue spade ricurve come archi spezzati da quella accecante [[Wheel|ruota]]; per questo vediamo il suo ornamento serpentino ritornare ovunque, come un serpente che non viene mai ucciso. Ciò ha ben poco a che fare con la vernice politica del progresso; tutti gli asiatici potrebbero avere in testa un cilindro, ma se conservassero ancora questo spirito nel cuore, penserebbero soltanto che i cilindri svaniranno e torneranno a girare come i pianeti; non che correre dietro a un cappello possa condurli in cielo, o anche solo a [[Home|casa]].
+
+Ora, quando il genio del Buddha sorse ad affrontare la questione, questa sorta di sentimento cosmico era già comune a quasi ogni cosa in Oriente. Vi era, per la verità, la giungla di una mitologia straordinariamente stravagante e quasi asfissiante. Ciononostante è possibile provare più simpatia per questa popolare fecondità del folklore che per un certo pessimismo più elevato che avrebbe potuto inaridirla. Bisogna sempre ricordare, tuttavia, fatte tutte le debite concessioni, che gran parte della spontanea immaginazione orientale è realmente idolatria; l'adorazione locale e letterale di un idolo. Ciò probabilmente non vale per l'antico sistema brahmanico, almeno come lo vedono i bramini. Ma quell'espressione da [[Alone|sola]] ci richiamerà alla mente una realtà di ben maggiore portata. Questa grande realtà è il Sistema delle Caste dell'antica India. Può darsi che esso avesse alcuni dei vantaggi pratici del Sistema delle Corporazioni dell'Europa medievale. Ma esso si contrappone non solo a quella [[democracy|democrazia]] cristiana, bensì a ogni tipo estremo di aristocrazia cristiana, per il fatto che concepisce davvero la superiorità sociale come una superiorità spirituale. Ciò non solo lo divide fondamentalmente dalla fraternità della Cristianità, ma lo [[Leaves|lascia]] eretto come una possente e terrazzata montagna d'[[Pride|orgoglio]] fra i livelli relativamente egualitari tanto dell'[[Islam]] quanto della Cina. Ma la fissità di questa formazione attraverso migliaia di anni è un'altra illustrazione di quello spirito di ripetizione che ha segnato il [[Time|tempo]] da [[Time|tempo]] immemorabile. Ora possiamo anche presumere la prevalenza di un'altra idea che associamo ai buddisti come vengono interpretati dai teosofi. In realtà, alcuni dei buddisti più rigorosi ripudiano l'idea, e ancor più sdegnosamente ripudiano i teosofi. Ma sia che l'idea appartenga al buddismo, o soltanto alla culla del buddismo, o soltanto a una tradizione o a una parodia del buddismo, essa è un'idea del tutto propria a questo principio di ricorrenza. Intendo, naturalmente, l'idea della Reincarnazione.
 
 
 
@@ -14541,6 +16503,106 @@ with common sense; but all religious [[history]] shows that this common
 sense perishes except where there is [[Christianity]] to preserve it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma la Reincarnazione non è in realtà un'idea mistica. Non è propriamente
+un'idea trascendentale, né in questo senso un'idea religiosa.
+Il misticismo concepisce qualcosa che trascende l'esperienza; la religione cerca
+barlumi di un bene migliore o di un male peggiore di quanto l'esperienza possa dare.
+La reincarnazione non fa che estendere le esperienze nel senso di
+ripeterle. Non v'è nulla di più trascendentale nel ricordare, per un uomo,
+ciò che fece a Babilonia prima di nascere, che nel ricordare
+ciò che fece a Brixton prima di prendere un colpo in testa.
+Le sue vite successive non hanno bisogno di essere altro che vite umane,
+sotto qualunque limitazione gravi sull'esistenza umana. Non ha nulla
+a che vedere con il vedere Dio o anche solo con l'evocare il diavolo.
+In altre parole, la reincarnazione in quanto tale non sfugge necessariamente
+alla [[Wheel|ruota]] del destino: in un certo senso è essa stessa la [[Wheel|ruota]] del destino.
+E che sia qualcosa che Buddha fondò, o qualcosa
+che Buddha trovò, o qualcosa a cui Buddha rinunciò interamente
+una volta trovatala, è certamente qualcosa che ha il carattere generale
+di quell'atmosfera asiatica in cui gli toccò recitare la sua parte.
+E la parte che recitò fu quella di un filosofo intellettuale,
+con una particolare teoria sull'atteggiamento intellettuale giusto da tenere verso di essa.
+
+Posso capire che i buddhisti si risentano dell'idea che il Buddhismo
+sia semplicemente una [[philosophy|filosofia]], se per [[philosophy|filosofia]] intendiamo soltanto
+un gioco intellettuale come quello dei sofisti greci, che lanciavano in aria
+i mondi e li riafferravano come palle. Forse un'affermazione più esatta
+sarebbe che Buddha fu un uomo che creò una disciplina metafisica;
+la quale potrebbe persino essere chiamata una disciplina psicologica.
+Egli propose un modo di sfuggire a tutto questo dolore ricorrente;
+e ciò semplicemente liberandosi dell'illusione che
+si chiama [[Desire|desiderio]]. Non si trattava affatto di ottenere
+meglio ciò che vogliamo raffrenando la nostra impazienza per una parte di esso,
+né di ottenerlo in un modo migliore o in un mondo migliore.
+Si trattava, con ogni enfasi, di smettere di volerlo.
+Se una volta un uomo comprendesse che non esiste realmente alcuna realtà, che ogni cosa,
+compresa la sua [[Soul|anima]], è in dissoluzione a ogni istante, egli
+anticiperebbe la delusione e diverrebbe intangibile al mutamento, esistendo (nella misura
+in cui si possa dire che esista) in una sorta di estasi dell'indifferenza.
+I buddhisti chiamano questo beatitudine, e non fermeremo la nostra storia per discutere
+il punto; certo, per noi essa è indistinguibile dalla [[Despair|disperazione]].
+Non vedo, per esempio, perché la delusione del [[Desire|desiderio]] non debba
+applicarsi tanto ai desideri più benevoli quanto a quelli più egoistici.
+Anzi, il Signore della Compassione sembra compiangere gli uomini per il fatto di vivere più che
+per il fatto di morire. Del resto, un intelligente buddhista scrisse che «la
+spiegazione del Buddhismo popolare cinese e giapponese è che esso
+non è Buddhismo.» Ciò ha senza dubbio cessato di essere una mera [[philosophy|filosofia]],
+ma solo per diventare una mera mitologia. Una cosa è certa:
+non è mai diventato nulla che somigli neppure lontanamente a ciò che noi chiamiamo una Chiesa.
+
+Sembrerà solo uno scherzo dire che tutta la [[history|storia]]
+religiosa è stata in realtà un disegno di zeri e croci.
+Ma con gli zeri non intendo dei nulla, bensì soltanto cose che sono
+negative rispetto alla forma o al disegno positivo dell'altra.
+E benché il simbolo sia naturalmente solo una coincidenza, è una coincidenza
+che davvero coincide. La mente dell'Asia può essere davvero rappresentata
+da uno 0 tondo, se non nel senso di una cifra, almeno nel senso di un cerchio.
+Il grande simbolo asiatico del serpente con la coda in bocca è
+davvero un'immagine assai perfetta di una certa idea di [[unity|unità]] e di ricorrenza
+che appartiene in effetti alle filosofie e alle religioni orientali.
+È davvero una curva che in un senso include ogni cosa,
+e in un altro senso non approda a nulla. In tal senso essa confessa,
+o piuttosto si vanta, che ogni argomento è un argomento in circolo.
+E per quanto la figura sia solo un simbolo, possiamo vedere quanto sia giusto
+il senso simbolico che la produce, il simbolo parallelo della [[Wheel|ruota]]
+di Buddha comunemente chiamato la Svastica. La [[Cross|croce]] è una cosa ad
+angoli retti che punta arditamente in direzioni opposte; ma la Svastica
+è la stessa cosa nell'atto stesso di ritornare alla curva ricorrente.
+Quella [[Cross|croce]] storta è di fatto una [[Cross|croce]] che si trasforma in una [[Wheel|ruota]].
+Prima di liquidare anche questi simboli come se fossero simboli arbitrari,
+dobbiamo ricordare quanto fosse intenso l'istinto immaginativo che
+li produsse o li scelse, tanto in oriente quanto in occidente.
+La [[Cross|croce]] è divenuta qualcosa di più di un [[Memory|ricordo]] storico;
+essa esprime, quasi come per un diagramma matematico, la [[Truth|verità]]
+sul vero punto in questione: l'idea di un conflitto che si protende
+verso l'esterno nell'[[Eternity|eternità]]. È vero, e persino tautologico,
+dire che la [[Cross|croce]] è il nodo cruciale di tutta la faccenda.
+
+In altre parole la [[Cross|croce]], di fatto [[Well|oltre]] che come figura,
+sta davvero per l'idea di rompere fuori dal cerchio
+che è tutto e nulla. Essa sfugge davvero all'argomento
+circolare per cui ogni cosa comincia e finisce nella mente.
+Poiché stiamo ancora trattando di simboli, la si potrebbe esprimere in una [[Parable|parabola]]
+nella forma di quella storia su san Francesco, la quale dice che gli [[Birds|uccelli]]
+partendo con la sua benedizione poterono spiegare il volo negli infiniti
+dei quattro venti del cielo, e le loro scie tracciarono una vasta [[Cross|croce]] sul
+cielo; ché, al confronto della [[Freedom|libertà]] di quel volo di [[Birds|uccelli]],
+la forma stessa della Svastica è come un gattino che rincorre la propria coda.
+In un'[[Allegory|allegoria]] più popolare, potremmo dire che quando san Giorgio
+conficcò la sua lancia nelle fauci del [[Monster|mostro]], egli irruppe nella
+[[Solitude|solitudine]] del serpente che divora [[Self|sé stesso]] e gli diede qualcosa
+da mordere oltre alla propria coda. Ma se molte fantasie possono essere usate
+come figure della [[Truth|verità]], la [[Truth|verità]] stessa è astratta e assoluta;
+per quanto non sia molto facile riassumerla se non mediante tali figure.
+Il [[Christianity|Cristianesimo]] si appella davvero a una solida [[Truth|verità]] fuori di sé;
+a qualcosa che in tal senso è esterno [[Well|oltre]] che eterno.
+Esso dichiara che le cose ci sono davvero; ovvero, in altre parole,
+che le cose sono davvero cose. In questo il [[Christianity|Cristianesimo]] concorda
+con il senso comune; ma tutta la [[history|storia]] religiosa mostra che questo senso
+comune perisce, tranne là dove c'è il [[Christianity|Cristianesimo]] a preservarlo.
+
 
 
 <span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_08" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 8)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
@@ -14598,6 +16660,60 @@ of a form--and of a Face.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non può esistere altrimenti, o almeno non può durare, perché il puro pensiero
+non resta sano di mente. In un certo senso diventa troppo semplice per essere sano.
+La [[Temptation|tentazione]] dei filosofi è la semplicità, più che la sottigliezza.
+Sono sempre attratti da semplificazioni folli, come gli uomini sospesi sopra
+gli abissi restano affascinati dalla [[Death|morte]] e dal nulla e dall'aria vuota.
+Ci volle un altro genere di filosofo per stare sospeso sul pinnacolo
+del Tempio e mantenere l'equilibrio senza gettarsi giù.
+Una di queste spiegazioni ovvie, di queste spiegazioni troppo ovvie, è che tutto
+sia [[A Dream|un sogno]] e un'illusione e che nulla esista al di fuori dell'io.
+Un'altra è che tutte le cose ritornano; un'altra ancora, che si dice buddhista
+ed è certamente orientale, è l'idea che ciò che c'è di sbagliato
+in noi sia la nostra creazione, nel senso della nostra differenziazione colorata
+e della nostra personalità, e che nulla andrà [[Well|bene]] finché non saremo di nuovo fusi
+in un'unica [[unity|unità]]. Secondo questa teoria, in breve, la Creazione fu la Caduta.
+Essa è importante storicamente perché fu custodita nel cuore oscuro
+dell'Asia e ne uscì in vari tempi e in varie forme
+oltre i confini indistinti dell'Europa. Qui possiamo collocare la misteriosa
+figura di Mani o Manicheo, il mistico dell'inversione, che noi
+chiameremmo pessimista, padre di molte sette ed eresie;
+qui, in un luogo più alto, la figura di Zoroastro. Egli è stato
+popolarmente identificato con un'altra di queste spiegazioni troppo semplici:
+l'uguaglianza di male e bene, in equilibrio e in lotta dentro ogni atomo.
+Anch'egli appartiene alla scuola di sapienti che si possono chiamare mistici;
+e dallo stesso misterioso [[Garden|giardino]] persiano venne su ponderose
+ali Mitra, il dio ignoto, a turbare l'ultimo crepuscolo di Roma.
+
+Quel cerchio o disco del sole innalzato nel mattino del mondo dal
+remoto egiziano è stato uno [[Mirror|specchio]] e un modello per tutti i filosofi.
+Ne hanno tratto molte cose, e talvolta ne sono impazziti,
+specialmente quando, come in questi sapienti orientali, il cerchio divenne una [[Wheel|ruota]]
+che girava e rigirava nelle loro teste. Ma il punto che li riguarda
+è che tutti pensano che l'esistenza possa essere rappresentata da un diagramma
+anziché da un disegno; e i rozzi disegni degli infantili creatori di miti
+sono una sorta di grezza e vivace protesta contro quella concezione.
+Non riescono a credere che la religione non sia davvero uno schema, ma un quadro.
+E ancor meno riescono a credere che sia il quadro di qualcosa che
+esiste realmente al di fuori delle nostre menti. Talvolta la [[philosophy|filosofia]] dipinge
+il disco tutto nero e si chiama pessimista; talvolta lo dipinge
+tutto bianco e si chiama ottimista; talvolta lo divide
+esattamente in due metà di nero e di bianco e si chiama dualista,
+come quei mistici persiani ai quali vorrei avere spazio per rendere giustizia.
+Nessuno di loro poté comprendere una cosa che cominciava a tracciare le proporzioni
+proprio come se fossero proporzioni reali, disposte in quel modo vivo
+che il disegnatore matematico chiamerebbe sproporzionato.
+Come il primo [[Artist|artista]] nella [[Cave|caverna]], essa rivelò a occhi increduli
+il suggerimento di un nuovo intento in ciò che sembrava uno schema
+follemente storto; sembrava soltanto deformare il proprio diagramma,
+quando cominciò per la prima [[Time|volta]] in tutte le età a tracciare le linee
+di una forma—e di un Volto.
+
+* * *
 
 
 
@@ -14710,6 +16826,92 @@ So long as the historian cannot do that, fiction will be truer than fact.
 There will be more reality in a [[Novel|novel]]; yes, even in a [[Historical Novel|historical novel]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VII
+
+LA GUERRA DEGLI DEI E DEI DEMONI
+
+La teoria materialistica della [[history|storia]], secondo cui tutta la politica e l'etica
+non sono che l'espressione dell'economia, è davvero un'assai semplice fallacia.
+Consiste semplicemente nel confondere le condizioni necessarie della vita con
+le preoccupazioni normali della vita, che sono cosa del tutto diversa.
+È come dire che, poiché un uomo può camminare soltanto su due gambe,
+egli perciò non cammina mai se non per comprare scarpe e calze.
+L'uomo non può vivere senza i due sostegni del cibo e della bevanda,
+che lo reggono come due gambe; ma suggerire che essi siano
+stati i moventi di tutti i suoi movimenti nella [[history|storia]] è come dire
+che la meta di tutte le sue marce militari o dei suoi pellegrinaggi religiosi
+debba essere stata la Gamba d'Oro di Miss Kilmansegg oppure la gamba ideale e
+perfetta di Sir Willoughby Patterne. Ma sono proprio tali movimenti
+che compongono la storia dell'umanità, e senza di essi non vi sarebbe
+in pratica alcuna storia. Le mucche possono essere puramente economiche,
+nel senso che non riusciamo a vedere che facciano molto oltre al brucare
+e al cercare pascoli migliori; ed è per questo che una [[history|storia]]
+delle mucche in dodici volumi non sarebbe una lettura molto avvincente.
+Le pecore e le capre possono essere puri economisti almeno nella loro azione
+esteriore; ma è per questo che la pecora non è quasi mai stata l'[[Hero|eroe]]
+di guerre [[Epic|epiche]] e di imperi ritenuti degni di dettagliata narrazione;
+e persino il più attivo quadrupede non ha ispirato un libro per ragazzi
+intitolato Aurei Gesti di Galanti Capre o un qualsiasi titolo simile.
+Ma, ben lungi dall'essere economici i movimenti che compongono la storia dell'uomo,
+possiamo dire che la storia comincia soltanto là dove il movente
+delle mucche e delle pecore [[Leaves|cessa]]. Sarà difficile sostenere
+che i Crociati abbiano lasciato le loro case per una landa ululante
+perché le mucche vanno da una landa a un pascolo più comodo.
+Sarà difficile sostenere che gli esploratori artici siano andati a nord
+con lo stesso movente materiale che spinse le rondini ad andare a sud.
+E se togliete dalla storia umana cose come tutte le guerre di religione e tutte
+le esplorazioni meramente avventurose, essa non solo
+cesserà di essere umana, ma cesserà del tutto di essere una storia.
+Il profilo della [[history|storia]] è fatto di queste curve e di questi angoli decisivi
+determinati dalla volontà dell'uomo. Una [[history|storia]] economica non
+sarebbe nemmeno [[history|storia]].
+
+Ma vi è una fallacia più profonda oltre a questo fatto ovvio: che gli uomini
+non devono vivere per il cibo solo perché non possono vivere senza il cibo.
+La [[Truth|verità]] è che ciò che è più presente alla mente dell'uomo non
+è la macchina economica necessaria alla sua esistenza, ma piuttosto
+l'esistenza stessa; il mondo che egli vede quando si sveglia ogni
+mattina e la [[Nature|natura]] della sua posizione generale in esso. C'è
+qualcosa che gli è più vicino del sostentamento, ed è la vita.
+Perché, una volta che ricorda esattamente quale lavoro produce il suo salario
+ed esattamente quale salario produce i suoi pasti, egli riflette dieci volte
+che è una bella giornata, o che è un mondo strano, o si chiede se
+la vita valga la pena di essere vissuta, o si chiede se il [[Marriage|matrimonio]] sia un fallimento,
+o è compiaciuto e stupito dei suoi stessi figli, o ricorda la
+propria giovinezza, o in qualche simile maniera passa vagamente in rassegna il misterioso
+destino dell'uomo. Questo è vero anche per la maggior parte degli schiavi del salario
+del nostro morboso industrialismo moderno, che con la sua bruttezza
+e disumanità ha davvero spinto la questione economica in primo piano.
+È incomparabilmente più vero per la moltitudine di contadini
+o di cacciatori o di pescatori che costituiscono la vera massa dell'umanità.
+Persino quei aridi pedanti che pensano che l'etica dipenda dall'economia
+devono ammettere che l'economia dipende dall'esistenza. E un numero qualsiasi
+di normali dubbi e di sogni [[Dreams|ad occhi aperti]] riguarda l'esistenza; non come noi
+possiamo vivere, ma perché lo facciamo. E la prova di ciò è semplice;
+semplice come il [[suicide|suicidio]]. Capovolgi l'universo nella mente
+e capovolgerai con esso tutti gli economisti politici.
+Supponi che un uomo desideri morire, e [[The Professor|il professore]] di economia
+politica diventa piuttosto noioso con le sue elaborate spiegazioni
+su come egli debba vivere. E tutte le partenze e le decisioni
+che fanno del nostro passato umano una storia hanno questo carattere di
+deviare il corso diretto della pura economia. Come l'economista
+può essere dispensato dal calcolare il salario futuro di un [[suicide|suicida]],
+così può essere dispensato dal fornire una pensione di vecchiaia a un martire.
+Come non deve provvedere al futuro di un martire, così non deve provvedere
+alla famiglia di un monaco. Il suo piano è modificato in gradi minori e variabili
+dal fatto che un uomo sia un soldato e muoia per la propria patria,
+dal fatto che un uomo sia un contadino e ami in modo particolare la propria terra, dal fatto che un uomo
+sia più o meno influenzato da una qualche religione che gli vieta o gli permette
+di fare questo o quello. Ma tutte queste cose non riconducono a un calcolo
+economico sul sostentamento, bensì a uno sguardo elementare sulla vita.
+Riconducono tutte a ciò che un uomo sente fondamentalmente, quando guarda
+fuori da quelle strane finestre che chiamiamo occhi, verso quella
+strana visione che chiamiamo il mondo.
+
+Nessun uomo saggio desidererà mettere al mondo altre parole lunghe. Ma sia forse lecito dire che ci occorre una cosa nuova, che potremmo chiamare [[history|storia]] psicologica. Intendo la considerazione di ciò che le cose significavano nella mente di un uomo, e specialmente di un uomo comune, distinta da ciò che si definisce o si deduce meramente da formule ufficiali o da proclami politici. Vi ho già accennato in un caso come quello del totem, o anzi di qualsiasi altro mito popolare. Non basta che ci si dica che un gattaccio veniva chiamato totem, tanto più quando non veniva affatto chiamato totem. Vogliamo sapere che cosa si provasse. Era come il gatto di Whittington oppure come il gatto di una [[Witch|strega]]? Il suo vero nome era Pashtl o il Gatto con gli Stivali? È questo il genere di cosa che ci occorre riguardo alla [[Nature|natura]] delle relazioni politiche e sociali. Vogliamo conoscere il sentimento reale che costituiva il legame sociale di molti uomini comuni, sani di mente ed egoisti quanto lo siamo noi. Che cosa provavano i soldati quando vedevano splendere nel cielo quello strano totem che noi chiamiamo l'Aquila d'Oro delle Legioni? Che cosa provavano i vassalli riguardo a quegli altri totem, i leoni o i leopardi sullo scudo del loro signore? Finché trascureremo questo lato soggettivo della [[history|storia]], che si potrebbe più semplicemente chiamare l'interiorità della [[history|storia]], vi sarà sempre un certo limite in quella scienza, un limite che l'arte può meglio trascendere. Finché lo storico non sarà capace di questo, la finzione sarà più vera del fatto. Vi sarà più realtà in un [[Novel|romanzo]]; sì, perfino in un [[Historical Novel|romanzo storico]].
+
 
 
 <span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_02" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 2)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt"></span>
@@ -14810,6 +17012,14 @@ a thing overtopping and disdaining it, dark with all the riddles
 of Asia and trailing all the tribes and dependencies of imperialism,
 came Carthage riding on the sea.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In nulla questa nuova [[history|storia]] è tanto necessaria quanto nella psicologia della guerra. La nostra [[history|storia]] è irrigidita da documenti ufficiali, pubblici o privati, che nulla ci dicono della cosa in sé. Nel peggiore dei casi abbiamo soltanto i manifesti ufficiali, che non potevano essere spontanei appunto perché erano ufficiali. Nel migliore dei casi abbiamo soltanto la diplomazia segreta, che non poteva essere popolare appunto perché era segreta. Sull'uno o sull'altro di questi si fonda il giudizio storico intorno alle vere ragioni che sostenevano la lotta. I governi combattono per colonie o per diritti commerciali; i governi combattono per porti o per alte tariffe; i governi combattono per una miniera d'oro o per una pesca di perle. Sembra sufficiente rispondere che i governi non combattono affatto. Perché combattono i combattenti? Qual è la psicologia che sostiene quella cosa terribile e meravigliosa che si chiama guerra? Nessuno che sappia qualcosa dei soldati crede alla sciocca idea dei dotti, secondo cui milioni di uomini possano essere governati con la forza. Se tutti insieme si mettessero a battere la fiacca, sarebbe impossibile punire tutti gli sfaticati. E il più piccolo accenno di fiacca perderebbe un'intera campagna in mezza giornata. Che cosa provavano davvero gli uomini riguardo alla politica seguita? Se si dice che accettavano la politica dal politico, che cosa provavano riguardo al politico? Se i vassalli guerreggiavano ciecamente per il loro principe, che cosa vedevano quegli uomini ciechi nel loro principe?
+
+C'è qualcosa che tutti noi conosciamo e che può essere reso, in una lingua appropriata, soltanto con la parola realpolitik. In verità è una politik quasi follemente irreale. Ripete sempre, con ostinazione e stupidità, che gli uomini combattono per fini materiali, senza riflettere un istante che quei fini materiali non hanno quasi mai importanza per gli uomini che combattono. In ogni caso nessun uomo morrà per la politica pratica, così come nessun uomo morrà per la paga. Nerone non avrebbe potuto ingaggiare cento cristiani perché si facessero divorare dai leoni a uno scellino l'ora; giacché gli uomini non si lasciano martirizzare per denaro. Ma la visione evocata dalla realpolitik, ossia dalla politica realistica, è al di là di ogni esempio insensata e incredibile. C'è forse qualcuno al mondo che creda che un soldato dica: «La mia gamba sta quasi per staccarsi, ma andrò avanti finché non cadrà; poiché in fondo godrò di tutti i vantaggi derivanti dal fatto che il mio [[government|governo]] otterrà un porto in [[Water|acque]] calde nel Golfo di Finlandia»? Si può forse supporre che un impiegato divenuto coscritto dica: «Se verrò gassato, probabilmente morirò tra i tormenti, ma è una consolazione riflettere che, qualora un giorno decidessi di farmi pescatore di perle nei Mari del Sud, quella carriera è ora aperta a me e ai miei compatrioti»? La [[history|storia]] materialista è la più follemente incredibile di tutte le storie, o anche di tutti i romanzi. Qualunque cosa dia inizio alle guerre, ciò che le sostiene è qualcosa che sta nell'[[Soul|anima]]; qualcosa di affine alla religione. È ciò che gli uomini sentono riguardo alla vita e alla [[Death|morte]]. Un uomo prossimo alla [[Death|morte]] ha a che fare direttamente con un assoluto; è un'assurdità dire che egli si preoccupi soltanto di complicazioni relative e remote che la [[Death|morte]] in ogni caso porrà fine. Se è sostenuto da certe fedeltà, esse devono essere fedeltà semplici quanto la [[Death|morte]]. Sono generalmente due idee, che non sono se non due facce di una sola idea. La prima è l'[[Love|amore]] di qualcosa che si dice minacciato, foss'anche conosciuto soltanto vagamente come [[Home|patria]]; la seconda è l'avversione e la sfida verso qualche cosa estranea che la minaccia. La prima è assai più filosofica di quanto non sembri, benché non occorra qui discuterne. Un uomo non vuole che la sua [[Home|patria]] venga distrutta o anche solo mutata, perché non riesce neppure a ricordare tutte le cose buone che le si accompagnano; proprio come non vuole che la sua [[house|casa]] gli venga bruciata, perché a stento saprebbe contare tutte le cose che gli mancherebbero. Perciò egli combatte per ciò che suona come una vaga astrazione, ma che in realtà è una [[house|casa]]. Ma il lato negativo di ciò è nobile [[Well|non meno]] che forte, e altrettanto potente. Gli uomini combattono con maggior accanimento quando sentono che il nemico è a un tempo un vecchio avversario e un eterno straniero, che la sua atmosfera è aliena e ostile, come i Francesi sentono riguardo al Prussiano o i Cristiani d'Oriente riguardo al Turco. Se diciamo che è una differenza di religione, la gente scivolerà in tediosi battibecchi su sette e dogmi. Avremo pietà di loro e diremo che è una differenza riguardo alla [[Death|morte]] e alla luce del giorno; una differenza che davvero cala come un'oscura [[Shadow|ombra]] tra i nostri occhi e la luce. Gli uomini possono pensare a questa differenza perfino in punto di [[Death|morte]]; poiché è una differenza riguardo al significato della vita.
+
+Gli uomini, in queste cose, sono mossi da qualcosa di assai più alto e più santo della politica: dall'odio. Quando gli uomini tennero duro nei giorni più tenebrosi della Grande Guerra, [[Suffering|soffrendo]] nel corpo o nell'anima per coloro che amavano, avevano da tempo smesso di curarsi dei dettagli degli obiettivi diplomatici come motivi del loro rifiuto di arrendersi. Di me stesso e di coloro che meglio conobbi posso rispondere della visione che rendeva impossibile la resa. Era la visione del volto dell'Imperatore di Germania mentre entrava a cavallo in [[Paris|Parigi]]. Non è questo il sentimento che alcuni dei miei amici idealisti chiamano [[Love|Amore]]. Sono ben contento di chiamarlo odio: l'odio dell'inferno e di tutte le sue opere, e di convenire che, poiché essi non credono all'inferno, non hanno bisogno di credere all'odio. Ma di fronte a questo pregiudizio diffuso, questa lunga introduzione è stata purtroppo necessaria per garantire la comprensione di ciò che s'intende per guerra di religione. Vi è guerra di religione quando due mondi s'incontrano; vale a dire quando due visioni del mondo s'incontrano; o, in linguaggio più moderno, quando due atmosfere morali s'incontrano. Ciò che per l'uno è il respiro, per l'altro è il [[Poison|veleno]]; ed è vano parlare di concedere alla pestilenza un posto al sole. E questo è ciò che dobbiamo comprendere, anche a costo di una digressione, se vogliamo vedere ciò che davvero accadde nel Mediterraneo; quando, proprio di traverso al sorgere della Repubblica sul Tevere, una cosa che la sovrastava e la disdegnava, oscura di tutti gli enigmi dell'Asia e trascinante con sé tutte le tribù e le dipendenze dell'imperialismo, venne Cartagine cavalcando sul mare.
 
 
 
@@ -14935,6 +17145,18 @@ merchants with chimney-pot hats and mutton-chop whiskers, going to
 church every [[Sunday]] at eleven o'[[Clock|clock]] to see a baby roasted alive.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'antica religione dell'[[Italy|Italia]] era nel complesso quella mescolanza che abbiamo considerato sotto il titolo di mitologia; salvo che, laddove i Greci avevano una naturale inclinazione per la mitologia, i Latini sembrano aver avuto una vera inclinazione per la religione. Entrambi moltiplicarono gli dèi, eppure talvolta sembra che li abbiano moltiplicati per ragioni quasi opposte. Parrebbe a volte che il politeismo greco si ramificasse e fiorisse verso l'alto come i rami di un albero, mentre il politeismo italico si ramificasse verso il basso come le radici. Forse sarebbe più giusto dire che i primi rami si sollevavano lievi, recando [[Flowers|fiori]], mentre gli altri pendevano in basso, gravidi di frutti. Voglio dire che i Latini sembrano moltiplicare gli dèi per avvicinarli agli uomini, mentre gli dèi greci si [[Rose|levavano]] e si irradiavano verso il cielo del mattino. Ciò che ci colpisce nei culti italici è il loro carattere locale e soprattutto domestico. Ne ricaviamo l'impressione di divinità che sciamano intorno alla [[house|casa]] come mosche; di deità che si raggruppano e si aggrappano come pipistrelli ai pilastri, o che nidificano come [[Birds|uccelli]] sotto le grondaie. Abbiamo la visione di un dio dei tetti e di un dio degli stipiti dei cancelli, di un dio delle porte e persino di un dio delle fogne. È stato suggerito che ogni mitologia fosse una sorta di fiaba; ma questa era una particolare sorta di fiaba che si può davvero chiamare racconto del focolare, o racconto della cameretta; perché era un racconto dell'interno della [[Home|casa]]; come quelli che fanno parlare sedie e tavoli al modo degli elfi. Gli antichi dèi domestici dei contadini italici sembra fossero grandi, goffe, rozze immagini di legno, più prive di lineamenti della polena che Quilp percuoteva con l'attizzatoio. Questa religione della [[Home|casa]] era assai casalinga. Naturalmente vi erano altri elementi meno umani nel groviglio della mitologia italica. Vi erano divinità greche sovrapposte a quelle romane; vi erano qua e là cose più laide al di sotto, esperimenti nella specie crudele del paganesimo, come il rito ariciano del sacerdote che uccide l'uccisore. Ma queste cose furono sempre potenziali nel paganesimo; non sono certo il carattere peculiare del paganesimo latino. La peculiarità di quest'ultimo può essere approssimativamente riassunta dicendo che, se la mitologia personificava le forze della [[Nature|natura]], questa mitologia personificava la [[Nature|natura]] quale trasformata dalle forze dell'uomo. Era il dio del grano e non dell'erba, del bestiame e non delle creature selvatiche della foresta; in breve, il culto era letteralmente una coltura; come quando ne parliamo dicendo agricoltura.
+
+A questo si accompagnava un [[Paradox|paradosso]] che è ancora per molti l'enigma o l'[[Riddle|indovinello]] dei Latini. Con la religione che scorreva attraverso ogni dettaglio domestico come una pianta rampicante, andava ciò che a molti sembra lo spirito addirittura opposto: lo spirito di rivolta. Imperialisti e reazionari chiamano spesso in causa Roma come il modello stesso dell'ordine e dell'obbedienza; ma Roma era esattamente il contrario. La vera [[history|storia]] dell'[[Ancient Rome|antica Roma]] somiglia molto di più alla [[history|storia]] della [[Paris|Parigi]] moderna. Si potrebbe chiamare, in linguaggio moderno, una [[City|città]] costruita di barricate. Si dice che la porta di Giano non fosse mai chiusa perché vi era un'eterna guerra al di fuori; è quasi altrettanto vero che vi era un'eterna rivoluzione all'interno. Dai primi tumulti plebei alle ultime Guerre Servili, lo Stato che imponeva la pace al mondo non fu mai realmente in pace. I governanti erano essi stessi ribelli.
+
+Vi è una reale relazione fra questa religione nel privato e questa rivoluzione nella vita pubblica. Storie non meno eroiche per essere trite ci rammentano che la Repubblica fu fondata su un tirannicidio che vendicava un'offesa a una moglie; che i Tribuni della plebe furono ristabiliti dopo un altro che vendicava un'offesa a una figlia. La [[Truth|verità]] è che soltanto gli uomini per i quali la famiglia è sacra avranno mai un criterio o uno stato da cui criticare lo Stato. Essi [[Alone|soli]] possono appellarsi a qualcosa di più santo degli dèi della [[City|città]]: gli dèi del focolare. Ecco perché gli uomini restano sconcertati nel vedere che le stesse nazioni ritenute rigide nella vita domestica sono anche ritenute irrequiete in politica, per esempio gli Irlandesi e i Francesi. Vale la pena di soffermarsi su questo punto domestico, perché è un esempio preciso di ciò che qui s'intende per l'interno della [[history|storia]], come l'interno delle case. Le storie meramente politiche di Roma possono ben avere ragione nel dire che questo o quell'atto dei politici romani fu cinico o crudele; ma lo spirito che sollevò Roma dal basso era lo spirito di tutti i Romani; e non è una frase fatta chiamarlo l'ideale di Cincinnato che passa dal senato all'aratro. Uomini di quella tempra avevano rafforzato il loro villaggio da ogni lato, ne avevano già esteso le vittorie sugli Italici e persino sui Greci, quando si trovarono di fronte a una guerra che mutò il mondo. L'ho chiamata qui la guerra degli dèi e dei demoni.
+
+Sulla costa opposta del mare interno si era stabilita una [[City|città]] che portava il nome di Città Nuova. Era già assai più antica, più potente e più prospera della città italica; eppure le restava ancora attorno un'atmosfera che rendeva il nome non del tutto inappropriato. Era stata chiamata nuova perché era una colonia come [[New York]] o come la Nuova Zelanda. Era un avamposto, un insediamento dell'energia e dell'espansione delle grandi città commerciali di Tiro e di Sidone. Aveva in sé qualcosa dei paesi nuovi e delle colonie, uno sguardo fiducioso e mercantile. Amava dire cose che risuonavano di una certa metallica sicurezza; come che nessuno potesse lavarsi le mani nel mare senza il permesso della Città Nuova. Poiché dipendeva quasi interamente dalla [[Greatness|grandezza]] delle sue navi, come i due grandi porti e mercati da cui proveniva la sua gente. Portava da Tiro e da Sidone un talento prodigioso per il commercio e una considerevole esperienza dei viaggi. Portava anche [[Well|altre]] cose.
+
+In un capitolo precedente ho accennato a qualcosa della psicologia che sta dietro un certo tipo di religione. C'era, in coloro che avevano fame di risultati pratici, al di là dei risultati poetici, una tendenza a invocare gli spiriti del terrore e della costrizione; a muovere l'Acheronte nella [[Despair|disperazione]] di piegare gli Dèi. C'è sempre una sorta di vaga idea che queste potenze più oscure facciano davvero le cose, senza tante storie. Nell'intima psicologia dei popoli punici questa strana specie di praticità pessimistica era cresciuta a grandi proporzioni. Nella Città Nuova, che i Romani chiamarono Cartagine, come nelle città madri della Fenicia, il dio che portava a compimento le cose recava il nome di Moloch, forse identico all'altra divinità che noi conosciamo come Baal, il Signore. I Romani in un primo tempo non seppero bene come chiamarlo né che cosa pensare di lui; dovettero risalire al più rozzo mito delle origini greche o romane e paragonarlo a [[Saturn|Saturno]] che divora i propri figli. Ma gli adoratori di Moloch non erano rozzi né primitivi. Erano membri di una civiltà matura e raffinata, ricca di eleganze e di lussi; erano probabilmente assai più civili dei Romani. E Moloch non era un mito; o quanto meno il suo pasto non era un mito. Questa gente altamente civile si radunava davvero insieme per invocare la benedizione del cielo sul proprio impero gettando centinaia dei propri neonati in una grande fornace. Possiamo cogliere la combinazione soltanto immaginando un certo numero di mercanti di Manchester col cilindro in testa e i favoriti a costoletta, che ogni [[Sunday|domenica]] alle undici in [[Clock|punto]] si recano in chiesa a vedere un bambino arrostito vivo.
+
 
 
 <span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_04" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 4)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt"></span>
@@ -15057,6 +17279,50 @@ led them to starve and abandon that great [[Artist|artist]] in the school of arm
 whom the gods had given them in vain.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le prime fasi della contesa politica o commerciale si possono seguire in un dettaglio fin troppo minuto, proprio perché non è che politica o commerciale. Le Guerre Puniche parvero a un certo [[Time|momento]] non dover finire mai; e non è facile dire quando mai siano cominciate. I Greci e i Siciliani si erano già battuti confusamente, dalla parte europea, contro la [[City|città]] africana. Cartagine aveva sconfitto la Grecia e conquistato la Sicilia. Cartagine si era anche piantata saldamente in Spagna; e fra la Spagna e la Sicilia la [[City|città]] latina era serrata e sarebbe stata schiacciata, se i Romani fossero stati di quella pasta che si lascia schiacciare facilmente. Eppure l'interesse della storia consiste in verità nel fatto che Roma fu schiacciata. Se non ci fossero stati certi elementi morali [[Well|oltre]] agli elementi materiali, la storia sarebbe finita là dove Cartagine credette senz'altro che fosse finita. È abbastanza comune biasimare Roma per non aver fatto la pace. Ma era un vero istinto popolare quello per cui con quella sorta di gente non poteva esserci pace. È abbastanza comune biasimare il Romano per il suo Delenda est Carthago; Cartagine dev'essere distrutta. È più comune dimenticare che, a ogni apparenza, fu Roma stessa a essere distrutta. Il sacro profumo che aleggiò per sempre intorno a Roma, troppo spesso lo si dimentica, le si attaccò addosso in parte perché essa era risorta improvvisamente dai morti. Cartagine era un'aristocrazia, come lo sono la maggior parte di simili Stati mercantili. La pressione dei ricchi sui poveri era impersonale [[Well|non meno]] che irresistibile. Poiché tali aristocrazie non permettono mai un [[government|governo]] personale, il che è forse la ragione per cui questa era gelosa del talento personale. Ma il genio può spuntare dovunque, anche in una classe dirigente. Come per rendere la prova suprema del mondo quanto più terribile possibile, fu stabilito che una delle grandi casate di Cartagine dovesse produrre un uomo che uscì da quei palazzi dorati con tutta l'energia e l'originalità di un Napoleone venuto dal nulla. Nella crisi più tremenda della guerra Roma apprese che l'[[Italy|Italia]] stessa, per un miracolo militare, era invasa da settentrione. Annibale, la Grazia di Baal come suonava il suo nome nella sua lingua, aveva trascinato una pesante catena di armamenti sulle stellate solitudini delle Alpi; e puntava verso mezzogiorno, verso la [[City|città]] che aveva giurato di distruggere davanti a tutti i suoi terribili dèi.
+
+Annibale scese lungo la [[Road|strada]] di Roma, e i Romani che si precipitarono a combatterlo si sentirono come se si battessero con un mago. Due grandi eserciti sprofondarono alla sua destra e alla sua sinistra nelle paludi della Trebbia; sempre più uomini furono risucchiati nell'orribile gorgo di Canne; sempre più uscirono in campo solo per cadere in rovina al suo tocco. Il segno supremo di ogni disastro, che è il tradimento, rivolse tribù dopo tribù contro la causa declinante di Roma, e ancora l'invincibile nemico si rovesciava sempre più vicino alla [[City|città]]; e dietro il loro grande capo il rigonfio esercito cosmopolita di Cartagine passava come un corteo del mondo intero: gli elefanti che scuotevano la terra come [[Mountains|montagne]] in marcia, e i giganteschi Galli con le loro barbariche panoplie, e gli scuri Spagnoli cinti d'oro, e i bruni Numidi sui loro cavalli senza briglia del [[Desert|deserto]], che roteavano e saettavano come falchi, e intere torme di disertori e mercenari e popoli d'ogni sorta; e la grazia di Baal andava davanti a loro.
+
+Gli àuguri e gli scribi romani che dissero in quell'ora che l'evento aveva generato prodigi soprannaturali, che era nato un [[Child|bambino]] con la testa di elefante, o che le [[Stars|stelle]] erano cadute come chicchi di grandine, ebbero una percezione assai più filosofica di ciò che era realmente accaduto rispetto allo storico moderno, che in tutto ciò non sa vedere altro che un [[success|successo]] di strategia a conclusione di una rivalità commerciale. Qualcosa di ben diverso fu sentito in quel [[Time|momento]] e in quel luogo, come sempre lo sentono coloro che avvertono un'atmosfera straniera entrare nella propria come una nebbia o un lezzo maligno. Non fu una semplice sconfitta militare, non fu di certo una semplice rivalità mercantile, ciò che riempì l'[[Imagination|immaginazione]] romana di presagi così spaventosi della [[Nature|natura]] stessa che si faceva innaturale. Era Moloch sul monte dei Latini, che guardava con la sua faccia terrificante di là dalla pianura; era Baal che calpestava le vigne con i suoi piedi di pietra; era la voce di Tanit l'invisibile, dietro i suoi veli fluenti, che sussurrava di quell'[[Love|amore]] che è più orribile dell'odio. L'incendio dei campi di grano italici, la rovina delle vigne italiche, erano qualcosa di più che reali; erano allegorici. Erano la distruzione delle cose domestiche e feconde, l'appassire di ciò che era umano dinanzi a quell'inumanità che è ben al di là di quella cosa umana che si chiama crudeltà. Gli dèi domestici si chinavano profondamente nelle tenebre sotto i loro umili tetti; e sopra di essi passavano i demoni su un [[Wind|vento]] venuto di là da ogni muro, che soffiava nella tromba della Tramontana. La porta delle Alpi era stata abbattuta; e, in un senso non volgare ma solennissimo, era l'Inferno scatenato. La guerra degli dèi e dei demoni pareva già finita; e gli dèi erano morti. Le aquile erano perdute, le legioni infrante; e in Roma non restava altro che l'[[Honour|onore]] e il freddo [[Courage|coraggio]] della [[Despair|disperazione]].
+
+In tutto il mondo una sola cosa minacciava ancora Cartagine, e quella
+cosa era Cartagine. Restava ancora l'intima azione di un elemento
+forte in tutti gli Stati commerciali di successo, e la presenza di uno
+spirito che ben conosciamo. C'era ancora il buonsenso solido e l'accortezza
+degli uomini che dirigono le grandi imprese; c'era ancora il consiglio
+dei migliori esperti di finanza; c'era ancora il [[government|governo]] degli affari;
+c'era ancora la visione ampia e assennata degli uomini pratici,
+degli uomini di mondo, e in queste cose i Romani potevano [[Hope|sperare]].
+Mentre la guerra si trascinava verso quella che sembrava la sua tragica fine,
+crebbe a poco a poco una fioca e strana possibilità che perfino allora essi
+potessero non [[Hope|sperare]] invano. I sobri uomini d'affari di Cartagine,
+ragionando come ragionano tali uomini, in termini di razze che vivono e muoiono,
+videro con chiarezza che Roma non solo era morente, ma morta. La guerra era finita;
+era palesemente disperato per la [[City|città]] italica resistere ancora,
+e inconcepibile che chiunque resistesse quando ormai era disperato.
+Stando così le cose, restava da considerare un altro complesso di sani, robusti
+princìpi d'affari. Le guerre si conducevano col denaro,
+e di conseguenza costavano denaro; forse sentivano in cuor loro,
+come tanti della loro specie, che dopotutto la guerra dev'essere un poco
+malvagia perché costa denaro. Era ormai venuto il [[Time|tempo]] della pace;
+e ancor più quello dell'economia. I messaggi che Annibale inviava di [[Time|tempo]]
+in [[Time|tempo]] chiedendo rinforzi erano un ridicolo anacronismo;
+c'erano cose ben più importanti a cui badare, ormai.
+Poteva anche esser vero che un console o un altro avesse fatto un'ultima sortita
+fino al Metauro, avesse ucciso il fratello di Annibale e scagliato la sua testa,
+con furia latina, nell'accampamento di Annibale; e simili gesti folli
+mostravano quanto assolutamente disperati si sentissero i Latini per la loro causa.
+Ma neppure i focosi Latini potevano essere tanto folli da aggrapparsi
+in eterno a una causa perduta. Così ragionavano i migliori esperti di finanza;
+e gettavano da parte sempre più lettere, colme di rapporti alquanto strani
+e allarmistici. Così ragionava e agiva il grande Impero cartaginese.
+Quel pregiudizio insensato, la maledizione degli Stati commerciali, per cui la stupidità
+è in qualche modo pratica e il genio in qualche modo inutile,
+li indusse ad affamare e abbandonare quel grande [[Artist|artista]] nella scuola delle armi,
+che gli dèi avevano loro donato invano.
+
 
 
 <span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_05" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 5)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt"></span>
@@ -15158,6 +17424,104 @@ Deleta est Carthago.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perché mai gli uomini nutrono questa strana idea che ciò che è sordido debba sempre
+sopraffare ciò che è magnanimo; che vi sia un oscuro legame
+tra l'ingegno e la brutalità, o che non importi se un uomo
+è ottuso purché sia anche meschino? Perché pensano vagamente
+a ogni cavalleria come sentimentalismo e a ogni sentimento come debolezza?
+Lo fanno perché sono, come tutti gli uomini, ispirati anzitutto
+dalla religione. Per loro, come per tutti gli uomini, il primo fatto è la loro
+idea della [[Nature|natura]] delle cose; la loro idea di quale mondo essi
+abitino. Ed è loro [[Faith|fede]] che l'unica cosa ultima
+sia la [[Fear|paura]] e che perciò il cuore stesso del mondo sia malvagio.
+Credono che la [[Death|morte]] sia più forte della vita, e che perciò le cose morte
+debbano essere più forti delle cose viventi; siano quelle cose morte
+oro e ferro e macchinari, oppure rocce e fiumi
+e forze della [[Nature|natura]]. Può suonare fantasioso dire che gli uomini che
+incontriamo attorno ai tavolini del tè o con cui chiacchieriamo alle feste in [[Garden|giardino]] sono in segreto
+adoratori di Baal o di Moloch. Ma questa sorta di mente commerciale
+ha la propria visione cosmica, ed è la visione di Cartagine.
+Racchiude in sé il brutale abbaglio che fu la rovina di Cartagine.
+La potenza punica cadde perché in questo materialismo vi è una folle
+indifferenza al pensiero vero. Non credendo nell'[[Soul|anima]], si arriva
+a non credere nella mente. Troppo pratica per essere morale,
+nega ciò che ogni soldato pratico chiama il morale di un esercito.
+S'immagina che il denaro combatterà quando gli uomini non combatteranno più.
+Così fu per i mercanti principi punici. La loro religione era una
+religione della [[Despair|disperazione]], anche quando le loro sorti concrete erano promettenti.
+Come potevano comprendere che i Romani potessero [[Hope|sperare]] anche quando le loro
+sorti erano disperate? La loro religione era una religione della forza
+e della [[Fear|paura]]; come potevano comprendere che gli uomini possono ancora disprezzare la [[Fear|paura]]
+anche quando si sottomettono alla forza? La loro [[philosophy|filosofia]] del mondo aveva
+la stanchezza nel cuore stesso; soprattutto erano stanchi della guerra;
+come avrebbero potuto comprendere coloro che fanno ancora guerra anche quando
+ne sono stanchi? In una parola, come avrebbero potuto comprendere la mente
+dell'Uomo, essi che così a lungo si erano prostrati dinanzi a cose prive di mente,
+il denaro e la forza bruta e dèi che avevano cuori di bestie?
+Si destarono d'un tratto alla notizia che le braci che avevano sdegnato
+troppo persino di calpestare divampavano di nuovo dovunque in fiamme;
+che Asdrubale era sconfitto, che Annibale era inferiore di numero, che Scipione
+aveva portato la guerra in Spagna; che l'aveva portata in Africa.
+Dinanzi alle porte stesse della [[City|città]] dorata Annibale combatté la sua ultima
+battaglia per essa e la perse; e Cartagine cadde come nulla è caduto
+dopo [[Satan]]. Il nome della Nuova [[City|Città]] rimane soltanto come un nome.
+Non ne resta una pietra sopra la sabbia. Un'altra guerra fu invero
+condotta prima della distruzione finale: ma la distruzione fu finale.
+Solo uomini che scavavano nelle sue profonde fondamenta secoli dopo trovarono un mucchio
+di centinaia di piccoli scheletri, le sacre reliquie di quella religione.
+Poiché Cartagine cadde perché fu fedele alla propria [[philosophy|filosofia]] e aveva
+seguito fino alla sua conclusione logica la propria visione dell'universo.
+Moloch aveva divorato i suoi figli.
+
+Gli dèi erano risorti, e i demoni erano stati sconfitti dopotutto.
+Ma erano stati sconfitti dagli sconfitti, e quasi sconfitti
+dai morti. Nessuno comprende il [[Romance|romanzo]] di Roma, e perché
+essa più tardi [[Rose|si levò]] a una supremazia rappresentativa che parve
+quasi predestinata e fondamentalmente naturale. Chi non tiene a mente
+l'agonia d'orrore e umiliazione attraverso cui essa aveva continuato
+a testimoniare la [[Sanity|sanità]] che è l'[[Soul|anima]] dell'Europa? Essa giunse
+a stare [[Alone|sola]] in mezzo a un impero perché una volta era stata
+[[Alone|sola]] in mezzo a una rovina e a una desolazione. Dopo di ciò tutti gli uomini
+seppero in cuor loro che essa era stata rappresentante dell'umanità,
+anche quando era rifiutata dagli uomini. E su di lei cadde l'[[Shadow|ombra]]
+di una luce splendente e ancora invisibile e il peso delle cose a venire.
+Non spetta a noi indovinare in quale modo o momento la [[Mercy|misericordia]]
+di Dio avrebbe potuto in ogni caso salvare il mondo; ma è certo
+che la lotta che fondò la Cristianità sarebbe stata
+assai diversa se ci fosse stato un impero di Cartagine invece
+di un impero di Roma. Dobbiamo alla pazienza delle guerre puniche
+se, nelle età successive, le cose divine discesero almeno su
+cose umane e non disumane. L'Europa si evolse nei propri vizi
+e nella propria impotenza, come si accennerà in un'altra pagina;
+ma il peggio in cui si evolse non fu simile a ciò da cui era scampata.
+Può un uomo sano di mente paragonare il grande fantoccio di legno,
+da cui i bambini si aspettavano che mangiasse un pezzetto del pranzo,
+con il grande idolo da cui ci si sarebbe aspettati che mangiasse i bambini?
+Questa è la misura di quanto il mondo si sviò, in confronto a
+quanto avrebbe potuto sviarsi. Se i Romani furono spietati,
+lo furono in un vero senso verso un nemico, e certo non un semplice rivale.
+Non ricordavano rotte commerciali e regolamenti, ma i volti
+di uomini beffardi; e odiarono l'odiosa [[Soul|anima]] di Cartagine. E qualcosa dobbiamo
+loro se mai avemmo bisogno di abbattere i boschetti di [[Venus|Venere]]
+esattamente come gli uomini abbatterono i boschetti di Baal. Dobbiamo in parte alla loro
+durezza il fatto che i nostri pensieri sul nostro passato umano non siano del tutto duri.
+Se il passaggio dal paganesimo al [[Christianity|Cristianesimo]] fu tanto un ponte [[Well|quanto]]
+una frattura, lo dobbiamo a coloro che mantennero umano quel paganesimo.
+Se, dopo tutte queste età, siamo in un certo senso in pace col paganesimo,
+e possiamo pensare con più benevolenza ai nostri padri, è [[Well|bene]] ricordare
+le cose che furono e le cose che avrebbero potuto essere.
+Per questa ragione [[Alone|soltanto]] possiamo prendere alla leggera il peso dell'antichità e non
+dobbiamo rabbrividire dinanzi a una ninfa su una fontana o a un cupido su [[A Valentine|un biglietto di San Valentino]].
+Il riso e la tristezza ci legano a cose scomparse da tempo e
+ricordate senza disonore; e possiamo vedere non del tutto senza
+tenerezza il crepuscolo calare intorno alla fattoria sabina e udire
+gli dèi domestici esultare quando Catullo torna a [[Home|casa]], a Sirmione.
+Deleta est Carthago.
+
+* * *
 
 
 
@@ -15319,6 +17683,20 @@ The rule of the Punic merchant princes had the very [[Soul|soul]] of usury.
 But there was never a Punic mob that dared to call them usurers.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VIII
+
+LA FINE DEL MONDO
+
+Un giorno d'[[Summer|estate]] me ne stavo seduto in un prato del [[Kent]], all'[[Shadow|ombra]] di una piccola chiesa di villaggio, in compagnia di un tipo piuttosto singolare con cui avevo appena attraversato i boschi. Apparteneva a un gruppo di eccentrici in cui mi ero imbattuto nei miei vagabondaggi, i quali professavano una nuova religione detta Pensiero Superiore; nella quale ero stato iniziato quel tanto che bastava a coglierne una generale atmosfera di elevatezza o di altezza, e speravo, in qualche stadio più avanzato ed esoterico, di scoprirvi i primordi del pensiero. Il mio compagno era il più divertente di tutti, poiché, comunque stessero le cose fra lui e il pensiero, era quantomeno assai superiore agli altri quanto a esperienza, avendo viaggiato oltre i tropici mentre quelli meditavano nei sobborghi; per quanto lo si accusasse di eccedere nel raccontare storie da viaggiatore. A dispetto di tutto ciò che si diceva contro di lui, lo preferivo ai suoi compagni e lo seguii volentieri per il bosco; dove non potei fare a meno di notare che il suo volto abbronzato, le folte sopracciglia irsute e la barba a punta gli davano qualcosa dell'aspetto di Pan. Poi ci sedemmo nel prato e volgemmo lo sguardo, oziosi, alle cime degli alberi e alla guglia della chiesa del villaggio; mentre il caldo pomeriggio cominciava a maturare nel primo crepuscolo e il [[Song|canto]] di un uccellino, un puntolino lassù, giungeva fioco altissimo nel cielo, e non più di un sussurro di brezza carezzava, più che agitare, gli antichi frutteti del [[Garden|giardino]] d'Inghilterra. Allora il mio compagno mi disse: «Sapete perché la guglia di quella chiesa si slancia così verso l'alto?». Espressi un rispettabile agnosticismo, ed egli rispose con noncuranza: «Oh, la stessa ragione degli obelischi: il culto fallico dell'antichità». Allora mi voltai di scatto a guardarlo, mentre giaceva lì sogghignando al di sopra della sua barba caprina; e per un istante pensai che non fosse Pan, ma il Diavolo. Nessuna parola mortale può esprimere l'immensa, l'insana incongruità e la perversione innaturale del pensiero implicita nel dire una cosa simile in un simile momento e in un simile luogo. Per un istante fui preso dallo stato d'animo in cui gli uomini bruciavano le streghe; e poi un senso d'assurdità altrettanto enorme parve schiudersi intorno a me come un'[[Dawn|alba]]. «Ma certo», dissi dopo un attimo di riflessione, «se non fosse stato per il culto fallico, avrebbero costruito la guglia rivolta all'ingiù, ritta sulla propria punta.» Avrei potuto restare seduto in quel campo a ridere per un'ora intera. Il mio amico non parve offendersi, poiché in verità non fu mai suscettibile riguardo alle sue scoperte scientifiche. L'avevo incontrato solo per caso e non lo rividi mai più, e credo che ora sia morto; ma benché non abbia nulla a che vedere con l'argomento, forse val la pena di riferire il nome di questo adepto del Pensiero Superiore e interprete delle primitive origini religiose; o quantomeno il nome con cui era conosciuto. Era Louis de Rougemont.
+
+Quell'immagine folle della chiesa del Kent ritta sulla punta della sua guglia, come in qualche vecchia fiaba rustica alla rovescia, mi torna sempre nell'[[Imagination|immaginazione]] quando sento dire queste cose sulle origini pagane; e chiama in mio soccorso la risata dei giganti. Allora provo per tutti gli altri ricercatori scientifici, alti critici e autorità in materia di religioni antiche e moderne un sentimento tanto cordiale e caritatevole quanto quello che nutro per il povero Louis de Rougemont. Ma il [[Memory|ricordo]] di quell'immensa assurdità rimane come una sorta di misura e di freno con cui conservare la sanità di mente, non solo a proposito delle chiese cristiane, ma anche a proposito dei templi pagani. Ora, moltissimi hanno parlato delle origini pagane come l'illustre viaggiatore parlava delle origini cristiane. Anzi, moltissimi pagani moderni sono stati durissimi con il paganesimo. Moltissimi umanitari moderni sono stati durissimi con la vera religione dell'umanità. L'hanno rappresentata come radicata dappertutto, e fin dall'inizio, unicamente in quei ripugnanti arcani; e come portatrice del carattere di qualcosa di assolutamente svergognato e anarchico. Ebbene, io non lo credo neppure per un istante. Non mi sognerei mai di pensare dell'intero culto di [[Apollo]] ciò che de Rougemont poteva pensare del culto di [[Christ|Cristo]]. Non ammetterei mai che vi fosse in una [[City|città]] greca quell'atmosfera che quel folle riuscì ad annusare in un villaggio del Kent. Al contrario, è proprio questo il punto, anche di quest'ultimo capitolo sulla [[Decay|decadenza]] finale del paganesimo: insistere ancora una volta sul fatto che la peggiore specie di paganesimo era già stata sconfitta dalla migliore. Fu la migliore specie di paganesimo a conquistare l'oro di Cartagine. Fu la migliore specie di paganesimo a cingere gli allori di Roma. Fu la cosa migliore che il mondo avesse ancora veduto, tutto sommato e su qualsiasi grande scala, quella che regnò dal vallo dei Grampiani al [[Garden|giardino]] dell'Eufrate. Fu il meglio a conquistare; fu il meglio a regnare; e fu il meglio a cominciare a [[Decay|decadere]].
+
+Se non si afferra questa ampia [[Truth|verità]], l'intera vicenda appare stravolta. Il pessimismo non sta nell'essere stanchi del male, ma nell'essere stanchi del bene. La [[Despair|disperazione]] non consiste nell'essere stanchi della [[Suffering|sofferenza]], ma nell'essere stanchi della gioia. È quando, per una ragione o per l'altra, le cose buone di una società cessano di funzionare che la società comincia a declinare; quando il suo cibo non nutre più, quando i suoi rimedi non guariscono, quando le sue benedizioni si rifiutano di benedire. Potremmo quasi dire che in una società priva di simili cose buone difficilmente avremmo un metro con cui registrare un declino; ecco perché alcune delle statiche oligarchie commerciali come Cartagine hanno, nella [[history|storia]], piuttosto l'aria di stare ritte a fissare il vuoto come mummie, tanto disseccate, fasciate e imbalsamate che nessuno sa quando siano nuove o vecchie. Ma Cartagine, in ogni caso, era morta, e il peggiore assalto mai sferrato dai demoni contro la società mortale era stato respinto. Ma quanto poteva importare che il peggio fosse morto, se il meglio stava morendo?
+
+Per cominciare, va notato che il rapporto di Roma con Cartagine si ripeté in parte e si estese nel suo rapporto con nazioni più normali e a lei più affini di Cartagine. Non mi propongo qui di confutare la tesi meramente politica secondo cui gli uomini di Stato romani agirono senza scrupoli verso Corinto o le città greche. Ma mi propongo di contraddire l'idea che nell'ordinaria avversione romana per le città greche non vi fosse altro che un pretesto ipocrita. Non presento questi pagani come paladini di cavalleria, dotati di un sentimento nazionalistico ignoto fino all'epoca cristiana. Ma li presento come uomini dotati dei sentimenti degli uomini; e quei sentimenti non erano una finzione. La [[Truth|verità]] è che una delle debolezze insite nel culto della [[Nature|natura]] e nella pura mitologia aveva già prodotto tra i Greci una perversione dovuta alla peggiore delle sofisticherie: la sofisticheria della semplicità. Come divennero innaturali adorando la [[Nature|natura]], così divennero davvero disumani adorando l'uomo. Se la Grecia guidò il suo conquistatore, poté anche traviarlo; ma queste erano cose che egli in origine desiderava davvero conquistare — sempre in sé stesso. È vero che, in un certo senso, vi fu meno disumanità perfino a Sodoma e Gomorra che a Tiro e Sidone. Quando consideriamo la guerra dei demoni contro i fanciulli, non possiamo paragonare neppure la decadenza greca al culto punico del diavolo. Ma non è vero che la sincera ripugnanza verso l'una o l'altro debba essere per forza soltanto farisaica. Non è vero secondo la [[Nature|natura]] umana né secondo il buon senso. Che un qualunque ragazzo che abbia avuto la fortuna di crescere sano e semplice nei suoi [[Dreams|sogni]] d'[[Love|amore]] senta per la prima [[Time|volta]] parlare del culto di Ganimede: non ne sarà soltanto scandalizzato, ma disgustato. E quella prima impressione, come s'è detto qui tanto spesso a proposito delle prime impressioni, sarà quella giusta. La nostra cinica indifferenza è un'illusione; è la più grande di tutte le illusioni; l'illusione della familiarità. È giusto concepire le virtù più o meno rustiche della massa dei Romani delle origini come reagenti contro la sola voce di ciò, con piena spontaneità e sincerità. È giusto considerarli come reagenti, se pure in grado minore, esattamente come reagirono contro la crudeltà di Cartagine. Fu perché lo fecero in grado minore che non distrussero Corinto come distrussero Cartagine. Ma se il loro atteggiamento e la loro azione furono piuttosto distruttivi, in nessuno dei due casi la loro indignazione dovette essere mera ipocrisia [[Self|farisaica]] a coprire mero egoismo. E se qualcuno insiste che in nessuno dei due casi poté operare altro che ragioni di Stato e congiure commerciali, non possiamo che dirgli che c'è qualcosa che egli non comprende; qualcosa che forse non comprenderà mai; qualcosa che, finché non lo comprenderà, gli impedirà per sempre di comprendere i Latini. Quel qualcosa si chiama [[democracy|democrazia]]. Probabilmente ha udito la parola parecchie volte e l'ha persino usata lui stesso; ma non ha la minima idea di che cosa significhi. Per tutta la [[history|storia]] rivoluzionaria di Roma vi fu un incessante impulso verso la [[democracy|democrazia]]; lo Stato e l'uomo di Stato nulla potevano senza un notevole sostegno della [[democracy|democrazia]]; quella specie di [[democracy|democrazia]] che non ha mai nulla a che fare con la diplomazia. È proprio a causa della presenza della [[democracy|democrazia]] romana che sentiamo parlare tanto dell'oligarchia romana. Per esempio, storici recenti hanno cercato di spiegare il valore e la vittoria di Roma in termini di quella detestabile e detestata usura praticata da alcuni dei Patrizi; come se Curio avesse sconfitto gli uomini della falange macedone prestando loro denaro, o come se il console Nerone avesse negoziato la vittoria del Metauro al cinque per cento. Ma è per la perpetua rivolta dei Plebei che ci rendiamo conto dell'usura dei Patrizi. Il dominio dei principi mercanti punici aveva la vera [[Soul|anima]] dell'usura. Ma non vi fu mai una plebe punica che osasse chiamarli usurai.
+
 
 
 <span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_02" data-title="everlasting man — Chapter 10: The End Of The World (part 2)" data-chapter="The End Of The World" data-kind="excerpt"></span>
@@ -15453,6 +17831,14 @@ it is in its very [[Nature|nature]] only the failure of [[Nature|nature]]-worshi
 or the [[Love|love]] of the natural
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Gravata, come ogni cosa mortale, di ogni peccato e debolezza mortale, l'ascesa di Roma era stata in realtà l'ascesa di ciò che è normale e, soprattutto, di ciò che è popolare; e in nulla più che nell'odio schiettamente normale e profondamente popolare per la perversione. Ora, presso i Greci una perversione era divenuta una convenzione. È vero che era divenuta a tal punto una convenzione, e specialmente una convenzione letteraria, da essere talvolta imitata per convenzione dai letterati romani. Ma questa è una di quelle complicazioni che sorgono sempre dalle convenzioni. Non deve offuscare la nostra percezione della differenza di tono fra le due società prese nel loro insieme. È vero che Virgilio poteva, di quando in quando, riprendere un tema di Teocrito; ma nessuno può ricavarne l'impressione che Virgilio fosse particolarmente affezionato a quel tema. I temi di Virgilio erano in modo speciale e cospicuo i temi normali, e in nessun campo più che in quello della morale: la pietà, il patriottismo e l'[[Honour|onore]] della vita agreste. E ben possiamo [[Well|indugiare]] sul nome del poeta mentre passiamo nell'[[Autumn|autunno]] dell'antichità; sul nome di colui che fu, in un senso così supremo, la voce stessa dell'[[Autumn|autunno]], della sua maturità e della sua [[Melancholy|malinconia]]; dei suoi frutti d'adempimento e della sua prospettiva di [[Decay|decadenza]]. Nessuno che legga anche solo poche righe di Virgilio può [[Doubt|dubitare]] che egli comprendesse che cosa significhi per l'umanità la [[Sanity|sanità]] morale. Nessuno può [[Doubt|dubitare]] dei suoi sentimenti quando i demòni vennero messi in fuga davanti agli dèi domestici. Ma vi sono due punti particolari, a proposito suo e della sua opera, che rivestono un'importanza particolare per la tesi principale che qui si sostiene. Il primo è che l'intero suo grande [[Epic|poema]] patriottico si fonda, in un senso assai peculiare, sulla caduta di Troia; ossia su un dichiarato [[Pride|orgoglio]] per Troia, benché fosse caduta. Facendo risalire ai Troiani la fondazione della sua amata stirpe e repubblica, egli diede inizio a ciò che si potrebbe chiamare la grande tradizione troiana che attraversa la [[history|storia]] medievale e moderna. Ne abbiamo già visto il primo accenno nel pathos di Omero riguardo a [[Hector|Ettore]]. Ma Virgilio la trasformò non soltanto in letteratura, bensì in leggenda. Ed era una leggenda di quella dignità quasi divina che appartiene ai vinti. Questa fu una delle tradizioni che davvero prepararono il mondo alla venuta del [[Christianity|Cristianesimo]] e specialmente della cavalleria cristiana. Questo è ciò che contribuì a sostenere la civiltà attraverso le incessanti sconfitte dei Secoli Bui e delle guerre barbariche, dalle quali nacque ciò che chiamiamo cavalleria. È l'atteggiamento morale dell'uomo con le spalle al muro; e quel muro era il muro di Troia. Lungo tutto il corso dei tempi medievali e moderni questa versione delle virtù nel conflitto omerico si può rintracciare in cento modi, cooperando con tutto ciò che le era affine nel sentimento cristiano. I nostri stessi connazionali, e gli uomini di altri paesi, amavano vantarsi, come Virgilio, che la propria nazione discendesse dagli eroici Troiani. Ogni sorta di gente riteneva che fosse la specie più superba di araldica il vantare la discendenza da [[Hector|Ettore]]. Nessuno, a quanto pare, ha mai voluto discendere da [[Achilles|Achille]]. Il fatto stesso che il nome troiano sia divenuto un nome di battesimo, e sia stato disseminato fino agli estremi confini della Cristianità, in Irlanda o negli altopiani gaelici, mentre il nome greco è rimasto relativamente raro e pedantesco, è un tributo alla medesima [[Truth|verità]]. Anzi, esso comporta una curiosità linguistica quasi nella [[Nature|natura]] di uno scherzo. Il nome è stato mutato in verbo; e la stessa espressione inglese *to hector*, nel senso di spavaldeggiare, evoca le miriadi di soldati che hanno preso a modello il Troiano caduto. In realtà, nessuno nell'antichità fu meno incline a spavaldeggiare di [[Hector|Ettore]]. Ma persino il bullo che si spacciava per conquistatore traeva il suo titolo dal conquistato. Ecco perché la divulgazione dell'origine troiana operata da Virgilio ha una relazione vitale con tutti quegli elementi che hanno indotto gli uomini a dire che Virgilio era quasi un cristiano. È quasi come se due grandi strumenti o balocchi ricavati dal medesimo legno, il divino e l'umano, fossero stati nelle mani della [[Providence|Provvidenza]]; e la sola cosa comparabile alla [[Cross|Croce]] di legno del Calvario fosse il [[Horse|Cavallo]] di legno di Troia. Così, in qualche selvaggia [[Allegory|allegoria]], pia nell'intento se pur quasi profana nella forma, il santo [[Child|Bambino]] avrebbe potuto combattere il drago con una [[Sword|spada]] di legno e un [[Horse|cavallo]] di legno.
+
+L'altro elemento in Virgilio che è essenziale all'argomento è la particolare [[Nature|natura]] del suo rapporto con la mitologia; o con ciò che qui, in un senso speciale, si può chiamare folclore, le fedi e le fantasie del popolo. Tutti sanno che la sua poesia, nel suo culmine di perfezione, si occupa meno della pomposità dell'Olimpo che dei *numina* della vita naturale e agricola. Tutti sanno dove Virgilio cercasse le cause delle cose. Egli dice di trovarle non tanto nelle allegorie cosmiche di Urano e di Crono, quanto piuttosto in Pan e nella sorellanza delle ninfe e in Silvano, il vecchio della foresta. Egli è forse più se stesso in alcuni passi delle *Ecloghe*, in cui ha perpetuato per sempre la grande leggenda dell'Arcadia e dei pastori. Anche qui è fin troppo facile mancare il punto con una critica meschina intorno a tutte le cose che per caso separano la sua convenzione letteraria dalla nostra. Non c'è nulla di più artificioso del grido di artificiosità levato contro l'antica poesia [[Pastoral|pastorale]]. Abbiamo interamente frainteso tutto ciò che i nostri padri intendevano, guardando alle apparenze esteriori di ciò che scrivevano. La gente si è tanto divertita del mero fatto che la pastorella di porcellana fosse fatta di porcellana, da non essersi neppure chiesta perché fosse stata fatta. Si è talmente accontentata di considerare l'Allegro Contadino come una figura d'opera lirica, da non essersi domandata neppure come sia giunto ad andare all'opera, o come sia capitato sul palcoscenico.
+
+In breve, basta chiedersi perché esista una pastorella di porcellana e non un bottegaio di porcellana. Perché le mensole dei camini non venivano adornate con figure di mercanti di [[City|città]] in eleganti atteggiamenti; di padroni delle ferriere forgiati in ferro, o di speculatori d'oro forgiati in oro? Perché l'opera lirica esibiva un Allegro Contadino e non un Allegro Politico? Perché non c'era un balletto di banchieri che piroettano sulle punte dei piedi? Perché l'antico istinto e l'[[Humour|umorismo]] dell'umanità hanno sempre detto agli uomini, sotto qualsiasi convenzione, che le convenzioni delle città complesse erano meno realmente sane e felici delle usanze della campagna. Così è dell'[[Eternity|eternità]] delle *Ecloghe*. Un poeta moderno scrisse davvero delle cose intitolate *Fleet Street Eclogues*, in cui i poeti prendevano il posto dei pastori. Ma nessuno ha ancora scritto qualcosa intitolato *Wall Street Eclogues*, in cui i milionari dovessero prendere il posto dei poeti. E la ragione è che esiste un desiderio reale, per quanto solo ricorrente, di quella sorta di semplicità; e non esiste mai quel genere di desiderio per quel genere di complessità. La chiave del mistero dell'Allegro Contadino è che il contadino spesso è allegro. Coloro che non lo credono sono semplicemente coloro che non sanno nulla di lui, e perciò non sanno quali siano i suoi tempi di allegria. Coloro che non credono al banchetto o al [[Song|canto]] del pastore sono soltanto ignari del calendario del pastore. Il pastore reale è invero assai diverso dal pastore ideale, ma questa non è una ragione per dimenticare la realtà alla radice dell'ideale. Occorre una [[Truth|verità]] per fare una tradizione. Occorre una tradizione per fare una convenzione. La poesia [[Pastoral|pastorale]] è certamente spesso una convenzione, specialmente in un declino sociale. Fu in un declino sociale che i pastori e le pastorelle di Watteau oziavano per i giardini di Versailles. Fu del pari in un declino sociale che pastori e pastorelle continuarono a suonare la zampogna e a [[Dance|danzare]] attraverso le più sbiadite imitazioni di Virgilio. Ma questa non è una ragione per liquidare il paganesimo morente senza mai comprenderne la vita. Non è una ragione per dimenticare che la parola stessa *Pagano* è la medesima della parola *Contadino*. Possiamo dire che quest'arte è solo artificiosità; ma non è un [[Love|amore]] dell'artificiale. Al contrario, essa è nella sua stessa [[Nature|natura]] soltanto il fallimento del culto della [[Nature|natura]], o dell'[[Love|amore]] del naturale
+
 
 
 <span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_03" data-title="everlasting man — Chapter 10: The End Of The World (part 3)" data-chapter="The End Of The World" data-kind="excerpt"></span>
@@ -15565,6 +17951,115 @@ occultism is very much appreciated in the best houses.
 As the philosopher is already a society entertainer, he may as [[Well|well]]
 also be a conjurer.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché i pastori morivano perché morivano i loro dèi.
+Il paganesimo viveva di poesia; quella poesia già considerata sotto il nome
+di mitologia. Ma ovunque, e specialmente in [[Italy|Italia]], era stata
+una mitologia e una poesia radicate nella campagna; e quella religione
+rustica era stata in gran parte responsabile della felicità rustica.
+Solo quando l'intera società crebbe in età ed esperienza, cominciò
+ad affiorare quella debolezza propria di ogni mitologia già rilevata nel capitolo
+che ne porta il nome. Questa religione non era propriamente una religione.
+In altre parole, questa religione non era propriamente una realtà.
+Era la baldoria del mondo giovane con immagini e idee, come la baldoria
+di un giovane con il vino o con l'[[Love|amore]]; non era tanto immorale
+quanto irresponsabile; non aveva alcuna previdenza della prova finale del [[Time|tempo]].
+Poiché era creativa senza misura, era credula senza misura.
+Apparteneva al lato artistico dell'uomo, eppure, anche considerata
+artisticamente, era da tempo divenuta sovraccarica e ingarbugliata.
+Gli alberi genealogici germogliati dal seme di Giove erano una giungla
+più che una foresta; le pretese degli dèi e dei semidèi parevano
+faccende da risolvere piuttosto da un avvocato o da un araldo di professione
+che da un poeta. Ma è superfluo dire che non era solo
+in senso artistico che queste cose erano divenute più anarchiche.
+Era apparso in forma sempre più sfacciata quel fiore
+del male che è davvero implicito nel seme stesso del culto della [[Nature|natura]],
+per quanto naturale possa sembrare. Ho detto che non credo
+che il culto naturale cominci necessariamente con questa particolare passione;
+non appartengo alla scuola di De Rougemont del folklore scientifico.
+Non credo che la mitologia debba cominciare con l'erotismo.
+Ma credo davvero che la mitologia debba finirvi. Sono del tutto certo
+che la mitologia vi è finita. Inoltre, non solo la poesia
+si fece più immorale, ma l'immoralità si fece più indifendibile.
+Vizi greci, vizi orientali, sentori degli antichi orrori dei demoni
+semitici cominciarono a riempire le fantasie di una Roma in decadenza, sciamando come mosche
+su un letamaio. La psicologia della cosa è davvero abbastanza umana per chiunque
+voglia tentare quell'esperimento di vedere la [[history|storia]] dall'interno.
+Viene un'ora del pomeriggio in cui il [[Child|bambino]] è stanco
+del «far finta»; in cui è stufo di fare il brigante o il pellerossa.
+È allora che tormenta il gatto. Viene un [[Time|momento]], nel corso ordinato
+di una civiltà ben regolata, in cui l'uomo è stanco di giocare alla mitologia
+e di far finta che un albero sia una fanciulla o che la [[Moon|luna]] facesse l'[[Love|amore]]
+con un uomo. L'effetto di questo languore è ovunque il medesimo;
+lo si vede in ogni assunzione di droghe e in ogni tracannare di liquori e in ogni forma
+di quella tendenza ad aumentare la dose. Gli uomini cercano peccati più strani
+o oscenità più sconvolgenti come stimolanti al loro senso ottuso.
+Cercano per la stessa ragione folli religioni orientali.
+Tentano di pugnalare i propri nervi per riportarli in vita, foss'anche con i coltelli
+dei sacerdoti di Baal. Camminano nel [[Sleep|sonno]] e tentano
+di svegliarsi con gli incubi.
+
+A quello stadio anche del paganesimo, dunque, i [[songs|canti]] e le danze dei contadini
+risuonano sempre più fiochi nella foresta. Anzitutto la civiltà
+contadina stava svanendo, o era già svanita da tutta la campagna.
+L'Impero, alla fine, era organizzato sempre più secondo quel sistema servile
+che generalmente si accompagna al vanto dell'organizzazione, e anzi era quasi
+tanto senile quanto i moderni progetti di organizzazione dell'industria.
+È risaputo che ciò che un tempo sarebbe stato un contadiname divenne
+un mero popolino cittadino dipendente per il pane e i circhi;
+il che può di nuovo suggerire ad alcuni una folla dipendente dai sussidi e dai cinema.
+In questo, come in molti altri riguardi, il moderno ritorno al paganesimo è stato
+un ritorno non già alla giovinezza pagana, ma piuttosto alla vecchiaia pagana.
+Ma le cause di ciò furono spirituali in entrambi i casi; e in particolare
+lo spirito del paganesimo se n'era andato con i suoi spiriti familiari.
+Il calore ne era uscito insieme ai suoi dèi domestici, che se ne andarono
+insieme agli dèi del [[Garden|giardino]] e del campo e della foresta.
+Il Vecchio della Foresta era troppo vecchio; stava già morendo.
+Si dice giustamente, in un certo senso, che Pan morì perché nacque [[Christ|Cristo]].
+È quasi altrettanto vero, in un altro senso, che gli uomini seppero che [[Christ|Cristo]]
+era nato perché Pan era già morto. Un vuoto fu prodotto
+dallo svanire dell'intera mitologia dell'umanità, che sarebbe rimasta
+asfissiata come in un vacuum se non fosse stata riempita di teologia.
+Ma il punto, per il momento, è che la mitologia non avrebbe potuto
+durare come una teologia in nessun caso. La teologia è pensiero,
+che vi si consenta o meno. La mitologia non fu mai pensiero,
+e nessuno poteva davvero consentirvi o dissentirne.
+Era un mero stato d'animo di incanto, e quando lo stato d'animo se ne andò non poté
+essere recuperato. Gli uomini non solo cessarono di credere negli dèi,
+ma compresero di non averci mai creduto.
+Ne avevano cantato le lodi; avevano danzato attorno ai loro altari.
+Avevano suonato il flauto; avevano fatto la parte dello [[Fool|sciocco]].
+
+Così scese il crepuscolo sull'Arcadia e le ultime note della zampogna risuonano
+tristi dal boschetto di faggi. Nei grandi [[Poems|poemi]] virgiliani c'è
+già qualcosa di quella tristezza; ma gli amori e gli dèi
+domestici indugiano in versi leggiadri come quello che il signor Belloc prese come
+prova di intelligenza: incipe parve puer risu cognoscere matrem.
+Ma per loro, come per noi, la stessa famiglia umana cominciò a sgretolarsi
+sotto l'organizzazione servile e l'ammassarsi nelle città.
+La plebe urbana divenne illuminata; vale a dire perse l'energia mentale
+capace di creare miti. Lungo tutto il cerchio delle città
+del Mediterraneo il popolo piangeva la perdita degli dèi ed era consolato
+con i gladiatori. E intanto qualcosa di simile stava accadendo
+a quell'aristocrazia intellettuale dell'antichità che era andata passeggiando
+e discorrendo in lungo e in largo fin dai tempi di Socrate e Pitagora.
+Cominciarono a tradire davanti al mondo il fatto che stavano camminando
+in cerchio e ripetevano la stessa cosa più e più volte.
+La [[philosophy|filosofia]] cominciò a essere una barzelletta; cominciò anche a essere una noia.
+Quella innaturale semplificazione di ogni cosa in un sistema o in un altro,
+che abbiamo rilevato come il difetto del filosofo, rivelò a un tempo
+la propria finalità e la propria futilità. Tutto era virtù o tutto era
+felicità o tutto era fato o tutto era bene o tutto
+era male; comunque, tutto era tutto e non c'era altro
+da dire; e così lo dissero. Ovunque i saggi erano degenerati
+in sofisti; cioè in retori a pagamento o in proponitori di indovinelli.
+È uno dei sintomi di ciò che il saggio comincia a mutarsi
+non solo in sofista ma in mago. Un tocco di occultismo
+orientale è molto apprezzato nelle case migliori.
+Poiché il filosofo è già un intrattenitore mondano, tanto vale che [[Well|allora]]
+sia anche un prestigiatore.
 
 
 
@@ -15723,6 +18218,20 @@ the halo of hatred around the Church of God.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Molti moderni hanno insistito sull'angustia di quel mondo mediterraneo; e sugli orizzonti più vasti che avrebbero potuto attenderlo con la scoperta degli altri continenti. Ma questa è un'illusione, una delle tante illusioni del materialismo. I limiti che il paganesimo aveva toccato in Europa erano i limiti dell'esistenza umana; nel suo momento migliore aveva toccato quei medesimi limiti anche altrove. Gli stoici romani non avevano bisogno di alcun cinese per imparare lo stoicismo. I pitagorici non avevano bisogno di alcun indù per apprendere la dottrina del ricorso, o la vita semplice, o la [[Beauty|bellezza]] dell'essere [[vegetarian|vegetariani]]. Nella misura in cui potevano attingere queste cose dall'Oriente, ne avevano già attinte anche troppe dall'Oriente. I sincretisti erano convinti quanto i teosofi che tutte le religioni siano in fondo la stessa cosa. E come mai avrebbero potuto ampliare la [[philosophy|filosofia]] semplicemente ampliando la geografia? Difficilmente si potrebbe proporre che imparassero una religione più pura dagli aztechi, o si mettessero a sedere ai piedi degli incas del Perù. Tutto il resto del mondo era un guazzabuglio di barbarie. È essenziale riconoscere che l'Impero romano era riconosciuto come la più alta conquista della razza umana; e insieme come la più ampia. Un segreto tremendo pareva scritto quasi in oscuri geroglifici attraverso quelle possenti opere di marmo e di pietra, quei colossali anfiteatri e acquedotti. L'uomo non poteva fare di più.
+
+Poiché non era il messaggio fiammeggiante sulla parete babilonese, che un solo [[King|re]] era stato trovato manchevole o il suo unico regno consegnato a uno straniero. Non era una notizia così buona come la notizia di un'invasione e di una conquista. Non restava più nulla che potesse conquistare Roma; ma non restava neppure nulla che potesse migliorarla. Era la cosa più forte che stava indebolendosi. Era la cosa migliore che stava andando in rovina. È necessario insistere ancora e ancora sul fatto che molte civiltà si erano incontrate in un'unica civiltà del mare mediterraneo; che essa era già universale di un'universalità stantia e sterile. I popoli avevano messo in comune le loro risorse, e non bastava ancora. Gli imperi si erano associati, ed erano tuttavia in bancarotta. Nessun filosofo che fosse davvero filosofico poteva pensare altro se non che, in quel mare centrale, l'onda del mondo si era levata al suo culmine, quasi a sfiorare le [[Stars|stelle]]. Ma l'onda era già in declino; poiché non era che l'onda del mondo.
+
+Quella mitologia e quella [[philosophy|filosofia]] nelle quali il paganesimo è stato già analizzato erano state così entrambe prosciugate, nel senso più letterale, fino alla feccia. Se con il moltiplicarsi della [[Magic|magia]] il terzo dipartimento, che abbiamo chiamato dei demoni, si faceva perfino sempre più attivo, non fu mai altro che distruttivo. Rimane soltanto il quarto elemento, o piuttosto il primo; quello che in un certo senso era stato dimenticato proprio perché era il primo. Intendo l'impressione primaria e soverchiante, eppure impalpabile, che l'universo abbia, dopo tutto, una sola origine e un solo fine; e, poiché ha un fine, debba avere un autore. Che ne sia stato di questa grande [[Truth|verità]] sullo sfondo delle menti umane, in quel [[Time|tempo]], è forse più difficile stabilire. Alcuni fra gli stoici indubbiamente la videro sempre più chiaramente man mano che le nubi della mitologia si diradavano e si assottigliavano; e uomini grandi tra loro fecero molto, fino all'ultimo, per gettare le fondamenta di un concetto dell'[[unity|unità]] morale del mondo. Gli ebrei serbavano ancora gelosamente la loro segreta certezza di essa, dietro alte barriere di esclusivismo; eppure è quanto mai caratteristico della società e della situazione che alcune figure alla moda, e specialmente alcune dame alla moda, abbracciassero davvero il giudaismo. Ma nel caso di molti altri m'immagino che a questo punto entrasse in scena una nuova negazione. L'ateismo divenne realmente possibile in quel [[Time|tempo]] anormale; poiché l'ateismo è anormalità. Non è soltanto la negazione di un dogma. È il rovesciamento di un presupposto subcosciente nell'[[Soul|anima]]; il senso che vi sia un significato e una direzione nel mondo che essa contempla. Lucrezio, il primo evoluzionista che si sforzò di sostituire l'Evoluzione a Dio, aveva già fatto danzare dinanzi agli occhi degli uomini la sua [[Dance|danza]] di atomi scintillanti, per la quale concepiva il cosmo come creato dal caos. Ma non fu la sua vigorosa poesia né la sua triste [[philosophy|filosofia]], a quanto immagino, a rendere possibile agli uomini l'accogliere una simile visione. Fu qualcosa nel senso d'impotenza e di [[Despair|disperazione]] con cui gli uomini scuotevano invano i pugni contro le [[Stars|stelle]], mentre vedevano tutta la migliore opera dell'umanità affondare lentamente e senza scampo in una palude. Potevano facilmente credere che perfino la creazione stessa non fosse una creazione ma una caduta perpetua, quando vedevano che la più grave e la più degna di tutte le creazioni umane precipitava per il proprio peso. Potevano fantasticare che tutte le [[Stars|stelle]] fossero [[Stars|stelle]] cadenti; e che le colonne stesse dei loro solenni porticati si piegassero sotto una specie di [[deluge|diluvio]] graduale. Per uomini in tale stato d'animo vi era una ragione per l'ateismo che è in un certo senso ragionevole. La mitologia poteva dileguarsi e la [[philosophy|filosofia]] poteva irrigidirsi; ma se dietro queste cose vi era una realtà, certo quella realtà avrebbe potuto sorreggere le cose mentre affondavano. Non c'era Dio; se ci fosse stato un Dio, di certo questo era proprio il momento in cui Egli si sarebbe mosso e avrebbe salvato il mondo.
+
+La vita della grande civiltà proseguiva con tetra operosità e persino con tetra festosità. Era la fine del mondo, e il peggio era che non aveva alcuna necessità di finire mai. Un comodo compromesso era stato stipulato fra tutti i molteplici miti e le religioni dell'Impero: che ciascun gruppo adorasse liberamente e si limitasse a vivere una sorta di ufficiale ostentazione di ringraziamento verso il tollerante Imperatore, gettando un po' d'incenso in suo onore sotto il suo titolo ufficiale di Divus. Naturalmente non v'era alcuna difficoltà in ciò; o meglio passò lungo [[Time|tempo]] prima che il mondo si accorgesse che vi fosse mai stata, in qualche luogo, anche una difficoltà da nulla. I membri di una qualche setta orientale, o società segreta, o quel che fosse, sembravano aver fatto una scenata da qualche parte; nessuno riusciva a immaginare perché. L'incidente si ripeté una volta o due e cominciò a suscitare un'irritazione sproporzionata alla sua insignificanza. Non era esattamente ciò che quei provinciali dicevano; per quanto, s'intende, suonasse abbastanza strano. Sembravano dire che Dio era morto e che essi stessi lo avevano visto morire. Poteva essere una delle molte manie prodotte dalla [[Despair|disperazione]] dell'epoca; solo che non parevano particolarmente disperati. Sembravano innaturalmente gioiosi al riguardo, e ne davano per ragione che la [[Death|morte]] di Dio aveva permesso loro di mangiarlo e di berne il [[Blood|sangue]]. Secondo altri resoconti Dio non era propriamente morto, dopo tutto; s'insinuava per la sbigottita [[Imagination|immaginazione]] una sorta di fantastica processione del funerale di Dio, durante la quale il sole si faceva nero, ma che terminava con l'onnipotenza defunta che irrompeva fuori dal sepolcro e risorgeva come il sole. Ma non era la strana storia ciò a cui alcuno prestasse una particolare attenzione; la gente di quel mondo aveva visto religioni bizzarre a sufficienza per riempire un manicomio. Era qualcosa nel tono di quei pazzi e nel loro tipo di formazione. Erano un'accozzaglia raccogliticcia di barbari e di schiavi e di gente povera e insignificante; ma la loro formazione era militare; si muovevano insieme ed erano assai categorici su chi e che cosa facesse realmente parte del loro piccolo sistema; e su ciò che dicevano. Per quanto blandamente, vi era in essi un suono come di ferro. Uomini avvezzi a molte mitologie e a molte morali non riuscivano a fare alcuna analisi del mistero, se non la curiosa congettura che intendessero ciò che dicevano. Tutti i tentativi di far loro intendere ragione nella questione perfettamente semplice della statua dell'Imperatore parevano rivolti a sordi. Era come se un nuovo metallo meteorico fosse caduto sulla terra; era una differenza di sostanza al tatto. Coloro che toccavano il loro fondamento credevano d'aver urtato una roccia.
+
+Con una strana rapidità, come i mutamenti di [[A Dream|un sogno]], le proporzioni delle cose parevano mutare in loro presenza. Prima che la maggior parte degli uomini si accorgesse di ciò che era accaduto, quei pochi uomini erano palpabilmente presenti. Erano abbastanza importanti da essere ignorati. La gente d'un tratto ammutoliva sul loro conto e passava loro accanto impettita. Vediamo una nuova scena, in cui il mondo ha ritratto le proprie vesti lontano da questi uomini e da queste donne, ed essi stanno al centro di un grande spazio come lebbrosi. La scena muta di nuovo e il grande spazio in cui essi stanno è sovrastato da ogni lato da una nube di testimoni, interminabili gradinate gremite di volti che li guardano dall'alto intensamente; poiché cose strane stanno accadendo loro. Nuove torture sono state inventate per i pazzi che hanno recato una buona novella. Quella società triste e stanca sembra quasi trovare una nuova energia nell'istituire la sua prima persecuzione religiosa. Nessuno ancora sa con precisione perché quel mondo così piatto abbia in tal modo perduto l'equilibrio a proposito della gente in mezzo a sé; ma essi stanno innaturalmente immobili mentre l'arena e il mondo sembrano ruotare loro intorno. E in quell'ora oscura risplendette su di essi una luce che non è mai stata oscurata; un bianco [[Fire|fuoco]] avvinghiato a quel gruppo come una fosforescenza ultraterrena, che divampa lungo il suo cammino attraverso i crepuscoli della [[history|storia]] e confonde ogni sforzo di confonderlo con le nebbie della mitologia e della teoria; quel dardo di luce o di [[Lightning|folgore]] con cui il mondo stesso l'ha colpito e isolato e coronato; con cui i suoi stessi nemici l'hanno reso più illustre e i suoi stessi critici l'hanno reso più inesplicabile; l'aureola d'odio intorno alla Chiesa di Dio.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_01" data-title="everlasting man — Chapter 11: The God In The Cave (part 1)" data-chapter="The God In The Cave" data-kind="excerpt"></span>
@@ -15839,6 +18348,18 @@ if only as we admit it in an old picture, that those holy heads
 are too near together for the haloes not to mingle and [[Cross|cross]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I
+
+IL DIO NELLA [[Cave|CAVERNA]]
+
+Questo [[Sketch|abbozzo]] della vicenda umana cominciava in una [[Cave|caverna]]; la [[Cave|caverna]] che la scienza divulgativa associa all'uomo delle [[Cave|caverne]] e nella quale la scoperta pratica ha realmente rinvenuto disegni arcaici di [[Animals|animali]]. Anche la seconda metà della [[history|storia]] umana, che fu come una nuova creazione del mondo, comincia in una [[Cave|caverna]]. C'è persino un'[[Shadow|ombra]] di tale fantasia nel fatto che di nuovo erano presenti degli [[Animals|animali]]; poiché era una [[Cave|caverna]] usata come stalla dai montanari degli altopiani intorno a Betlemme, i quali ancor oggi spingono il loro bestiame dentro simili buche e antri di [[Night|notte]]. Fu qui che una coppia senza tetto si era intrufolata sottoterra con gli animali quando le porte del gremito caravanserraglio le erano state chiuse in faccia; e fu qui, proprio sotto i piedi dei passanti, in una cantina sotto il pavimento stesso del mondo, che nacque Gesù [[Christ|Cristo]]. Ma in quella seconda creazione c'era davvero qualcosa di simbolico nelle radici della roccia primordiale o nelle corna della mandria preistorica. Anche Dio fu un Uomo della [[Cave|Caverna]], e aveva anch'egli tracciato strane figure di creature, curiosamente colorate, sulla parete del mondo; ma le immagini che egli fece erano prese vita.
+
+Una massa di leggenda e di letteratura, che cresce e non avrà mai fine, ha ripetuto e variato in ogni tono quell'unico [[Paradox|paradosso]]: che le mani che avevano fatto il sole e le [[Stars|stelle]] erano troppo piccole per giungere alle enormi teste del bestiame. Su questo [[Paradox|paradosso]], potremmo quasi dire su questa facezia, si fonda tutta la letteratura della nostra [[Faith|fede]]. Somiglia almeno a una facezia in questo, che è qualcosa che il critico scientifico non riesce a vedere. Egli spiega faticosamente la difficoltà che noi abbiamo sempre esagerato con aria di sfida e quasi di scherno; e condanna blandamente come improbabile qualcosa che noi abbiamo quasi follemente esaltato come incredibile; come qualcosa che sarebbe troppo bello per essere vero, se non fosse che è vero. Quando quel contrasto tra la creazione cosmica e la piccola infanzia locale è stato ripetuto, reiterato, sottolineato, rimarcato, esultato, cantato, gridato, ruggito, per non dire ululato, in centomila inni, canti natalizi, filastrocche, riti, immagini, [[Poems|poesie]] e sermoni popolari, si può supporre che non abbiamo certo bisogno di un critico superiore per attirare la nostra attenzione su qualcosa di un po' strano al riguardo; specialmente uno di quel genere che pare impiegare molto [[Time|tempo]] a cogliere una battuta, persino la propria. Ma su questo contrasto e questa combinazione di idee si può dire qui una cosa, perché è pertinente all'intera tesi di questo libro. Il tipo di critico moderno di cui parlo è generalmente assai colpito dall'importanza dell'[[Education|educazione]] nella vita e dall'importanza della psicologia nell'[[Education|educazione]]. Quel tipo d'uomo non si stanca mai di dirci che le prime impressioni fissano il carattere secondo la legge di causalità; e diventerà del tutto nervoso se il senso visivo di un [[Child|bambino]] viene avvelenato dai colori sbagliati su un pupazzo o il suo sistema nervoso scosso prematuramente da un sonaglio cacofonico. Eppure ci giudicherà molto meschini se diciamo che è proprio per questo che c'è davvero una differenza tra l'essere cresciuti come cristiani e l'essere cresciuti come ebrei, o musulmani, o atei. La differenza è che ogni [[Child|bambino]] cattolico ha appreso dalle immagini, e persino ogni [[Child|bambino]] protestante dalle storie, questa incredibile combinazione di idee contrastanti come una delle primissime impressioni della sua mente. Non è soltanto una differenza teologica. È una differenza psicologica che può sopravvivere a qualsiasi teologia. È davvero, come quel genere di scienziato ama dire di qualunque cosa, incurabile. Ogni agnostico o ateo la cui [[Childhood|infanzia]] abbia conosciuto un vero Natale ha per sempre poi, che gli piaccia o no, un'associazione nella mente tra due idee che la maggior parte dell'umanità deve considerare remote l'una dall'altra: l'idea di un neonato e l'idea di una forza ignota che sostiene le [[Stars|stelle]]. I suoi istinti e la sua [[Imagination|immaginazione]] possono ancora collegarle, quando la sua ragione non vede più la necessità del nesso; per lui ci sarà sempre un qualche sapore di religione intorno alla semplice immagine di una madre e di un bambino; qualche accenno di [[Mercy|misericordia]] e di dolcezza nella semplice menzione del terribile nome di Dio. Ma le due idee non sono naturalmente né necessariamente combinate. Non sarebbero necessariamente combinate per un antico greco o per un cinese, nemmeno per Aristotele o per Confucio. Non è più inevitabile collegare Dio a un infante di quanto lo sia collegare la gravitazione a un gattino. Ciò è stato creato nelle nostre menti dal Natale perché siamo cristiani, perché siamo cristiani psicologici anche quando non lo siamo teologici. In altre parole, questa combinazione di idee ha, nella frase tanto contestata, decisamente mutato la [[Nature|natura]] umana. C'è realmente una differenza tra l'uomo che lo sa e l'uomo che non lo sa. Può non essere una differenza di valore morale, poiché il musulmano o l'ebreo potrebbe essere più degno secondo la sua luce; ma è un fatto lampante circa l'incrocio di due luci particolari, la congiunzione di due [[Stars|stelle]] nel nostro particolare oroscopo. Onnipotenza e impotenza, ovvero divinità e infanzia, formano davvero una sorta di [[Epigram|epigramma]] che un milione di ripetizioni non può ridurre a un luogo comune. Non è irragionevole chiamarlo unico. Betlemme è enfaticamente un luogo dove gli estremi si incontrano.
+
+Qui comincia, non c'è bisogno di dirlo, un'altra possente influenza per l'umanizzazione della cristianità. Se il mondo volesse ciò che si chiama un aspetto non controverso del [[Christianity|cristianesimo]], sceglierebbe probabilmente il Natale. Eppure esso è manifestamente legato a quello che si suppone sia un aspetto controverso (non ho mai potuto, in nessuna fase delle mie opinioni, immaginare perché): il rispetto tributato alla Beata Vergine. Quando ero ragazzo, una generazione più puritana obiettava a una statua sulla mia chiesa parrocchiale che rappresentava la Vergine e il [[Child|Bambino]]. Dopo molte controversie, scesero a un compromesso portando via il [[Child|Bambino]]. Si penserebbe che ciò fosse ancora più corrotto di mariolatria, a meno che la madre non venisse ritenuta meno pericolosa una volta privata di una sorta di arma. Ma la difficoltà pratica è anche una [[Parable|parabola]]. Non si può scalpellare via la statua di una madre da tutto ciò che circonda quella di un [[Child|bambino]] appena nato. Non si può sospendere a mezz'aria il [[Child|bambino]] appena nato; anzi, non si può affatto avere davvero una statua di un [[Child|bambino]] appena nato. Similmente, non si può sospendere nel vuoto l'idea di un [[Child|bambino]] appena nato, né pensarlo senza pensare a sua madre. Non si può far visita al [[Child|bambino]] senza far visita alla madre; non si può, nella comune vita umana, accostarsi al [[Child|bambino]] se non attraverso la madre. Se dobbiamo pensare a [[Christ|Cristo]] sotto questo aspetto, l'altra idea segue come segue nella [[history|storia]]. Dobbiamo o lasciare [[Christ|Cristo]] fuori dal Natale, o il Natale fuori da [[Christ|Cristo]], oppure dobbiamo ammettere, non fosse che come lo ammettiamo in un vecchio dipinto, che quelle sante teste sono troppo vicine l'una all'altra perché le aureole non si mescolino e si [[Cross|incrocino]].
+
 
 
 <span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_02" data-title="everlasting man — Chapter 11: The God In The Cave (part 2)" data-chapter="The God In The Cave" data-kind="excerpt"></span>
@@ -15950,6 +18471,16 @@ fulfil all things; and though no man heard it, there was one far-off
 cry in an unknown tongue upon the heaving wilderness of the [[Mountains|mountains]].
 The shepherds had found their Shepherd.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si potrebbe suggerire, con un'immagine alquanto violenta, che nulla fosse accaduto in quella piega o fenditura tra le grandi colline grigie, se non che l'universo intero era stato rovesciato come un guanto. Voglio dire che tutti gli occhi della [[Wonder|meraviglia]] e dell'adorazione, che erano stati rivolti all'infuori verso la cosa più grande, ora erano rivolti all'interno verso la più piccola. La stessa immagine suggerirà tutta quella moltitudine mirabile di occhi convergenti che rende buona parte dell'iconografia cattolica variopinta simile a una coda di pavone. Ma è vero, in un certo senso, che Dio, il quale era stato soltanto una circonferenza, fu visto come un centro; e un centro è infinitamente piccolo. È vero che la spirale spirituale d'ora innanzi opera all'interno anziché all'esterno, e in tal senso è centripeta e non centrifuga. La [[Faith|fede]] diventa, in più di un modo, una religione delle piccole cose. Ma le sue tradizioni nell'arte, nella letteratura e nella [[Fable|favola]] popolare hanno attestato a sufficienza, come si è detto, questo particolare [[Paradox|paradosso]] della divinità nella culla. Forse non hanno sottolineato con altrettanta chiarezza il significato della divinità nella [[Cave|grotta]]. Cosa abbastanza curiosa, in verità, la tradizione non ha posto in gran risalto la [[Cave|grotta]]. È un fatto notorio che la scena di Betlemme sia stata rappresentata in ogni possibile ambientazione di [[Time|tempo]] e di paese, di paesaggio e di architettura; ed è un fatto del tutto felice e ammirevole che gli uomini l'abbiano concepita in modo assai diverso secondo le loro diverse tradizioni e i loro diversi gusti individuali. Ma mentre tutti hanno compreso che si trattava di una stalla, non altrettanti hanno compreso che si trattava di una [[Cave|grotta]]. Alcuni critici sono stati perfino tanto sciocchi da supporre che vi fosse una qualche contraddizione tra la stalla e la [[Cave|grotta]]; nel qual caso non devono sapere granché di grotte o di stalle in Palestina. Poiché vedono differenze che non ci sono, è superfluo aggiungere che non vedono le differenze che ci sono. Quando un critico [[Well|celebre]] afferma, per esempio, che [[Christ|Cristo]] nato in una caverna rocciosa somiglia a Mitra sbucato vivo da una roccia, la cosa suona come una [[Parody|parodia]] della religione comparata. Esiste una cosa come il senso di una storia, anche quando è una storia nel senso di una menzogna. E l'idea di un [[Hero|eroe]] che appare, come Pallade dal cervello di Zeus, adulto e senza madre, è ovviamente l'esatto contrario dell'idea di un dio che nasce come un bambino qualunque e interamente dipendente da una madre. Quale che sia l'ideale che potremmo preferire, dovremmo di certo vedere che si tratta di ideali contrari. È tanto stolto collegarli perché entrambi contengono una sostanza chiamata pietra, quanto identificare il castigo del [[deluge|Diluvio]] con il battesimo nel Giordano perché entrambi contengono una sostanza chiamata [[Water|acqua]]. Sia come mito sia come mistero, [[Christ|Cristo]] fu ovviamente concepito come nato in un buco tra le rocce anzitutto perché ciò segnava la condizione di un reietto e di un senzatetto. Ciò nondimeno è vero, come ho detto, che la [[Cave|grotta]] non è stata così comunemente o così chiaramente usata come simbolo quanto le altre realtà che circondavano il primo Natale.
+
+E la ragione di questo si riferisce anch'essa alla [[Nature|natura]] stessa di quel nuovo mondo. Era, in un certo senso, la difficoltà di una nuova dimensione. [[Christ|Cristo]] non solo nacque al livello del mondo, ma perfino più in basso del mondo. Il primo atto del dramma divino fu recitato non solo su nessun palcoscenico eretto al di sopra dello spettatore, ma su una scena buia e velata da tende, sprofondata fuori dalla vista; e questa è un'idea assai difficile da esprimere nella maggior parte dei modi dell'espressione artistica. È l'idea di avvenimenti simultanei su diversi piani della vita. Qualcosa di simile avrebbe potuto essere tentato nell'arte medievale più arcaica e decorativa. Ma quanto più gli artisti apprendevano il realismo e la prospettiva, tanto meno potevano raffigurare a un tempo gli angeli nei cieli e i pastori sulle colline, e la gloria nelle tenebre che stava sotto le colline. Forse la cosa avrebbe potuto essere resa al meglio dal caratteristico espediente di alcune corporazioni medievali, quando facevano girare per le strade un teatro con tre palchi l'uno sopra l'altro, con il paradiso sopra la terra e l'inferno sotto la terra. Ma nell'[[Riddle|enigma]] di Betlemme era il paradiso a stare sotto la terra.
+
+In questo [[Alone|soltanto]] c'è il tocco di una rivoluzione, come di un mondo capovolto. Sarebbe vano tentare di dire alcunché di adeguato, o alcunché di nuovo, sul mutamento che questa concezione di una divinità nata come un reietto o addirittura un fuorilegge produsse sull'intera concezione della legge e dei suoi doveri verso i poveri e i reietti. È profondamente vero affermare che dopo quel momento non poterono più esservi schiavi. Poterono esservi, e vi furono, persone che portavano quel titolo giuridico, finché la Chiesa non fu abbastanza forte da estirparle, ma non poté più esservi quel pagano acquietarsi nel mero vantaggio che lo Stato traeva dal mantenersi Stato servile. Gli individui divennero importanti, in un senso in cui nessuno strumento può essere importante. Un uomo non poteva essere un mezzo per un fine, in ogni caso non per il fine di un altro uomo. Tutto questo elemento popolare e fraterno della storia è stato giustamente collegato dalla tradizione all'episodio dei Pastori; i bifolchi che si trovarono a parlare faccia a faccia con i principi del cielo. Ma vi è un altro aspetto dell'elemento popolare, quale è rappresentato dai pastori, che forse non è stato sviluppato con altrettanta pienezza; e che qui è più direttamente pertinente.
+
+Gli uomini del popolo, come i pastori, gli uomini della tradizione popolare, erano stati ovunque i creatori delle mitologie. Erano stati loro a sentire nel modo più diretto, con il minimo freno o gelo da parte della [[philosophy|filosofia]] o dei culti corrotti della civiltà, quel bisogno che abbiamo già considerato; le immagini che erano avventure dell'[[Imagination|immaginazione]]; la mitologia che era una sorta di ricerca; i suggerimenti tentatori e stuzzicanti di qualcosa di semi-umano nella [[Nature|natura]]; il muto significato delle [[Seasons|stagioni]] e dei luoghi particolari. Avevano compreso meglio di ogni altro che l'[[Soul|anima]] di un paesaggio è una storia e l'[[Soul|anima]] di una storia è una personalità. Ma il razionalismo aveva già cominciato a far marcire questi tesori del contadino, davvero irrazionali eppure ricchi di immaginazione; così come la [[Slavery|schiavitù]] sistematica aveva divorato il contadino, cacciandolo di [[house|casa]] e dal [[Home|focolare]]. Su tutte queste genti contadine, ovunque, calava un crepuscolo e una penombra di delusione, nell'ora in cui questi pochi uomini scoprivano ciò che cercavano. Dappertutto altrove l'Arcadia stava dileguando dalla foresta. Pan era morto e i pastori erano dispersi come pecore. E benché nessuno lo sapesse, era vicina l'ora che doveva porre fine a tutte le cose e adempierle; e benché nessuno la udisse, vi era un grido lontano in una lingua sconosciuta sull'ondeggiante deserto delle [[Mountains|montagne]]. I pastori avevano trovato il loro Pastore.
 
 
 
@@ -16117,6 +18648,168 @@ that the whole world once very nearly died of broadmindedness
 and the brotherhood of all religions.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+E ciò che essi trovarono era della stessa natura delle cose che cercavano.
+La gente comune si era sbagliata in molte cose; ma non si era
+sbagliata nel credere che le cose sacre potessero avere una dimora
+e che la divinità non dovesse sdegnare i limiti del [[Time|tempo]] e dello spazio.
+E il barbaro che concepì la più rozza fantasia sul sole
+rubato e nascosto in una cassa, o il mito più selvaggio sul dio
+soccorso e sul suo nemico ingannato con una pietra, era più vicino
+al segreto della [[Cave|caverna]] e sapeva più cose sulla crisi del mondo
+di tutti coloro che, nel cerchio delle città intorno al Mediterraneo, si erano
+accontentati di fredde astrazioni o di generalizzazioni cosmopolite;
+di tutti coloro che filavano fili di pensiero sempre più sottili
+traendoli dal trascendentalismo di Platone o dall'orientalismo di Pitagora.
+Il luogo che i pastori trovarono non era un'accademia né una
+repubblica astratta, non era un luogo di miti allegorizzati o sezionati
+o spiegati o spiegati via.  Era un luogo di [[Dreams|sogni]] avverati.
+Da quell'ora non sono più stati creati miti nel mondo.
+La mitologia è una ricerca.
+
+Tutti sappiamo che la rappresentazione popolare di questa storia popolare,
+in tanti drammi sacri e canti natalizi, ha dato ai pastori
+i costumi, la lingua e il paesaggio delle diverse
+campagne inglesi ed europee.  Tutti sappiamo che un
+pastore parlerà in un dialetto del Somerset o un altro parlerà di
+spingere le sue pecore da Conway verso il Clyde.  I più di noi sanno
+a questo [[Time|punto]] quanto sia vero quell'errore, quanto sia saggio, quanto sia artistico,
+quanto intensamente cristiano e cattolico sia quell'anacronismo.
+Ma alcuni che l'hanno visto in queste scene di rusticità medievale
+forse non l'hanno visto in un'altra sorta di poesia, quella che a volte
+si usa chiamare artificiosa piuttosto che artistica.
+[[Fear|Temo]] che molti critici moderni vedranno soltanto uno stinto classicismo
+nel fatto che uomini come Crashaw e Herrick concepirono i pastori
+di Betlemme sotto la forma dei pastori di Virgilio.
+Eppure avevano profondamente ragione; e trasformando la loro sacra rappresentazione betlemita
+in un'Ecloga latina raccolsero uno degli anelli più importanti
+della [[history|storia]] umana.  Virgilio, come già abbiamo visto, sta bensì per
+tutto quel paganesimo più sano che aveva rovesciato l'insano paganesimo
+del sacrificio umano; ma il fatto stesso che perfino le virtù
+virgiliane e il sano paganesimo fossero in inguaribile [[Decay|decadenza]] è tutto
+il problema di cui la rivelazione ai pastori è la soluzione.
+Se il mondo avesse mai avuto occasione di stancarsi dell'essere
+demoniaco, avrebbe potuto essere guarito semplicemente col tornare sano.
+Ma se si era stancato perfino dell'essere sano, che cosa poteva accadere,
+se non ciò che accadde?  Né è falso concepire il pastore arcadico
+delle Ecloghe come esultante di ciò che accadde.  Una
+delle Ecloghe è stata perfino rivendicata come profezia di ciò che accadde.
+Ma è altrettanto nel tono e nella dizione incidentale del grande
+poeta che avvertiamo la potenziale simpatia con il grande evento;
+e perfino nelle loro stesse frasi umane le voci dei pastori
+virgiliani più d'una volta avrebbero potuto rompersi in qualcosa di più
+della tenerezza dell'[[Italy|Italia]]: «Incipe, parve puer, risu cognoscere matrem.»
+Essi avrebbero potuto trovare in quello strano luogo tutto il meglio
+delle ultime tradizioni dei Latini; e qualcosa di migliore di un
+idolo di legno eretto in eterno a colonna della famiglia umana:
+un dio domestico.  Ma essi e tutti gli altri mitologi
+sarebbero giustificati nell'esultare per il fatto che l'evento aveva compiuto
+non solo il misticismo ma il materialismo della mitologia.
+La mitologia ebbe molti peccati; ma non si era sbagliata nell'essere
+carnale quanto l'Incarnazione.  Ma qualcosa dell'antica voce
+che si supponeva avesse risuonato per le tombe, poteva
+gridare di nuovo: «Abbiamo veduto, egli ci ha veduti, un dio visibile.»
+Così gli antichi pastori avrebbero potuto danzare, e i loro piedi essere
+belli sui monti, esultando sopra i filosofi.
+Ma anche i filosofi avevano udito.
+
+È ancora una storia strana, benché antica, di come essi vennero
+da terre d'oriente, coronati della maestà dei re e vestiti di
+qualcosa del mistero dei maghi.  Quella verità che è tradizione
+li ha saggiamente ricordati quasi come incognite, misteriosi
+quanto i loro nomi misteriosi e melodiosi: Melchiorre, Gaspare, Baldassarre.
+Ma con essi venne tutto quel mondo di sapienza che aveva scrutato
+le stelle in Caldea e il sole in Persia; e non sbaglieremo
+se scorgiamo in loro la stessa curiosità che muove tutti i saggi.
+Rappresenterebbero il medesimo ideale umano se i loro nomi fossero stati
+davvero Confucio o Pitagora o Platone.  Erano coloro che cercavano
+non favole ma la verità delle cose, e poiché la loro sete di verità
+era essa stessa una sete di Dio, anch'essi ebbero la loro ricompensa.
+Ma anche per comprendere quella ricompensa, dobbiamo comprendere che
+per la filosofia non meno che per la mitologia quella ricompensa fu il compimento
+dell'incompiuto.
+
+Uomini tanto dotti sarebbero senza dubbio venuti, come questi dotti
+vennero, a trovarsi confermati in molto di ciò che era vero
+nelle loro proprie tradizioni e giusto nel loro proprio ragionare.
+Confucio avrebbe trovato un nuovo fondamento per la famiglia nel
+rovesciamento stesso della Sacra Famiglia; Budda avrebbe contemplato una
+nuova rinuncia, di stelle piuttosto che di gioielli e di divinità piuttosto che di regalità.
+Questi dotti avrebbero ancora avuto il diritto di dire, o piuttosto
+un nuovo diritto di dire, che vi era verità nel loro antico insegnamento.
+Ma dopotutto questi dotti sarebbero venuti a imparare.
+Sarebbero venuti a completare le loro concezioni con qualcosa
+che non avevano ancora concepito; perfino a bilanciare il loro imperfetto
+universo con qualcosa che una volta avrebbero potuto contraddire.
+Budda sarebbe venuto dal suo paradiso impersonale ad adorare una persona.
+Confucio sarebbe venuto dai suoi templi del culto degli antenati
+ad adorare un bambino.
+
+Dobbiamo cogliere fin da principio questo carattere del nuovo cosmo:
+che esso era più grande del vecchio cosmo.  In quel senso la Cristianità
+è più grande della creazione; come la creazione era stata prima di Cristo.
+Comprendeva cose che prima non c'erano; comprendeva anche
+le cose che c'erano state.  Il punto viene ben
+illustrato in questo esempio di pietà cinese, ma sarebbe
+vero di altre virtù pagane o credenze pagane.  Nessuno può
+dubitare che un ragionevole rispetto per i genitori sia parte di un vangelo
+in cui Dio stesso fu soggetto, nell'infanzia, a genitori terreni.
+Ma l'altro senso in cui i genitori erano soggetti a lui
+introduce un'idea che non è confuciana.  Il Cristo infante non è come
+l'infante Confucio; il nostro misticismo lo concepisce in un'infanzia immortale.
+Non so che cosa Confucio avrebbe fatto del Bambino se esso
+gli fosse preso vita fra le braccia come prese vita fra le braccia di san Francesco.
+Ma questo è vero in rapporto a tutte le altre religioni e filosofie;
+è la sfida della Chiesa.  La Chiesa contiene ciò che il mondo
+non contiene.  La vita stessa non provvede come provvede lei
+a tutti i lati della vita.  Che ogni altro singolo sistema sia angusto
+e insufficiente in confronto a questo; non è un vanto retorico:
+è un fatto reale e un dilemma reale.  Dov'è il santo bambino
+tra gli Stoici e gli adoratori degli antenati?  Dov'è la Madonna
+dei Musulmani, una donna fatta per nessun uomo e posta al di sopra di tutti gli angeli?
+Dov'è il san Michele dei monaci di Budda, cavaliere e signore
+delle trombe, che custodisce per ogni soldato l'onore della spada?
+Che cosa avrebbe potuto fare san Tommaso d'Aquino della mitologia del Brahmanesimo,
+lui che espose tutta la scienza e la razionalità e perfino il razionalismo
+del Cristianesimo?  Eppure anche se paragoniamo l'Aquinate ad Aristotele,
+all'estremo opposto della ragione, troveremo il medesimo senso di
+qualcosa di aggiunto.  L'Aquinate poteva comprendere le parti più logiche
+di Aristotele; è dubbio che Aristotele avrebbe potuto comprendere
+le parti più mistiche dell'Aquinate.  Anche là dove a stento possiamo
+dire più grande il cristiano, siamo costretti a dirlo più ampio.
+Ma è così a qualunque filosofia o eresia o movimento moderno
+ci volgiamo.  Come se la sarebbe cavata Francesco il Trovatore tra
+i Calvinisti, o del resto tra gli Utilitaristi
+della Scuola di Manchester?  Eppure uomini come Bossuet e Pascal
+sapevano essere austeri e logici quanto qualsiasi Calvinista o Utilitarista.
+Come se la sarebbe cavata santa Giovanna d'Arco, una donna che spronava gli uomini alla guerra con la spada,
+tra i Quaccheri o i Duchobori o la setta tolstoiana
+dei pacifisti?  Eppure un numero infinito di santi cattolici hanno
+speso la vita a predicare la pace e a impedire le guerre.
+Lo stesso accade con tutti i moderni tentativi di Sincretismo.
+Non riescono mai a fare qualcosa di più grande del Credo
+senza lasciar fuori qualcosa.  Non intendo lasciar fuori
+qualcosa di divino ma qualcosa di umano: la bandiera o la locanda o
+il racconto di battaglia del ragazzo o la siepe in fondo al campo.
+I Teosofi costruiscono un pantheon; ma è soltanto un pantheon
+per panteisti.  Convocano un Parlamento delle Religioni come una riunione
+di tutti i popoli; ma è soltanto una riunione di tutti i saccenti.
+Eppure proprio un tale pantheon era stato eretto duemila anni
+prima sulle sponde del Mediterraneo; e i cristiani furono invitati
+a erigere l'immagine di Gesù fianco a fianco con l'immagine di Giove,
+di Mitra, di Osiride, di Attis o di Ammone.  Fu il rifiuto
+dei cristiani a essere la svolta della storia.
+Se i cristiani avessero accettato, essi e il mondo intero
+sarebbero certamente, in una grottesca ma esatta metafora, finiti in pentola.
+Sarebbero stati tutti bolliti fino a ridursi a un unico liquido tiepido in quella grande
+pentola di corruzione cosmopolita in cui tutti gli altri miti e misteri
+già si stavano sciogliendo.  Fu uno scampo tremendo e spaventoso.
+Nessuno comprende la natura della Chiesa, o la nota squillante
+del credo che discende dall'antichità, se non si rende conto
+che il mondo intero una volta stette per morire di larghezza di vedute
+e di fratellanza di tutte le religioni.
+
 
 
 <span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_04" data-title="everlasting man — Chapter 11: The God In The Cave (part 4)" data-chapter="The God In The Cave" data-kind="excerpt"></span>
@@ -16219,6 +18912,14 @@ There is in this buried divinity an idea of undermining the world;
 of shaking the towers and palaces from below; even as Herod the great
 king felt that earthquake under him and swayed with his swaying palace.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Qui sta il punto importante: i Magi, che rappresentano il misticismo e la filosofia, sono concepiti davvero come coloro che cercano qualcosa di nuovo e che addirittura trovano qualcosa di inatteso. Quel teso senso di crisi che ancora vibra nel racconto del Natale, e persino in ogni celebrazione natalizia, accentua l'idea di una ricerca e di una scoperta. La scoperta, in questo caso, è veramente una scoperta scientifica. Per le altre figure mistiche della sacra rappresentazione — per l'angelo e la madre, per i pastori e i soldati di Erode — vi possono essere aspetti insieme più semplici e più soprannaturali, più elementari o più emotivi. Ma i sapienti dovevano cercare la sapienza, e per loro doveva esservi una luce anche nell'intelletto. E la luce è questa: che il credo cattolico è cattolico e che nient'altro è cattolico. La filosofia della Chiesa è universale. La filosofia dei filosofi non era universale. Se Platone, Pitagora e Aristotele fossero stati un solo istante nella luce che usciva da quella piccola grotta, avrebbero saputo che la loro luce non era universale. È tutt'altro che certo, del resto, che non lo sapessero già. Anche la filosofia, come la mitologia, aveva molto l'aria di una ricerca. È la consapevolezza di questa verità a conferire la loro tradizionale maestà e il loro mistero alle figure dei Tre Re: la scoperta che la religione è più ampia della filosofia e che questa è la più ampia delle religioni, racchiusa in quello spazio angusto. I Magi contemplavano lo strano pentacolo con il triangolo umano rovesciato; e non sono mai giunti al termine dei loro calcoli su di esso. Poiché questo è il paradosso di quel gruppo nella grotta: che, mentre le nostre emozioni al riguardo sono di fanciullesca semplicità, i nostri pensieri al riguardo possono ramificarsi con una complessità senza fine. E non possiamo mai giungere al termine neppure delle nostre stesse idee sul bambino che era un padre e sulla madre che era una bambina.
+
+Potremmo ben accontentarci di dire che la mitologia era venuta con i pastori e la filosofia con i filosofi; e che restava loro soltanto di combinarsi nel riconoscimento della religione. Ma vi era un terzo elemento che non si deve ignorare, e che quella religione si rifiuta per sempre di ignorare, in ogni festa o riconciliazione. Era presente, nelle scene prime del dramma, quel Nemico che aveva corrotto le leggende con la lussuria e agghiacciato le teorie nell'ateismo, ma che rispondeva alla sfida diretta con qualcosa di quel metodo più diretto che abbiamo visto nel culto consapevole dei demoni. Nella descrizione di quel culto demoniaco, del divorante odio dell'innocenza manifestato nelle opere della sua stregoneria e nel più disumano dei suoi sacrifici umani, ho detto meno della sua scorretta e segreta penetrazione nel paganesimo più sano; dell'impregnarsi di sesso dell'immaginazione mitologica; del salire dell'orgoglio imperiale fino alla follia. Ma tanto l'influenza indiretta quanto quella diretta si fanno sentire nel dramma di Betlemme. Un sovrano sotto la sovranità romana, probabilmente rivestito e circondato dall'ornamento e dall'ordine romani benché egli stesso di sangue orientale, sembra in quell'ora aver sentito agitarsi dentro di sé lo spirito di cose strane. Tutti conosciamo la storia di come Erode, allarmato da qualche voce di un misterioso rivale, si ricordò del gesto selvaggio dei capricciosi despoti dell'Asia e ordinò un massacro di sospetti fra la nuova generazione del popolo. Tutti conoscono la storia; ma non tutti forse ne hanno notato il posto nella storia delle strane religioni degli uomini. Non tutti hanno colto il significato persino del suo stesso contrasto con le colonne corinzie e il selciato romano di quel mondo conquistato e superficialmente civilizzato. Soltanto, quando il proposito nel suo oscuro spirito cominciò a mostrarsi e a brillare negli occhi dell'Idumeo, un veggente forse avrebbe potuto scorgere qualcosa come un grande spettro grigio che gli guardava sopra la spalla; avrebbe potuto scorgere dietro di lui, a riempire la cupola della notte e a librarsi per l'ultima volta sulla storia, quel volto vasto e terribile che era il Moloch dei Cartaginesi, in attesa del suo ultimo tributo da parte di un sovrano delle stirpi di Sem. Anche i demoni, in quella prima festa di Natale, banchettarono a modo loro.
+
+Se non comprendiamo la presenza di quel nemico, non solo mancheremo il senso del cristianesimo, ma mancheremo perfino il senso del Natale. Il Natale, per noi della cristianità, è divenuto una cosa sola, e in un certo senso persino una cosa semplice. Ma, come tutte le verità di quella tradizione, in un altro senso è una cosa assai complessa. La sua nota singolare è il simultaneo percuotere di molte note: di umiltà, di allegria, di gratitudine, di mistico timore, ma anche di vigilanza e di dramma. Non è un'occasione per gli operatori di pace più di quanto lo sia per i festeggianti; non è solo una conferenza di pace indù più di quanto sia solo una festa invernale scandinava. Vi è in esso anche qualcosa di ardito; qualcosa che fa risuonare le brusche campane di mezzanotte come i grandi cannoni di una battaglia appena vinta. Tutta questa cosa indescrivibile che chiamiamo l'atmosfera del Natale non aleggia nell'aria se non come una fragranza persistente o un vapore che svanisce dall'esultante esplosione di quell'unica ora sulle colline della Giudea, quasi duemila anni fa. Ma il sapore è ancora inconfondibile, ed è qualcosa di troppo sottile o troppo solitario per essere racchiuso nel nostro uso della parola pace. Per la natura stessa della storia, il giubilo nella caverna era il giubilo in una fortezza o in un covo di fuorilegge; a rigore, non è troppo irriverente dire che era un giubilo in una trincea. Non è soltanto vero che una simile camera sotterranea era un nascondiglio dai nemici; e che i nemici già battevano la pietrosa pianura che si stendeva su di essa come un cielo. Non è soltanto che gli zoccoli stessi dei cavalli di Erode potrebbero, in quel senso, essere passati come tuono sopra il capo sepolto di Cristo. È anche che in quell'immagine vi è una vera idea di un avamposto, di un trafiggere la roccia e di un ingresso in un territorio nemico. Vi è in questa divinità sepolta un'idea di minare il mondo; di scuotere dal basso le torri e i palazzi; proprio come Erode il grande re sentì quel terremoto sotto di sé e vacillò insieme al suo palazzo vacillante.
 
 
 
@@ -16324,6 +19025,12 @@ but it never forgets that it is fighting.  It proclaims peace
 on earth and never forgets why there was war in heaven.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+È questo, forse, il più possente dei misteri della grotta. Appare già chiaro che, sebbene si dica che gli uomini abbiano cercato l'inferno sotto la terra, in questo caso è piuttosto il cielo a trovarsi sotto la terra. E in questa strana vicenda ne consegue l'idea di un sommovimento del cielo. È questo il paradosso di tutta la situazione: che d'ora innanzi la cosa più alta non potrà operare se non dal basso. La regalità potrà rientrare in possesso di ciò che le spetta solo attraverso una sorta di ribellione. Anzi, la Chiesa, fin dai suoi inizi, e forse specialmente ai suoi inizi, non fu tanto un principato quanto una rivoluzione contro il principe di questo mondo. Questa consapevolezza che il mondo era stato conquistato dal grande usurpatore e si trovava in suo possesso è stata assai deplorata o derisa da quegli ottimisti che identificano l'illuminazione con la comodità. Ma essa fu responsabile di tutto quel fremito di sfida e di quel bel pericolo che facevano sembrare la buona novella davvero buona e davvero nuova. In verità fu contro un'immensa e inconsapevole usurpazione che essa sollevò una rivolta, e in origine una rivolta tanto oscura. L'Olimpo occupava ancora il cielo come una nube immobile plasmata in molte forme possenti; la filosofia sedeva ancora nei luoghi eminenti e persino sui troni dei re, quando Cristo nacque nella grotta e il cristianesimo nelle catacombe. In entrambi i casi possiamo osservare lo stesso paradosso della rivoluzione: il senso di qualcosa di disprezzato e di qualcosa di temuto. La grotta, sotto un aspetto, non è che un buco o un cantuccio in cui i reietti vengono spazzati come immondizia; eppure, sotto l'altro aspetto, è il nascondiglio di qualcosa di prezioso che i tiranni vanno cercando come un tesoro. In un senso essi si trovano là perché l'oste non li avrebbe nemmeno ricordati, e nell'altro perché il re non potrà mai dimenticarli. Abbiamo già osservato che questo paradosso apparve anche nel modo in cui fu trattata la Chiesa primitiva. Essa era importante mentre era ancora insignificante, e certamente mentre era ancora impotente. Era importante unicamente perché era intollerabile; e in questo senso è vero dire che era intollerabile perché era intollerante. Suscitava risentimento perché, a suo modo silenzioso e quasi segreto, aveva dichiarato guerra. Era sorta dal suolo per demolire il cielo e la terra del paganesimo. Non tentava di distruggere tutta quella creazione d'oro e di marmo; ma contemplava un mondo senza di essa. Osava guardarvi attraverso da parte a parte, come se l'oro e il marmo fossero stati vetro. Coloro che accusavano i cristiani di aver incendiato Roma con le fiaccole erano calunniatori; ma erano almeno assai più vicini alla natura del cristianesimo di quanti, tra i moderni, ci dicono che i cristiani furono una specie di società etica, martirizzata in maniera languida per aver detto agli uomini che avevano un dovere verso il prossimo, e solo blandamente malvista perché mite e mansueta.
+
+Erode ebbe dunque il suo posto nella sacra rappresentazione di Betlemme perché è la minaccia alla Chiesa Militante e la mostra fin dal principio come perseguitata e in lotta per la propria vita. Per chi ritiene che questa sia una dissonanza, è una dissonanza che risuona simultaneamente alle campane di Natale. A chi ritiene che l'idea della Crociata sia tale da guastare l'idea della Croce, non possiamo che dire che per loro l'idea della Croce è già guastata; l'idea della croce è guastata, in senso quanto mai letterale, già nella culla. Non è qui il caso di discutere con loro sull'etica astratta del combattere; lo scopo, in questo luogo, è semplicemente di riassumere quella combinazione di idee che compongono l'idea cristiana e cattolica, e di notare come tutte esse siano già cristallizzate nella prima storia del Natale. Sono tre cose distinte e comunemente contrapposte, che nondimeno sono una cosa sola; ma questa è l'unica cosa capace di renderle una sola. La prima è l'istinto umano di un cielo che sia letterale, e quasi altrettanto locale, come una casa. È l'idea perseguita da tutti i poeti e i pagani che foggiano miti: che un luogo particolare debba essere il santuario del dio o la dimora dei beati; che il paese delle fate sia un paese; o che il ritorno del fantasma debba essere la risurrezione del corpo. Non intendo qui ragionare sul rifiuto del razionalismo di soddisfare questo bisogno. Dico soltanto che, se i razionalisti si rifiutano di soddisfarlo, i pagani non saranno soddisfatti. Ciò è presente nella storia di Betlemme e di Gerusalemme come è presente nella storia di Delo e di Delfi; e come non è presente nell'intero universo di Lucrezio o nell'intero universo di Herbert Spencer. Il secondo elemento è una filosofia più ampia delle altre filosofie; più ampia di quella di Lucrezio e infinitamente più ampia di quella di Herbert Spencer. Essa guarda il mondo attraverso cento finestre, là dove l'antico stoico o il moderno agnostico guardano soltanto attraverso una. Vede la vita con migliaia di occhi appartenenti a migliaia di tipi diversi di persone, mentre l'altro non è che il punto di vista individuale di uno stoico o di un agnostico. Ha qualcosa per ogni stato d'animo dell'uomo, trova un compito per ogni genere di uomini, comprende i segreti della psicologia, è consapevole degli abissi del male, sa distinguere fra prodigi ideali e irreali ed eccezioni miracolose, si esercita al tatto nei casi ardui, e tutto ciò con una molteplicità, una sottigliezza e un'immaginazione intorno alle varietà della vita che vanno di gran lunga oltre le nude o spensierate banalità della gran parte della filosofia morale antica o moderna. In una parola, c'è di più in essa; trova di più nell'esistenza su cui riflettere; ricava di più dalla vita. Masse di questo materiale sulla nostra vita dai molti lati sono state aggiunte dai tempi di san Tommaso d'Aquino. Ma san Tommaso d'Aquino da solo si sarebbe trovato limitato nel mondo di Confucio o di Comte. E il terzo punto è questo: che, pur essendo abbastanza locale per la poesia e più ampia di ogni altra filosofia, essa è anche una sfida e un combattimento. Pur essendo deliberatamente allargata ad abbracciare ogni aspetto della verità, resta rigidamente schierata in armi contro ogni forma di errore. Chiama a combattere per sé ogni genere di uomo, si procura ogni genere di arma per combattere, allarga la propria conoscenza delle cose per cui e contro cui si combatte con ogni arte della curiosità o della simpatia; ma non dimentica mai di stare combattendo. Proclama pace in terra e non dimentica mai perché in cielo vi fu guerra.
+
 
 
 <span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_06" data-title="everlasting man — Chapter 11: The God In The Cave (part 6)" data-chapter="The God In The Cave" data-kind="excerpt"></span>
@@ -16382,6 +19089,12 @@ more human than humanity.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+È questa la trinità di verità qui simboleggiata dalle tre figure dell'antico racconto natalizio: i pastori, i re e quell'altro re che mosse guerra ai fanciulli. Non è affatto vero dire che, sotto questo rispetto, le altre religioni e filosofie le siano rivali. Non è vero dire che alcuna di esse combini insieme questi caratteri; non è vero dire che alcuna di esse pretenda anche solo di combinarli. Il buddismo potrà professarsi altrettanto mistico; non pretende però nemmeno di essere altrettanto militare. L'islam potrà professarsi altrettanto militare; non pretende però nemmeno di essere altrettanto metafisico e sottile. Il confucianesimo potrà professare di appagare il bisogno che i filosofi hanno di ordine e di ragione; non pretende però nemmeno di appagare il bisogno che i mistici hanno del miracolo, del sacramento e della consacrazione delle cose concrete. Molte sono le testimonianze di questa presenza di uno spirito ad un tempo universale e unico. Qui ne basterà una, che è il simbolo stesso del soggetto di questo capitolo: nessun'altra storia, nessuna leggenda pagana o aneddoto filosofico o evento storico ci tocca di fatto con quell'impressione peculiare e persino struggente che suscita in noi la parola Betlemme. Nessun'altra nascita di un dio o infanzia di un saggio ci pare essere il Natale, o alcunché di simile al Natale. È troppo fredda, o troppo frivola, o troppo formale e classica, o troppo semplice e selvaggia, o troppo occulta e complicata. Nessuno di noi, quali che siano le sue opinioni, si recherebbe mai a una tale scena col senso di tornare a casa. Potrà ammirarla perché poetica, o perché filosofica, o per una quantità di altre cose prese separatamente; ma non perché è quella che è. La verità è che vi è un carattere del tutto peculiare e individuale nella presa che questa storia esercita sulla natura umana; nella sua sostanza psicologica essa non somiglia affatto a una semplice leggenda o alla vita di un grand'uomo. Non volge propriamente la nostra mente, nel senso comune, alla grandezza: a quelle estensioni ed esagerazioni dell'umanità che vengono trasformate in dèi ed eroi, anche dalla più sana specie di culto degli eroi. Non lavora propriamente verso l'esterno, avventurosamente, verso le meraviglie che si trovano ai confini della terra. È piuttosto qualcosa che ci coglie di sorpresa alle spalle, dalla parte nascosta e personale del nostro essere; come ciò che talvolta può prenderci alla sprovvista nel pathos degli oggetti minuti o nelle cieche devozioni dei poveri. È piuttosto come se un uomo avesse scoperto una stanza segreta nel cuore stesso della propria casa, di cui non aveva mai sospettato l'esistenza; e vi avesse scorto una luce provenire dall'interno. È come se egli trovasse qualcosa in fondo al proprio cuore che lo tradisce inducendolo al bene. Non è fatta di ciò che il mondo chiamerebbe materia robusta; o meglio, è fatta di materia la cui forza sta in quell'alata leggerezza con cui ci sfiora e passa. È tutto ciò che in noi non è se non una breve tenerezza, qui resa eterna; tutto ciò che non significa più di un momentaneo intenerimento, divenuto in qualche strano modo un rafforzarsi e un riposo; è la parola spezzata e la parola perduta rese positive e sospese, integre; mentre i re stranieri svaniscono verso una terra lontana e i monti non risuonano più del passo dei pastori; e soltanto la notte e la caverna giacciono, piega su piega, sopra qualcosa di più umano dell'umanità stessa.
+
+* * *
 
 
 
@@ -16508,6 +19221,18 @@ But this is only a side issue for the sake of illustration;
 I am not now raising these controversies; but considering the case
 of the imaginary man from the moon to whom the New Testament is new.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+II
+
+GLI ENIGMI DEL VANGELO
+
+Per comprendere la natura di questo capitolo, è necessario risalire alla natura di questo libro. L'argomento che vuol essere la spina dorsale del libro è di quelli che si dicono reductio ad absurdum. Esso suggerisce che i risultati dell'assumere la tesi razionalista sono più irrazionali dei nostri; ma per provarlo dobbiamo assumere quella tesi. Così, nella prima sezione ho spesso trattato l'uomo come un mero animale, per mostrare che l'effetto era più impossibile che se lo si fosse trattato come un angelo. Nel senso in cui era necessario trattare l'uomo come un mero animale, è necessario trattare Cristo come un mero uomo. Devo sospendere le mie stesse convinzioni, che sono assai più positive; e assumere questa limitazione anche solo per rimuoverla. Devo cercare di immaginare che cosa accadrebbe a un uomo che leggesse davvero la storia di Cristo come la storia di un uomo; e per giunta di un uomo di cui non avesse mai sentito parlare prima. E desidero far notare che una lettura davvero imparziale di tal genere condurrebbe, se non immediatamente alla fede, quanto meno a uno sconcerto che non ha in realtà altra soluzione che nella fede. In questo capitolo, per tale ragione, non introdurrò nulla dello spirito del mio credo; escluderò persino lo stile della dizione, e financo della grafia, che riterrei acconcio parlando in prima persona. Parlo come un immaginario essere umano pagano che, onestamente, fissa per la prima volta la storia del Vangelo.
+
+Ora, non è affatto facile guardare al Nuovo Testamento come a un Nuovo Testamento. Non è affatto facile percepire la buona novella come nuova. Nel bene e nel male, la familiarità ci riempie di presupposti e di associazioni; e nessun uomo della nostra civiltà, qualunque cosa pensi della nostra religione, può davvero leggere questa cosa come se non ne avesse mai udito parlare prima. Certo, è in ogni caso del tutto astorico discorrere come se il Nuovo Testamento fosse un libro ordinatamente rilegato caduto dal cielo. Esso è semplicemente la selezione operata dall'autorità della Chiesa entro una massa di antica letteratura cristiana. Ma, a prescindere da ogni questione simile, vi è una difficoltà psicologica nel sentire il Nuovo Testamento come nuovo. Vi è una difficoltà psicologica nel vedere quelle parole ben note semplicemente per quello che sono, senza andare oltre ciò che intrinsecamente significano. E questa difficoltà dev'essere davvero grandissima; perché il suo risultato è assai curioso. Il risultato è che la maggior parte dei critici moderni e la maggior parte della critica corrente, persino la critica popolare, formula un commento che è l'esatto rovescio della verità. È a tal punto il rovescio della verità che si potrebbe quasi sospettare che costoro non abbiano mai letto affatto il Nuovo Testamento.
+
+Abbiamo tutti sentito dire cento volte, giacché pare che non ci si stanchi mai di ripeterlo, che il Gesù del Nuovo Testamento è bensì un misericordiosissimo e umanissimo amante dell'umanità, ma che la Chiesa ha nascosto questo carattere umano sotto dogmi ripugnanti e lo ha irrigidito con terrori ecclesiastici finché esso ha assunto un carattere inumano. Questo, ardisco ripeterlo, è pressoché il rovescio della verità. La verità è che è l'immagine di Cristo nelle chiese quella quasi interamente mite e misericordiosa. È l'immagine di Cristo nei Vangeli quella che è anche molte altre cose. La figura dei Vangeli esprime bensì, con parole di bellezza quasi straziante, la sua pietà per i nostri cuori spezzati. Ma queste sono ben lungi dall'essere le uniche parole ch'egli pronuncia. Eppure sono quasi le uniche parole che la Chiesa, nella sua iconografia popolare, lo rappresenti mai come pronunciare. Quella iconografia popolare è ispirata da un istinto popolare perfettamente sano. La massa dei poveri è spezzata, e la massa della gente è povera, e per la massa dell'umanità la cosa principale è recare la persuasione dell'incredibile compassione di Dio. Ma nessuno che abbia gli occhi aperti può dubitare che sia soprattutto questa idea di compassione che l'apparato popolare della Chiesa cerca di recare. L'iconografia popolare porta all'eccesso, in gran misura, il sentimento del «dolce Gesù, mite e mansueto». È la prima cosa che l'estraneo avverte e critica in una Pietà o in un santuario del Sacro Cuore. Come dico, per quanto l'arte possa essere insufficiente, non sono certo che l'istinto sia malsano. In ogni caso, vi è qualcosa di spaventoso, qualcosa che fa gelare il sangue, nell'idea di avere una statua di Cristo adirato. Vi è qualcosa di insopportabile persino all'immaginazione nell'idea di svoltare l'angolo di una via o di sbucare negli spazi di un mercato per incontrare la pietrificante pietrificazione di quella figura quale si volse contro una generazione di vipere, o di quel volto quale guardò in faccia un ipocrita. La Chiesa può dunque ragionevolmente giustificarsi se volge verso gli uomini il volto o l'aspetto più misericordioso; ma è certamente l'aspetto più misericordioso quello ch'essa volge. E il punto è che esso è di gran lunga più specificamente ed esclusivamente misericordioso di qualsiasi impressione potrebbe formarsi un uomo che leggesse per la prima volta il Nuovo Testamento. Un uomo che prendesse semplicemente le parole della storia per quello che sono si formerebbe tutt'altra impressione; un'impressione piena di mistero e forse di incoerenza; ma certo non semplicemente un'impressione di mansuetudine. Sarebbe intensamente interessante; ma parte dell'interesse consisterebbe nel fatto ch'essa lascia molto da indovinare o da spiegare. È piena di gesti improvvisi, evidentemente significativi, salvo che a stento sappiamo che cosa significhino, di silenzi enigmatici, di risposte ironiche. Le esplosioni d'ira, come tempeste al di sopra della nostra atmosfera, non paiono scoppiare esattamente là dove ce le aspetteremmo, ma seguire una loro più alta carta del tempo. Il Pietro che l'insegnamento popolare della Chiesa presenta è, ben a ragione, il Pietro al quale Cristo disse, perdonandolo: «Pasci i miei agnelli». Non è il Pietro contro cui Cristo si volse come s'egli fosse il diavolo, gridando in quell'oscura collera: «Vàttene lontano da me, Satana». Cristo si lamentò con null'altro che amore e pietà su Gerusalemme, che stava per assassinarlo. Non sappiamo quale strana atmosfera spirituale o quale intuizione spirituale lo condusse a sprofondare Betsaida più giù nell'abisso di Sodoma. Metto per il momento da parte ogni questione di inferenze o di esposizioni dottrinali, ortodosse o meno; sto semplicemente immaginando l'effetto sulla mente di un uomo se egli facesse davvero ciò di cui questi critici parlano sempre di fare; se egli leggesse davvero il Nuovo Testamento senza riferimento all'ortodossia e persino senza riferimento alla dottrina. Egli vi troverebbe una quantità di cose che si accordano assai meno con l'eterodossia corrente di quanto non si accordino con l'ortodossia corrente. Troverebbe, per esempio, che se vi sono descrizioni che meritino di dirsi realistiche, esse sono precisamente le descrizioni del soprannaturale. Se vi è un aspetto sotto cui il Gesù del Nuovo Testamento può dirsi presentarsi eminentemente come una persona pratica, è l'aspetto dell'esorcista. Non v'è nulla di mite e mansueto, non v'è nulla di mistico neppure nel senso comune, nel tono della voce che dice: «Taci ed esci da lui». Somiglia assai più al tono di un domatore di leoni molto sbrigativo, o di un medico dal carattere fermo alle prese con un maniaco omicida. Ma questo è soltanto un tema laterale, a scopo di illustrazione; non sto ora sollevando queste controversie, bensì considerando il caso dell'immaginario uomo venuto dalla luna, per il quale il Nuovo Testamento è nuovo.
 
 
 
@@ -16646,6 +19371,14 @@ the trap and be shocked at a phrase so deliberately defiant.
 They actually complain of the paradox for not being a platitude.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La prima cosa da notare è che, se la prendiamo semplicemente come una vicenda umana, è per certi versi una vicenda assai singolare. Non mi riferisco qui al suo culmine tremendo e tragico, né ad alcuna implicazione che comporti un trionfo dentro quella tragedia. Non mi riferisco a ciò che comunemente si chiama l'elemento miracoloso; ché su quel punto le filosofie divergono, e le filosofie moderne vacillano in modo assai marcato. Anzi, si potrebbe dire che l'inglese colto d'oggi sia passato da una vecchia moda, per cui non voleva credere a nessun miracolo se non era antico, a una moda nuova, per cui non vuol credere a nessun miracolo se non è moderno. Un tempo sosteneva che le guarigioni miracolose si erano arrestate con i primi cristiani, e ora è propenso a sospettare che siano cominciate con i primi Scienziati Cristiani. Ma qui mi riferisco piuttosto, e in special modo, alle parti non miracolose, e persino alle parti inosservate e poco appariscenti della vicenda. Vi sono moltissime cose che nessuno avrebbe inventato, poiché sono cose di cui nessuno ha mai fatto un uso particolare; cose che, ammesso siano state notate, sono rimaste piuttosto come enigmi. Per esempio, c'è quel lungo tratto di silenzio nella vita di Cristo fino all'età di trent'anni. È, fra tutti i silenzi, il più immenso e il più suggestivo per l'immaginazione. Ma non è il genere di cosa che qualcuno sia particolarmente incline a inventare per dimostrare qualcosa; e nessuno, per quel che ne so, ha mai cercato di dimostrare alcunché di particolare a partire da esso. È impressionante, ma è impressionante soltanto come fatto; non c'è nulla di particolarmente popolare o ovvio in esso come favola. La tendenza consueta del culto degli eroi e della fabbricazione dei miti è molto più incline a dire l'esatto contrario. È molto più incline a dire (come credo dicano alcuni dei vangeli respinti dalla Chiesa) che Gesù mostrò una divina precocità e diede inizio alla sua missione a un'età miracolosamente prematura. E c'è in effetti qualcosa di strano nel pensiero che colui il quale, fra tutta l'umanità, aveva bisogno di minor preparazione, sembra averne avuta di più. Se ciò fu un qualche modo dell'umiltà divina, o una qualche verità di cui scorgiamo l'ombra nel più lungo apprendistato domestico delle creature più elevate della terra, non mi propongo di congetturarlo; lo cito semplicemente come un esempio di quel genere di cose che in ogni caso danno luogo a congetture, del tutto a prescindere dalle riconosciute congetture religiose. Ora, l'intera vicenda è colma di cose siffatte. Non è affatto, così come è nudamente presentata a stampa, una vicenda di cui sia facile venire a capo. È tutt'altro che ciò che questa gente chiama un semplice Vangelo. Relativamente parlando, è il Vangelo ad avere il misticismo ed è la Chiesa ad avere il razionalismo. Come lo formulerei io, naturalmente, è il Vangelo a essere l'indovinello ed è la Chiesa a essere la risposta. Ma quale che sia la risposta, il Vangelo così com'è quasi un libro di indovinelli.
+
+Anzitutto, chi leggesse le sentenze del Vangelo non vi troverebbe luoghi comuni. Se avesse letto, anche nello spirito più rispettoso, la maggior parte dei filosofi antichi e dei moralisti moderni, apprezzerebbe l'importanza unica del dire che egli non vi trova luoghi comuni. È più di quanto si possa dire persino di Platone. È molto più di quanto si possa dire di Epitteto o di Seneca o di Marco Aurelio o di Apollonio di Tiana. Ed è incommensurabilmente più di quanto si possa dire della maggior parte dei moralisti agnostici e dei predicatori delle società etiche, con i loro cantici del servizio e la loro religione della fratellanza. La morale della maggior parte dei moralisti, antichi e moderni, è stata una compatta e levigata cateratta di luoghi comuni che scorre in eterno. Questa non sarebbe certo l'impressione dell'immaginario spettatore indipendente ed esterno che studiasse il Nuovo Testamento. Egli non avvertirebbe nulla di così banale e, in un certo senso, nulla di così continuo come quel torrente. Troverebbe una serie di strane pretese, che potrebbero suonare come la pretesa di essere fratello del sole e della luna; una serie di consigli oltremodo sconcertanti; una serie di rimproveri fulminanti; una serie di storie stranamente belle. Vedrebbe alcune figure retoriche assai gigantesche circa l'impossibilità di far passare un cammello per la cruna di un ago o la possibilità di gettare una montagna nel mare. Vedrebbe una serie di semplificazioni assai temerarie delle difficoltà della vita; come il consiglio di splendere su tutti indifferentemente, come fa la luce del sole, o di non preoccuparsi dell'avvenire più di quanto facciano gli uccelli. D'altra parte troverebbe alcuni passi di tenebra pressoché impenetrabile, per quanto lo riguarda, come la morale della parabola dell'Amministratore Infedele. Alcune di queste cose potrebbero colpirlo come favole e alcune come verità; ma nessuna come ovvietà. Per esempio, non vi troverebbe gli ordinari luoghi comuni a favore della pace. Vi troverebbe parecchi paradossi a favore della pace. Vi troverebbe parecchi ideali di non resistenza, i quali, presi così come stanno, risulterebbero fin troppo pacifici per qualsiasi pacifista. In un passo gli verrebbe detto di trattare un ladro non con la resistenza passiva, ma piuttosto con un incoraggiamento positivo ed entusiastico, se i termini si prendono alla lettera; colmando di doni l'uomo che aveva rubato la roba. Ma non vi troverebbe una parola di tutta quella ovvia retorica contro la guerra che ha riempito innumerevoli libri e odi e orazioni; non una parola sulla malvagità della guerra, sullo spreco della guerra, sulla scala spaventosa del massacro nella guerra e su tutto il resto della consueta frenesia; anzi, non una parola sulla guerra affatto. Non c'è nulla che getti una luce particolare sull'atteggiamento di Cristo verso la guerra organizzata, salvo che egli sembra aver nutrito una certa simpatia per i soldati romani. Anzi, è un'altra perplessità, parlando dallo stesso punto di vista esterno e umano, che egli sembra essersi trovato molto meglio con i Romani che non con i Giudei. Ma la questione qui è un certo tono che si coglie soltanto leggendo un certo testo; e potremmo darne un numero qualsiasi di esempi.
+
+L'affermazione che i miti erediteranno la terra è ben lungi dall'essere un'affermazione mite. Voglio dire che non è mite nel senso ordinario di mansueto e moderato e inoffensivo. Per giustificarla, sarebbe necessario scendere assai a fondo nella storia e anticipare cose allora nemmeno sognate e da molti non comprese neppure oggi; come il modo in cui i monaci mistici riconquistarono le terre che i re pratici avevano perduto. Se era una verità, lo era in quanto era una profezia. Ma di certo non era una verità nel senso di un'ovvietà. La benedizione sui miti parrebbe un'affermazione oltremodo violenta, nel senso di fare violenza alla ragione e alla probabilità. E con ciò giungiamo a un altro stadio importante della congettura. Come profezia essa fu davvero adempiuta; ma fu adempiuta solo molto tempo dopo. I monasteri furono i possedimenti e gli esperimenti di ricostruzione più pratici e prosperi dopo il diluvio barbarico; i miti ereditarono davvero la terra. Ma nessuno avrebbe potuto sapere nulla del genere all'epoca, a meno che, in verità, non ci fosse uno che sapeva. Qualcosa di analogo si può dire dell'episodio di Marta e Maria, che è stato interpretato retrospettivamente e dall'interno dai mistici della vita contemplativa cristiana. Ma non era affatto una lettura ovvia di esso; e ci si poteva fidare che la maggior parte dei moralisti, antichi e moderni, si sarebbe precipitata sull'ovvio. Quali torrenti di eloquenza senza sforzo sarebbero sgorgati da loro a ingigantire ogni lieve superiorità dalla parte di Marta; quali splendide prediche sulla Gioia del Servizio e sul Vangelo del Lavoro e sul Mondo Lasciato Migliore di Come lo Trovammo, e in generale tutte le diecimila ovvietà che si possono proferire in favore del darsi pena, da parte di gente che nessuna pena deve darsi per proferirle. Se in Maria, la mistica e figlia dell'amore, Cristo custodiva il seme di qualcosa di più sottile, chi mai era in grado di comprenderlo a quel tempo? Nessun altro avrebbe potuto scorgere Chiara e Caterina e Teresa risplendere sopra il piccolo tetto di Betania. Così è, in altro modo, con quella magnifica minaccia circa il portare nel mondo una spada per fendere e dividere. Nessuno avrebbe potuto indovinare allora né come essa potesse adempiersi né come potesse giustificarsi. Anzi, alcuni liberi pensatori sono ancora tanto ingenui da cadere nella trappola e scandalizzarsi di una frase così deliberatamente provocatoria. Si lagnano addirittura del paradosso perché non è un luogo comune.
+
 
 
 <span class="atom-split" data-atom="chapter_12_the_riddles_of_the_gospel--part_03" data-title="everlasting man — Chapter 12: The Riddles Of The Gospel (part 3)" data-chapter="The Riddles Of The Gospel" data-kind="excerpt"></span>
@@ -16754,6 +19487,16 @@ But he never made his morality dependent on the existence
 of the Roman Empire or even on the existence of the world.
 'Heaven and earth shall pass away, but my words shall not pass away.'
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma il punto, qui, è che se potessimo leggere i resoconti evangelici come cose nuove al pari di notizie di giornale, ci lascerebbero perplessi, e forse ci atterrirebbero, assai più delle medesime cose quali le ha svolte il cristianesimo storico. Per esempio, Cristo, dopo una chiara allusione agli eunuchi delle corti orientali, disse che vi sarebbero stati eunuchi del regno dei cieli. Se ciò non significa il volontario entusiasmo della verginità, non lo si potrebbe far significare che qualcosa di assai più innaturale o rozzo. È la religione storica a umanizzarlo per noi, attraverso l'esperienza dei francescani o delle Suore della Misericordia. La sola affermazione, presa in sé, potrebbe benissimo suggerire un'atmosfera piuttosto disumanizzata; il silenzio sinistro e inumano dell'harem e del divano asiatico. Questo non è che un caso fra decine; ma la morale è che il Cristo del Vangelo potrebbe in realtà apparire più strano e terribile del Cristo della Chiesa.
+
+Mi soffermo sul lato oscuro, o abbagliante, o provocatorio, o misterioso delle parole evangeliche, non perché esse non avessero manifestamente anche un lato più ovvio e popolare, ma perché questa è la risposta a una critica assai diffusa su un punto vitale. Il libero pensatore dice di frequente che Gesù di Nazaret fu un uomo del suo tempo, ancorché fosse in anticipo sul suo tempo; e che non possiamo accettarne l'etica come definitiva per l'umanità. Il libero pensatore prosegue poi criticandone l'etica, dicendo con verosimiglianza sufficiente che gli uomini non possono porgere l'altra guancia, o che devono darsi pensiero del domani, o che l'abnegazione è troppo ascetica o la monogamia troppo severa. Ma gli Zeloti e i Legionari non porgevano l'altra guancia più di quanto la porgiamo noi, se pure altrettanto. I mercanti ebrei e gli esattori romani si davano pensiero del domani quanto noi, se non più. Non possiamo pretendere di star abbandonando la morale del passato per una più adatta al presente. Non è certo la morale di un'altra epoca, ma potrebbe essere quella di un altro mondo.
+
+In breve, possiamo dire che questi ideali sono impossibili in se stessi. Ciò che precisamente non possiamo dire è che siano impossibili per noi. Essi sono anzi notevolmente segnati da un misticismo che, se è una sorta di follia, avrebbe sempre colpito come folle il medesimo genere di persone. Si prenda, per esempio, il caso del matrimonio e dei rapporti tra i sessi. Potrebbe benissimo essere stato vero che un maestro galileo insegnasse cose naturali a un ambiente galileo; ma non è così. Ci si potrebbe razionalmente aspettare che un uomo del tempo di Tiberio avanzasse una veduta condizionata dal tempo di Tiberio; ma egli non lo fece. Ciò che avanzò era qualcosa di del tutto diverso; qualcosa di assai difficile; ma qualcosa non più difficile oggi di quanto lo fosse allora. Quando, per esempio, Maometto operò il suo compromesso poligamico, possiamo ragionevolmente dire che esso fu condizionato da una società poligamica. Quando concesse a un uomo quattro mogli, faceva realmente qualcosa di adatto alle circostanze, che avrebbe potuto essere meno adatto ad altre circostanze. Nessuno pretenderà che le quattro mogli fossero come i quattro venti, qualcosa che sembrasse far parte dell'ordine della natura; nessuno dirà che il numero quattro fu scritto per sempre a stelle nel cielo. Ma nemmeno alcuno dirà che il numero quattro sia un ideale inconcepibile; che sia oltre il potere della mente umana contare fino a quattro; o contare il numero delle proprie mogli e vedere se ammonti a quattro. È un compromesso pratico che reca con sé il carattere di una società particolare. Se Maometto fosse nato ad Acton nel diciannovesimo secolo, possiamo ben dubitare che avrebbe all'istante riempito quel sobborgo di harem di quattro mogli ciascuno. Essendo nato in Arabia nel sesto secolo, egli in effetti, nelle sue disposizioni coniugali, suggeriva le condizioni dell'Arabia del sesto secolo. Ma Cristo, nella sua veduta del matrimonio, non suggerisce minimamente le condizioni della Palestina del primo secolo. Non suggerisce assolutamente nulla, se non la veduta sacramentale del matrimonio quale fu sviluppata molto tempo dopo dalla Chiesa cattolica. Era per gli uomini di allora tanto difficile quanto per gli uomini di oggi. Era per gli uomini di allora assai più sconcertante che per gli uomini di oggi. Ebrei, Romani e Greci non credevano, e non capivano nemmeno abbastanza da non credere, l'idea mistica che l'uomo e la donna fossero divenuti un'unica sostanza sacramentale. Possiamo giudicarlo un ideale incredibile o impossibile; ma non possiamo giudicarlo più incredibile o impossibile di quanto l'avrebbero giudicato loro. In altre parole, qualunque altra cosa sia vera, non è vero che la controversia sia stata alterata dal tempo. Qualunque altra cosa sia vera, non è affatto vero, con ogni enfasi, che le idee di Gesù di Nazaret fossero adatte al suo tempo, ma non siano più adatte al nostro. Quanto precisamente fossero adatte al suo tempo è forse suggerito dalla fine della sua storia.
+
+La stessa verità potrebbe essere enunciata in altro modo dicendo che, se si considera la storia come meramente umana e storica, è straordinario quanto pochissimo vi sia nelle parole registrate di Cristo che lo leghi in qualche modo al suo tempo. Non intendo i particolari di un'epoca, che perfino un uomo dell'epoca sa essere caduchi. Intendo i fondamenti che perfino l'uomo più saggio spesso vagamente presume eterni. Per esempio, Aristotele fu forse l'uomo più saggio e di più ampia mente che sia mai vissuto. Si fondò interamente su fondamenti che si sono generalmente rivelati capaci di restare razionali e solidi attraverso tutti i mutamenti sociali e storici. Eppure egli visse in un mondo in cui si riteneva altrettanto naturale avere schiavi quanto avere figli. E perciò si permise davvero un serio riconoscimento di una differenza tra schiavi e uomini liberi. Cristo, non meno di Aristotele, visse in un mondo che dava per scontata la schiavitù. Non denunciò in particolare la schiavitù. Diede inizio a un movimento che poteva esistere in un mondo con la schiavitù. Ma diede inizio a un movimento che poteva esistere in un mondo senza schiavitù. Non usò mai una frase che facesse dipendere la sua filosofia perfino dall'esistenza stessa dell'ordine sociale in cui viveva. Parlò come uno consapevole che tutto fosse effimero, comprese le cose che Aristotele riteneva eterne. A quel tempo l'Impero Romano era giunto a essere semplicemente l'orbis terrarum, un altro nome per il mondo. Ma egli non fece mai dipendere la sua morale dall'esistenza dell'Impero Romano, né perfino dall'esistenza del mondo. «Il cielo e la terra passeranno, ma le mie parole non passeranno».
 
 
 
@@ -16878,6 +19621,125 @@ said calmly and almost carelessly, like one looking over his shoulder:
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La verità è che quando i critici hanno parlato dei limiti locali
+del Galileo, si è sempre trattato in realtà dei limiti locali
+dei critici. Egli credeva senza dubbio in certe cose
+in cui una particolare setta moderna di materialisti non crede.
+Ma non erano cose particolarmente peculiari della sua epoca.
+Sarebbe più vicino al vero dire che è la loro negazione
+a essere del tutto peculiare della nostra epoca. Senza dubbio sarebbe
+ancora più vicino al vero dire semplicemente che a essere peculiare della nostra epoca
+è una certa solenne importanza sociale attribuita alla minoranza che non vi crede.
+Egli credeva, per esempio, negli spiriti maligni o nella guarigione psichica
+dei mali del corpo; ma non perché fosse un Galileo nato sotto Augusto.
+È assurdo dire che un uomo credeva certe cose perché era un Galileo
+sotto Augusto, quando avrebbe potuto credere le stesse cose se fosse
+stato un egiziano sotto Tutankhamon o un indiano sotto Gengis Khan.
+Ma di questa questione generale della filosofia del diabolismo
+o dei miracoli divini mi occupo altrove. Basti dire
+che i materialisti devono provare l'impossibilità dei miracoli
+contro la testimonianza di tutta l'umanità, non contro i pregiudizi
+dei provinciali della Palestina settentrionale sotto i primi imperatori romani.
+Ciò che devono provare, ai fini del presente ragionamento, è la presenza nei
+Vangeli di quei particolari pregiudizi di quei particolari provinciali.
+E, umanamente parlando, è stupefacente quanto poco riescano a produrre
+anche solo per cominciare a provarlo.
+
+Così è in questo caso del sacramento del matrimonio.
+Possiamo non credere nei sacramenti, come possiamo non credere negli spiriti,
+ma è del tutto chiaro che Cristo credeva in questo sacramento
+a modo suo e non in alcun modo corrente o contemporaneo.
+Egli non trasse certo il suo argomento contro il divorzio dalla legge
+mosaica o dalla legge romana o dalle abitudini del popolo palestinese.
+Esso apparve allora ai suoi critici esattamente come appare
+oggi ai suoi critici: un dogma arbitrario e trascendentale
+che non viene da nessun luogo, se non nel senso che veniva da lui.
+Qui non mi preoccupo affatto di difendere quel dogma; il punto è
+che difenderlo oggi è altrettanto facile quanto lo era difenderlo allora.
+È un ideale del tutto fuori dal tempo: difficile in ogni epoca;
+impossibile in nessuna. In altre parole, se qualcuno dice che è
+ciò che ci si potrebbe aspettare da un uomo che passeggiava in quel luogo
+in quell'epoca, possiamo rispondere con tutta franchezza che assomiglia molto di più
+a ciò che potrebbe essere la misteriosa pronuncia di un essere al di là dell'uomo,
+qualora camminasse vivo tra gli uomini.
+
+Sostengo dunque che un uomo il quale leggesse il Nuovo Testamento con franchezza
+e freschezza non ne ricaverebbe l'impressione di ciò che oggi spesso si intende
+con un Cristo umano. Il Cristo meramente umano è una figura artefatta,
+un pezzo di selezione artificiale, come l'uomo meramente evolutivo.
+Per di più, si sono trovati troppi di questi Cristi umani
+nella medesima storia, così come si sono trovate troppe chiavi
+della mitologia nelle medesime storie. Tre o quattro distinte
+scuole di razionalismo hanno lavorato sul terreno e prodotto
+tre o quattro spiegazioni ugualmente razionali della sua vita.
+La prima spiegazione razionale della sua vita fu che egli non era mai vissuto.
+E questo, a sua volta, offrì l'occasione per tre o quattro diverse
+spiegazioni: che fosse un mito solare o un mito del grano, o qualunque altra
+sorta di mito che è anche una monomania. Poi l'idea che fosse
+un essere divino che non esisteva cedette il posto all'idea che fosse
+un essere umano che esisteva. Nella mia giovinezza andava di moda dire
+che era semplicemente un maestro di etica alla maniera degli Esseni,
+il quale a quanto pare non aveva granché da dire che Hillel o
+cento altri ebrei non avrebbero potuto dire; per esempio che è cosa gentile
+essere gentili e un aiuto alla purificazione l'essere puri.
+Poi qualcuno disse che era un pazzo affetto da delirio messianico.
+Poi altri dissero che era davvero un maestro originale perché
+non si curava di nulla se non del Socialismo; oppure (come altri dissero)
+di nulla se non del Pacifismo. Poi comparve un personaggio
+più cupamente scientifico, il quale disse che di Gesù non si sarebbe mai
+sentito parlare affatto se non fosse stato per le sue profezie sulla fine del mondo.
+Egli sarebbe importante soltanto come un millenarista alla maniera del dottor Cumming; e avrebbe suscitato
+un panico provinciale annunciando la data esatta del crollo finale.
+Tra le altre varianti sullo stesso tema vi era la teoria secondo cui era un
+guaritore spirituale e nient'altro; una visione implicata dalla Scienza Cristiana,
+che è costretta a esporre un cristianesimo senza la Crocifissione
+per poter spiegare la guarigione della suocera di Pietro o della
+figlia di un centurione. Vi è un'altra teoria che si concentra
+interamente sulla faccenda del diabolismo e su ciò che chiamerebbe
+la superstizione contemporanea intorno agli indemoniati, come se Cristo,
+al pari di un giovane diacono che riceve i primi ordini, fosse giunto fino
+all'esorcismo e non fosse mai andato oltre. Ora, ciascuna di queste spiegazioni
+mi sembra in sé singolarmente inadeguata; ma prese insieme
+esse suggeriscono in qualche modo proprio quel mistero che mancano.
+Doveva pur esserci qualcosa non solo di misterioso ma di poliedrico
+in Cristo, se da lui si possono intagliare tanti Cristi più piccoli.
+Se lo Scienziato Cristiano si accontenta di lui come guaritore spirituale
+e il Socialista Cristiano si accontenta di lui come riformatore sociale,
+tanto contenti da non aspettarsi nemmeno che sia qualcos'altro,
+sembra proprio che egli abbracciasse assai più terreno di quanto ci si
+potesse aspettare che loro si aspettassero. E ciò sembra suggerire che ci
+potrebbe essere più di quanto essi immaginino in questi altri misteriosi attributi
+dello scacciare i demoni o del profetizzare la rovina.
+
+Soprattutto, un tale nuovo lettore del Nuovo Testamento non inciamperebbe
+in qualcosa che lo sconvolgerebbe assai più di quanto sconvolga noi?
+Ho qui tentato più di una volta l'impresa piuttosto impossibile
+di rovesciare il tempo e il metodo storico; e di guardare con la fantasia
+in avanti verso i fatti, invece che all'indietro attraverso i ricordi.
+Così ho immaginato il mostro che l'uomo potrebbe essere apparso in un primo momento
+alla mera natura che lo circondava. Avremmo uno choc anche peggiore se davvero
+immaginassimo la natura di Cristo nominata per la prima volta.
+Che cosa proveremmo al primo sussurro di una certa insinuazione
+su un certo uomo? Certo non tocca a noi biasimare chiunque
+trovasse quel primo folle sussurro semplicemente empio e insensato.
+Al contrario, inciampare su quella pietra dello scandalo è il primo passo.
+Un'incredulità sbarrata e a occhi sgranati è un tributo assai più leale a quella verità
+di quanto lo sia una metafisica modernista che ne farebbe una mera questione di grado.
+Meglio sarebbe stracciarci le vesti con un gran grido contro la bestemmia,
+come Caifa nel giudizio, o afferrare l'uomo come un maniaco
+posseduto dai demoni, come i parenti e la folla, piuttosto che
+starsene stupidamente a discutere di sottili sfumature di panteismo al cospetto
+di una pretesa tanto catastrofica. Vi è più di quella saggezza che è
+tutt'uno con lo stupore in qualsiasi persona semplice, colma della sensibilità
+della semplicità, che si aspettasse che l'erba appassisse e gli uccelli
+cadessero morti dal cielo, quando un girovago apprendista falegname
+disse con calma e quasi con noncuranza, come chi si volge a guardare oltre la spalla:
+«Prima che Abramo fosse, io sono».
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_01" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 1)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt"></span>
@@ -16990,6 +19852,115 @@ and to me they suggest something very vast.  So a thing solitary
 and solid, with the added dimension of depth or height, might tower
 over the flat creatures living only on a plane.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+III
+
+LA STORIA PIÙ STRANA DEL MONDO
+
+Nel capitolo precedente ho deliberatamente insistito su quello che
+oggi sembra essere un aspetto trascurato del racconto del Nuovo Testamento,
+ma nessuno supporrà, immagino, che ciò intenda oscurare
+quell'altro aspetto che può veramente dirsi umano. Che il Cristo fosse ed è
+il più misericordioso dei giudici e il più partecipe degli amici
+è un fatto di ben maggiore importanza nella nostra vita privata
+che in qualsivoglia speculazione storica. Ma lo scopo
+di questo libro è mostrare che qualcosa di unico è stato sommerso
+da vane generalizzazioni; e a tale scopo è pertinente
+insistere sul fatto che perfino ciò che vi era di più universale era anche di più originale.
+Prendiamo, per esempio, un tema che è davvero congeniale
+all'animo moderno, come non lo sono le vocazioni ascetiche cui si è accennato poco fa.
+L'esaltazione dell'infanzia è qualcosa che noi comprendiamo davvero;
+ma non era affatto una cosa che allora, in quel senso, fosse compresa.
+Se volessimo un esempio dell'originalità dei Vangeli
+difficilmente potremmo sceglierne uno più forte o più sorprendente.
+Quasi duemila anni dopo, ci troviamo per caso
+in una disposizione d'animo che sente davvero il fascino mistico del bambino;
+lo esprimiamo in romanzi e rimpianti sull'infanzia, in Peter Pan
+o in The Child's Garden of Verses. E delle parole
+di Cristo possiamo dire, con un anticristiano tanto rabbioso quanto Swinburne:
+
+'No sign that ever was given
+To faithful or faithless eyes
+Showed ever beyond clouds riven
+So clear a paradise.
+
+Earth's creeds may be seventy times seven
+And blood have defiled each creed
+But if such be the kingdom of heaven
+It must be heaven indeed.'
+
+Ma quel paradiso non fu limpido finché il cristianesimo non lo ebbe a poco a poco
+rischiarato. Il mondo pagano, in quanto tale, non avrebbe compreso alcunché
+di simile a una seria proposta che un bambino sia più alto o più santo
+di un uomo. Sarebbe suonata come la proposta che un girino
+sia più alto o più santo di una rana. Alla mente meramente razionalistica
+sarebbe parso come dire che un bocciolo debba essere più bello di
+un fiore o che una mela acerba debba essere migliore di una matura.
+In altre parole, questo sentimento moderno è un sentimento interamente mistico.
+È mistico esattamente quanto il culto della verginità; anzi
+è il culto della verginità. Ma l'antichità pagana aveva un'idea assai più chiara
+della santità della vergine che della santità del bambino.
+Per varie ragioni siamo giunti oggi a venerare i bambini,
+forse in parte perché li invidiamo per il fatto che fanno ancora ciò che gli uomini
+facevano un tempo; come giocare a giochi semplici e godere delle fiabe. Oltre
+a questo, tuttavia, vi è un gran fondo di psicologia reale e sottile
+nel nostro apprezzamento dell'infanzia; ma se ne facciamo
+una scoperta moderna, dobbiamo ancora una volta ammettere che il Gesù storico
+di Nazareth l'aveva già scoperta duemila anni troppo presto.
+Non c'era certo nulla nel mondo intorno a lui che potesse aiutarlo
+alla scoperta. Qui il Cristo fu davvero umano; ma più umano
+di quanto un essere umano fosse allora verosimilmente capace di essere. Peter Pan non appartiene
+al mondo di Pan, bensì al mondo di Peter.
+
+Persino in materia di puro stile letterario, se supponiamo di essere così
+sufficientemente distaccati da guardarlo sotto quella luce, vi è una curiosa
+qualità a cui nessun critico sembra aver reso giustizia. Aveva, tra
+le altre cose, una singolare aria di ammucchiare torre su torre mediante l'uso
+dell'a fortiori; facendo una pagoda di gradi come i sette cieli.
+Ho già notato quella visione immaginativa quasi rovesciata
+che raffigurava l'impossibile penitenza delle Città della Pianura.
+Non v'è forse nulla di così perfetto in tutta la lingua o la letteratura
+quanto l'uso di questi tre gradi nella parabola dei gigli
+del campo; nella quale egli sembra dapprima prendere un piccolo fiore
+nella mano e notarne la semplicità e persino l'impotenza;
+poi d'un tratto lo dilata in colori sgargianti in tutti i palazzi
+e i padiglioni pieni di un gran nome nella leggenda nazionale e nella gloria nazionale;
+e poi, con un terzo capovolgimento ancora, lo fa raggrinzire di nuovo nel nulla
+con un gesto come se lo gettasse via ‘e se Dio così riveste
+l'erba che oggi è e domani è gettata nel forno—
+quanto più' È come la costruzione di una buona torre di Babele
+mediante bianca [[Magic|magia]] in un attimo e nel movimento di una mano;
+una torre issata d'un tratto fino al cielo, sulla cui cima si può
+scorgere da lontano, più alta di quanto avessimo immaginato possibile, la figura
+dell'uomo; sollevata da tre infiniti al di sopra di tutte le altre cose,
+su una scala stellata di limpida [[logic|logica]] e rapida [[Imagination|immaginazione]].
+Anche solo in senso letterario sarebbe più un capolavoro
+della maggior parte dei capolavori delle biblioteche; eppure sembra essere
+stato pronunciato quasi a caso, nel tempo in cui un uomo potrebbe cogliere un fiore.
+Ma anche solo in senso letterario, questo uso del comparativo
+in più gradi ha in sé una qualità che a me sembra alludere
+a cose assai più alte della moderna suggestione del semplice
+insegnamento dell'etica [[Pastoral|pastorale]] o comunitaria. Non v'è nulla che davvero
+indichi una mente sottile e, nel vero senso, superiore quanto
+questa capacità di paragonare una cosa più bassa con una più alta e poi quella
+più alta con una più alta ancora; di pensare su tre piani a un tempo.
+Non v'è nulla che richieda la specie più rara di saggezza quanto il vedere,
+poniamo, che il cittadino è più alto dello schiavo e tuttavia
+che l'[[Soul|anima]] è infinitamente più alta del cittadino o della [[City|città]].
+Non è affatto una facoltà che comunemente appartenga a questi
+semplificatori del Vangelo; a coloro che insistono su ciò che chiamano una semplice
+[[morality|moralità]] e altri chiamano una sentimentale [[morality|moralità]]. Non è affatto
+un ambito coperto da coloro che si accontentano di dire a tutti di restare in pace.
+Al contrario, ve n'è un esempio assai notevole nell'apparente
+incoerenza tra i detti di [[Christ|Cristo]] sulla pace e sulla [[Sword|spada]].
+È precisamente questa potenza che percepisce che, mentre una buona pace
+è migliore di una buona guerra, perfino una buona guerra è migliore di una cattiva pace.
+Questi paragoni spinti tanto lontano non sono in nessun luogo così frequenti come nei Vangeli;
+e a me suggeriscono qualcosa di assai vasto. Così una cosa solitaria
+e solida, con la dimensione aggiunta della profondità o dell'altezza, potrebbe torreggiare
+sopra le creature piatte che vivono soltanto su un piano.
 
 
 
@@ -17106,6 +20077,14 @@ A lunatic may think he is omniscience, and a [[Fool|fool]] may talk as if
 he were omniscient.  But [[Christ]] is in another sense omniscient
 if he not only knows, but knows that he knows.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa qualità di qualcosa che si può soltanto definire sottile e superiore, qualcosa che è capace di sguardi lunghi e persino di significati [[Double|doppi]], non viene qui rilevata soltanto come contraltare alle esagerazioni convenzionali dell'affabilità e del blando idealismo. Va rilevata anche in rapporto con la [[Truth|verità]] ben più tremenda a cui si accennava in chiusura del capitolo precedente. Poiché questo è proprio l'ultimo carattere che di solito si accompagna alla pura megalomania; specialmente a una megalomania così ripida e vertiginosa quale sarebbe implicita in quella pretesa. Questa qualità che si può soltanto definire distinzione intellettuale non è, certo, una prova di divinità. Ma è una prova di un probabile disgusto per le pretese volgari e vanagloriose di divinità. Un uomo di quella tempra, se fosse soltanto un uomo, sarebbe l'ultimo al mondo a soffrire di quell'ebbrezza da una nozione venuta da nessun luogo in particolare, che è il marchio del sensazionalista religioso che inganna [[Self|se stesso]]. Né lo si evita negando che il [[Christ|Cristo]] abbia davvero avanzato quella pretesa. Di nessun uomo simile a lui, di nessun altro [[Prophet|profeta]] o filosofo del medesimo ordine intellettuale, sarebbe possibile fingere che l'avesse avanzata. Anche se la Chiesa avesse frainteso il suo significato, resterebbe comunque vero che nessun'altra tradizione storica all'infuori della Chiesa ha mai fatto neppure il medesimo errore. I maomettani non fraintesero Maometto supponendolo Allah. Gli ebrei non interpretarono male Mosè identificandolo con Jehovah. Perché mai fu esagerata [[Alone|soltanto]] questa pretesa, se non perché [[Alone|soltanto]] questa fu avanzata? Anche se il [[Christianity|cristianesimo]] fosse un unico immenso, universale abbaglio, resterebbe pur sempre un abbaglio solitario quanto l'Incarnazione.
+
+Lo scopo di queste pagine è di fissare la falsità di certe assunzioni vaghe e volgari; e qui ne abbiamo una fra le più false. Circola dappertutto nell'aria una specie di idea che tutte le religioni siano uguali perché tutti i fondatori religiosi furono rivali, che stiano tutti combattendo per la medesima [[Crown|corona]] di stelle. È del tutto falso. La pretesa a quella [[Crown|corona]], o a qualcosa di simile a quella [[Crown|corona]], è in realtà così rara da essere unica. Maometto non l'avanzò più di quanto la avanzassero Michea o Malachia. Confucio non l'avanzò più di quanto la avanzassero Platone o Marco Aurelio. Buddha non disse mai di essere Brahma. Zoroastro non pretese di essere Ormuzd più di quanto pretendesse di essere Ahriman. La [[Truth|verità]] è che, nel corso ordinario dei casi, le cose stanno esattamente come dovremmo aspettarci che stiano, secondo il buon senso e certamente secondo la [[philosophy|filosofia]] cristiana. Va esattamente all'inverso. Di norma, quanto più un uomo è grande, tanto meno è probabile che avanzi la pretesa più grande di tutte. Al di fuori del caso unico che stiamo considerando, l'unico tipo d'uomo che avanzi una simile pretesa è un uomo molto piccolo; un monomaniaco chiuso o centrato su [[Self|se stesso]]. Nessuno può immaginare Aristotele che pretenda di essere il padre degli dèi e degli uomini, disceso dal cielo; benché potremmo immaginare qualche folle imperatore romano come Caligola avanzare quella pretesa per lui, o più probabilmente per se stesso. Nessuno può immaginare Shakespeare parlare come se fosse letteralmente divino; benché potremmo immaginare qualche svitato americano trovarla come crittogramma nelle opere di Shakespeare, o preferibilmente nelle proprie. È possibile trovare qua e là esseri umani che avanzano questa pretesa supremamente sovrumana. È possibile trovarli nei manicomi; nelle celle imbottite; magari in camicia di forza. Ma ciò che è assai più importante della loro mera sorte materialistica, nella nostra società oltremodo materialistica, sotto leggi assai rozze e goffe riguardo alla follia, è che il tipo che conosciamo come intinto di questo, o incline a questo, è un tipo malato e sproporzionato; angusto eppure gonfio e morboso fino alla mostruosità. È per una metafora piuttosto sfortunata che parliamo di un pazzo come di un uomo «incrinato»; perché in un certo senso egli non è abbastanza incrinato. È compresso, piuttosto che incrinato; non ci sono abbastanza fessure nella sua testa per ventilarla. Questa impossibilità di lasciar entrare la luce del giorno su un'illusione talvolta copre e cela un'illusione di divinità. La si può trovare, non tra i profeti e i saggi e i fondatori di religioni, ma soltanto tra una bassa genìa di dementi. Ma è proprio qui che l'argomento si fa intensamente interessante; perché l'argomento prova troppo. Poiché nessuno suppone che Gesù di Nazareth fosse quel genere di persona. Nessun critico moderno in possesso dei suoi cinque sensi ritiene che il predicatore del Sermone sul Monte fosse un orribile imbecille mezzo idiota che scarabocchiava [[Stars|stelle]] sui muri di una cella. Nessun ateo o bestemmiatore crede che l'autore della [[Parable|Parabola]] del Figliuol Prodigo fosse un [[Monster|mostro]] con una sola idea folle, come un ciclope con un solo occhio. Su qualsiasi possibile critica storica, egli va posto più in alto, nella scala degli esseri umani, che a quel livello. Eppure, per ogni analogia, dobbiamo davvero porlo lì, oppure nel posto più alto di tutti.
+
+In verità, coloro che sanno davvero prenderla (come io qui ipoteticamente la prendo) in uno spirito del tutto asciutto e distaccato, hanno qui un curiosissimo e interessantissimo problema umano. È così intensamente interessante, considerato come problema umano, che è in uno spirito del tutto disinteressato, per così dire, che avrei voluto che alcuni di loro avessero trasformato quell'intricato problema umano in qualcosa come un intelligibile ritratto umano. Se il [[Christ|Cristo]] fu semplicemente un carattere umano, fu davvero un carattere umano assai complesso e contraddittorio. Poiché egli combinava esattamente le due cose che stanno ai due estremi della variazione umana. Egli era esattamente ciò che l'uomo affetto da un'illusione non è mai; era saggio; era un buon giudice. Ciò che diceva era sempre inatteso; ma era sempre inaspettatamente magnanimo e spesso inaspettatamente moderato. Si prenda una cosa come il fulcro della [[Parable|parabola]] della zizzania e del grano. Ha quella qualità che unisce la [[Sanity|sanità di mente]] e la sottigliezza. Non ha la semplicità di un pazzo. Non ha nemmeno la semplicità di un fanatico. Potrebbe essere pronunciata da un filosofo di cent'anni, al termine di un secolo di Utopie. Nulla potrebbe essere meno simile a questa qualità di vedere al di là e tutt'intorno alle cose ovvie, che la condizione dell'egomaniaco con l'unico punto sensibile nel suo cervello. Davvero non vedo come questi due caratteri potrebbero essere combinati in modo convincente, se non nel modo sbalorditivo in cui li combina il credo. Poiché finché non giungiamo alla piena accettazione del fatto come fatto, per quanto meraviglioso, tutte le mere approssimazioni a esso se ne allontanano in realtà sempre di più. La divinità è abbastanza grande da essere divina; è abbastanza grande da chiamarsi divina. Ma man mano che l'umanità si fa più grande, si fa sempre meno incline a farlo. Dio è Dio, come dicono i musulmani; ma un grand'uomo sa di non essere Dio, e quanto più è grande, tanto meglio lo sa. Questo è il [[Paradox|paradosso]]; tutto ciò che si limita ad avvicinarsi a quel punto se ne va semplicemente allontanando. Socrate, l'uomo più saggio, sa di non sapere nulla. Un pazzo può credersi onnisciente, e uno [[Fool|sciocco]] può parlare come se lo fosse. Ma il [[Christ|Cristo]] è onnisciente in un altro senso, se non solo sa, ma sa di sapere.
 
 
 
@@ -17231,6 +20210,16 @@ the whole story moves on wings with the [[Speed|speed]] and direction of a drama
 ending in an act beyond words.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Anche sul versante puramente umano e simpatetico, dunque, il Gesù del Nuovo Testamento mi pare avere, per moltissimi rispetti, quella nota di qualcosa di sovrumano; vale a dire di qualcosa che è umano e più che umano. Ma vi è un'altra qualità che percorre tutto il suo insegnamento e che mi sembra trascurata nella maggior parte dei discorsi moderni che ne trattano come di un insegnamento; ed è la persistente suggestione che egli non sia venuto realmente a insegnare. Se vi è un episodio, in tutto il racconto, che mi tocca personalmente come grandiosamente e gloriosamente umano, è l'episodio del vino donato per il banchetto di nozze. Quello è umano nel senso in cui un'intera folla di saccenti, che hanno l'apparenza di esseri umani, difficilmente può dirsi umana. Si eleva al di sopra di tutte le persone superiori. È umano come Herrick e democratico come Dickens. Ma perfino in quel racconto vi è qualcos'altro che porta quella nota di cose non pienamente spiegate; e qui, per un certo verso, assai pertinente. Intendo la prima esitazione, non su alcun terreno che tocchi la [[Nature|natura]] del miracolo, ma su quello dell'opportunità di operare un miracolo qualsiasi, almeno a quello stadio; «il mio [[Time|tempo]] non è ancora venuto». Che cosa significa? Significava per lo meno, di certo, un piano o disegno generale nella mente, con cui certe cose si accordavano o non si accordavano. E se lasciamo fuori quel solitario piano strategico, non lasciamo fuori soltanto il senso del racconto, ma il racconto stesso.
+
+Sentiamo spesso parlare di Gesù di Nazaret come di un maestro errante, e vi è una [[Truth|verità]] vitale in questa visione, nella misura in cui essa mette in risalto un atteggiamento verso il lusso e la convenzione che la maggior parte delle persone rispettabili giudicherebbe ancora quello di un vagabondo. Esso è espresso nel suo grande detto sulle tane delle volpi e i nidi degli [[Birds|uccelli]], e, come molti dei suoi grandi detti, è avvertito come meno potente di quanto sia, per mancata comprensione di quel grande [[Paradox|paradosso]] con cui egli parlava della propria umanità come in qualche modo collettivamente e rappresentativamente umana; chiamando se stesso semplicemente il Figlio dell'Uomo; ossia, in effetti, chiamando se stesso semplicemente Uomo. È conveniente che l'Uomo Nuovo, o il Secondo Adamo, ripeta con voce così squillante e con gesto così arrestante il grande fatto che veniva per primo nel racconto originario: che l'uomo differisce dai bruti per ogni cosa, perfino per difetto; che egli è in un certo senso meno normale e persino meno indigeno; uno straniero sulla terra. È [[Well|bene]] parlare delle sue peregrinazioni in questo senso e nel senso che egli condivise la vita alla deriva dei più privi di casa e di speranza fra i poveri. È certamente [[Well|bene]] ricordare che egli sarebbe stato quasi di sicuro allontanato dalla polizia e quasi certamente arrestato dalla polizia per non avere alcun visibile mezzo di sostentamento. Poiché la nostra legge ha in sé una vena di [[Humour|umorismo]] o un tocco di fantasia che a Nerone e a Erode non capitò mai di concepire: quello di punire realmente le persone senza casa per non aver dormito a [[Home|casa]].
+
+Ma in un altro senso la parola «errante», applicata alla sua vita, è un poco fuorviante. Di fatto, moltissimi dei saggi pagani e non pochi dei sofisti pagani potrebbero a buon diritto essere descritti come maestri erranti. In alcuni di loro i vagabondi viaggi non erano del tutto privi di riscontro nei loro vagabondi discorsi. [[Apollonius]] di Tiana, che figurava in certi culti alla moda come una sorta di filosofo ideale, è rappresentato mentre vagabonda fino al Gange e all'Etiopia, più o meno parlando per tutto il [[Time|tempo]]. Vi era realmente una scuola di filosofi detti i Peripatetici; e la maggior parte perfino dei grandi filosofi ci lascia una vaga impressione di aver avuto ben poco da fare, se non camminare e discorrere. Le grandi conversazioni che ci offrono qualche scorcio delle grandi menti di Socrate o di Buddha o perfino di Confucio sembrano spesso parti di un picnic che non finisce mai; e soprattutto, ed è questo il punto importante, di non avere né principio né fine. Socrate trovò invero la conversazione interrotta dall'episodio della propria esecuzione. Ma è tutto il senso, e tutto il particolare merito, della posizione di Socrate che la [[Death|morte]] fosse soltanto un'interruzione e un episodio. Manchiamo la vera importanza morale del grande filosofo se manchiamo quel punto: che egli fissa il carnefice con un [[Innocent|innocente]] stupore, e quasi con un [[Innocent|innocente]] fastidio, nel trovare qualcuno tanto irragionevole da troncare una piccola conversazione volta a chiarire la [[Truth|verità]]. Egli cerca la [[Truth|verità]] e non cerca la [[Death|morte]]. La [[Death]] non è che una pietra sulla [[Road|strada]] che può farlo inciampare. Il suo compito nella vita è di errare sulle strade del mondo e discorrere della [[Truth|verità]] in eterno. Buddha, d'altra parte, arrestò invero l'attenzione con un gesto: era il gesto della [[Renunciation|rinuncia]], e perciò, in un certo senso, della negazione. Ma con una sola drammatica negazione egli passò in un mondo di negazione che non era drammatico; e sarebbe stato il primo a insistere che non era drammatico. Anche qui manchiamo la particolare importanza morale del grande mistico se non vediamo la distinzione: che era tutto il suo assunto l'aver chiuso con il dramma, il quale consiste di [[Desire|desiderio]] e lotta e generalmente di sconfitta e delusione. Egli passa nella pace e vive per istruire gli altri su come passarvi. D'ora innanzi la sua vita è quella del filosofo ideale; certamente un filosofo assai più realmente ideale di [[Apollonius]] di Tiana; ma pur sempre un filosofo nel senso che non è suo compito fare alcunché, bensì piuttosto spiegare ogni cosa; nel suo caso, potremmo quasi dire, esplorare con mitezza e dolcezza ogni cosa. Poiché i messaggi sono fondamentalmente diversi. [[Christ|Cristo]] disse: «Cercate prima il regno, e tutte queste cose vi saranno date in aggiunta». Buddha disse: «Cercate prima il regno, e allora non avrete bisogno di alcuna di queste cose».
+
+Ora, a confronto di questi erranti, la vita di Gesù procedette rapida e diritta come una folgore. Fu al di sopra di ogni cosa drammatica; consistette al di sopra di ogni cosa nel fare qualcosa che doveva essere fatto. Con ogni evidenza non sarebbe stata compiuta, se Gesù avesse camminato per il mondo in eterno senza fare nient'altro che dire la [[Truth|verità]]. E persino il suo movimento esteriore non va descritto come un errare, nel senso di dimenticare che era un [[Journey|viaggio]]. È qui che essa fu un compimento dei miti piuttosto che delle filosofie; è un [[Journey|viaggio]] con una meta e uno scopo, come Giasone che va a cercare il Vello d'Oro, o Ercole i pomi d'oro delle Esperidi. L'oro che egli cercava era la [[Death|morte]]. La cosa prima che egli stava per compiere era morire. Stava per compiere altre cose ugualmente definite e oggettive; potremmo quasi dire ugualmente esterne e materiali. Ma dal principio alla fine il fatto più definito è che egli sta per morire. Non potrebbero esservi due cose più diverse della [[Death|morte]] di Socrate e della [[Death|morte]] di [[Christ|Cristo]]. Siamo indotti a sentire che la [[Death|morte]] di Socrate fu, almeno dal punto di vista dei suoi amici, uno stupido pasticcio e un errore giudiziario che interferiva con lo scorrere di una [[philosophy|filosofia]] umana e lucida, avrei quasi detto lieve. Siamo indotti a sentire che la [[Death]] fu la sposa di [[Christ|Cristo]] come la [[Poverty|Povertà]] fu la sposa di san Francesco. Siamo indotti a sentire che la sua vita fu, in quel senso, una sorta di storia d'[[Love|amore]] con la [[Death|morte]], un [[Romance|romanzo]] della ricerca del sacrificio supremo. Dal momento in cui la stella sale come un razzo di compleanno al momento in cui il sole si spegne come una torcia funebre, l'intera storia procede sulle ali con la [[Speed|velocità]] e la direzione di un dramma, terminando in un atto che va oltre le parole.
+
 
 
 <span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_04" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 4)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt"></span>
@@ -17333,6 +20322,105 @@ more than once; that it was not the weakness of a thing originally weak.
 It was emphatically the strength of the world that was turned
 to weakness and the wisdom of the world that was turned to folly.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perciò la storia di [[Christ|Cristo]] è la storia di un [[Journey|viaggio]],
+quasi alla maniera di una marcia militare; e certamente alla maniera
+della [[Quest|ricerca]] di un [[Hero|eroe]] che avanza verso il proprio compimento o la propria rovina.
+È una storia che comincia nel paradiso della Galilea, una terra [[Pastoral|pastorale]]
+e pacifica che serba davvero qualche sentore dell'Eden, e a poco a poco
+sale per la contrada montuosa verso i [[Mountains|monti]] che sono più vicini
+alle nubi della [[Storm|tempesta]] e alle [[Stars|stelle]], come verso un Monte del Purgatorio.
+Lo si può incontrare mentre par vagare in luoghi strani, o mentre lo si ferma
+lungo il cammino per una discussione o una disputa; ma il suo volto è rivolto
+verso la [[City|città]] della montagna. Questo è il senso di quel grande
+culmine, quando egli valicò il crinale e sostò alla svolta
+della [[Road|strada]] e a un tratto gridò forte, piangendo su Gerusalemme.
+Un lieve tocco di quel pianto è in ogni poema patriottico;
+o, se manca, il patriottismo puzza di volgarità.
+Questo è il senso dell'episodio commovente e sconcertante alle porte
+del Tempio, quando le tavole furono scagliate come ciarpame giù per i gradini,
+e i ricchi mercanti cacciati fuori a percosse; l'episodio
+che deve costituire per i pacifisti almeno tanto un enigma quanto ogni
+[[Paradox|paradosso]] sulla non resistenza può costituirlo per uno qualsiasi dei militaristi.
+Ho paragonato la [[Quest|ricerca]] al [[Journey|viaggio]] di Giasone, ma non dobbiamo
+mai dimenticare che, in un senso più profondo, essa va piuttosto paragonata
+al [[Journey|viaggio]] di [[Ulysses|Ulisse]]. Non era soltanto un [[Romance|romanzo]] di viaggio,
+ma un [[Romance|romanzo]] di ritorno; e della fine di un'usurpazione.
+Nessun ragazzo sano che legga la storia considera la disfatta dei pretendenti
+di Itaca come qualcosa di diverso da un lieto fine. Ma ve ne sono senza dubbio
+alcuni che considerano la disfatta dei mercanti e dei cambiavalute ebrei
+con quella raffinata ripugnanza che non manca mai di commuoverli
+alla presenza della violenza, e specialmente della violenza contro
+i [[Well|benestanti]]. Il punto, qui, è però che tutti questi episodi
+recano in sé un carattere di crisi crescente. In altre parole,
+questi episodi non sono incidentali. Quando [[Apollonius|Apollonio]], il filosofo
+ideale, è condotto dinanzi al tribunale di Domiziano
+e svanisce per [[Magic|magia]], il miracolo è del tutto incidentale.
+Sarebbe potuto avvenire in qualsiasi [[Time|momento]] della vita errabonda
+del Tianeo; anzi, credo che sia dubbio nella data non [[Well|meno]] che
+nella sostanza. Il filosofo ideale semplicemente svanì, e riprese
+altrove la sua ideale esistenza per un periodo indefinito.
+È forse caratteristico del contrasto che [[Apollonius|Apollonio]]
+si supponesse fosse vissuto fino a un'età quasi miracolosa.
+Gesù di Nazaret fu meno prudente nei suoi miracoli.
+Quando Gesù fu condotto dinanzi al tribunale di Ponzio Pilato,
+egli non svanì. Era la crisi e la meta; era l'ora
+e il potere delle tenebre. Fu l'atto supremamente [[Supernatural|soprannaturale]],
+di tutta la sua vita miracolosa, che egli non svanisse.
+
+Ogni tentativo di amplificare quella storia l'ha sminuita. All'impresa
+si sono cimentati molti uomini di autentico genio ed eloquenza, non [[Well|meno]] che
+troppi volgari sentimentali e retori compiaciuti di [[Self|sé]].
+Il racconto è stato ripetuto con pathos condiscendente da eleganti scettici
+e con facondo entusiasmo da chiassosi autori di best-seller. Non
+sarà ripetuto qui. La forza schiacciante delle nude parole della
+storia evangelica è come la forza delle macine; e chi sappia leggerle
+con sufficiente semplicità sentirà come se rocce gli fossero state rotolate addosso.
+La critica è soltanto parole su parole; e a che servono parole
+su parole come queste? A che serve dipingere a parole
+il buio [[Garden|giardino]] riempito d'improvviso di fiaccole e di volti furibondi?
+«Siete usciti con spade e bastoni come contro un brigante?
+Tutto il giorno sedevo nel vostro tempio a insegnare, e non mi prendeste.»
+Si può aggiungere qualcosa al massiccio e raccolto ritegno di quell'ironia,
+simile a una grande onda sollevata fino al cielo e che rifiuta di ricadere?
+«Figlie di Gerusalemme, non piangete per me, ma piangete per voi stesse e
+per i vostri figli.» Come il Sommo Sacerdote chiese quale ulteriore bisogno avesse
+di testimoni, così noi potremmo [[Well|ben]] chiederci quale ulteriore bisogno abbiamo di parole.
+Pietro in preda al panico lo rinnegò: «e subito il gallo cantò;
+e Gesù guardò Pietro, e Pietro uscì e pianse amaramente.»
+Ha qualcuno qualche ulteriore osservazione da offrire? Poco prima dell'assassinio egli pregò
+per tutta la razza omicida degli uomini, dicendo: «Non sanno quello che fanno»;
+c'è qualcosa da dire a ciò, se non che noi sappiamo altrettanto poco
+quello che diciamo? C'è bisogno di ripetere e dipanare la storia
+di come la [[Tragedy|tragedia]] si trascinò su per la Via Dolorosa e di come lo gettarono
+alla rinfusa insieme a due ladroni in una delle ordinarie infornate
+d'esecuzione; e di come, in tutto quell'orrore e quel deserto ululante di
+abbandono, una voce parlò in atto d'omaggio, una voce sorprendente dal luogo
+più impensato, la forca del criminale;
+ed egli disse a quel senza nome furfante: «Questa [[Night|notte]] tu sarai con me
+in Paradiso»? C'è qualcosa da mettere dopo di ciò se non un punto fermo?
+O v'è qualcuno pronto a rispondere adeguatamente a quel gesto d'addio
+a tutta la carne, che creò per sua Madre un nuovo Figlio?
+
+È più alla mia portata, e qui più immediatamente conforme al mio scopo,
+far notare che in quella scena erano simbolicamente raccolte tutte
+le forze umane che sono state vagamente abbozzate in questa storia.
+Come re e filosofi e l'elemento popolare erano stati
+simbolicamente presenti alla sua nascita, così furono più concretamente
+implicati nella sua [[Death|morte]]; e con ciò giungiamo faccia a faccia
+con il fatto essenziale da comprendere. Tutti i grandi gruppi
+che stavano intorno alla [[Cross|Croce]] rappresentano in un modo o nell'altro la grande
+[[Truth|verità]] storica di quel [[Time|tempo]]: che il mondo non poteva salvarsi da sé.
+L'uomo non poteva far di più. Roma e Gerusalemme e Atene e ogni altra
+cosa precipitavano come un mare mutato in una lenta cateratta.
+Esteriormente, invero, il mondo antico era ancora al suo apice;
+ed è sempre in quel momento che comincia la più intima debolezza.
+Ma per comprendere quella debolezza dobbiamo ripetere ciò che è stato detto
+più d'una volta: che non era la debolezza di una cosa in origine debole.
+Era, con ogni enfasi, la forza del mondo che si mutava
+in debolezza e la sapienza del mondo che si mutava in follia.
 
 
 
@@ -17465,6 +20553,133 @@ in the cool not of the evening but the [[Dawn|dawn]].
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In questa vicenda del Venerdì Santo sono le cose migliori del mondo a
+mostrarsi nel loro peggio. Ed è appunto questo a rivelarci il mondo nel
+suo momento peggiore. Erano, per esempio, i sacerdoti di un autentico
+monoteismo e i soldati di una civiltà internazionale. Roma, la leggenda
+fondata sulla caduta di Troia e trionfante sulla caduta di Cartagine,
+aveva incarnato un [[Heroism|eroismo]] che fu quanto di più vicino alla
+cavalleria un pagano abbia mai raggiunto. Roma aveva difeso gli dèi
+domestici e le decenze umane contro gli orchi dell'Africa e le mostruosità
+ermafrodite della Grecia. Ma nel guizzo di [[Lightning|folgore]] di questo
+episodio vediamo la grande Roma, la repubblica imperiale, scivolare verso
+il basso sotto la sua condanna lucreziana. Lo scetticismo aveva corroso
+perfino la sicura [[Sanity|sanità di mente]] dei conquistatori del mondo.
+Colui che siede in trono per dire che cosa sia la giustizia sa solo
+domandare: «Che cos'è la [[Truth|verità]]?». Così, in quel dramma che
+decise l'intero destino dell'antichità, una delle figure centrali resta
+fissata in ciò che sembra il rovescio del suo vero ruolo. Roma era quasi
+un altro nome della responsabilità. Eppure egli sta lì per sempre come una
+sorta di statua vacillante dell'irresponsabile. L'uomo non poteva far di
+più. Perfino il pratico era divenuto l'impraticabile. Ritto fra le colonne
+del suo stesso tribunale, un Romano se ne era lavato le mani del mondo.
+
+Là si trovavano anche i sacerdoti di quella pura e originaria
+[[Truth|verità]] che stava dietro tutte le mitologie come il cielo dietro
+le nubi. Era la [[Truth|verità]] più importante del mondo; eppure neppure
+essa poteva salvare il mondo. Forse vi è qualcosa di soverchiante nel
+puro teismo personale, come vedere il sole, la [[Moon|luna]] e il cielo
+convergere a formare un unico volto che fissa. Forse la [[Truth|verità]]
+è troppo tremenda quando non sia spezzata da qualche intermediario, divino
+o umano; forse è semplicemente troppo pura e troppo lontana. Comunque
+sia, essa non poté salvare il mondo; non poté nemmeno conquistarlo. Vi
+furono filosofi che la possedettero nella sua forma più alta e più nobile;
+ma non solo non poterono [[convert|convertire]] il mondo, bensì non ci
+provarono mai. Non si poteva combattere la giungla della mitologia
+popolare con un'opinione privata più di quanto si potesse sgombrare una
+foresta con un temperino. I sacerdoti ebrei l'avevano custodita
+gelosamente, nel senso buono e nel senso cattivo. L'avevano tenuta come un
+segreto gigantesco. Come eroi selvaggi avrebbero potuto tenere il sole in
+una cassa, essi tenevano l'Eterno nel tabernacolo. Erano orgogliosi di
+poter [[Alone|essi soli]] contemplare l'accecante sole di una divinità
+unica; e non sapevano di essere divenuti ciechi essi stessi. Da quel
+giorno i loro rappresentanti sono stati come ciechi in pieno mezzogiorno,
+che vibrano colpi a destra e a sinistra con i loro bastoni e maledicono le
+tenebre. Ma vi è stato, in quel loro monumentale monoteismo, qualcosa per
+cui esso è almeno rimasto come un monumento, l'ultima cosa del suo genere,
+e in un certo senso immobile nel mondo più inquieto che esso non riesce ad
+appagare. Poiché è certo che, per qualche ragione, esso non riesce ad
+appagare. Da quel giorno non è mai più bastato del tutto dire che Dio è
+nel suo cielo e tutto va bene nel mondo, da quando corse voce che Dio
+avesse lasciato i suoi cieli per mettere le cose a posto.
+
+E come fu di queste potenze che erano buone, o che almeno un tempo erano
+state buone, così fu dell'elemento che era forse il migliore, o che
+[[Christ]] stesso sembra di certo aver sentito come il migliore. I poveri
+ai quali egli annunciava la buona novella, la gente comune che lo ascoltava
+volentieri, il popolo che aveva creato tanti eroi e semidèi popolari nel
+vecchio mondo pagano, mostrarono anch'essi le debolezze che stavano
+dissolvendo il mondo. Soffrivano i mali che spesso si vedono nella plebe
+della [[City|città]], e specialmente nella plebe della capitale, durante il
+declino di una società. La stessa cosa che fa vivere la popolazione rurale
+di tradizione fa vivere la popolazione urbana di dicerie. Come i suoi miti,
+nel migliore dei casi, erano stati irrazionali, così le sue simpatie e
+antipatie si mutano facilmente per un'asserzione infondata, arbitraria
+senza essere autorevole. Un brigante qualunque fu artificiosamente
+trasformato in una figura pittoresca e popolare e messo in campo come una
+sorta di candidato contro [[Christ]]. In tutto ciò riconosciamo la
+popolazione urbana che conosciamo, con i suoi allarmismi e le sue notizie a
+sensazione da giornale. Ma in questa antica popolazione era presente un
+male più proprio del mondo antico. Lo abbiamo già rilevato come la
+noncuranza dell'individuo, perfino dell'individuo che vota la condanna, e
+ancor più dell'individuo condannato. Era l'[[Soul|anima]] dell'alveare; una
+cosa pagana. Anche il grido di questo spirito si udì in quell'ora: «È
+[[Well|bene]] che un uomo solo muoia per il popolo». Eppure questo spirito,
+nell'antichità, di dedizione alla [[City|città]] e allo stato, era stato
+anch'esso, in sé e nel suo [[Time|tempo]], uno spirito nobile. Aveva avuto
+i suoi poeti e i suoi martiri; uomini ancora degni di essere onorati per
+sempre. Veniva meno per la sua debolezza nel non vedere l'[[Soul|anima]]
+separata di un uomo, il sacrario di ogni misticismo; ma veniva meno solo
+come tutto il resto veniva meno. La plebe si accompagnò ai Sadducei e ai
+Farisei, ai filosofi e ai moralisti. Si accompagnò ai magistrati imperiali
+e ai sacri sacerdoti, agli scribi e ai soldati, affinché l'unico universale
+spirito umano subisse una condanna universale; affinché vi fosse un solo
+profondo, unanime [[Chorus|coro]] di approvazione e di armonia quando l'Uomo
+fu ripudiato dagli uomini.
+
+Vi erano solitudini al di là, dove nessuno potrà seguire. Vi erano
+[[Secrets|segreti]] nella parte più interna e invisibile di quel dramma che
+non hanno simbolo nella parola; né in alcuna separazione di un uomo dagli
+uomini. Né è facile, con parole meno spoglie e risolute di quelle della
+nuda narrazione, anche solo alludere all'orrore di esaltazione che si
+levava al di sopra della [[Hill|collina]]. Sterminate esposizioni non ne
+sono giunte alla fine, e nemmeno all'inizio. E se vi è un suono che possa
+generare un [[Silence|silenzio]], possiamo certo tacere sulla fine e
+sull'estremità; quando un grido fu strappato da quelle tenebre in parole
+tremendamente distinte e tremendamente inintelligibili, che l'uomo mai
+comprenderà in tutta l'[[Eternity|eternità]] che esse gli hanno acquistato;
+e per un solo annientante istante un abisso che non è fatto per i nostri
+pensieri si era aperto perfino nell'[[unity|unità]] dell'assoluto; e Dio era
+stato abbandonato da Dio.
+
+Calarono il [[Body|corpo]] giù dalla [[Cross|croce]], e uno dei pochi
+uomini ricchi tra i primi cristiani ottenne il permesso di seppellirlo
+in un sepolcro scavato nella roccia, nel suo [[Garden|giardino]]; e i Romani vi posero una guardia armata,
+per timore che scoppiasse qualche tumulto e si tentasse di recuperare il [[Body|corpo]].
+Ancora una volta vi era un simbolismo naturale in questi eventi naturali;
+fu [[Well|bene]] che il sepolcro venisse sigillato con tutta la segretezza
+delle antiche sepolture orientali e custodito dall'autorità dei Cesari.
+Poiché in quella seconda caverna fu raccolta e ricoperta tutta quella grande e gloriosa
+umanità che chiamiamo antichità;
+e in quel luogo fu sepolta. Era la fine di una cosa grandissima
+chiamata [[history|storia]] umana; la [[history|storia]] che era semplicemente umana.
+Le mitologie e le filosofie furono sepolte là,
+gli dèi e gli eroi e i sapienti. Nella grande espressione romana,
+essi avevano vissuto. Ma poiché potevano soltanto vivere, così potevano soltanto morire;
+ed erano morti.
+
+Il terzo giorno gli amici di [[Christ|Cristo]], giungendo all'alba
+al luogo, trovarono il [[Grave|sepolcro]] vuoto e la pietra rotolata via.
+In modi diversi presero coscienza del nuovo [[Wonder|prodigio]]; ma neppure essi
+si avvidero appieno che il mondo era morto nella [[Night|notte]]. Ciò che avevano
+davanti agli occhi era il primo giorno di una nuova creazione, con un cielo nuovo e una terra nuova;
+e sotto le sembianze del giardiniere Dio camminava di nuovo nel [[Garden|giardino]],
+nel fresco non della sera ma dell'[[Dawn|alba]].
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_01" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 1)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
@@ -17590,6 +20805,89 @@ that it contained a great number of varied superstitions;
 but by no possibility can any part of it be called barbarous.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IV
+
+LA TESTIMONIANZA DEGLI ERETICI
+
+[[Christ|Cristo]] fondò la Chiesa con due grandi figure retoriche,
+nelle parole conclusive rivolte agli Apostoli che ricevettero l'autorità di fondarla.
+La prima fu l'espressione del fondarla su Pietro come su una roccia;
+la seconda fu il simbolo delle chiavi. Sul significato della prima
+non vi è naturalmente alcun [[Doubt|dubbio]] nel mio caso; ma essa non tocca direttamente
+l'argomento qui trattato, se non in due aspetti più secondari.
+È l'ennesimo esempio di una cosa che poté pienamente
+dispiegarsi e spiegarsi soltanto in seguito, e persino molto tempo dopo.
+Ed è l'ennesimo esempio di qualcosa che è l'esatto contrario di semplice
+ed [[Self|evidente da sé]], anche solo nel linguaggio, in quanto descriveva
+un uomo come una roccia quando aveva assai più l'aspetto di una canna.
+
+Ma l'altra immagine, quella delle chiavi, possiede un'esattezza che non è stata quasi
+esattamente notata. Le chiavi sono state abbastanza cospicue
+nell'arte e nell'araldica della cristianità; ma non tutti hanno
+colto la peculiare appropriatezza dell'[[Allegory|allegoria]]. Siamo ora giunti
+al punto della [[history|storia]] in cui bisogna dire qualcosa della prima
+comparsa e delle prime attività della Chiesa nell'Impero romano;
+e per quella breve descrizione nulla potrebbe essere più perfetto
+di quell'antica metafora. Il primo cristiano era assai precisamente
+una persona che portava con sé una chiave, o ciò che diceva essere una chiave.
+L'intero movimento cristiano consisteva nel pretendere di possedere quella chiave.
+Non era semplicemente un vago movimento in avanti, che sarebbe meglio
+rappresentato da un ariete. Non era qualcosa che trascinava con sé
+cose simili o dissimili, come fa un moderno movimento sociale.
+Come vedremo tra un momento, esso piuttosto decisamente rifiutava di farlo.
+Affermava con decisione che vi era una chiave, e che esso possedeva
+quella chiave, e che nessun'altra chiave le somigliava; in tal senso
+era angusto quanto vi piaccia. Solo che si dava il caso che fosse la chiave che
+poteva schiudere la [[Prison|prigione]] del mondo intero; e far entrare la bianca
+luce del giorno della libertà.
+
+Il credo somigliava a una chiave sotto tre aspetti, che possono essere
+riassunti nella maniera più conveniente sotto questo simbolo. Primo, una chiave è soprattutto
+una cosa dotata di una forma. È una cosa che dipende
+interamente dal conservare la propria forma. Il credo cristiano è soprattutto
+la [[philosophy|filosofia]] delle forme e il nemico dell'informe.
+È qui che esso differisce da tutta quella infinità senza forma,
+manichea o buddhista, che forma una sorta di stagno di [[Night|notte]] nel
+cuore oscuro dell'Asia; l'ideale di dis-creare tutte le creature.
+È qui che esso differisce anche dall'analoga vaghezza del mero
+evoluzionismo, l'idea di creature che vanno costantemente perdendo la loro forma.
+Un uomo a cui si dicesse che la sua unica chiave di casa è stata fusa
+insieme a un milione di altre in un'[[unity|unità]] buddhistica ne sarebbe seccato.
+Ma un uomo a cui si dicesse che la sua chiave sta gradualmente crescendo e germogliando
+in tasca, e ramificandosi in nuovi ingegni o complicazioni,
+non ne sarebbe più compiaciuto.
+
+Secondo, la forma di una chiave è in sé una forma piuttosto fantastica.
+Un selvaggio che non sapesse essere una chiave avrebbe la più grande
+difficoltà a indovinare che cosa mai potesse essere.
+Ed è fantastica perché è in un certo senso arbitraria.
+Una chiave non è questione di astrazioni; in tal senso una chiave non
+è questione di argomentazione. O si adatta alla serratura, o non vi si adatta.
+È inutile che gli uomini stiano a disputarne, considerata in sé;
+o a ricostruirla su puri principi di geometria o d'arte decorativa.
+È insensato che un uomo dica di desiderare una chiave semplice;
+sarebbe assai più sensato che facesse del suo meglio con un piede di porco.
+E terzo, poiché la chiave è necessariamente una cosa dotata di un disegno,
+così questa ne aveva uno per certi versi piuttosto elaborato.
+Quando la gente si lamenta che la religione fu così presto complicata
+dalla teologia e da cose del genere, dimentica che il mondo
+non solo era finito in un buco, ma era finito in un intero labirinto di buchi
+e di anfratti. Il problema stesso era un problema complicato; non
+implicava, nel senso ordinario, qualcosa di così semplice come il peccato.
+Era anche pieno di [[Secrets|segreti]], di fallacie inesplorate e insondabili,
+di inconsce malattie mentali, di pericoli in ogni direzione.
+Se la [[Faith|fede]] avesse affrontato il mondo soltanto con i luoghi comuni sulla pace
+e sulla semplicità a cui certi moralisti vorrebbero ridurla, non avrebbe avuto
+il minimo effetto su quel lussuoso e labirintico manicomio.
+Ciò che essa fece dobbiamo ora descriverlo per sommi capi; qui basti dire
+che vi era senza dubbio molto, nella chiave, che sembrava complesso,
+anzi vi era una sola cosa, in essa, che era semplice.
+Apriva la porta.
+
+Vi sono, in questa materia, certe affermazioni riconosciute e accettate che, per brevità e comodità, si possono definire menzogne. Tutti abbiamo sentito dire che il [[Christianity|Cristianesimo]] sorse in un'epoca di barbarie. Con altrettanta ragione si potrebbe [[Well|bene]] dire che la Christian Science sorse in un'epoca di barbarie. Si può ritenere che il [[Christianity|Cristianesimo]] fosse un sintomo di [[Decay|decadenza]] sociale, così come io ritengo la Christian Science un sintomo di [[Decay|decadenza]] mentale. Si può ritenere il [[Christianity|Cristianesimo]] una superstizione che finì per distruggere una civiltà, così come io ritengo la Christian Science una superstizione capace (se presa sul serio) di distruggere un numero qualsiasi di civiltà. Ma dire che un cristiano del quarto o del quinto secolo fosse un barbaro vissuto in un [[Time|tempo]] barbaro equivale esattamente a dire che la signora Eddy era una Pellerossa. E se lasciassi che la mia costituzionale insofferenza verso la signora Eddy mi spingesse a chiamarla Pellerossa, per inciso starei dicendo una menzogna. Ci può piacere o non piacere la civiltà imperiale di Roma nel quarto secolo; ci può piacere o non piacere la civiltà industriale dell'[[America]] nel diciannovesimo secolo; ma che entrambe fossero ciò che comunemente intendiamo per civiltà nessuna persona di buon senso potrebbe negarlo, ove pur lo volesse. È un fatto assai ovvio, ma è anche un fatto assai fondamentale; e dobbiamo farne il fondamento di ogni ulteriore descrizione del [[Christianity|Cristianesimo]] costruttivo del passato. Nel bene o nel male, esso fu in sommo grado il prodotto di un'epoca civile, forse di un'epoca fin troppo civile. Questo è il primo fatto, al di là di ogni lode o biasimo; anzi, sono tanto sfortunato da non riuscire a sentire di lodare una cosa quando la paragono alla Christian Science. Ma è quanto meno desiderabile conoscere qualcosa del sapore di una società entro la quale stiamo condannando o lodando checchessia; e la scienza che collega la signora Eddy ai tomahawk, o la Mater Dolorosa ai totem, per nostra generale comodità può essere eliminata. Il fatto dominante, non soltanto riguardo alla religione cristiana, ma riguardo all'intera civiltà pagana, era quello che in queste pagine è stato più di una volta ripetuto. Il Mediterraneo era un lago nel senso proprio di una vasca; nella quale un certo numero di culti o di culture erano, come si suol dire, messi in comune. Quelle città che si fronteggiavano intorno al cerchio del lago divennero sempre più un'unica cultura cosmopolita. Dal suo lato giuridico e militare era l'Impero Romano, ma aveva moltissime facce. La si poteva dire superstiziosa nel senso che conteneva un gran numero di svariate superstizioni; ma in nessun modo una qualsiasi sua parte può dirsi barbara.
+
 
 
 <span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_02" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 2)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
@@ -17701,6 +20999,14 @@ was a sign that Rome was dying, and dying of being much too civilised.
 That is an argument much better worth considering; and we will
 proceed to consider it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In questo livello di cultura cosmopolita sorsero la religione cristiana e la [[Catholic Church|Chiesa Cattolica]]; e tutto, nella vicenda, suggerisce che essa fu avvertita come qualcosa di nuovo e di strano. Coloro che hanno tentato di suggerire che si sviluppò a partire da qualcosa di assai più mite o più ordinario hanno trovato che, in questo caso, il loro metodo evolutivo è assai difficile da applicare. Possono suggerire che gli Esseni, o gli Ebioniti, o cose simili, fossero il seme; ma il seme è invisibile; l'albero appare assai rapidamente già cresciuto; e l'albero è qualcosa di totalmente diverso. È certamente un albero di Natale nel senso che conserva la benevolenza e la [[Beauty|bellezza]] morale della storia di Betlemme; ma era ritualistico quanto il candelabro a sette braccia, e le candele che portava erano assai più numerose di quante ne fossero probabilmente consentite dal primo libro di [[Prayer|preghiere]] di Edoardo Sesto. Ci si potrebbe [[Well|ben]] chiedere, invero, perché chiunque accetti la tradizione di Betlemme dovrebbe obiettare all'ornamento d'oro o dorato, dal momento che i Magi stessi recarono oro, o perché dovrebbe avere in uggia l'incenso nella chiesa, dal momento che l'incenso fu recato perfino alla stalla. Ma queste sono controversie che qui non mi riguardano. Mi interessa soltanto il fatto storico, sempre più ammesso dagli storici, che assai per tempo, nella sua [[history|storia]], questa cosa divenne visibile alla civiltà dell'antichità; e che già la Chiesa appariva come una Chiesa, con tutto ciò che una Chiesa implica e molto di ciò che in una Chiesa si detesta. Discuteremo fra poco quanto essa fosse simile ad altri misteri ritualistici, o magici, o ascetici, del suo [[Time|tempo]]. Non era di certo minimamente simile ai movimenti meramente etici e idealistici del nostro [[Time|tempo]]. Aveva una dottrina; aveva una disciplina; aveva sacramenti; aveva gradi di iniziazione, ammetteva gente ed espelleva gente; affermava con autorità un dogma e ne ripudiava un altro con anatemi. Se tutte queste cose sono i segni dell'Anticristo, il regno dell'Anticristo seguì assai rapidamente al [[Christ|Cristo]].
+
+Coloro che sostengono che il [[Christianity|Cristianesimo]] non fu una Chiesa bensì un movimento morale di idealisti sono stati costretti a spingere il periodo della sua perversione o scomparsa sempre più indietro. Un vescovo di Roma scrive rivendicando autorità mentre San Giovanni Evangelista era ancora in vita; e ciò viene descritto come la prima aggressione papale. Un amico degli Apostoli scrive di loro come di uomini che aveva conosciuto e dice che gli insegnarono la dottrina del Sacramento, e il signor Wells non può che mormorare che la reazione verso i barbarici riti del [[Blood|sangue]] potrebbe essersi verificata un po' prima di quanto ci si aspetterebbe. La data del Quarto Vangelo, che un [[Time|tempo]] veniva fatta scendere sempre più tardi, ora viene fatta risalire sempre più presto; finché i critici restano sbigottiti dinanzi all'albeggiante e tremenda possibilità che esso sia qualcosa di simile a ciò che dichiara di essere. L'ultimo limite di una data precoce per l'estinzione del vero [[Christianity|Cristianesimo]] è stato probabilmente rinvenuto dall'ultimo professore tedesco la cui autorità è invocata dal decano Inge. Questo dotto studioso afferma che la Pentecoste fu l'occasione della prima fondazione di una Chiesa ecclesiastica, dogmatica e dispotica, del tutto estranea ai semplici ideali di Gesù di Nazareth. Questo si può ben definire, in senso tanto popolare [[Well|quanto]] dotto, il limite. Di che cosa immaginano che siano fatti gli uomini, i professori di questa razza? Supponiamo che si trattasse di un qualsiasi movimento meramente umano, diciamo quello degli obiettori di coscienza. Alcuni dicono che i primi cristiani fossero pacifisti; non ci credo neppure per un istante; ma sono ben pronto ad accettare il parallelo per amor di discussione. [[tolstoy|Tolstoj]], o qualche grande predicatore di pace fra contadini, è stato fucilato come ammutinato per aver sfidato la coscrizione; e poco tempo dopo i suoi pochi seguaci si riuniscono in una stanza al piano di sopra in memoria di lui. Non ebbero mai alcuna ragione di ritrovarsi insieme se non quel [[Memory|ricordo]] comune; sono uomini di molte specie, senza nulla che li leghi, salvo che il più grande evento di tutta la loro vita fu questa [[Tragedy|tragedia]] del maestro della pace universale. Ripetono di continuo le sue parole, rimuginano i suoi problemi, cercano di imitarne il carattere. I pacifisti si riuniscono alla loro Pentecoste e sono presi da un'improvvisa estasi di entusiasmo e da un impetuoso turbine d'ispirazione, nel corso del quale procedono a istituire la coscrizione universale, ad accrescere i bilanci della Marina, a esigere che tutti vadano in giro armati fino ai denti e che tutte le frontiere siano irte di artiglieria; e la seduta si conclude col canto di «Boys of the Bulldog Breed» e «Don't let them scrap the British Navy». Ecco qualcosa di simile a un giusto parallelo con la teoria di questi critici: che il passaggio dalla loro idea di Gesù alla loro idea di Cattolicesimo si sarebbe potuto compiere nella piccola stanza al piano di sopra, a Pentecoste. Il buon senso di chiunque gli direbbe di certo che degli entusiasti, riunitisi solo attraverso il comune entusiasmo per un capo che amavano, non correrebbero all'istante a instaurare tutto ciò che egli odiava. No, se il «sistema ecclesiastico e dogmatico» è antico quanto la Pentecoste, è antico quanto il Natale. Se lo facciamo risalire a cristiani così antichi, dobbiamo farlo risalire al [[Christ|Cristo]].
+
+Possiamo dunque cominciare da queste due negazioni. È un'assurdità dire che la [[Faith|fede]] cristiana comparve in un'epoca semplice, nel senso di un'epoca illetterata e credulona. È altrettanto assurdo dire che la [[Faith|fede]] cristiana fosse una cosa semplice, nel senso di una cosa vaga o puerile o meramente istintiva. Forse l'unico punto per cui potremmo davvero dire che la Chiesa s'incastrò nel mondo pagano è il fatto che entrambi non solo erano assai civili, ma piuttosto complicati. Erano entrambi enfaticamente poliedrici; ma l'antichità era allora un buco poliedrico, come un foro esagonale in attesa di un tappo egualmente esagonale. Solo in questo senso la Chiesa fu abbastanza poliedrica da adattarsi al mondo. I sei lati del mondo mediterraneo si fronteggiavano attraverso il mare e aspettavano qualcosa che sapesse guardare in tutte le direzioni a un tempo. La Chiesa dovette essere insieme romana e greca e giudaica e africana e asiatica. Nelle parole stesse dell'Apostolo delle genti, essa fu davvero tutto per tutti. Il [[Christianity|Cristianesimo]] non fu dunque semplicemente rozzo e semplice, e fu l'esatto contrario del germoglio di un'età barbarica ([[Time|tempo]]). Ma quando veniamo all'accusa contraria, veniamo a un'accusa assai più plausibile. È molto più sostenibile che la [[Faith|fede]] non fosse che la fase finale della [[Decay|decadenza]] della civiltà, nel senso dell'eccesso di civiltà; che questa superstizione fosse un segno che Roma stava morendo, e morendo d'essere troppo civilizzata. Quello è un argomento assai più degno d'essere considerato; e procederemo a considerarlo.
 
 
 
@@ -17819,6 +21125,20 @@ ultimately founded on an eastern pessimism, which seems to feel
 existence itself as an evil.'
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+All'inizio di questo libro mi arrischiai in un compendio generale di esso, in un parallelo tra il sorgere dell'umanità dalla [[Nature|natura]] e il sorgere del [[Christianity|Cristianesimo]] dalla [[history|storia]]. Feci notare che in entrambi i casi ciò che era venuto prima poteva implicare qualcosa che venisse dopo; ma non implicava minimamente ciò che venne dopo. Se una mente distaccata avesse visto certe scimmie, avrebbe potuto dedurne altri antropoidi; non avrebbe dedotto l'uomo o alcunché a mille miglia di distanza da ciò che l'uomo ha fatto. In breve, avrebbe potuto scorgere il Pitecantropo o l'Anello Mancante profilarsi nel futuro, se possibile quasi altrettanto fioco e incerto come noi lo vediamo profilarsi nel passato. Ma se ne avesse previsto la comparsa, ne avrebbe pure previsto la scomparsa, e che lasciasse poche deboli tracce proprio come egli ha lasciato poche deboli tracce; ammesso che siano tracce. Prevedere quell'Anello Mancante non sarebbe stato prevedere l'Uomo, o alcunché di simile all'Uomo. Ora, questa spiegazione anteriore va tenuta a mente; perché è un esatto parallelo alla vera visione della Chiesa; e all'idea che essa si sia evoluta naturalmente dall'Impero in [[Decay|decadenza]].
+
+La [[Truth|verità]] è che, in un certo senso, un uomo avrebbe potuto benissimo ([[Well|bene]]) predire che la decadenza imperiale avrebbe prodotto qualcosa di simile al [[Christianity|Cristianesimo]]. Cioè, qualcosa di un poco simile e gigantescamente diverso. Un uomo avrebbe potuto benissimo ([[Well|bene]]) dire, per esempio: «Il piacere è stato inseguito così smodatamente che vi sarà una reazione nel pessimismo. Forse prenderà la forma dell'ascetismo; gli uomini si mutileranno invece di limitarsi a impiccarsi». Oppure un uomo avrebbe potuto ben ragionevolmente dire: «Se ci stanchiamo dei nostri dèi greci e latini, andremo agognando qualche mistero orientale o l'altro; ci sarà una moda di Persiani o di Indù». Oppure un uomo di mondo sarebbe potuto essere abbastanza accorto ([[Well|bene]]) da dire: «Personaggi potenti stanno raccogliendo queste manie; un giorno la [[Court|corte]] ne adotterà una e potrà divenire ufficiale». Oppure un altro e più tetro [[Prophet|profeta]] potrebbe essere perdonato per aver detto: «Il mondo va in declino ([[Hill|china]]); torneranno superstizioni oscure e barbariche, e poco importa quali. Saranno tutte informi e fuggevoli come [[Dreams|sogni]] della [[Night|notte]]».
+
+Ora, è il vivo interesse del caso che tutte queste profezie si adempirono davvero; ma non fu la Chiesa ad adempierle. Fu la Chiesa a scampare loro, a confonderle, e a levarsi ([[Rose|sorse]]) al di sopra di esse in trionfo. Nella misura in cui era probabile che la mera [[Nature|natura]] dell'edonismo producesse una mera reazione d'ascetismo, essa produsse una mera reazione d'ascetismo. Fu il movimento chiamato manicheo, e la Chiesa ne fu la nemica mortale. Nella misura in cui sarebbe naturalmente comparso a quel punto della [[history|storia]], comparve; e pure scomparve, il che fu egualmente naturale. La mera reazione pessimistica venne coi Manichei e se ne andò coi Manichei. Ma la Chiesa non venne con loro né se ne andò con loro; ed ebbe assai più a che fare con la loro dipartita che con la loro venuta. Oppure, ancora, nella misura in cui era probabile che perfino il crescere dello scetticismo introducesse una moda di religione orientale, la introdusse; Mitra venne da ben oltre la Palestina, dal cuore della Persia, recando strani misteri del [[Blood|sangue]] dei tori. Certo, tutto stava a mostrare che una tale moda sarebbe comunque venuta; ma di certo non v'è nulla al mondo che mostri che essa non sarebbe comunque svanita. Certo, una mania orientale era qualcosa eminentemente adatto al quarto o quinto secolo; ma ciò spiega ben poco il suo esser rimasta fino al ventesimo secolo, e per giunta ancora in gran voga. In breve, nella misura in cui cose del genere si sarebbero potute attendere allora, cose come il mitraismo furono sperimentate allora; ma questo spiega a malapena le nostre esperienze più recenti. E se fossimo ancora mitraisti solo perché copricapi mitraici e altri apparati persiani ci si potevano attendere in gran moda ai giorni di Domiziano, sembrerebbe quasi, a quest'ora ([[Time|tempo]]), che dovremmo essere un tantino fuori moda.
+
+È lo stesso, come si suggerirà tra poco, con l'idea del favoritismo ufficiale. Nella misura in cui tale favore mostrato verso una mania era qualcosa che si sarebbe potuto attendere durante la decadenza e la caduta dell'Impero romano, era qualcosa che esistette davvero in quell'Impero e davvero decadde e cadde con esso. Non getta luce alcuna sulla cosa che risolutamente rifiutò di decadere e cadere; che crebbe costantemente mentre l'altra decadeva e cadeva; e che perfino in questo momento avanza con intrepida energia, ora che un altro eone ha compiuto il suo ciclo e un'altra civiltà pare quasi pronta a cadere o a declinare.
+
+Ora, il fatto curioso è questo: che proprio le eresie che alla Chiesa primitiva si rimprovera di aver soffocato testimoniano dell'ingiustizia di cui essa viene accusata. Nella misura in cui qualcosa meritava biasimo, era precisamente ciò per cui la si biasima di aver biasimato. Nella misura in cui qualcosa era mera superstizione, fu lei stessa a condannare quella superstizione. Nella misura in cui qualcosa era un semplice ritorno alla barbarie, fu lei stessa a resistervi, proprio perché era un ritorno alla barbarie. Nella misura in cui qualcosa era un capriccio dell'impero morente, destinato a morire e che meritava di morire, fu la Chiesa [[Alone|sola]] a ucciderlo. Alla Chiesa si rimprovera di essere esattamente ciò per cui l'eresia veniva repressa. Le spiegazioni degli storici evoluzionisti e dei critici superiori spiegano davvero perché l'arianesimo, lo gnosticismo e il nestorianesimo nacquero — e anche perché morirono. Non spiegano perché la Chiesa nacque, né perché essa si sia rifiutata di morire. Soprattutto, non spiegano perché essa avrebbe dovuto muovere guerra proprio a quei mali che si suppone essa condivida.
+
+Prendiamo qualche esempio pratico del principio; il principio secondo cui, se vi era qualcosa che era davvero una superstizione dell'impero morente, essa morì davvero con l'impero morente, e certo non era la medesima cosa che lo distrusse. A tale scopo prenderemo in ordine due o tre fra le più comuni spiegazioni delle origini cristiane che si trovano presso i critici moderni del [[Christianity|Cristianesimo]]. Nulla è più frequente, per esempio, che imbattersi in un simile critico moderno il quale scrive qualcosa di questo genere: «Il [[Christianity|Cristianesimo]] fu innanzitutto un movimento di asceti, una fuga nel [[Desert|deserto]], un rifugio nel chiostro, una [[Renunciation|rinuncia]] a ogni vita e felicità; e ciò fu parte di una cupa e disumana reazione contro la [[Nature|natura]] stessa, un odio del [[Body|corpo]], un orrore dell'universo materiale, una sorta di universale [[suicide|suicidio]] dei sensi e persino dell'[[Self|io]]. Esso venne da un [[Fanaticism|fanatismo]] orientale come quello dei fachiri, e in ultima analisi si fondava su un pessimismo orientale, che sembra sentire l'esistenza stessa come un male».
+
 
 
 <span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_04" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 4)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
@@ -17920,6 +21240,14 @@ be above Jupiter and Hades hang higher than Olympus; in which Brahma
 and all that has the breath of life would be subject to Seeva,
 shining with the eye of [[Death|death]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, la cosa più straordinaria a questo proposito è che tutto ciò è verissimo; è vero in ogni particolare, salvo che accade di essere attribuito interamente alla persona sbagliata. Non è vero della Chiesa; ma è vero degli eretici da lei condannati. È come se si scrivesse un'analisi minuziosissima degli errori e del malgoverno dei ministri di Giorgio III, con la sola piccola inesattezza che l'intera vicenda venisse raccontata a proposito di George Washington; o come se qualcuno stilasse la lista dei crimini dei bolscevichi senza altra variante se non che li attribuisse tutti allo Zar. La Chiesa primitiva fu davvero assai [[ascetic|ascetica]], ma in connessione con una [[philosophy|filosofia]] del tutto diversa; però la [[philosophy|filosofia]] di una guerra alla vita e alla [[Nature|natura]] in quanto tali esisteva davvero nel mondo, se solo i critici sapessero dove cercarla.
+
+Ciò che davvero accadde fu questo. Quando la [[Faith|Fede]] emerse per la prima volta nel mondo, la primissima cosa che le capitò fu di restare presa in una sorta di sciame di sette mistiche e metafisiche, per lo più provenienti dall'Oriente; come un'unica solitaria ape d'oro presa in uno sciame di vespe. All'osservatore comune non pareva esservi molta differenza, né altro che un generale ronzio; e in un certo senso, in effetti, non vi era molta differenza, per quanto riguardava il pungere e l'essere punti. La differenza era che un solo punto dorato in tutta quella vorticante [[Dust|polvere]] d'oro aveva il potere di andare avanti a costruire alveari per l'intera umanità; a dare al mondo miele e cera, ovvero (come fu detto tanto finemente in un contesto troppo facilmente dimenticato) «le due cose più nobili, che sono la dolcezza e la luce». Le vespe morirono tutte quell'[[Winter|inverno]]; e metà della difficoltà sta nel fatto che quasi nessuno sa nulla di esse, e i più non sanno neppure che siano mai esistite; sicché l'intera storia di quella prima fase della nostra religione è perduta. Oppure, per variare la metafora, quando questo movimento o qualche altro movimento squarciò la diga tra oriente e occidente e portò in Europa idee più mistiche, esso trascinò con sé un'intera fiumana di altre idee mistiche oltre alle proprie, per lo più ascetiche e quasi tutte pessimistiche. Poco mancò che sommergessero e travolgessero l'elemento puramente cristiano. Venivano per lo più da quella regione che era una sorta di oscura terra di confine tra le filosofie orientali e le mitologie orientali, e che condivideva con i filosofi più selvaggi quella curiosa brama di comporre fantastici disegni del cosmo in forma di mappe e di alberi genealogici. Quelle che si suppongono derivate dal misterioso Mani sono dette manichee; culti affini sono più genericamente noti come gnostici; sono per lo più di una complessità labirintica, ma il punto su cui insistere è il pessimismo; il fatto che quasi tutte, in una forma o nell'altra, consideravano la creazione del mondo come opera di uno spirito maligno. Alcune di esse avevano quell'atmosfera asiatica che circonda il buddhismo; il suggerimento che la vita sia una corruzione della purezza dell'essere. Alcune di esse suggerivano un ordine puramente spirituale che era stato tradito dal rozzo e goffo trucco di fabbricare giocattoli come il sole, la [[Moon|luna]] e le [[Stars|stelle]]. Comunque sia, tutta questa oscura marea proveniente dal mare metafisico nel cuore dell'Asia si riversò attraverso le dighe simultaneamente al credo di [[Christ|Cristo]]; ma tutto il senso della storia è che i due non erano la medesima cosa; che scorrevano come l'olio e l'[[Water|acqua]]. Quel credo rimase nella forma di un miracolo; un [[River|fiume]] che ancora scorre attraverso il mare. E la prova del miracolo fu, ancora una volta, pratica; consisteva semplicemente nel fatto che, mentre tutto quel mare era salato e amaro del sapore della [[Death|morte]], di quest'unico ruscello in mezzo ad esso un uomo poteva bere.
+
+Ora, quella purezza fu preservata mediante definizioni ed esclusioni dogmatiche. Non avrebbe potuto in alcun modo essere preservata da nient'altro. Se la Chiesa non avesse rinnegato i manichei, sarebbe potuta diventare semplicemente manichea. Se non avesse rinnegato gli gnostici, sarebbe potuta diventare gnostica. Ma per il fatto stesso di averli rinnegati, provò di non essere né gnostica né manichea. In ogni caso provò che qualcosa non era né gnostico né manicheo; e che cosa poteva essere ciò che li condannava, se non la buona novella originaria dei corrieri di Betlemme e la tromba della [[Resurrection|Resurrezione]]? La Chiesa primitiva fu [[ascetic|ascetica]], ma provò di non essere pessimista, semplicemente condannando i pessimisti. Il credo dichiarava che l'uomo era peccatore, ma non dichiarava che la vita fosse un male, e lo provò dannando coloro che così affermavano. La condanna dei primi eretici è essa stessa condannata come qualcosa di arcigno e di angusto; ma era in [[Truth|verità]] la prova stessa che la Chiesa intendeva essere fraterna e larga. Provò che i cattolici primitivi erano particolarmente premurosi di spiegare che non ritenevano l'uomo del tutto vile; che non ritenevano la vita irrimediabilmente misera; che non ritenevano il [[Marriage|matrimonio]] un peccato né la [[Procreation|procreazione]] una [[Tragedy|tragedia]]. Erano [[ascetic|ascetici]] perché l'ascesi era l'unica purga possibile dei peccati del mondo; ma nel tuono stesso dei loro anatemi affermarono per sempre che la loro ascesi non doveva essere antiumana né antinaturale; che essi desideravano purgare il mondo e non distruggerlo. E nient'altro se non quegli anatemi avrebbe potuto renderlo chiaro, in mezzo a una confusione che ancora li confonde con i loro nemici mortali. Nient'altro se non il dogma avrebbe potuto resistere alla sfrenatezza dell'invenzione fantastica con cui i pessimisti conducevano la loro guerra contro la [[Nature|natura]]; con i loro Eoni e il loro Demiurgo, il loro strano Logos e la loro sinistra Sofia. Se la Chiesa non avesse insistito sulla teologia, si sarebbe dissolta in una folle mitologia dei mistici, ancora più lontana dalla ragione o persino dal razionalismo; e, soprattutto, ancora più lontana dalla vita e dall'[[Love|amore]] della vita. Si ricordi che sarebbe stata una mitologia rovesciata, che contraddiceva tutto ciò che nel paganesimo è naturale; una mitologia in cui Plutone starebbe al di sopra di Giove e l'Ade penderebbe più in alto dell'Olimpo; in cui Brahma e tutto ciò che ha il respiro della vita sarebbe soggetto a Shiva, splendente con l'occhio della [[Death|morte]].
 
 
 
@@ -18061,6 +21389,18 @@ His dogma, if the phrase be not misunderstood, turns even God
 into a Holy Family.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Che la Chiesa delle origini fosse essa stessa colma di un estatico entusiasmo per la [[Renunciation|rinuncia]] e per la verginità rende questa distinzione tanto più sorprendente, e non meno. Rende ancor più importante il punto in cui il dogma tracciò la linea. Un uomo poteva strisciare carponi come una bestia perché era un [[ascetic|asceta]]. Poteva starsene [[Night|notte]] e giorno in cima a una colonna ed essere venerato in quanto [[ascetic|asceta]], ma non poteva dire che il mondo fosse un errore o che lo stato del [[Marriage|matrimonio]] fosse un peccato senza divenire un eretico. Che cos'era dunque ciò che così deliberatamente si distaccava dall'ascetismo orientale con nette definizioni e fiero rifiuto, se non qualcosa dotato di una propria individualità, e per giunta affatto diversa? Se i cattolici devono essere confusi con gli gnostici, possiamo soltanto dire che non è colpa loro, se lo sono. Ed è piuttosto duro che i cattolici debbano essere biasimati dagli stessi critici per aver perseguitato gli eretici e insieme per aver simpatizzato con l'eresia.
+
+La Chiesa non fu un movimento manicheo, non foss'altro perché non fu affatto un movimento. Non fu nemmeno semplicemente un movimento ascetico, perché non fu affatto un movimento. Sarebbe più vicino alla [[Truth|verità]] chiamarla la domatrice dell'ascetismo piuttosto che il suo mero capofila o il suo mero incitatore. Era una cosa che possedeva una propria teoria dell'ascetismo, un proprio tipo di ascetismo, ma che in quel momento spiccava soprattutto come moderatrice di altre teorie e di altri tipi. Questo è l'unico senso che si possa ricavare, per esempio, dalla storia di sant'Agostino. Finché fu un semplice uomo di mondo, un semplice uomo che si lasciava trascinare dal proprio [[Time|tempo]], egli fu davvero un manicheo. Era davvero cosa assai moderna e alla moda essere manicheo. Ma quando si fece cattolico, coloro contro cui si scagliò all'istante, facendoli a pezzi, furono i manichei. Il modo cattolico di dirlo è che egli smise di essere un pessimista per diventare un [[ascetic|asceta]]. Ma nel senso in cui i pessimisti intendevano l'ascetismo, si dovrebbe dire che egli smise di essere un [[ascetic|asceta]] per diventare un santo. La guerra alla vita, la negazione della [[Nature|natura]], erano esattamente le cose che egli aveva già trovato nel mondo pagano fuori della Chiesa, e alle quali dovette rinunciare quando entrò nella Chiesa. Il fatto stesso che sant'Agostino rimanga una figura in qualche modo più severa o più triste di san Francesco o di santa Teresa non fa che accentuare il dilemma. Faccia a faccia con il più grave, o addirittura il più arcigno dei cattolici, possiamo ancora domandare: «Perché il cattolicesimo mosse guerra ai manichei, se il cattolicesimo era manicheo?».
+
+Prendiamo un'altra spiegazione razionalistica della nascita della cristianità. È abbastanza comune imbattersi in un altro critico che dice: «Il [[Christianity|cristianesimo]] non sorse affatto, in realtà; cioè non sorse semplicemente dal basso; fu imposto dall'alto. È un esempio della potenza dell'esecutivo, specialmente negli Stati dispotici. L'Impero era davvero un Impero; cioè era davvero governato dall'Imperatore. Uno degli imperatori si trovò a diventare cristiano. Avrebbe potuto [[Well|benissimo]] diventare mitraico, o ebreo, o adoratore del [[Fire|fuoco]]; era cosa comune, nel declino dell'Impero, che persone eminenti e colte adottassero questi eccentrici culti orientali. Ma quando egli lo adottò, esso divenne la religione ufficiale dell'Impero romano; e quando divenne la religione ufficiale dell'Impero romano, divenne forte, universale e invincibile quanto l'Impero romano. È rimasto al mondo soltanto come una reliquia di quell'Impero; o, come molti hanno detto, non è che il [[Ghost|fantasma]] di Cesare che ancora aleggia su Roma». Anche questa è una linea assai ordinaria assunta nella critica dell'ortodossia: dire che fu soltanto l'ufficialità a farne mai un'ortodossia. E anche qui possiamo chiamare in causa gli eretici a confutarla.
+
+L'intera grande [[history|storia]] dell'eresia ariana avrebbe potuto essere inventata apposta per far saltare in aria questa idea. È una [[history|storia]] assai interessante, spesso ripetuta a questo proposito; e il suo esito è che, nella misura in cui vi fu mai una religione meramente ufficiale, essa in realtà morì proprio perché era una religione meramente ufficiale; e ciò che la distrusse fu la religione vera. Ario avanzò una versione del [[Christianity|cristianesimo]] che si muoveva, più o meno vagamente, nella direzione di ciò che noi chiameremmo unitarianismo; benché non fosse la stessa cosa, poiché attribuiva a [[Christ|Cristo]] una curiosa posizione intermedia tra il divino e l'umano. Il punto è che a molti parve più ragionevole e meno fanatica; e fra questi vi erano molti della classe colta, in una sorta di reazione contro la prima [[Romance|avventura romanzesca]] della [[conversion|conversione]]. Gli ariani erano una sorta di moderati e una sorta di modernisti. E si sentiva che, dopo le prime baruffe, questa fosse la forma definitiva di religione razionalizzata nella quale la civiltà potesse [[Well|benissimo]] assestarsi. Fu accettata dallo stesso Divus Caesar e divenne l'ortodossia ufficiale; i generali e i principi militari usciti dalle nuove potenze barbariche del nord, colmi di avvenire, la sostennero con vigore. Ma il seguito è ancora più importante. Esattamente come un uomo moderno potrebbe passare dall'unitarianismo al completo agnosticismo, così il più grande degli imperatori ariani finì per gettare via l'ultimo e più sottile pretesto di [[Christianity|cristianesimo]]; abbandonò perfino Ario e ritornò ad [[Apollo]]. Egli era un Cesare fra i Cesari; un soldato, un erudito, un uomo di grandi ambizioni e di grandi ideali; un altro dei re filosofi. Gli parve che, a un suo cenno, il sole [[Rose|risorgesse]] di nuovo. Gli oracoli cominciarono a parlare come [[Birds|uccelli]] che principiano a cantare all'[[Dawn|alba]]; il paganesimo era di nuovo se stesso; gli dèi tornavano. Sembrava la fine di quello strano intermezzo di una superstizione straniera. E davvero ne fu la fine, in quanto vi era un mero intermezzo di mera superstizione. Ne fu la fine, in quanto essa era la fisima di un imperatore o la moda di una generazione. Se davvero ci fu qualcosa che cominciò con Costantino, allora esso finì con Giuliano.
+
+Ma vi era qualcosa che non finì. Si era levato, in quell'ora della [[history|storia]], sfidante al di sopra del tumulto democratico dei Concili della Chiesa, Atanasio contro il mondo. Possiamo soffermarci sul punto in questione, perché è pertinente all'intera [[history|storia]] religiosa, e il mondo moderno sembra coglierne tutto il senso a rovescio. Potremmo metterla così. Se c'è una questione che gli illuminati e i liberali hanno l'abitudine di deridere e di additare come tremendo esempio di dogma sterile e di insensata contesa settaria, è proprio questa questione atanasiana della Co-[[Eternity|eternità]] del Figlio divino. D'altra parte, se c'è una cosa che gli stessi liberali ci offrono sempre come un frammento di [[Christianity|cristianesimo]] puro e semplice, immune dalle dispute dottrinali, è quell'unica frase: «Dio è [[Love|Amore]]». Eppure le due affermazioni sono quasi identiche; per lo meno, l'una è quasi priva di senso senza l'altra. Il dogma sterile è soltanto il modo logico di enunciare il bel sentimento. Perché, se esiste un essere senza principio, esistente prima di tutte le cose, amava Egli quando non v'era nulla da amare? Se attraverso quell'impensabile [[Eternity|eternità]] Egli è solo, che senso ha dire che Egli è [[Love|Amore]]? L'unica giustificazione di un simile mistero è la concezione mistica che nella sua stessa [[Nature|natura]] vi fosse qualcosa di analogo all'[[Self|auto]]-espressione; qualcosa di ciò che genera e contempla ciò che ha generato. Senza qualche idea di questo genere, è davvero illogico complicare l'ultima essenza della divinità con un'idea come quella dell'[[Love|Amore]]. Se i moderni vogliono davvero una semplice religione dell'[[Love|Amore]], devono cercarla nel Credo atanasiano. La [[Truth|verità]] è che la tromba del vero [[Christianity|cristianesimo]], la sfida delle carità e delle semplicità di Betlemme o del giorno di Natale, non squillò mai in modo più avvincente e inequivocabile che nella sfida di Atanasio al freddo compromesso degli ariani. Fu enfaticamente lui a battersi davvero per un Dio d'[[Love|Amore]] contro un Dio di incolore e remoto controllo cosmico; il Dio degli stoici e degli agnostici. Fu enfaticamente lui a battersi per il Santo [[Child|Bambino]] contro la grigia divinità dei farisei e dei sadducei. Egli si batteva per quel medesimo equilibrio di bella interdipendenza e intimità, nella stessa Trinità della [[Nature|Natura]] divina, che attira i nostri cuori verso la Trinità della Sacra Famiglia. Il suo dogma, se la frase non venga fraintesa, muta perfino Dio in una Sacra Famiglia.
+
 
 
 <span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_06" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 6)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
@@ -18177,6 +21517,16 @@ and for war.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Che questo dogma puramente cristiano si sia effettivamente ribellato, anche solo per un [[Time|attimo]], all'Impero, e abbia effettivamente per un [[Time|attimo]] rifondato la Chiesa a dispetto dell'Impero, è di per sé una prova che nel mondo operava qualcosa di positivo e di personale, distinto da qualunque [[Faith|fede]] ufficiale l'Impero scegliesse di adottare. Questa forza distrusse interamente la [[Faith|fede]] ufficiale che l'Impero adottò. Proseguì per la propria via, come per la propria via prosegue ancora. Vi è un numero sterminato di altri esempi in cui si ripete esattamente lo stesso processo che abbiamo esaminato nel caso del manicheo e dell'ariano. Qualche secolo dopo, per esempio, la Chiesa dovette difendere la medesima Trinità, che non è altro che il lato logico dell'[[Love|amore]], contro un'altra apparizione della divinità isolata e semplificata nella religione dell'[[Islam]]. Eppure vi è chi non riesce a vedere per che cosa combattessero i Crociati; e vi è persino chi parla come se il [[Christianity|Cristianesimo]] non fosse mai stato altro che una forma di ciò che essi chiamano ebraismo, subentrato con la [[Decay|decadenza]] dell'ellenismo. Costoro devono certamente restare assai perplessi davanti alla guerra tra la Mezzaluna e la [[Cross|Croce]]. Se il [[Christianity|Cristianesimo]] non fosse mai stato altro che una [[morality|morale]] più semplice, volta a spazzar via il politeismo, non vi sarebbe ragione per cui la Cristianità non avrebbe dovuto essere spazzata dentro l'[[Islam]]. La [[Truth|verità]] è che l'[[Islam]] stesso fu una reazione barbarica proprio contro quella umanissima complessità che è davvero un tratto cristiano; contro quell'idea di equilibrio nella divinità, come di equilibrio nella famiglia, che fa di quel credo una sorta di [[Sanity|sanità]], e di quella [[Sanity|sanità]] l'[[Soul|anima]] della civiltà. Ed è per questo che la Chiesa è fin dal principio una realtà che tiene ferma la propria posizione e il proprio punto di vista, del tutto al di fuori degli accidenti e delle anarchie della sua epoca. È per questo che vibra colpi imparziali a destra e a sinistra, contro il pessimismo del manicheo o l'ottimismo del pelagiano. Non fu un movimento manicheo perché non fu affatto un movimento. Non fu una moda ufficiale perché non fu affatto una moda. Fu qualcosa che poteva coincidere con i movimenti e con le mode, poteva dominarli e poteva sopravvivere loro.
+
+Così potrebbero levarsi dalle loro tombe i grandi eresiarchi a confondere i loro compagni di oggi. Non c'è nulla che i critici oggi affermino che noi non possiamo chiamare questi grandi testimoni a smentire. Il critico moderno dirà con leggerezza che il [[Christianity|Cristianesimo]] non fu che una reazione verso l'ascetismo e una spiritualità antinaturale, una [[Dance|danza]] di fachiri furiosi contro la vita e l'[[Love|amore]]. Ma Mani, il grande mistico, risponderà loro dal suo trono segreto e griderà: «Questi cristiani non hanno alcun diritto di essere chiamati spirituali; questi cristiani non hanno alcun titolo per essere chiamati asceti, essi che vennero a patti con la maledizione della vita e con tutta la sozzura della famiglia. Per opera loro la terra è ancora contaminata di frutti e di messi, e inquinata di popolazione. La loro non fu affatto una rivolta contro la natura, altrimenti i miei figli l'avrebbero condotta al trionfo; ma questi stolti rinnovarono il mondo, quando io l'avrei posto fine con un solo gesto». E un altro critico scriverà che la Chiesa non fu che l'ombra dell'Impero, la fisima di un Imperatore capitato per caso, e che essa permane in Europa soltanto come il fantasma della potenza di Roma. E Ario, il diacono, risponderà dalle tenebre dell'oblio: «No, davvero, altrimenti il mondo avrebbe seguito la mia religione, ben più ragionevole. Ché la mia soccombette dinanzi a demagoghi e a uomini che sfidavano Cesare; e attorno al mio campione stava il manto purpureo, e mia era la gloria delle aquile. Non fu per mancanza di queste cose che fallii». E un terzo moderno ancora sosterrà che il credo si diffuse soltanto come una sorta di panico del fuoco infernale; uomini che dappertutto tentavano imprese impossibili fuggendo da una vendetta incredibile; un incubo di rimorso immaginario; e una simile spiegazione soddisferà molti, che vedono qualcosa di spaventoso nella dottrina dell'ortodossia. E allora si leverà contro di essa la voce terribile di Tertulliano, che dirà: «E perché allora fui espulso; e perché cuori e teste molli si pronunciarono contro di me, quando proclamai la perdizione di tutti i peccatori; e quale fu questa potenza che mi contrastò, quando minacciai dell'inferno tutti gli apostati? Ché nessuno mai percorse quella via ardua tanto lontano quanto me; e mio era il Credo Quia Impossibile». Vi è poi la quarta ipotesi, che in tutta la faccenda vi fosse qualcosa della società segreta semitica; che si trattasse di una nuova invasione dello spirito nomade a scuotere un paganesimo più mite e più agiato, con le sue città e i suoi dèi domestici; sicché le gelose razze monoteiste potessero, in fin dei conti, imporre il loro geloso Dio. E Maometto risponderà dal turbine, il rosso turbine del deserto: «Chi mai servì la gelosia di Dio come feci io, o lo lasciò più solo nel cielo? Chi mai rese maggiore onore a Mosè e ad Abramo, o riportò più vittorie sugli idoli e sulle immagini del paganesimo? E quale fu questa cosa che mi respinse con l'energia di un essere vivo; il cui fanatismo poté scacciarmi dalla Sicilia e strappare le mie profonde radici dalla roccia di Spagna? Quale fede fu la loro, di coloro che si accalcavano a migliaia, d'ogni ceto, in un paese, gridando che la mia rovina era volontà di Dio; e che cosa scagliò il grande Goffredo come da una catapulta oltre le mura di Gerusalemme, e che cosa spinse il grande Sobieski come una folgore alle porte di Vienna? Io credo che nella religione che tanto si è misurata con la mia vi fosse più di quanto voi immaginiate».
+
+Coloro che vorrebbero suggerire che quella fede fu un fanatismo sono condannati a un'eterna perplessità. Nel loro resoconto essa è destinata ad apparire fanatica per niente e fanatica contro tutto. È ascetica e in guerra con gli asceti, romana e in rivolta contro Roma, monoteista e furiosamente in lotta contro il monoteismo; dura nella sua condanna della durezza; un enigma che non si spiega neppure come irragionevolezza. E che sorta di irragionevolezza è mai quella che appare ragionevole a milioni di europei colti, attraverso tutte le rivoluzioni di quasi milleseicento anni? La gente non si diverte con un rompicapo o un paradosso o un semplice groviglio della mente per tutto quel tempo. Non conosco altra spiegazione se non che una cosa simile non è irragionevolezza ma ragione; che, se è fanatica, è fanatica per la ragione e fanatica contro tutte le cose irragionevoli. È l'unica spiegazione che io riesca a trovare di una cosa fin dal principio così distaccata e così sicura di sé, che condanna cose tanto somiglianti a se stessa, che rifiuta l'aiuto di poteri che parevano tanto essenziali alla sua esistenza, che condivide, dal suo lato umano, tutte le passioni dell'epoca, eppure sempre, nel momento supremo, improvvisamente si eleva al di sopra di esse, senza mai dire esattamente ciò che ci si aspettava che dicesse e senza mai aver bisogno di disdire ciò che aveva detto; non trovo altra spiegazione se non che, come Pallade dal cervello di Giove, essa fosse davvero uscita dalla mente di Dio, matura e possente e armata per il giudizio e per la guerra.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_15_the_escape_from_paganism--part_01" data-title="everlasting man — Chapter 15: The Escape From Paganism (part 1)" data-chapter="The Escape From Paganism" data-kind="excerpt"></span>
@@ -18286,6 +21636,20 @@ etiquette and its bottomless or bewildering philosophies.
 All that ancient and actual Asia felt the entrance of Islam as something
 foreign and western and warlike, piercing it like a spear.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+V
+
+LA FUGA DAL PAGANESIMO
+
+Il missionario moderno, col suo cappello di foglie di palma e il suo ombrello, è diventato una figura piuttosto comica. Lo si canzona, tra gli uomini di mondo, per la disinvoltura con cui si lascia divorare dai cannibali e per la gretta bigotteria che lo induce a considerare la cultura cannibale come inferiore alla propria. Il bello della facezia sta forse nel fatto che gli uomini di mondo non si avvedono che la facezia è rivolta contro loro stessi. È piuttosto ridicolo domandare a un uomo che sta per essere bollito in una pentola e mangiato, durante un banchetto puramente religioso, perché mai non consideri tutte le religioni ugualmente amiche e fraterne. Ma vi è una critica più sottile mossa contro il missionario di stampo più antiquato: quella di generalizzare troppo largamente a proposito dei pagani e di prestare troppo poca attenzione alla differenza fra Maometto e Mumbo-Jumbo. Probabilmente vi era del vero in questa lagnanza, specie nel passato; ma la mia tesi principale, qui, è che oggi l'esagerazione va tutta nel verso opposto. È la tentazione dei professori trattare le mitologie troppo come teologie; come cose accuratamente meditate vengano seriamente professate. È la tentazione degli intellettuali prendere troppo sul serio le sottili sfumature delle varie scuole nella metafisica piuttosto irresponsabile dell'Asia. Soprattutto è loro tentazione lasciarsi sfuggire la vera verità implicita nell'idea di Aquinas contra Gentiles o di Athanasius contra mundum.
+
+Se il missionario afferma, in sostanza, di essere un'eccezione in quanto cristiano, e che il resto delle razze e delle religioni può essere collettivamente classificato come pagano, ha perfettamente ragione. Può darsi che lo dica con lo spirito del tutto sbagliato, e in tal caso ha torto spiritualmente. Ma alla fredda luce della filosofia e della storia, ha ragione intellettualmente. Può darsi che non abbia l'animo nel giusto, eppure è nel giusto. Può darsi che non abbia neppure il diritto di essere nel giusto, eppure è nel giusto. Il mondo esterno al quale egli reca il suo credo è davvero qualcosa di soggetto a certe generalizzazioni che ne abbracciano tutte le varietà, e non è semplicemente una varietà di credi affini. Forse è comunque troppo esposto alla tentazione dell'orgoglio o dell'ipocrisia chiamarlo paganesimo. Forse sarebbe meglio chiamarlo semplicemente umanità. Ma vi sono certe larghe caratteristiche di ciò che chiamiamo umanità finché essa permane in ciò che chiamiamo paganesimo. Non sono necessariamente cattive caratteristiche; alcune sono degne del rispetto della Cristianità; alcune sono state assorbite e trasfigurate nella sostanza della Cristianità. Ma esistevano prima della Cristianità ed esistono ancora fuori della Cristianità, con la stessa certezza con cui il mare esisteva prima di una barca e tutt'intorno a una barca; e hanno un sapore altrettanto forte, altrettanto universale, altrettanto inconfondibile del mare.
+
+Per esempio, tutti i veri studiosi che hanno esaminato la cultura greca e romana dicono una cosa sola a suo riguardo. Convengono che nel mondo antico la religione era una cosa e la filosofia tutt'altra. Ben poco ci si adoperava per razionalizzare e insieme rendere reale una vera credenza negli dèi. Ben poca era la pretesa di una tale reale credenza tra i filosofi. Ma né gli uni né gli altri avevano la passione, o forse il potere, di perseguitare gli altri, salvo in casi particolari e peculiari; e né il filosofo nella sua scuola né il sacerdote nel suo tempio sembrano mai aver seriamente concepito il proprio pensiero come esteso a tutto il mondo. Un sacerdote che sacrificava ad Artemide a Calidone non sembrava pensare che la gente un giorno avrebbe sacrificato a lei invece che a Iside al di là del mare; un saggio che seguiva la regola vegetariana dei neopitagorici non sembrava pensare che essa avrebbe universalmente prevalso escludendo i metodi di Epitteto o di Epicuro. Se vogliamo, possiamo chiamare tutto ciò liberalità; io non sto svolgendo un argomento, ma descrivendo un'atmosfera. Tutto questo, dico, è ammesso da tutti gli studiosi; ma ciò che né i dotti né gli indotti hanno forse pienamente compreso è che questa descrizione è in realtà una descrizione esatta di tutta la civiltà non cristiana odierna; e specialmente delle grandi civiltà dell'Oriente. Il paganesimo orientale è davvero assai più tutto d'un pezzo, proprio come il paganesimo antico era assai più tutto d'un pezzo, di quanto i critici moderni ammettano. È un multicolore tappeto persiano come l'altro era un vario e tessellato pavimento romano; ma l'unica vera crepa che attraversa da parte a parte quel pavimento venne dal terremoto della Crocifissione.
+
+L'europeo moderno che cerca la sua religione in Asia sta leggendo la propria religione dentro l'Asia. Là la religione è qualcosa di diverso; è insieme di più e di meno. Egli è come un uomo che tracci una carta del mare come se fosse terra; segnando le onde come montagne; senza comprendere la natura della sua peculiare permanenza. È perfettamente vero che l'Asia ha una propria dignità, una propria poesia, un'alta civiltà. Ma non è affatto vero che l'Asia abbia i suoi precisi domini di governo morale, dove ogni fedeltà è concepita in termini di moralità; come quando diciamo che l'Irlanda è cattolica o che il New England era puritano. La carta non è ripartita in religioni, nel nostro senso di chiese. Lo stato d'animo è assai più sottile, più relativo, più segreto, più vario e mutevole, come i colori del serpente. Il musulmano è ciò che più si avvicina a un cristiano militante; e ciò appunto perché è ciò che più si avvicina a un inviato della civiltà occidentale. Il musulmano, nel cuore dell'Asia, quasi rappresenta l'anima dell'Europa. E come egli sta fra loro e l'Europa nella dimensione dello spazio, così sta fra loro e il Cristianesimo nella dimensione del tempo. In tal senso i musulmani in Asia non sono che come i nestoriani in Asia. L'Islam, storicamente parlando, è la più grande delle eresie orientali. Dovette qualcosa all'individualità del tutto isolata e unica di Israele; ma dovette di più a Bisanzio e all'entusiasmo teologico della Cristianità. Dovette qualcosa perfino alle Crociate. Non dovette proprio nulla all'Asia. Nulla dovette all'atmosfera del mondo antico e tradizionale dell'Asia, con la sua immemoriale etichetta e le sue insondabili o sconcertanti filosofie. Tutta quell'antica e reale Asia sentì l'ingresso dell'Islam come qualcosa di straniero, di occidentale e di bellicoso, che la trafiggeva come una lancia.
 
 
 
@@ -18407,6 +21771,16 @@ real sympathy, can believe that there is anything there remotely
 resembling the challenge and revolution of the Faith.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Persino là dove potremmo tracciare a linee punteggiate i domini delle religioni asiatiche, con ogni probabilità vi staremmo leggendo qualcosa di dogmatico e di etico che appartiene alla nostra religione. È come se un europeo ignaro dell'atmosfera americana supponesse che ogni «stato» fosse uno Stato sovrano a sé, patriottico quanto la Francia o la Polonia; oppure che, quando un yankee accenna con affetto alla sua «città natale», intenda dire che non ha altra patria, al modo di un cittadino dell'antica Atene o di Roma. Come costui leggerebbe nell'America una particolare specie di lealtà, così noi leggiamo nell'Asia una particolare specie di lealtà. Vi sono lealtà di altro genere; ma non quello che in Occidente s'intende con l'essere credente, con il tentare di essere cristiano, con l'essere un buon protestante o un cattolico praticante. Nel mondo intellettuale significa qualcosa di assai più vago, variato da dubbi e speculazioni. Nel mondo morale significa qualcosa di assai più sciolto e alla deriva. Un professore di persiano, in una delle nostre grandi università, così appassionato partigiano dell'Oriente da professare praticamente il disprezzo per l'Occidente, disse a un mio amico: «Non comprenderete mai le religioni orientali, perché concepite sempre la religione come legata all'etica. Questa specie di religione, in realtà, non ha nulla a che fare con l'etica». Quasi tutti noi abbiamo conosciuto qualche Maestro della Saggezza Superiore, qualche Pellegrino sul Sentiero della Potenza, qualche santo o veggente esoterico d'Oriente, che davvero non aveva nulla a che fare con l'etica. Qualcosa di diverso, qualcosa di distaccato e di irresponsabile, tinge l'atmosfera morale dell'Asia e tocca perfino quella dell'Islam. Fu colto con grande realismo nell'atmosfera di *Hassan*; e un'atmosfera oltremodo orribile, per giunta. È ancora più vivida in quegli scorci che ci è dato cogliere dei culti genuini e antichi dell'Asia. Più profonda degli abissi della metafisica, giù nelle voragini delle meditazioni mistiche, sotto tutto quel solenne universo di cose spirituali, giace una segreta, un'intangibile e terribile leggerezza. Non ha davvero molta importanza ciò che si fa. Vuoi perché non credono in un diavolo, vuoi perché credono in un destino, vuoi perché l'esperienza quaggiù è tutto e la vita eterna qualcosa di totalmente diverso, ma per una qualche ragione sono totalmente diversi. Ho letto da qualche parte che vi furono tre grandi amici, famosi nella Persia medievale per l'unità del loro spirito. Uno divenne il responsabile e rispettato Visir del Gran Re; il secondo fu il poeta Omar, pessimista ed epicureo, che beveva vino a scherno di Maometto; il terzo fu il Vecchio della Montagna, che faceva impazzire il suo popolo con l'hashish perché assassinasse altri uomini col pugnale. Non ha davvero molta importanza ciò che si fa.
+
+Il Sultano di *Hassan* avrebbe compreso tutti e tre quegli uomini; anzi, era tutti e tre quegli uomini. Ma questa sorta di universalista non può avere ciò che noi chiamiamo un carattere; è ciò che noi chiamiamo un caos. Non può scegliere; non può combattere; non può pentirsi; non può sperare. Non sta, nel senso che intendiamo noi, creando qualcosa; poiché creare significa respingere. Non sta, secondo la nostra espressione religiosa, plasmando la propria anima. Perché la nostra dottrina della salvezza significa davvero una fatica pari a quella di chi cerca di rendere bella una statua; una vittoria alata. E per questo occorre una scelta ultima, giacché non si può fare una statua senza respingere della pietra. E davvero esiste questa amoralità ultima dietro la metafisica dell'Asia. E la ragione è che, per tutte quelle epoche impensabili, non vi è stato nulla che portasse la mente umana bruscamente al dunque; che le dicesse essere giunto il tempo di scegliere. La mente ha vissuto troppo nell'eternità. L'anima è stata troppo immortale, nel senso particolare che ignora l'idea del peccato mortale. Ha avuto troppa eternità, nel senso che non ha avuto abbastanza dell'ora della morte e del giorno del giudizio. Non è abbastanza cruciale, nel senso letterale che non ha avuto abbastanza della croce. È questo che intendiamo quando diciamo che l'Asia è molto antica. Ma, a rigore, l'Europa è antica quanto l'Asia; anzi, in un certo senso ogni luogo è antico quanto ogni altro luogo. Ciò che intendiamo è che l'Europa non si è limitata a continuare a invecchiare. È rinata.
+
+L'Asia è tutta l'umanità, quale ha portato a compimento il proprio destino umano. L'Asia, nel suo territorio sterminato, nelle sue popolazioni variegate, nelle sue vette di conquiste passate e nei suoi abissi di oscura speculazione, è essa stessa un mondo; e rappresenta qualcosa di ciò che intendiamo quando parliamo del mondo. È un cosmo più che un continente. È il mondo quale l'uomo lo ha fatto; e racchiude molte fra le cose più meravigliose che l'uomo abbia fatto. Perciò l'Asia si erge come l'unica rappresentante del paganesimo e l'unica rivale della cristianità. Ma ovunque altrove, dove cogliamo scorci di quel destino mortale, essi suggeriscono tappe della medesima storia. Là dove l'Asia si perde negli arcipelaghi meridionali dei selvaggi, o dove una tenebra gremita di forme senza nome dimora nel cuore dell'Africa, o dove gli ultimi superstiti di stirpi perdute si attardano nel freddo vulcano dell'America preistorica, è sempre la medesima storia; talvolta, forse, capitoli più tardi della medesima storia. Sono uomini impigliati nella foresta della propria mitologia; sono uomini annegati nel mare della propria metafisica. I politeisti si sono stancati della più sfrenata delle finzioni. I monoteisti si sono stancati della più meravigliosa delle verità. Diabolisti, qua e là, nutrono un tale odio per il cielo e per la terra da aver tentato di rifugiarsi nell'inferno. È la Caduta dell'Uomo; ed è esattamente quella caduta che veniva avvertita dai nostri stessi padri nel primo istante del declino romano. Anche noi stavamo imboccando quella via secondaria; scendendo per quel facile pendio; seguendo la magnifica processione delle alte civiltà del mondo.
+
+Se la Chiesa non fosse allora entrata nel mondo, sembra probabile che l'Europa sarebbe oggi press'a poco ciò che l'Asia è oggi. Qualcosa si può concedere a una reale differenza di razza e di ambiente, visibile nel mondo antico come nel moderno. Ma, dopo tutto, parliamo dell'immutabile Oriente in gran parte perché non ha subìto il grande mutamento. Il paganesimo, nella sua fase ultima, mostrava segni notevoli di divenire altrettanto immutabile. Ciò non significherebbe che non sorgerebbero nuove scuole o sette di filosofia; come nuove scuole sorsero nell'Antichità e sorgono in Asia. Non significa che non vi sarebbero veri mistici o visionari; come vi furono mistici nell'Antichità e ve ne sono in Asia. Non significa che non vi sarebbero codici sociali, come vi furono codici nell'Antichità e ve ne sono in Asia. Non significa che non potrebbero esserci uomini buoni o vite felici, poiché Dio ha dato a tutti gli uomini una coscienza, e la coscienza può dare a tutti gli uomini una sorta di pace. Ma significa bensì che il tono e la proporzione di tutte queste cose, e specialmente la proporzione delle cose buone e cattive, sarebbero nell'immutato Occidente ciò che sono nell'immutabile Oriente. E nessuno che guardi a quell'immutabile Oriente con onestà, e con reale simpatia, può credere che vi sia là qualcosa che rassomigli anche solo lontanamente alla sfida e alla rivoluzione della Fede.
+
 
 
 <span class="atom-split" data-atom="chapter_15_the_escape_from_paganism--part_03" data-title="everlasting man — Chapter 15: The Escape From Paganism (part 3)" data-chapter="The Escape From Paganism" data-kind="excerpt"></span>
@@ -18518,6 +21892,16 @@ If the Church Militant had not endured a discipline, all men would
 have endured a slavery.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In breve, se il paganesimo classico fosse sopravvissuto fino a oggi, un certo numero di cose ben avrebbero potuto sopravvivere con esso; e assomiglierebbero moltissimo a ciò che chiamiamo le religioni dell'Oriente. Vi sarebbero ancora Pitagorici a insegnare la reincarnazione, come vi sono ancora Indù a insegnare la reincarnazione. Vi sarebbero ancora Stoici a fare una religione della ragione e della virtù, come vi sono ancora Confuciani a fare una religione della ragione e della virtù. Vi sarebbero ancora Neoplatonici a studiare verità trascendenti, il cui significato era misterioso agli altri e conteso perfino fra loro stessi; come i Buddhisti studiano ancora un trascendentalismo misterioso agli altri e conteso fra loro stessi. Vi sarebbero ancora intelligenti Apollinei che apparentemente adorano il dio-sole, ma spiegano di adorare il principio divino; proprio come vi sono ancora intelligenti Parsi che apparentemente adorano il sole, ma spiegano di adorare la divinità. Vi sarebbero ancora selvaggi Dionisiaci a danzare sulla montagna, come vi sono ancora selvaggi Dervisci a danzare nel deserto. Vi sarebbero ancora folle di gente ad accorrere alle feste popolari degli dèi, nell'Europa pagana come nell'Asia pagana. Vi sarebbero ancora folle di dèi, locali e non, da adorare. E vi sarebbe ancora un numero di persone che li adoravano assai maggiore di quelle che credevano in loro. Vi sarebbe infine ancora un numero grandissimo di persone che davvero adoravano gli dèi e davvero credevano negli dèi; e che negli dèi credevano e gli dèi adoravano semplicemente perché erano dèmoni. Vi sarebbero ancora Levantini a sacrificare di nascosto a Moloch, come vi sono ancora Thug a sacrificare di nascosto a Kalì. Vi sarebbe ancora una gran quantità di magia; e gran parte di essa sarebbe magia nera. Vi sarebbe ancora una considerevole ammirazione per Seneca e una considerevole imitazione di Nerone; proprio come gli epigrammi sublimi di Confucio potevano coesistere con le torture della Cina. E su tutta quella selva intricata di tradizioni che crescevano selvagge o appassivano si stenderebbe il vasto silenzio di uno stato d'animo singolare e persino senza nome; ma il nome che più gli si avvicina è: nulla. Tutte queste cose, buone e cattive, avrebbero un'aria indescrivibile di essere troppo vecchie per morire.
+
+Nessuna di queste cose, che occupasse l'Europa in assenza della Cristianità, avrebbe la minima somiglianza con la Cristianità. Poiché la metempsicosi pitagorica sarebbe ancora là, potremmo chiamarla la religione pitagorica, come parliamo della religione buddhista. Poiché le nobili massime di Socrate sarebbero ancora là, potremmo chiamarla la religione socratica, come parliamo della religione confuciana. Poiché la festa popolare sarebbe ancora segnata da un inno mitologico ad Adone, potremmo chiamarla la religione di Adone, come parliamo della religione del Juggernaut. Poiché la letteratura sarebbe ancora fondata sulla mitologia greca, potremmo chiamare quella mitologia una religione, come chiamiamo religione la mitologia indù. Potremmo dire che vi erano tante migliaia o milioni di persone appartenenti a quella religione, nel senso di frequentare tali templi o semplicemente di vivere in una terra piena di tali templi. Ma se chiamassimo l'ultima tradizione di Pitagora o la persistente leggenda di Adone col nome di religione, allora dovremmo trovare qualche altro nome per la Chiesa di Cristo.
+
+Se qualcuno dice che massime filosofiche tramandate attraverso molte età, o templi mitologici frequentati da molta gente, sono cose della stessa classe e categoria della Chiesa, basta rispondere assai semplicemente che non lo sono. Nessuno pensa che siano la stessa cosa quando le vede nell'antica civiltà della Grecia e di Roma; nessuno penserebbe che fossero la stessa cosa se quella civiltà fosse durata duemila anni di più ed esistesse ai giorni nostri; nessuno può ragionevolmente pensare che siano la stessa cosa nella parallela civiltà pagana dell'Oriente, così com'è ai giorni nostri. Nessuna di queste filosofie o mitologie assomiglia a una Chiesa; certo nulla assomiglia a una Chiesa Militante. E, come ho mostrato altrove, anche se questa regola non fosse già dimostrata, l'eccezione confermerebbe la regola. La regola è che la storia precristiana o pagana non produce una Chiesa Militante; e l'eccezione, o ciò che alcuni chiamerebbero l'eccezione, è che l'Islam è quantomeno militante, se non è Chiesa. E ciò appunto perché l'Islam è l'unico rivale religioso che non sia precristiano e perciò non sia, in quel senso, pagano. L'Islam fu un prodotto del Cristianesimo; anche se fu un sottoprodotto; anche se fu un cattivo prodotto. Fu un'eresia o una parodia che emulava e perciò imitava la Chiesa. Non è più sorprendente che il Maomettanesimo avesse qualcosa del suo spirito combattivo di quanto lo sia che il Quaccherismo avesse qualcosa del suo spirito pacifico. Dopo il Cristianesimo vi sono innumerevoli emulazioni o estensioni di tal genere. Prima di esso non ve n'è alcuna.
+
+La Chiesa Militante è dunque unica, perché è un esercito in marcia per compiere una liberazione universale. La servitù da cui il mondo dev'essere così liberato è qualcosa di ben simboleggiato tanto dallo stato dell'Asia quanto dallo stato dell'Europa pagana. Non intendo soltanto il loro stato morale o immorale. Il missionario, di fatto, ha molto più da dire in propria difesa di quanto gli illuminati immaginino, anche quando afferma che i pagani sono idolatri e immorali. Un tocco o due di esperienza realistica della religione orientale, e persino della religione musulmana, rivelerà certe sconcertanti insensibilità nell'etica; come la pratica indifferenza al confine fra passione e perversione. Non è pregiudizio, ma esperienza pratica, ciò che afferma che l'Asia è piena di dèmoni non meno che di dèi. Ma il male di cui parlo è nella mente. Ed è nella mente ovunque la mente abbia a lungo lavorato in solitudine. È ciò che accade quando ogni sognare e ogni pensare sono giunti a fine in un vuoto che è insieme negazione e necessità. Suona come un'anarchia, ma è anche una schiavitù. È ciò che è stato già chiamato la ruota dell'Asia; tutti quei ricorrenti ragionamenti sulla causa e sull'effetto, o sulle cose che cominciano e finiscono nella mente, che rendono impossibile all'anima di slanciarsi davvero e andare in qualche luogo o fare qualcosa. E il punto è che ciò non è necessariamente proprio degli Asiatici; alla fine sarebbe stato vero anche per gli Europei... se non fosse accaduto qualcosa. Se la Chiesa Militante non fosse stata una cosa in marcia, tutti gli uomini avrebbero segnato il passo. Se la Chiesa Militante non avesse sopportato una disciplina, tutti gli uomini avrebbero sopportato una schiavitù.
+
 
 
 <span class="atom-split" data-atom="chapter_15_the_escape_from_paganism--part_04" data-title="everlasting man — Chapter 15: The Escape From Paganism (part 4)" data-chapter="The Escape From Paganism" data-kind="excerpt"></span>
@@ -18625,6 +22009,16 @@ No mysterious monarch, hidden in his starry pavilion at the base
 of the cosmic campaign, is in the least like that celestial chivalry
 of the Captain who carries his five wounds in the front of battle.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ciò che quella fede universale e insieme battagliera portò nel mondo fu la speranza. Forse l'unica cosa che mitologia e filosofia avevano in comune era che entrambe erano, in fondo, tristi: nel senso che non possedevano questa speranza, pur avendo qualche tocco di fede o di carità. Possiamo chiamare fede il buddhismo, benché a noi somigli piuttosto a un dubbio. Possiamo chiamare il Signore della Compassione un Signore della Carità, benché ci appaia come una forma assai pessimistica di pietà. Ma quanti insistono maggiormente sull'antichità e sull'ampiezza di simili culti devono pur convenire che, in tutte le loro età, essi non hanno mai ricoperto tutte le loro contrade di quella sorta di speranza pratica e combattiva. Nella cristianità la speranza non è mai stata assente; semmai è stata errabonda, stravagante, eccessivamente fissata su occasioni fuggevoli. La sua perpetua rivoluzione e ricostruzione è stata quantomeno la prova che la gente era di animo più lieto. L'Europa rinnovò davvero la propria giovinezza come le aquile; proprio come le aquile di Roma si levarono di nuovo sulle legioni di Napoleone, o come non più tardi di ieri abbiamo visto librarsi l'aquila d'argento di Polonia. Ma nel caso polacco la rivoluzione andò sempre di pari passo con la religione. Lo stesso Napoleone cercò una riconciliazione con la religione. La religione non poté mai essere separata del tutto neppure dalle più ostili fra le speranze; semplicemente perché era essa stessa la fonte di quella speranza. E la causa di ciò va cercata semplicemente nella religione medesima. Coloro che ne fanno oggetto di disputa raramente la considerano in sé stessa. Qui non v'è spazio né luogo per una considerazione così piena; ma si può dire una parola per spiegare una riconciliazione che sempre ritorna e sempre par richiedere una spiegazione.
+
+Non ci sarà fine agli estenuanti dibattiti sul liberalizzare la teologia, finché la gente non guarderà in faccia il fatto che la sola parte liberale di essa è, in realtà, proprio la parte dogmatica. Se il dogma è incredibile, è perché è incredibilmente liberale. Se è irrazionale, può esserlo soltanto perché ci offre della libertà maggiore assicurazione di quanta la ragione giustifichi. L'esempio più ovvio è quella forma essenziale di libertà che chiamiamo libero arbitrio. È assurdo dire che un uomo dimostri la propria liberalità negando la propria libertà. Ma è sostenibile che egli debba affermare una dottrina trascendentale per poter affermare la propria libertà. Vi è un senso in cui potremmo ragionevolmente dire che, se l'uomo possiede un potere primario di scelta, in ciò stesso possiede un potere sovrannaturale di creazione, come se potesse risuscitare i morti o dar vita a ciò che non è stato generato. Forse, in tal caso, un uomo dev'essere un miracolo; e certamente, in tal caso, dev'essere un miracolo per poter essere un uomo; e più che mai per poter essere un uomo libero. Ma è assurdo proibirgli di essere un uomo libero, e farlo in nome di una religione più libera.
+
+Ma ciò è vero in venti altre questioni. Chiunque creda anche solo minimamente in Dio deve credere nell'assoluta supremazia di Dio. Ma nella misura in cui quella supremazia ammette gradi che si possano dire liberali o illiberali, è di per sé evidente che la potenza illiberale è la divinità dei razionalisti e la potenza liberale è la divinità dei dogmatici. Esattamente nella misura in cui trasformate il monoteismo in monismo, lo trasformate in dispotismo. È precisamente il Dio ignoto dello scienziato, con il suo scopo impenetrabile e la sua legge inevitabile e inalterabile, che ci fa pensare a un autocrate prussiano il quale traccia piani rigidi in una tenda remota e muove il genere umano come un ingranaggio. È precisamente il Dio dei miracoli e delle preghiere esaudite che ci fa pensare a un principe liberale e amato dal popolo, che riceve petizioni, ascolta i parlamenti e prende in esame le cause di un intero popolo. Non sto ora argomentando la razionalità di questa concezione sotto altri riguardi; per la verità essa non è, come alcuni suppongono, irrazionale; poiché nulla vi è di irrazionale nel fatto che il più saggio e il più informato dei re agisca diversamente a seconda dell'agire di coloro che desidera salvare. Ma qui sto soltanto notando la natura generale della liberalità, ossia di un'atmosfera d'azione libera e allargata. E sotto questo riguardo è certo che il re può essere ciò che chiamiamo magnanimo soltanto se è ciò che alcuni chiamano capriccioso. È il cattolico, che ha il sentimento che le sue preghiere facciano davvero differenza quando siano offerte per i vivi e per i morti, ad avere anche il sentimento di vivere come un libero cittadino in qualcosa di quasi simile a una repubblica costituzionale. È il monista, che vive sotto un'unica legge di ferro, a dover avere il sentimento di vivere come uno schiavo sotto un sultano. Anzi, credo che l'uso originario della parola suffragium, che oggi impieghiamo in politica per indicare un voto, fosse quello adoperato in teologia a proposito di una preghiera. Si diceva che i morti in Purgatorio avessero i suffragi dei vivi. E in questo senso, come di una sorta di diritto di petizione al sovrano supremo, possiamo dire in tutta verità che l'intera Comunione dei Santi, non meno che l'intera Chiesa Militante, è fondata sul suffragio universale.
+
+Ma soprattutto ciò è vero per la questione più tremenda di tutte; per quella tragedia che ha creato la divina commedia del nostro credo. Nulla di meno che l'estrema, forte e sconvolgente dottrina della divinità di Cristo può produrre quel particolare effetto capace di scuotere davvero il sentimento popolare come una tromba; l'idea del re in persona che serve tra i ranghi come un soldato semplice. Facendo di quella figura un semplice uomo, rendiamo quella storia assai meno umana. Le togliamo il punto che davvero trafigge l'umanità; il punto della storia che era, in senso del tutto letterale, la punta di una lancia. Non umanizza particolarmente l'universo il dire che uomini buoni e saggi possono morire per le loro opinioni; non più di quanto sarebbe una notizia clamorosamente popolare, in un esercito, che i buoni soldati possono facilmente restare uccisi. Non è una novità che il re Leonida sia morto, non più di quanto lo sia che la regina Anna sia morta; e gli uomini non attesero il cristianesimo per essere uomini, nel senso pieno di essere eroi. Ma se stiamo descrivendo, per un momento, l'atmosfera di ciò che è generoso e popolare e persino pittoresco, ogni conoscenza della natura umana ci dirà che nessuna sofferenza dei figli degli uomini, e nemmeno dei servi di Dio, tocca la stessa corda dell'idea del padrone che soffre al posto dei suoi servi. E questo ce lo dà la divinità teologica, ed enfaticamente non la divinità scientifica. Nessun monarca misterioso, celato nel suo padiglione stellato alla base della campagna cosmica, somiglia minimamente a quella celeste cavalleria del Capitano che porta le sue cinque piaghe in prima linea nella battaglia.
 
 
 
@@ -18745,6 +22139,16 @@ where he chose, going into a church or falling down in a ditch.
 The life of man is a story; an adventure story; and in our vision
 the same is true even of the story of God.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ciò che il denigratore del dogma intende davvero non è che il dogma sia cattivo, ma piuttosto che il dogma sia troppo bello per essere vero. Vuol dire, cioè, che il dogma è troppo liberale per essere verosimile. Il dogma concede all'uomo troppa libertà quando gli permette di cadere. Il dogma concede perfino a Dio troppa libertà quando gli permette di morire. Questo è ciò che gli scettici intelligenti dovrebbero dire; e non ho la minima intenzione di negare che qualcosa in loro favore si possa dire. Essi intendono che l'universo è in se stesso una prigione universale; che l'esistenza stessa è una limitazione e un vincolo; e non è senza ragione che chiamano catena la causalità. In una parola, essi intendono, semplicissimamente, che non riescono a credere a queste cose; non già che esse siano indegne di fede. Noi diciamo, non alla leggera ma alla lettera, che la verità ci ha resi liberi. Essi dicono che ci rende così liberi da non poter essere la verità. Per loro credere a una libertà simile a quella di cui godiamo è come credere al paese delle fate. È come credere a uomini con le ali il vagheggiare uomini dotati di volontà. È come accettare una favola su uno scoiattolo in conversazione con una montagna, credere a un uomo libero di domandare o a un Dio libero di rispondere. Questa è una negazione virile e razionale, alla quale io per primo mostrerò sempre rispetto. Ma mi rifiuto di mostrare rispetto alcuno a coloro che dapprima tarpano le ali e ingabbiano lo scoiattolo, ribadiscono le catene e negano la libertà, chiudono su di noi tutte le porte della prigione cosmica con un fragore di ferro eterno, ci dicono che la nostra emancipazione è un sogno e la nostra segreta una necessità; e poi si voltano tranquillamente per dirci che possiedono un pensiero più libero e una teologia più liberale.
+
+La morale di tutto ciò è antica: che la religione è rivelazione. In altre parole, essa è una visione, e una visione ricevuta per fede; ma è una visione della realtà. La fede consiste nella convinzione della sua realtà. Questa, per esempio, è la differenza tra una visione e un sogno a occhi aperti. Ed è questa la differenza tra religione e mitologia. È questa la differenza tra la fede e tutto quel lavoro di fantasia, del tutto umano e più o meno sano, che abbiamo considerato sotto il titolo della mitologia. C'è qualcosa nell'uso ragionevole della parola stessa «visione» che implica due cose a suo riguardo: primo, che essa giunge assai di rado, forse che giunge una sola volta; e secondo, che probabilmente giunge una volta per tutte. Un sogno a occhi aperti può giungere ogni giorno. Un sogno a occhi aperti può essere diverso ogni giorno. È qualcosa di più della differenza tra il raccontare storie di fantasmi e l'incontrare un fantasma.
+
+Ma se non è una mitologia, non è nemmeno una filosofia. Non è una filosofia perché, essendo una visione, non è uno schema ma un quadro. Non è una di quelle semplificazioni che risolvono ogni cosa in una spiegazione astratta; come che tutto sia ricorrente; o che tutto sia relativo; o che tutto sia inevitabile; o che tutto sia illusorio. Non è un processo ma una storia. Ha proporzioni, del genere che si vede in un quadro o in una storia; non ha le regolari ripetizioni di uno schema o di un processo; ma le sostituisce con l'essere convincente come sono convincenti un quadro o una storia. In altre parole, è esattamente, come suol dirsi, simile alla vita. Perché in verità è vita. Un esempio di ciò che qui si intende ben si potrebbe trovare nel trattamento del problema del male. È abbastanza facile tracciare un disegno della vita il cui sfondo sia nero, come fanno i pessimisti; e poi ammettere un granello o due di polvere di stelle, più o meno accidentali, o quanto meno, nel senso letterale, insignificanti. Ed è abbastanza facile tracciare un altro disegno su carta bianca, come fanno gli Scienziati Cristiani, e spiegare o dissolvere in qualche modo, spiegandoli, quei punti o quelle macchie che sia difficile negare. Infine, forse è ancora più facile dire, come fanno i dualisti, che la vita è come una scacchiera in cui i due sono pari, e della quale si può dire con eguale verità che consista di caselle bianche su fondo nero o di caselle nere su fondo bianco. Ma ogni uomo sente nel proprio cuore che nessuno di questi tre disegni di carta è simile alla vita; che nessuno di questi mondi è un mondo in cui egli possa vivere. Qualcosa gli dice che l'idea ultima di un mondo non è cattiva né tanto meno neutra; fissando il cielo o l'erba o le verità della matematica o perfino un uovo appena deposto, egli ha un vago sentimento, come l'ombra di quel detto del grande filosofo cristiano, san Tommaso d'Aquino: «Ogni esistenza, in quanto tale, è buona». D'altra parte, qualcos'altro gli dice che è cosa non virile, avvilente e persino morbosa il ridurre il male a un punto o anche a una macchia. Egli si rende conto che l'ottimismo è morboso. È, se possibile, ancora più morboso del pessimismo. Questi vaghi ma sani sentimenti, se li seguisse fino in fondo, sfocerebbero nell'idea che il male sia in qualche modo un'eccezione, ma un'eccezione enorme; e in ultimo che il male sia un'invasione o, più veramente ancora, una ribellione. Egli non pensa che tutto sia giusto o che ogni cosa sia sbagliata, o che tutto sia egualmente giusto e sbagliato. Ma pensa davvero che il giusto abbia il diritto di essere giusto e perciò il diritto di esserci, e che il male non abbia diritto di essere male e perciò non abbia diritto di esserci. Esso è il principe di questo mondo; ma è anche un usurpatore. Così egli coglierà vagamente ciò che la visione gli darà con vividezza: nientemeno che tutta quella strana storia di tradimento in cielo e di quella grande diserzione con cui il male danneggiò e tentò di distruggere un cosmo che esso non poteva creare. È una storia stranissima, e le sue proporzioni e le sue linee e i suoi colori sono arbitrari e assoluti quanto la composizione artistica di un quadro. È una visione che noi, di fatto, simboleggiamo in dipinti con membra titaniche e appassionate tinte di piumaggio; tutta quell'abissale visione di stelle cadenti e le sfarzose ruote di pavone della notte. Ma quella strana storia ha un piccolo vantaggio sui diagrammi. È simile alla vita.
+
+Un altro esempio si potrebbe trovare, non nel problema del male, ma in ciò che si chiama il problema del progresso. Uno dei più abili agnostici dell'epoca mi domandò una volta se ritenevo che l'umanità migliorasse o peggiorasse o restasse la stessa. Era convinto che l'alternativa coprisse tutte le possibilità. Non vedeva che essa copriva soltanto schemi e non quadri; processi e non storie. Gli domandai se pensava che il signor Smith di Golder's Green migliorasse o peggiorasse o restasse esattamente lo stesso tra i trenta e i quarant'anni. Allora parve albeggiargli l'idea che ciò dipendesse piuttosto dal signor Smith; e da come egli scegliesse di procedere. Non gli era mai venuto in mente che ciò potesse dipendere da come l'umanità scegliesse di procedere; e che il suo corso non fosse una linea retta o una curva ascendente o discendente, ma un tracciato simile a quello di un uomo attraverso una valle, che va dove gli piace e si ferma dove sceglie, entrando in una chiesa o cadendo in un fosso. La vita dell'uomo è una storia; una storia d'avventura; e nella nostra visione lo stesso vale perfino per la storia di Dio.
 
 
 
@@ -18879,6 +22283,20 @@ the trumpet of liberty blow over the land of the living.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La fede cattolica è la riconciliazione perché è la realizzazione tanto della mitologia quanto della filosofia. È una storia, e in questo senso una delle cento storie; solo che è una storia vera. È una filosofia, e in questo senso una delle cento filosofie; solo che è una filosofia che somiglia alla vita. Ma soprattutto è una riconciliazione perché è qualcosa che si può chiamare soltanto la filosofia delle storie. Quell'istinto narrativo naturale che ha prodotto tutte le fiabe è qualcosa che tutte le filosofie trascurano, tranne una. La Fede è la giustificazione di quell'istinto popolare; il ritrovamento di una filosofia per esso, o l'analisi della filosofia in esso contenuta. Esattamente come un uomo in un racconto d'avventura deve superare varie prove per salvare la vita, così l'uomo in questa filosofia deve superare più prove e salvare l'anima. In entrambi c'è l'idea di un libero arbitrio che opera entro condizioni di disegno; in altre parole, c'è una meta, ed è compito dell'uomo mirare a essa; e noi perciò stiamo a guardare per vedere se la coglierà. Ora, questo istinto profondo, democratico e drammatico è deriso e respinto in tutte le altre filosofie. Poiché tutte le altre filosofie dichiaratamente finiscono dove cominciano; e la definizione stessa di una storia è che essa finisce diversamente; che comincia in un luogo e finisce in un altro. Da Buddha con la sua ruota ad Akhen Aten con il suo disco, da Pitagora con la sua astrazione del numero a Confucio con la sua religione della routine, non ce n'è una sola che non pecchi in qualche modo contro l'anima di una storia. Nessuna di esse coglie davvero questa nozione umana del racconto, della prova, dell'avventura; il cimento dell'uomo libero. Ciascuna di esse affama, per così dire, l'istinto del narrare, e fa qualcosa per guastare la vita umana considerata come romanzo: sia per fatalismo (pessimista od ottimista) e quel destino che è la morte dell'avventura; sia per indifferenza e quel distacco che è la morte del dramma; sia per uno scetticismo fondamentale che dissolve gli attori in atomi; sia per una limitazione materialistica che sbarra la prospettiva delle conseguenze morali; o per una ricorrenza meccanica che rende monotone perfino le prove morali; o per una relatività senza fondo che rende malsicure perfino le prove pratiche. Esiste una cosa come la storia umana; ed esiste una cosa come la storia divina che è anche una storia umana; ma non esiste una cosa come una storia hegeliana o una storia monista o una storia relativista o una storia determinista; perché ogni storia, sì, anche un romanzetto da quattro soldi o una dozzinale storiella d'appendice, ha in sé qualcosa che appartiene al nostro universo e non al loro. Ogni racconto, per breve che sia, comincia davvero con una creazione e finisce con un giudizio universale.
+
+Ed è questa la ragione per cui i miti e i filosofi furono in guerra fino alla venuta di Cristo. È per questo che la democrazia ateniese uccise Socrate per rispetto verso gli dèi; ed è per questo che ogni sofista girovago si dava le arie di un Socrate ogniqualvolta poteva parlare in modo altezzoso degli dèi; ed è per questo che il faraone eretico mandò in rovina i suoi immensi idoli e templi in nome di un'astrazione, e per questo che i sacerdoti poterono tornare in trionfo e calpestare sotto i piedi la sua dinastia; ed è per questo che il buddhismo dovette separarsi dal brahmanesimo, e per questo che in ogni epoca e paese fuori della cristianità vi è stata da sempre una faida perenne tra il filosofo e il sacerdote. È abbastanza facile dire che il filosofo è in genere il più razionale; è ancora più facile dimenticare che il sacerdote è sempre il più popolare. Poiché il sacerdote raccontava al popolo delle storie; e il filosofo non comprendeva la filosofia delle storie. Essa venne al mondo con la storia di Cristo.
+
+Ed è per questo che doveva essere una rivelazione o una visione data dall'alto. Chiunque voglia riflettere sulla teoria delle storie o dei quadri ne coglierà facilmente il punto. La vera storia del mondo deve essere raccontata da qualcuno a qualcun altro. Per la natura stessa di una storia, non la si può lasciare al caso perché venga in mente a chicchessia. Una storia ha proporzioni, variazioni, sorprese, disposizioni particolari, che non possono essere ricavate per regola in astratto, come una somma. Non potremmo dedurre se Achille avrebbe restituito o no il corpo di Ettore da una teoria pitagorica del numero o della ricorrenza; e non potremmo desumere da noi in qual modo il mondo avrebbe riavuto il corpo di Cristo, dal solo sentirci dire che tutte le cose girano e rigirano sulla ruota di Buddha. Un uomo potrebbe forse ricavare una proposizione di Euclide senza aver mai sentito parlare di Euclide; ma non ricaverebbe la precisa leggenda di Euridice senza aver sentito parlare di Euridice. In ogni caso non sarebbe certo di come la storia sarebbe finita e se Orfeo alla fine fosse stato sconfitto. Ancor meno potrebbe indovinare la fine della nostra storia; o la leggenda del nostro Orfeo che risorge, non sconfitto, dai morti.
+
+Per riassumere: la sanità del mondo fu restaurata e all'anima dell'uomo fu offerta la salvezza da qualcosa che soddisfaceva davvero le due tendenze in guerra del passato; che non erano mai state soddisfatte pienamente e di certo mai soddisfatte insieme. Essa venne incontro alla ricerca mitologica del romanzo con l'essere una storia, e alla ricerca filosofica della verità con l'essere una storia vera. È per questo che la figura ideale doveva essere un personaggio storico, come nessuno aveva mai sentito che Adone o Pan fossero personaggi storici. Ma è anche per questo che il personaggio storico doveva essere la figura ideale; e adempiere persino molte delle funzioni attribuite a queste altre figure ideali; per questo egli era a un tempo il sacrificio e il banchetto, per questo poteva essere mostrato sotto gli emblemi della vite che cresce o del sole che sorge. Quanto più a fondo riflettiamo sulla questione, tanto più concluderemo che, se davvero vi è un Dio, la sua creazione difficilmente avrebbe potuto raggiungere altro culmine se non questo dono di un vero romanzo al mondo. Altrimenti i due lati della mente umana non si sarebbero mai potuti toccare affatto; e il cervello dell'uomo sarebbe rimasto scisso e doppio; un lobo a sognare sogni impossibili e l'altro a ripetere calcoli invariabili. I facitori di immagini sarebbero rimasti in eterno a dipingere il ritratto di nessuno. I sapienti sarebbero rimasti in eterno a sommare cifre che non davano nulla. Era quell'abisso che nulla, se non un'incarnazione, poteva colmare; un'incarnazione divina dei nostri sogni; ed egli sta sopra quella voragine, lui il cui nome è più che sacerdote e più antico persino della cristianità: Pontifex Maximus, il più possente costruttore di un ponte.
+
+Ma anche con ciò torniamo al simbolo più specificamente cristiano nella stessa tradizione: il modello perfetto delle chiavi. Questo è un profilo storico e non teologico, e non è mio compito difendere qui nei particolari quella teologia, ma solo far notare che essa non potrebbe nemmeno essere giustificata nel disegno d'insieme senza essere giustificata nei dettagli, proprio come una chiave. Al di là della vasta suggestione di questo capitolo, non tento alcuna apologia sul perché il credo debba essere accettato. Ma in risposta alla domanda storica sul perché esso fu accettato e continua a essere accettato, io rispondo per milioni di altri nella mia replica: perché combacia con la serratura, perché è simile alla vita. È una storia fra molte; solo che si dà il caso che sia una storia vera. È una filosofia fra molte; solo che si dà il caso che sia la verità. La accettiamo; e il terreno è saldo sotto i nostri piedi e la strada si apre davanti a noi. Essa non ci imprigiona in un sogno di fatalità né nella coscienza dell'illusione universale. Ci schiude non soltanto cieli incredibili, ma quella che ad alcuni pare una terra altrettanto incredibile, e la rende credibile. È il genere di verità che è difficile spiegare perché è un fatto; ma è un fatto per il quale possiamo chiamare testimoni. Siamo cristiani e cattolici non perché adoriamo una chiave, ma perché abbiamo varcato una porta; e abbiamo sentito il vento che è la tromba della libertà soffiare sulla terra dei viventi.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_16_the_five_deaths_of_the_faith--part_01" data-title="everlasting man — Chapter 16: The Five Deaths Of The Faith (part 1)" data-chapter="The Five Deaths Of The Faith" data-kind="excerpt"></span>
@@ -18999,6 +22417,22 @@ in a more dignified image, that a clock struck and nothing happened;
 or that a bell tolled for an execution that was everlastingly postponed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VI
+
+LE CINQUE MORTI DELLA FEDE
+
+Non è scopo di questo libro tracciare la storia successiva del cristianesimo, e in particolare la storia più tarda del cristianesimo; il che comporta controversie di cui spero di scrivere più diffusamente altrove. Esso è dedicato solo alla proposta che il cristianesimo, apparendo in mezzo all'umanità pagana, ebbe tutti i caratteri di una cosa unica e persino di una cosa soprannaturale. Non era simile a nessuna delle altre cose; e quanto più lo studiamo, tanto meno somiglia a una qualsiasi di esse. Ma vi è un certo carattere piuttosto singolare che lo contrassegnò d'allora in poi, fino al momento presente, e con una nota sulla quale questo libro può ben concludersi.
+
+Ho detto che l'Asia e il mondo antico avevano l'aria di essere troppo vecchi per morire. La cristianità ha avuto la sorte esattamente opposta. La cristianità ha attraversato una serie di rivoluzioni e in ciascuna di esse il cristianesimo è morto. Il cristianesimo è morto molte volte ed è risorto; poiché aveva un Dio che conosceva la via d'uscita dal sepolcro. Ma il primo fatto straordinario che contrassegna questa storia è il seguente: che l'Europa è stata rivoltata da cima a fondo più e più volte; e che al termine di ciascuna di queste rivoluzioni la medesima religione si è ritrovata di nuovo in cima. La Fede converte sempre l'età in cui vive, non come una vecchia religione, ma come una religione nuova. Questa verità è nascosta a molti da una convenzione troppo poco osservata. Curiosamente, è una convenzione del genere di quelle che proprio coloro che la ignorano pretendono di individuare e denunciare. Costoro non fanno che ripeterci che i preti e le cerimonie non sono la religione e che l'organizzazione religiosa può essere un guscio vuoto, ma difficilmente si rendono conto di quanto ciò sia vero. È così vero che almeno tre o quattro volte nella storia della cristianità l'anima intera parve essere uscita dal cristianesimo; e quasi ogni uomo, in cuor suo, ne attese la fine. Questo fatto è mascherato, nel Medioevo e in altre epoche, proprio da quella religione ufficiale che simili critici si vantano di saper vedere in trasparenza. Il cristianesimo rimase la religione ufficiale di un principe del Rinascimento o la religione ufficiale di un vescovo del Settecento, così come un'antica mitologia rimase la religione ufficiale di Giulio Cesare o il credo ariano rimase a lungo la religione ufficiale di Giuliano l'Apostata. Ma vi era una differenza fra il caso di Giulio e quello di Giuliano; perché la Chiesa aveva ormai intrapreso la sua strana carriera. Non c'era ragione per cui uomini come Giulio non dovessero adorare per sempre in pubblico dèi come Giove e riderne per sempre in privato. Ma quando Giuliano trattò il cristianesimo come morto, lo trovò tornato in vita. Trovò anche, per inciso, che non c'era il minimo segno che Giove tornasse mai in vita. Questo caso di Giuliano e l'episodio dell'arianesimo non sono che il primo di una serie di esempi che qui si possono soltanto indicare a grandi linee. L'arianesimo, come si è detto, aveva ogni umana apparenza di essere il modo naturale in cui ci si poteva aspettare che quella particolare superstizione di Costantino andasse spegnendosi. Erano state percorse tutte le tappe consuete; il credo era divenuto una cosa rispettabile, era divenuto una cosa rituale, poi era stato modificato in una cosa razionale; e i razionalisti erano pronti a dissipare gli ultimi resti di esso, proprio come fanno oggi. Quando il cristianesimo risorse improvvisamente e li atterrò, fu quasi tanto inatteso quanto il Cristo che risorge dai morti. Ma vi sono molti altri esempi della medesima cosa, anche press'a poco nella stessa epoca. Lo slancio dei missionari dall'Irlanda, per esempio, ha tutta l'aria di un assalto inatteso di giovani a un vecchio mondo, e persino a una Chiesa che mostrava segni di invecchiamento. Alcuni di essi furono martirizzati sulla costa della Cornovaglia; e la massima autorità in fatto di antichità cornovagliesi mi disse che non credeva affatto che fossero stati martirizzati da pagani, ma (come si espresse con un certo umorismo) «da cristiani piuttosto tiepidi».
+
+Ora, se dovessimo scendere sotto la superficie della storia, cosa che non rientra negli scopi di questo ragionamento, sospetto che troveremmo parecchie occasioni in cui la cristianità fu così, a ogni apparenza, svuotata dall'interno dal dubbio e dall'indifferenza, sicché non restava che il vecchio guscio cristiano, come tanto a lungo era rimasto in piedi il guscio pagano. Ma la differenza è che in ogni caso simile i figli furono fanatici per la fede là dove i padri erano stati tiepidi verso di essa. Ciò è evidente nel caso del passaggio dal Rinascimento alla Controriforma. È evidente nel caso di un passaggio dal Settecento ai molti risvegli cattolici del nostro tempo. Ma sospetto che vi siano molti altri esempi che meriterebbero studi a parte.
+
+La Fede non è una sopravvivenza. Non è che i Druidi siano in qualche modo riusciti a sopravvivere in qualche luogo per duemila anni. Questo è ciò che avrebbe potuto accadere in Asia o nell'antica Europa, in quell'indifferenza o tolleranza in cui mitologie e filosofie potevano vivere in eterno fianco a fianco. Essa non è sopravvissuta; è ritornata più e più volte in questo mondo occidentale di rapido mutamento, dove le istituzioni continuamente periscono. L'Europa, nella tradizione di Roma, tentava sempre la rivoluzione e la ricostruzione; riedificava una repubblica universale. E cominciava sempre col rigettare questa vecchia pietra e finiva col farne la testata d'angolo; col riportarla dal mucchio dei rifiuti per farne il coronamento del Campidoglio. Alcune pietre di Stonehenge sono ancora erette e altre sono cadute; e come la pietra cade, così giacerà. Non c'è stato un rinascimento druidico ogni secolo o due, con i giovani Druidi incoronati di vischio fresco, danzanti al sole nella Piana di Salisbury. Stonehenge non è stata riedificata in ogni stile architettonico, dal rozzo tondeggiante normanno all'ultimo rococò del Barocco. Il luogo sacro dei Druidi è al sicuro dal vandalismo del restauro.
+
+Ma la Chiesa in Occidente non si trovava in un mondo dove le cose erano troppo vecchie per morire; bensì in uno dove erano sempre abbastanza giovani per venire uccise. La conseguenza fu che, superficialmente ed esteriormente, essa spesso veniva uccisa davvero; anzi, talvolta si logorava perfino senza venire uccisa. E ne segue un fatto che trovo alquanto difficile da descrivere, eppure che credo assai reale e piuttosto importante. Come un fantasma è l'ombra di un uomo, e in tal senso l'ombra della vita, così a intervalli passava attraverso questa vita senza fine una sorta di ombra della morte. Essa veniva nel momento in cui la Chiesa sarebbe perita se fosse stata peritura. Faceva appassire tutto ciò che era peribile. Se tali paralleli animaleschi fossero degni dell'occasione, potremmo dire che il serpente rabbrividiva, mutava una pelle e proseguiva, o addirittura che il gatto entrava in convulsioni perdendo una sola delle sue novecentonovantanove vite. È più vero dire, con un'immagine più dignitosa, che un orologio batté l'ora e non accadde nulla; o che una campana suonò a morto per un'esecuzione eternamente rinviata.
+
 
 
 <span class="atom-split" data-atom="chapter_16_the_five_deaths_of_the_faith--part_02" data-title="everlasting man — Chapter 16: The Five Deaths Of The Faith (part 2)" data-chapter="The Five Deaths Of The Faith" data-kind="excerpt"></span>
@@ -19105,6 +22539,16 @@ the Faith has a better following among the young men than among the old.
 When Ibsen spoke of the new generation knocking at the door,
 he certainly never expected that it would be the church-door.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quale fu il significato di tutta quella oscura ma vasta inquietudine del dodicesimo secolo, quando, come è stato detto così finemente, Giuliano si agitò nel sonno? Perché apparve così stranamente presto, nel crepuscolo dell'alba dopo i Secoli Bui, uno scetticismo tanto profondo quanto quello implicito nel sostenere il nominalismo contro il realismo? Poiché il realismo contro il nominalismo era in realtà il realismo contro il razionalismo, o contro qualcosa di ancor più distruttivo di ciò che chiamiamo razionalismo. La risposta è che, così come alcuni avrebbero potuto pensare la Chiesa semplicemente una parte dell'Impero Romano, così altri più tardi avrebbero potuto pensare la Chiesa soltanto una parte dei Secoli Bui. I Secoli Bui finirono come era finito l'Impero, e la Chiesa avrebbe dovuto dipartirsi con essi, se fosse stata anch'essa una delle ombre della notte. Fu un'altra di quelle morti spettrali o simulazioni di morte. Voglio dire che se il nominalismo avesse trionfato, sarebbe stato come se l'arianesimo avesse trionfato, sarebbe stato l'inizio di una confessione che il cristianesimo aveva fallito. Poiché il nominalismo è uno scetticismo assai più fondamentale del mero ateismo. Tale era la questione posta apertamente mentre i Secoli Bui si allargavano in quella luce del giorno che chiamiamo il mondo moderno. Ma quale fu la risposta? La risposta fu Tommaso d'Aquino sulla cattedra di Aristotele, che prendeva a suo dominio ogni sapere; e decine di migliaia di giovani, giù fino ai ranghi più bassi del contadino e del servo della gleba, viventi tra gli stracci e sui tozzi di pane presso i grandi collegi, per ascoltare la filosofia scolastica.
+
+Quale fu il significato di tutto quel sussurro di paura che percorse l'Occidente sotto l'ombra dell'Islam, e riempie ogni antico romanzo di immagini incongrue di cavalieri saraceni che si pavoneggiano in Norvegia o nelle Ebridi? Perché uomini dell'estremo Occidente, come re Giovanni se ben ricordo, venivano accusati di essere segretamente musulmani, come si accusano gli uomini di essere segretamente atei? Perché regnò quel fiero allarme fra alcune delle autorità riguardo alla versione araba e razionalistica di Aristotele? Le autorità raramente si allarmano in tal modo, salvo quando è troppo tardi. La risposta è che centinaia di persone probabilmente credevano in cuor loro che l'Islam avrebbe conquistato la Cristianità; che Averroè fosse più razionale di Anselmo; che la cultura saracena fosse davvero, come lo era in apparenza, una cultura superiore. Anche qui probabilmente troveremmo un'intera generazione, la generazione più anziana, farsi dubbiosa, depressa e stanca. La venuta dell'Islam non sarebbe stata che la venuta dell'unitarianesimo mille anni prima del suo tempo. A molti poté sembrare del tutto ragionevole, del tutto probabile e del tutto verosimile che avvenisse. Se così fosse, sarebbero rimasti sorpresi da ciò che effettivamente avvenne. Ciò che avvenne fu un boato simile a tuono da parte di migliaia e migliaia di giovani, che gettarono tutta la loro giovinezza in un'unica esultante controcarica, le Crociate. Furono i figli di san Francesco, i Giullari di Dio, che vagavano cantando per tutte le strade del mondo; fu il gotico che si slanciava come un volo di frecce; fu il risveglio del mondo. Considerando la guerra contro gli Albigesi, giungiamo alla breccia nel cuore dell'Europa e alla frana di una nuova filosofia che quasi mise fine per sempre alla Cristianità. In quel caso la nuova filosofia era anche una filosofia assai nuova; era il pessimismo. Non era per questo meno simile alle idee moderne per il fatto d'essere antica quanto l'Asia; la maggior parte delle idee moderne lo è. Erano gli Gnostici che ritornavano; ma perché ritornavano gli Gnostici? Perché era la fine di un'epoca, come la fine dell'Impero; e avrebbe dovuto essere la fine della Chiesa. Era Schopenhauer che aleggiava sul futuro; ma era anche Manicheo che risorgeva dai morti; affinché gli uomini avessero la morte, e l'avessero in maggiore abbondanza.
+
+È piuttosto più evidente nel caso del Rinascimento, semplicemente perché quel periodo è tanto più vicino a noi e la gente ne sa molto di più. Ma anche in quell'esempio c'è più di quanto la maggior parte della gente sappia. A parte le particolari controversie che desidero riservare a uno studio a sé, quel periodo fu assai più caotico di quanto tali controversie comunemente lascino intendere. Quando i protestanti chiamano Latimer un martire del protestantesimo, e i cattolici replicano che Campion fu un martire del cattolicesimo, si dimentica spesso che molti di coloro che perirono in tali persecuzioni potrebbero essere descritti soltanto come martiri dell'ateismo o dell'anarchismo o addirittura del diabolismo. Quel mondo era quasi tanto sfrenato quanto il nostro; gli uomini che vi vagavano comprendevano il tipo d'uomo che dice non esservi alcun Dio, il tipo d'uomo che dice d'essere egli stesso Dio, il tipo d'uomo che dice qualcosa di cui nessuno riesce a raccapezzarsi. Se potessimo udire la conversazione dell'età che seguì il Rinascimento, probabilmente ne saremmo scandalizzati per le sue sfrontate negazioni. Le osservazioni attribuite a Marlowe sono probabilmente assai tipiche dei discorsi che si facevano in molte taverne di intellettuali. Il passaggio dall'Europa pre-riforma a quella post-riforma avvenne attraverso un vuoto di questioni spalancate come abissi; eppure, ancora una volta, alla lunga la risposta fu la stessa. Fu uno di quei momenti in cui, come Cristo camminò sulle acque, così il cristianesimo camminava nell'aria.
+
+Ma tutti questi casi sono lontani nel tempo e potrebbero essere dimostrati soltanto nei particolari. Vediamo il fatto assai più chiaramente nel caso in cui il paganesimo del Rinascimento pose fine al cristianesimo e il cristianesimo, inspiegabilmente, ricominciò tutto da capo. Ma lo vediamo con la massima chiarezza di tutte nel caso che ci è vicino ed è ricolmo di testimonianze manifeste e minute: il caso del grande declino della religione che ebbe inizio all'incirca al tempo di Voltaire. Perché è davvero il caso nostro, e noi stessi abbiamo visto il declino di quel declino. I duecento anni trascorsi da Voltaire non ci sfrecciano davanti in un lampo come il quarto e il quinto secolo, o il dodicesimo e il tredicesimo. Nel nostro proprio caso possiamo osservare da vicino questo processo tante volte ripetuto; sappiamo quanto compiutamente una società possa perdere la sua religione fondamentale senza abolire la sua religione ufficiale; sappiamo come gli uomini possano diventare tutti agnostici molto prima di abolire i vescovi. E sappiamo che anche in quest'ultima fine, che a noi parve davvero la fine definitiva, l'incredibile è accaduto di nuovo: la Fede ha maggior seguito tra i giovani che tra i vecchi. Quando Ibsen parlò della nuova generazione che bussava alla porta, di certo non si aspettava che sarebbe stata la porta della chiesa.
 
 
 
@@ -19216,6 +22660,40 @@ because he was himself a type of the time in which Christian faith
 was weak.  It was not because men would not hail, if they could,
 the wonderful and almost wild vision of a Doctor of Divinity.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Almeno cinque volte, dunque, con l'ariano e con l'albigese, con lo scettico umanista, dopo Voltaire e dopo Darwin, la Fede è andata, a ogni apparenza, in malora. In ciascuno di questi cinque casi fu il cane a morire. Quanto completo fosse il crollo e quanto strano il rovesciamento, possiamo vederlo nei particolari soltanto nel caso più prossimo al nostro tempo.
+
+Mille cose si sono dette sul Movimento di Oxford e sul parallelo risveglio cattolico francese; ma poche ci hanno fatto avvertire il fatto più semplice che lo riguarda: che fu una sorpresa. Fu un enigma non meno che una sorpresa; perché parve alla maggior parte della gente come un fiume che tornasse indietro dal mare e cercasse di risalire fra le montagne. Aver letto la letteratura del Settecento e dell'Ottocento significa sapere che quasi tutti erano giunti a dare per scontato che la religione fosse una cosa destinata ad allargarsi di continuo come un fiume, finché non raggiungesse un mare infinito. Alcuni si aspettavano che precipitasse in una cateratta di catastrofe, i più si aspettavano che si dilatasse in un estuario di uguaglianza e di moderazione; ma tutti quanti giudicavano il suo ripiegarsi su se stesso un prodigio incredibile quanto la stregoneria. In altre parole, la maggior parte delle persone moderate pensava che la fede, come la libertà, si sarebbe lentamente allargata verso il basso, e alcune persone avanzate pensavano che si sarebbe allargata verso il basso assai rapidamente, per non dire spianata del tutto. Tutto quel mondo di Guizot e di Macaulay e della liberalità commerciale e scientifica era forse più sicuro di qualunque uomo prima o dopo di esso riguardo alla direzione in cui il mondo sta andando. La gente era così certa della direzione che divergeva soltanto sull'andatura. Molti presagivano con allarme, e alcuni con simpatia, una rivolta giacobina che ghigliottinasse l'Arcivescovo di Canterbury, o un tumulto cartista che impiccasse i pastori ai lampioni. Ma parve come uno sconvolgimento della natura che l'Arcivescovo, invece di perdere la testa, fosse in cerca della sua mitra; e che, invece di diminuire il rispetto dovuto ai pastori, noi lo rafforzassimo fino al rispetto dovuto ai sacerdoti. Ciò rivoluzionò la loro stessa visione della rivoluzione; e rovesciò a rovescio il loro stesso mondo alla rovescia.
+
+Insomma, mentre il mondo intero si divideva sul se la corrente andasse più adagio o più veloce, esso divenne consapevole di qualcosa di vago ma di immenso che risaliva contro la corrente. Tanto nel fatto quanto nella figura c'è in questo qualcosa di profondamente inquietante, e per una ragione essenziale. Una cosa morta può andare con la corrente, ma soltanto una cosa viva può andarle contro. Un cane morto può essere sollevato sull'acqua guizzante con tutta la rapidità di un segugio al balzo; ma soltanto un cane vivo può nuotare a ritroso. Una barchetta di carta può cavalcare il diluvio montante con tutta l'aerea arroganza di un vascello fatato, ma se il vascello fatato risale la corrente, allora è davvero remato dalle fate. E tra le cose che semplicemente andavano con la marea dell'apparente progresso e ingrandimento c'era più di un demagogo o sofista i cui gesti forsennati erano in verità inerti quanto il moto delle membra di un cane morto che ondeggiano nell'acqua vorticante; e più di una filosofia straordinariamente simile a una barchetta di carta, di quelle che non è difficile ridurre a un cappello a tricorno. Ma anche le cose veramente vive, e persino datrici di vita, che andavano con quella corrente non provavano con ciò di essere vive o datrici di vita. Era quest'altra forza a essere, indubbiamente e inspiegabilmente, viva; la misteriosa e smisurata energia che stava respingendo il fiume all'indietro. La si avvertiva come il movimento di qualche grande mostro; e non era per questo meno chiaramente un mostro vivente, sebbene i più lo credessero un mostro preistorico. Non era per questo meno un sommovimento innaturale, incongruo e, per taluni, comico; come se il Grande Serpente di Mare si fosse d'improvviso levato dal Round Pond — a meno di non ritenere il Serpente di Mare più propenso ad abitare nella Serpentine. Non si deve trascurare questo elemento frivolo nella fantasia, perché fu una delle più chiare testimonianze della natura inaspettata del rovesciamento. Quell'epoca sentiva davvero che una qualità grottesca degli animali preistorici apparteneva anche ai riti storici; che mitre e tiare erano come le corna o le creste di creature antidiluviane; e che appellarsi a una Chiesa Primitiva era come mascherarsi da Uomo Primitivo.
+
+Il mondo è tuttora sconcertato da quel movimento; ma soprattutto perché esso si muove ancora. Ho detto qualcosa altrove sul genere piuttosto casuale di rimproveri che gli vengono ancora rivolti, e alle sue assai maggiori conseguenze; basti dire qui che quanto più simili critici lo rimproverano, tanto meno lo spiegano. In un certo senso è mia cura qui, se non spiegarlo, almeno suggerire la direzione della spiegazione; ma soprattutto è mia cura additare una cosa particolare che lo riguarda. Ed è che tutto era già accaduto prima; e anzi molte volte prima.
+
+Per riassumere, nella misura in cui è vero che i secoli recenti hanno visto
+un'attenuazione della dottrina cristiana, i secoli recenti non hanno visto
+altro che ciò che i secoli più remoti avevano già visto. E persino l'esempio
+moderno non ha fatto che finire come erano finiti gli esempi medievali e
+premedievali. È già chiaro, e diventa più chiaro ogni giorno, che non finirà
+con la scomparsa del credo diminuito, ma piuttosto con il ritorno di quelle
+parti di esso che erano davvero scomparse. Finirà come finì il compromesso
+ariano, come finirono i tentativi di un compromesso con il Nominalismo e
+perfino con l'Albigismo. Ma il punto da cogliere nel caso moderno, come in
+tutti gli altri casi, è che ciò che ritorna non è, in quel senso, una teologia
+semplificata; non è, secondo quella prospettiva, una teologia purificata; è
+semplicemente teologia. È quell'entusiasmo per gli studi teologici che
+contrassegnò le epoche più dottrinali; è la scienza divina. Un vecchio Don
+con la sigla D. D. dopo il suo nome può essere diventato la figura tipica del
+seccatore; ma questo accadeva perché egli stesso era annoiato dalla propria
+teologia, non perché ne fosse entusiasta. Era precisamente perché, come tutti
+ammettevano, s'interessava più al latino di Plauto che al latino di Agostino,
+al greco di Senofonte che al greco di Crisostomo. Era precisamente perché
+s'interessava più a una tradizione morta che a una tradizione decisamente
+viva. In breve, era precisamente perché egli stesso era un tipo dell'epoca in
+cui la fede cristiana era debole. Non era perché gli uomini non avrebbero
+salutato con gioia, se avessero potuto, la meravigliosa e quasi selvaggia
+visione di un Dottore in Teologia.
 
 
 
@@ -19332,6 +22810,111 @@ or the freezing of the star.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vi sono persone che dicono di desiderare che il Cristianesimo rimanga come uno
+spirito. Intendono, molto letteralmente, che desiderano che rimanga come un
+fantasma. Ma non rimarrà come un fantasma. Ciò che segue questo processo di
+morte apparente non sono gli indugi dell'ombra; è la resurrezione del corpo.
+Queste persone sono ben disposte a versare lacrime pie e reverenti sul Sepolcro
+del Figlio dell'uomo; ciò a cui non sono preparate è il Figlio di Dio che
+cammina ancora una volta sui colli del mattino. Queste persone, e in verità la
+maggior parte delle persone, erano ormai del tutto avvezze all'idea che
+l'antico lume della candela cristiana si sarebbe dissolto nella luce del giorno
+comune. A molte di esse appariva davvero, in tutta onestà, come quella pallida
+fiamma gialla di una candela lasciata a bruciare in pieno giorno. Fu tanto più
+inatteso, e perciò tanto più inconfondibile, che il candelabro a sette braccia
+d'improvviso s'innalzasse verso il cielo come un albero miracoloso e
+fiammeggiasse fino a far impallidire il sole. Ma altre epoche hanno visto il
+giorno vincere il lume della candela e poi il lume della candela vincere il
+giorno. Ancora e ancora, prima del nostro tempo, gli uomini si sono
+accontentati di una dottrina diluita. E ancora e ancora è seguita a quella
+diluizione, sopraggiungendo come dalle tenebre in una cateratta cremisi, la
+forza del rosso vino originario. E oggi non facciamo che dire ancora una volta
+ciò che è stato detto molte volte dai nostri padri: «Molti anni e secoli fa i
+nostri padri, o i fondatori del nostro popolo, bevvero, mentre sognavano, il
+[[Blood|sangue]] di Dio. Molti anni e secoli sono trascorsi da quando la forza
+di quella vendemmia gigantesca non è stata altro che una leggenda dell'età dei
+giganti. Secoli fa già è il [[Time|tempo]] oscuro della seconda fermentazione,
+quando il vino del Cattolicesimo si mutò nell'aceto del Calvinismo. Da lungo
+tempo quella bevanda amara è stata essa stessa diluita; risciacquata e portata
+via dalle acque dell'oblio e dall'onda del mondo. Mai avremmo pensato di
+gustare di nuovo neppure quel sentore amaro di sincerità e di spirito, e ancor
+meno la forza più ricca e più dolce dei purpurei vigneti nei nostri
+[[Dreams|sogni]] dell'età dell'oro. Giorno dopo giorno e anno dopo anno abbiamo
+abbassato le nostre speranze e attenuato le nostre convinzioni; ci siamo
+abituati sempre più a vedere quei tini e quei vigneti sommersi dai flutti
+d'[[Water|acqua]], e l'ultimo sapore e sentore di quell'elemento speciale
+sbiadire come una macchia di porpora su un mare di grigio. Ci siamo abituati
+alla diluizione, alla dissoluzione, a un annacquamento che continuava in
+eterno. Ma "tu hai serbato il vino buono fino ad ora"».
+
+Questo è il fatto ultimo, ed è il più straordinario di tutti. La
+[[Faith|fede]] non solo è spesso morta, ma è spesso morta di vecchiaia. Non
+solo è stata spesso uccisa, ma è spesso morta di [[Death|morte]] naturale; nel
+senso di giungere a una fine naturale e necessaria. È evidente che è
+sopravvissuta alle più feroci e alle più universali persecuzioni, dallo scossone
+del furore dioclezianeo allo scossone della [[French Revolution|Rivoluzione francese]]. Ma possiede una tenacia più strana e persino più inquietante: è
+sopravvissuta non solo alla guerra, ma alla pace. Non solo è morta spesso, ma
+spesso è degenerata e spesso è decaduta; è sopravvissuta alla propria debolezza
+e persino alla propria resa. Non occorre ripetere ciò che è tanto ovvio riguardo
+alla [[Beauty|bellezza]] della fine di [[Christ]] nel suo connubio di giovinezza
+e [[Death|morte]]. Ma è quasi come se [[Christ]] fosse vissuto fino all'estremo
+limite possibile, fosse stato un sapiente dai capelli bianchi di cent'anni e
+fosse morto di naturale [[Decay|declino]], e poi fosse risorto ringiovanito, con
+squilli di tromba e lo squarciarsi del cielo. Fu detto con abbastanza verità che
+il [[Christianity|Cristianesimo]] umano, nella sua ricorrente debolezza, era
+talvolta troppo unito ai poteri del mondo; ma se fu sposato, molto spesso è
+rimasto vedovo. È una vedova stranamente immortale. Un nemico può aver detto, in
+un dato momento, che non era altro che un aspetto del potere dei Cesari; e ciò
+suona oggi tanto strano quanto chiamarlo un aspetto dei Faraoni. Un nemico
+potrebbe dire che era la [[Faith|fede]] ufficiale del feudalesimo; e ciò suona
+oggi tanto convincente quanto dire che era destinato a perire con l'antica villa
+romana. Tutte queste cose seguirono davvero il loro corso fino alla loro fine
+normale; e sembrava non esservi per la religione altro corso che finire con
+esse. Finì e ricominciò.
+
+«Il cielo e la terra passeranno, ma le mie parole non passeranno». La civiltà
+dell'antichità era il mondo intero: e gli uomini non sognavano la sua fine più
+di quanto sognassero la fine della luce del giorno. Non potevano immaginare un
+altro ordine se non in un altro mondo. La civiltà del mondo è passata e quelle
+parole non sono passate. Nella lunga [[Night|notte]] dei Secoli Bui il
+feudalesimo era una cosa così familiare che nessun uomo poteva immaginarsi senza
+un signore: e la religione era così intessuta in quella trama che nessun uomo
+avrebbe creduto che potessero essere separati. Il feudalesimo stesso fu ridotto
+in brandelli e imputridì nella vita popolare del vero Medioevo; e la prima e più
+fresca forza in quella nuova [[Freedom|libertà]] fu l'antica religione. Il
+feudalesimo era passato, e le parole non passarono. L'intero ordine medievale,
+per tanti versi una dimora così completa e quasi cosmica, una [[Home|casa]] per
+l'uomo, si logorò gradualmente a sua volta, e qui almeno si pensò che le parole
+sarebbero morte. Esse varcarono il raggiante abisso del [[Renaissance|Rinascimento]]
+e in cinquant'anni ne stavano già usando tutta la luce e il sapere per nuove
+fondazioni religiose, nuove [[Apologetics|apologetiche]], nuovi santi. Si
+supponeva che si fosse infine inaridita nella luce secca dell'Età della Ragione;
+si supponeva che fosse infine scomparsa nel terremoto dell'Età della
+Rivoluzione. La scienza la spiegava come illusione; ed essa era ancora lì. La
+[[history|Storia]] la dissotterrava nel passato; ed essa appariva d'improvviso
+nel futuro. Oggi si erge ancora una volta sul nostro cammino; e persino mentre
+la osserviamo, cresce.
+
+Se le nostre relazioni e i nostri documenti sociali conserveranno la loro continuità,
+se gli uomini impareranno davvero ad applicare la ragione ai fatti che si accumulano
+di una storia tanto schiacciante, parrebbe che presto o tardi persino
+i suoi nemici imparino, dalle loro incessanti e interminabili
+delusioni, a non attendersi qualcosa di così semplice come la sua [[Death|morte]].
+Potranno continuare a farle guerra, ma sarà come fanno guerra alla [[Nature|natura]];
+come fanno guerra al paesaggio, come fanno guerra ai cieli.
+«Il cielo e la terra passeranno, ma le mie parole non passeranno.»
+La spieranno per coglierla mentre inciampa; la spieranno per coglierla mentre erra;
+non la spieranno più per coglierla mentre finisce. Insensibilmente, e persino inconsciamente,
+essi, nelle loro stesse silenziose attese, adempiranno i termini
+relativi di quella sconvolgente profezia; dimenticheranno di spiare
+la mera estinzione di ciò che è stato tante volte invano estinto;
+e impareranno d'istinto ad attendersi anzitutto la venuta della cometa
+o il congelarsi della stella.
+
+* * *
 
 
 
@@ -19482,6 +23065,151 @@ They are mythology or the poetry that is not bound in books--
 or bound in any other way.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CONCLUSIONE
+
+IL RIASSUNTO DI QUESTO LIBRO
+
+Mi sono preso la libertà, una volta o due, di prendere a prestito l'eccellente
+formula relativa a un Compendio di [[history|Storia]]; benché questo studio di una particolare
+[[Truth|verità]] e di un particolare errore non possa naturalmente pretendere paragone alcuno
+con la ricca e multiforme enciclopedia della [[history|storia]], per la quale quel nome
+fu scelto. Eppure vi è una certa ragione nel riferimento:
+e un senso in cui l'una cosa tocca e persino taglia trasversalmente
+l'altra. Poiché la storia del mondo quale la narra il signor Wells poteva
+qui essere criticata soltanto come compendio. E, per quanto strano,
+mi sembra che essa sia errata soltanto come compendio.
+È ammirevole come accumulo di [[history|storia]]; è splendida
+come magazzino o [[house|dimora]]-tesoro di [[history|storia]]; è un'affascinante
+dissertazione sulla [[history|storia]]; è oltremodo attraente come amplificazione
+della [[history|storia]]; ma è del tutto falsa come compendio della [[history|storia]].
+L'unica cosa che mi sembra del tutto sbagliata in essa è il compendio;
+quella sorta di compendio che può davvero essere una linea sola,
+come quella che fa tutta la differenza tra una caricatura
+del profilo del signor Winston Churchill e quello di Sir Alfred Mond.
+In parole semplici e casalinghe, intendo le cose che sporgono;
+le cose che fanno la semplicità di una silhouette.
+Penso che le proporzioni siano sbagliate; le proporzioni di ciò che è certo
+in confronto a ciò che è incerto, di ciò che ha avuto una gran parte
+in confronto a ciò che ne ha avuta una minore, di ciò che è ordinario
+e di ciò che è straordinario, di ciò che sta davvero al livello di una media
+e di ciò che spicca come eccezione.
+
+Non lo dico come piccola critica di un grande scrittore, e non ho
+ragione di farlo; poiché nel mio compito assai più modesto sento di aver fallito
+pressappoco nello stesso modo. Dubito assai di aver comunicato
+al lettore il punto principale che intendevo circa le proporzioni della [[history|storia]],
+e il perché mi sia soffermato tanto di più su certe cose che su altre.
+[[Doubt|Dubito]] di aver chiaramente adempiuto il disegno che avevo tracciato
+nel capitolo introduttivo; e per tale ragione aggiungo queste righe
+come una sorta di riassunto in un capitolo conclusivo. Credo davvero che
+le cose sulle quali ho insistito siano più essenziali a un compendio
+di [[history|storia]] che non le cose che ho subordinato o messo da parte.
+Non credo che il passato sia raffigurato con maggior verità come una cosa
+in cui l'umanità semplicemente sfuma nella [[Nature|natura]], o la civiltà semplicemente
+sfuma nella barbarie, o la religione sfuma nella mitologia,
+o la nostra propria religione sfuma nelle religioni del mondo.
+In breve, non credo che il modo migliore per produrre un compendio
+di [[history|storia]] sia cancellarne le linee. Credo che, delle due,
+sarebbe assai più vicino alla [[Truth|verità]] narrare la vicenda in maniera semplicissima,
+come un mito primitivo su un uomo che fece il sole e le [[Stars|stelle]]
+o su un dio che entrò nel [[Body|corpo]] di una scimmia sacra. Riassumerò dunque
+tutto ciò che è venuto prima in quella che mi pare un'affermazione realistica
+e ragionevolmente proporzionata; la [[Short Story|breve storia]] del genere umano.
+
+Nella terra illuminata da quella stella vicina, il cui bagliore è la piena
+luce del giorno, vi sono molte e assai varie cose immobili e in movimento.
+Fra esse si muove una stirpe che è, nella sua relazione con le altre,
+una stirpe di dèi. Il fatto non è attenuato ma accentuato dal poter essa
+comportarsi come una stirpe di demoni. La sua distinzione non è un'illusione
+individuale, come un uccello che si pavoneggia delle proprie piume;
+è una cosa solida e dai molti lati. È dimostrata
+nelle stesse speculazioni che hanno condotto a negarla.
+Che gli uomini, gli dèi di questo mondo inferiore, vi siano legati in
+vari modi è vero; ma è un altro aspetto della stessa [[Truth|verità]].
+Che essi crescano come cresce l'erba e camminino come camminano le bestie
+è una necessità secondaria che affina la distinzione primaria.
+È come dire che un mago deve pur avere, in fin dei conti, l'aspetto
+di un uomo; o che persino le fate non potrebbero [[Dance|danzare]] senza piedi.
+Da qualche tempo è di moda concentrare la mente interamente su queste miti
+e subordinate somiglianze e dimenticare del tutto il fatto principale.
+È abitudine insistere che l'uomo somiglia alle altre creature.
+Sì; e proprio quella somiglianza egli [[Alone|solo]] può vederla. Il pesce non
+rintraccia il disegno della lisca negli uccelli dell'aria; né l'elefante
+e l'emù confrontano scheletri. Persino nel senso in cui l'uomo
+è tutt'uno con l'universo, si tratta di una universalità del tutto solitaria.
+Lo stesso senso di essere unito a tutte le cose basta a separarlo
+da tutte.
+
+Guardandosi attorno per mezzo di questa luce unica, solitario come
+la fiamma letterale che egli [[Alone|solo]] ha acceso, questo semidio
+o demone del mondo visibile rende quel mondo visibile.
+Vede intorno a sé un mondo di un certo stile o tipo.
+Sembra procedere secondo certe regole o almeno certe ripetizioni.
+Vede una verde architettura che si costruisce senza mani visibili;
+ma che si costruisce secondo un piano o un disegno assai esatto,
+come un disegno già tracciato nell'aria da un dito invisibile.
+Non è, come ora vagamente si suggerisce, una cosa vaga.
+Non è una crescita o un brancolare di vita cieca. Ciascuno cerca un fine;
+un fine glorioso e radioso, persino per ogni margherita o dente di leone
+che vediamo guardando attraverso la distesa di un campo comune.
+Nella forma stessa delle cose vi è più che una verde crescita;
+vi è la finalità del fiore. È un mondo di corone.
+Questa impressione, sia essa o no un'illusione, ha così profondamente
+influenzato questa stirpe di pensatori e padroni del mondo materiale,
+che la stragrande maggioranza è stata indotta a prendere una certa visione di
+quel mondo. Hanno concluso, a torto o a ragione, che il mondo
+avesse un piano come l'albero sembrava avere un piano; e un fine e una [[Crown|corona]]
+come il fiore. Ma finché la stirpe dei pensatori fu in grado
+di pensare, fu evidente che l'ammissione di questa idea di un piano
+recava con sé un altro pensiero più elettrizzante e persino terribile.
+Vi era qualcun altro, un essere strano e invisibile, che aveva progettato
+queste cose, se davvero erano state progettate. Vi era uno straniero
+che era anche un amico; un misterioso benefattore che era stato prima di loro
+e aveva edificato i boschi e le colline per il loro venire, e aveva acceso
+l'aurora contro il loro levarsi, come un servo accende un [[Fire|fuoco]].
+Ora, questa idea di una mente che dà un significato all'universo ha
+ricevuto sempre più conferma nelle menti degli uomini,
+per mezzo di meditazioni ed esperienze assai più sottili e penetranti
+di qualsiasi simile argomento intorno al piano esterno del mondo.
+Ma qui mi preme mantenere la storia nei suoi termini più semplici
+e persino concreti; e basti dire qui che la maggior parte degli uomini,
+compresi i più saggi, sono giunti alla conclusione che il mondo
+ha un tale fine ultimo e perciò una tale causa prima.
+Ma la maggior parte degli uomini si separarono in un certo senso dai più saggi,
+quando si giunse al trattamento di quell'idea. Vennero all'esistenza
+due modi di trattare quell'idea, i quali insieme costituirono
+la maggior parte della [[history|storia]] religiosa del mondo. La maggioranza,
+al pari della minoranza, aveva questo forte senso di un secondo significato
+nelle cose; di uno strano padrone che conosceva il segreto del mondo.
+Ma la maggioranza, la folla o massa degli uomini, tese naturalmente a trattarlo
+piuttosto nello spirito del pettegolezzo. Il pettegolezzo, come ogni pettegolezzo, conteneva una
+gran quantità di [[Truth|verità]] e di falsità. Il mondo cominciò a raccontarsi
+storie sull'essere ignoto o sui suoi figli o servi o messaggeri.
+Alcune di queste storie possono davvero dirsi ciance di comari; in quanto professano
+di essere soltanto ricordi assai remoti del mattino del mondo;
+miti sulla [[Moon|luna]] neonata o sulle [[Mountains|montagne]] semicrude. Alcune di esse
+potrebbero più propriamente dirsi storie di viaggiatori; in quanto storie curiose ma
+contemporanee portate da certe terre di confine dell'esperienza;
+come guarigioni miracolose o come quelle che recano bisbigli di ciò che è
+accaduto ai morti. Molte di esse sono probabilmente storie vere;
+un numero sufficiente di esse è probabilmente vero da tenere una persona di vero buon senso
+più o meno consapevole che dietro il sipario cosmico vi è davvero qualcosa di piuttosto
+meraviglioso. Ma in un certo senso è solo un procedere
+per apparenze; anche se le apparenze si chiamano apparizioni.
+È una questione di apparizioni — e di sparizioni.
+Nel migliore dei casi questi dèi sono [[Ghosts|fantasmi]]; vale a dire, sono scorci.
+Per la maggior parte di noi sono piuttosto pettegolezzi su scorci.
+E per il resto, il mondo intero è pieno di dicerie,
+la maggior parte delle quali sono, quasi dichiaratamente, romanzi. La gran maggioranza
+delle storie sugli dèi e sui [[Ghosts|fantasmi]] e sul [[King|re]] invisibile è raccontata,
+se non per amore della storia, almeno per amore dell'argomento.
+Sono prova dell'eterno interesse del tema; non sono
+prova di alcunché d'altro, né sono intese a esserlo.
+Sono mitologia, ovvero la poesia che non è rilegata in libri —
+né rilegata in alcun altro modo.
+
 
 
 <span class="atom-split" data-atom="chapter_17_conclusion--part_02" data-title="everlasting man — Chapter 17: CONCLUSION (part 2)" data-chapter="CONCLUSION" data-kind="excerpt"></span>
@@ -19586,6 +23314,107 @@ fine shades of mysticism or more or less rational forms of mythology.
 It is divided by the line between the men who are bringing that message
 and the men who have not yet heard it, or cannot yet believe it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel frattempo la minoranza, i saggi o pensatori, si era ritirata in disparte
+e aveva intrapreso un mestiere altrettanto congeniale.  Andavano tracciando
+i piani del mondo; di quel mondo che tutti credevano avesse un piano.
+Si sforzavano di esporre il piano seriamente e in scala.
+Applicavano la loro mente direttamente alla mente che aveva foggiato
+il misterioso mondo; interrogandosi su che sorta di mente potesse
+essere e quale ne fosse lo scopo ultimo.  Alcuni di loro rendevano
+quella mente assai più impersonale di quanto l'umanità l'abbia generalmente resa;
+alcuni la semplificavano quasi fino al nulla; pochi, pochissimi,
+ne dubitavano del tutto.  Uno o due tra i più morbosi immaginavano
+che potesse essere malvagia e nemica; giusto uno o due tra i più
+degradati dell'altra classe adoravano demoni invece di dèi.
+Ma la maggior parte di questi teorici erano teisti: e non solo scorgevano un piano
+morale nella [[Nature|natura]], ma per lo più stabilivano un piano morale per l'umanità.
+La maggior parte di loro erano uomini buoni che compivano opere buone: e vennero
+ricordati e riveriti in vari modi.  Erano scribi;
+e le loro scritture divennero più o meno sacre scritture.
+Erano legislatori; e la loro tradizione divenne non solo legale
+ma cerimoniale.  Possiamo dire che ricevettero onori divini,
+nel senso in cui i re e i grandi condottieri in certi paesi
+ricevettero spesso onori divini.  In una parola, ovunque l'altro
+spirito popolare, lo spirito della leggenda e delle chiacchiere potesse entrare in gioco,
+li circondava con l'atmosfera più mistica dei miti.
+La poesia popolare mutò i saggi in santi.  Ma non fece altro.
+Essi rimasero se stessi; gli uomini non dimenticarono mai davvero che erano uomini,
+solo tramutati in dèi nel senso in cui erano tramutati in eroi.
+Il divino Platone, come il Divus Caesar, era un titolo e non un dogma.
+In Asia, dove l'atmosfera era più mitologica, l'uomo
+veniva reso più simile a un mito, ma restava un uomo.
+Restava un uomo di una certa classe sociale o scuola di uomini,
+che riceveva e meritava grande [[Honour|onore]] dall'umanità.
+È l'ordine o scuola dei filosofi; gli uomini che si sono posti
+seriamente a rintracciare l'ordine attraverso ogni apparente caos
+nella visione della vita.  Invece di vivere di dicerie immaginose
+e di remote tradizioni e della coda di esperienze eccezionali
+riguardo alla mente e al significato che stanno dietro il mondo, essi hanno tentato
+in un certo senso di proiettare a priori lo scopo primario di quella mente.
+Hanno tentato di mettere su carta un possibile piano del mondo;
+quasi come se il mondo non fosse ancora fatto.
+
+Proprio nel bel mezzo di tutte queste cose si erge un'enorme eccezione.
+È del tutto diversa da qualunque altra cosa.  È una cosa definitiva come la tromba
+del giudizio, benché sia anche una buona notizia; o una notizia che pare
+troppo bella per essere vera.  Non è nulla di meno che la clamorosa asserzione che
+questo misterioso artefice del mondo ha visitato il suo mondo di persona.
+Dichiara che realmente e persino di recente, o proprio nel mezzo
+dei tempi storici, entrò davvero nel mondo questo originario
+essere invisibile; intorno al quale i pensatori costruiscono teorie e
+i mitologi tramandano miti; l'Uomo Che Fece il Mondo.
+Che una tale personalità superiore esistesse dietro tutte le cose era
+in verità sempre stato sottinteso tanto da tutti i migliori pensatori [[Well|quanto]]
+da tutte le più belle leggende.  Ma nulla di questo genere
+era mai stato sottinteso in nessuna di esse.  È semplicemente falso dire
+che gli altri saggi ed eroi avessero preteso di essere quel misterioso
+signore e artefice, che il mondo aveva sognato e su cui aveva disputato.
+Non uno di loro aveva mai preteso di essere qualcosa del genere.
+Non una delle loro sette o scuole aveva mai neppure preteso che essi avessero
+preteso di essere qualcosa del genere.  Il massimo che qualunque [[Prophet|profeta]]
+religioso avesse detto era di essere il vero servo di un tale essere.
+Il massimo che qualunque visionario avesse mai detto era che gli uomini potessero cogliere
+barlumi della gloria di quell'essere spirituale; o assai più spesso
+di esseri spirituali minori.  Il massimo che qualunque mito primitivo avesse
+persino suggerito era che il Creatore fosse presente alla Creazione.
+Ma che il Creatore fosse presente a scene un po' successive
+alle cene di Orazio, e conversasse con esattori delle tasse e
+funzionari del [[government|governo]] nella dettagliata vita quotidiana dell'Impero Romano,
+e che questo fatto continuasse a essere fermamente asserito dall'intera
+compagine di quella grande civiltà per più di mille anni --
+questo è qualcosa di assolutamente diverso da qualunque altra cosa nella [[Nature|natura]].
+È l'unica grande, sconcertante affermazione che l'uomo abbia fatto da quando pronunciò
+la sua prima parola articolata, invece di abbaiare come un cane.  Il suo carattere
+unico può essere usato come argomento contro di essa non meno che [[Well|a suo favore]].
+Sarebbe facile concentrarsi su di essa come su un caso di follia isolata;
+ma essa riduce la religione comparata a nient'altro che [[Dust|polvere]] e insensatezza.
+
+Piombò sul mondo con un [[Wind|vento]] e uno slancio di messaggeri in corsa
+che proclamavano quel portento apocalittico, e non è indebitamente fantasioso
+dire che sono ancora in corsa.  Ciò che sconcerta il mondo,
+e i suoi saggi filosofi e i fantasiosi poeti pagani, riguardo ai sacerdoti
+e al popolo della [[Catholic Church|Chiesa Cattolica]] è che essi si comportano ancora
+come se fossero messaggeri.  Un messaggero non fantastica su quale
+il suo messaggio potrebbe essere, né disputa su quale probabilmente sarebbe;
+lo consegna così com'è.  Non è una teoria o una fantasia, ma un fatto.
+Non è pertinente a questo profilo volutamente rudimentale
+provare in dettaglio che è un fatto; ma soltanto rilevare
+che questi messaggeri lo trattano come gli uomini trattano un fatto.
+Tutto ciò che è condannato nella tradizione, nell'autorità e nel dogmatismo cattolici
+e il rifiuto di ritrattare e modificare, non sono che i naturali
+attributi umani di un uomo con un messaggio relativo a un fatto.
+[[Desire|Desidero]] evitare in quest'ultima sintesi tutte le complessità controverse
+che potrebbero ancora una volta annebbiare le semplici linee di quella strana storia;
+che ho già chiamato, con parole troppo deboli,
+la storia più strana del mondo.  [[Desire|Desidero]] soltanto marcare quelle linee
+principali e specialmente marcare dove la grande linea vada davvero tracciata.
+La religione del mondo, nelle sue giuste proporzioni, non è divisa in
+sottili sfumature di misticismo o in forme più o meno razionali di mitologia.
+È divisa dalla linea tra gli uomini che recano quel messaggio
+e gli uomini che non l'hanno ancora udito, o non riescono ancora a crederlo.
 
 
 
@@ -19704,6 +23533,18 @@ the [[Lightning|lightning]] made eternal as the light.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma quando ritraduciamo i termini di quella strana vicenda nella terminologia più concreta e complicata del nostro [[Time|tempo]], la troviamo ricoperta di nomi e di ricordi la cui stessa familiarità è una falsificazione. Per esempio, quando diciamo che un paese conta un tale numero di musulmani, intendiamo in realtà che conta un tale numero di monoteisti; e con ciò intendiamo, in realtà, che conta un tale numero di uomini; uomini con l'antico presupposto medio degli uomini: che il sovrano invisibile rimanga invisibile. Lo professano insieme alle usanze di una certa cultura e sotto le leggi più semplici di un certo legislatore; ma così farebbero anche se il loro legislatore fosse Licurgo o Solone. Essi testimoniano qualcosa che è una [[Truth|verità]] necessaria e nobile; ma che non fu mai una [[Truth|verità]] nuova. Il loro credo non è un colore nuovo; è la tinta neutra e normale che fa da sfondo alla vita multicolore dell'uomo. Maometto non trovò, come i Magi, una stella nuova; scorse attraverso la sua particolare [[Window|finestra]] un barlume del grande campo grigio dell'antica luce stellare. Così, quando diciamo che quel paese conta un tale numero di confuciani o di buddisti, intendiamo che conta un tale numero di pagani i cui profeti hanno dato loro un'altra e piuttosto più vaga versione del potere invisibile, rendendolo non soltanto invisibile ma quasi impersonale. Quando diciamo che essi hanno anche templi e idoli e sacerdoti e feste periodiche, intendiamo semplicemente che questa specie di pagano è abbastanza uomo da ammettere l'elemento popolare della pompa e delle immagini e dei banchetti e delle fiabe. Intendiamo soltanto che i pagani hanno più buon senso dei puritani. Ma ciò che gli dèi si suppone che siano, ciò che i sacerdoti hanno l'incarico di dire, non è un segreto sensazionale come ciò che avevano da dire quei messaggeri correnti del Vangelo. Nessun altro all'infuori di quei messaggeri ha alcun Vangelo; nessun altro ha alcuna buona novella; per la semplice ragione che nessun altro ha alcuna novità.
+
+Quei corridori raccolgono slancio mentre corrono. Secoli dopo, parlano ancora come se qualcosa fosse appena accaduto. Non hanno perduto la [[Speed|velocità]] e lo slancio dei messaggeri; non hanno quasi perduto, per così dire, gli occhi accesi dei testimoni. Nella [[Catholic Church|Chiesa cattolica]], che è la coorte del messaggio, ci sono ancora quegli atti impetuosi di santità che parlano di qualcosa di rapido e di recente; un [[Self-Sacrifice|sacrificio di sé]] che sbalordisce il mondo come un [[suicide|suicidio]]. Ma non è un [[suicide|suicidio]]; non è pessimistico; è ancora ottimistico come san Francesco dei [[Flowers|fiori]] e degli [[Birds|uccelli]]. È più nuovo nello spirito delle più nuove scuole di pensiero; ed è quasi certamente alla vigilia di nuovi trionfi. Poiché questi uomini servono una madre che sembra farsi più bella man mano che nuove generazioni si levano e la proclamano beata. Potremmo talvolta immaginare che la Chiesa si faccia più giovane man mano che il mondo invecchia.
+
+Poiché questa è l'ultima prova del miracolo: che qualcosa di così [[Supernatural|soprannaturale]] sia diventato così naturale. Voglio dire che qualcosa di così unico, visto dal di fuori, sembri universale soltanto visto dal di dentro. Non ho sminuito la portata del miracolo, come alcuni dei nostri teologi più sconsiderati ritengono saggio fare. Al contrario, mi sono deliberatamente soffermato su quella incredibile interruzione, come su un colpo che ha spezzato la spina dorsale stessa della [[history|storia]]. Ho grande simpatia per i monoteisti, i musulmani o gli ebrei, ai quali essa appare una bestemmia; una bestemmia capace di scuotere il mondo. Ma non scosse il mondo; lo rese saldo. Quel fatto, più lo consideriamo, tanto più ci apparirà solido e strano. Ritengo un atto di semplice giustizia verso tutti i miscredenti insistere sull'audacia dell'atto di [[Faith|fede]] che viene loro richiesto. Riconosco volentieri e calorosamente che esso è, in sé, una proposta di fronte alla quale potremmo aspettarci che vacilli persino il cervello del credente, quando prende coscienza della propria fede. Ma il cervello del credente non vacilla; sono i cervelli dei miscredenti a vacillare. Possiamo vedere i loro cervelli vacillare da ogni parte e in ogni stravaganza dell'etica e della psicologia; nel pessimismo e nella negazione della vita; nel pragmatismo e nella negazione della [[logic|logica]]; a cercare i propri presagi negli incubi e i propri canoni nelle contraddizioni; a gridare per la [[Fear|paura]] alla vista lontana di cose al di là del bene e del male, o a bisbigliare di strane [[Stars|stelle]] dove due più due fa cinque. Intanto questa cosa solitaria, che a prima vista appare così scandalosa nel profilo, rimane solida e sana nella sostanza. Rimane il moderatore di tutte queste manie; salvando la ragione dai pragmatisti esattamente come salvò il riso dai puritani. Ripeto che ne ho deliberatamente sottolineato il carattere intrinsecamente sfidante e dogmatico. Il mistero è come qualcosa di così sconcertante abbia potuto rimanere sfidante e dogmatico e nondimeno diventare perfettamente normale e naturale. Ho ammesso francamente che, considerando l'episodio in sé, un uomo che dice di essere Dio può essere classificato insieme a un uomo che dice di essere di vetro. Ma l'uomo che dice di essere di vetro non è un vetraio che fabbrica finestre per il mondo intero. Egli non rimane per le età future come una figura splendente e cristallina, alla cui luce ogni cosa è limpida come cristallo.
+
+Ma questa [[Madness|follia]] è rimasta sana. La [[Madness|follia]] è rimasta sana quando tutto il resto è impazzito. Il manicomio è stato una [[house|casa]] alla quale, età dopo età, gli uomini tornano di continuo come a un [[Home|focolare]]. Questo è l'[[Riddle|enigma]] che rimane: che qualcosa di così brusco e anormale possa ancora essere trovato una cosa abitabile e ospitale. Non m'importa se lo scettico dice che è una fandonia; non riesco a vedere come una torre così vacillante abbia potuto reggersi tanto a lungo senza fondamenta. Ancor meno riesco a vedere come abbia potuto diventare, come è diventata, il [[Home|focolare]] dell'uomo. Se fosse semplicemente apparsa e scomparsa, forse la si sarebbe potuta ricordare o spiegare come l'ultimo balzo della furia dell'illusione, il mito estremo dell'umore estremo, in cui la mente urtò il cielo e si spezzò. Ma la mente non si spezzò. È l'unica mente che rimane integra nella disgregazione del mondo. Se fosse un errore, parrebbe che quell'errore avrebbe potuto a stento durare un giorno. Se fosse una semplice estasi, parrebbe che una simile estasi non avrebbe potuto durare un'ora. È durata per quasi duemila anni; e il mondo racchiuso in essa è stato più lucido, più assennato, più ragionevole nelle sue speranze, più sano nei suoi istinti, più arguto e più sereno di fronte al fato e alla [[Death|morte]], di tutto il mondo che le stava fuori. Poiché fu l'[[Soul|anima]] della cristianità a scaturire dall'incredibile [[Christ|Cristo]]; e l'[[Soul|anima]] di essa era il buon senso. Benché non osassimo guardare il Suo volto, potevamo guardarne i frutti; e dai Suoi frutti Lo avremmo riconosciuto. I frutti sono solidi e la fecondità è ben più di una metafora; e in nessun luogo di questo triste mondo i fanciulli sono più felici sui meli, o gli uomini in un più concorde [[Chorus|coro]] mentre cantano pigiando l'uva, che sotto il balenio fisso di questa istantanea e intollerante illuminazione: il [[Lightning|fulmine]] reso eterno come la luce.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_18_appendix_i" data-title="everlasting man — Chapter 18: APPENDIX I" data-chapter="APPENDIX I" data-kind="chapter"></span>
@@ -19764,6 +23605,16 @@ were superior is felt to be [[Suffering|suffering]] from swelled head.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+APPENDICE I
+
+SULL'UOMO PREISTORICO
+
+Rileggendo queste pagine sento di aver tentato in molti luoghi, e con molte parole, di dire qualcosa che potrebbe dirsi in una parola sola. In un certo senso questo studio vuol essere superficiale. Voglio dire che non è concepito come uno studio delle cose che meritano d'essere studiate. È piuttosto un richiamo alle cose che si vedono così in fretta da venire dimenticate quasi altrettanto in fretta. La sua morale, per così dire, è che i primi pensieri sono i migliori; così un lampo potrebbe rivelare un paesaggio, con la Torre Eiffel o il Cervino che vi si ergono come non si ergerebbero mai più alla luce del giorno comune. Ho chiuso il libro con l'immagine di un [[Lightning|lampo]] eterno; in un senso assai diverso, ahimè, questo piccolo lampo è durato anche troppo. Ma il metodo comporta pure certi svantaggi pratici, sui quali credo [[Well|bene]] aggiungere queste due note. Può sembrare che semplifichi troppo e che ignori per ignoranza. Lo avverto specialmente nel passo sulle pitture preistoriche; il quale non si occupa di tutto ciò che i dotti possono apprendere dalle pitture preistoriche, ma del solo punto di ciò che chiunque potrebbe apprendere dal fatto che esistano pitture preistoriche. Sono consapevole che questo tentativo di esprimerlo in termini di [[innocence|innocenza]] può esagerare perfino la mia stessa ignoranza. Senza alcuna pretesa di ricerca o di informazione scientifica, mi dispiacerebbe che si pensasse ch'io non sappia più di quanto occorreva, in quel passo, degli stadi in cui l'umanità primitiva è stata suddivisa. So bene, s'intende, che la storia è elaboratamente stratificata; e che vi furono molti di tali stadi prima dell'uomo di Cro-Magnon o di qualsiasi popolo cui associamo simili pitture. Anzi, studi recenti sull'uomo di Neanderthal e su altre razze tendono piuttosto a ripetere la morale qui più pertinente. La nozione, annotata in queste pagine, di qualcosa di necessariamente lento o tardivo nello sviluppo della religione ben poco guadagnerà, in verità, da queste più recenti rivelazioni sui precursori del pittore di renne. I dotti paiono sostenere che, potesse o no la pittura di renne essere religiosa, il popolo che visse prima di essa era già religioso; e seppelliva i suoi morti con i segni significativi del mistero e della [[Hope|speranza]]. Ciò evidentemente ci riporta al medesimo argomento; un argomento che nessuna misurazione del cranio dell'uomo più antico riesce ad avvicinare. Poco giova qui confrontare la testa dell'uomo con la testa della scimmia, se di sicuro non venne mai in testa alla scimmia di seppellire un'altra scimmia con delle noci nella [[Grave|tomba]] per aiutarla a raggiungere una celeste [[house|dimora]] di scimmie. A proposito di crani, conosco anche la storia del cranio di Cro-Magnon che era assai più grande e più bello di un cranio moderno. È una storia molto buffa; perché un eminente evoluzionista, ridestandosi a una cautela alquanto tardiva, protestò contro ogni deduzione tratta da un solo esemplare. È dovere di un cranio solitario provare che i nostri padri erano nostri inferiori. Ogni cranio solitario che pretenda di provare che essi erano superiori è ritenuto [[Suffering|affetto]] da montatura della testa.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_19_appendix_ii" data-title="everlasting man — Chapter 19: APPENDIX II" data-chapter="APPENDIX II" data-kind="chapter"></span>
@@ -19807,3 +23658,12 @@ speculations about races are less valuable than they undoubtedly are.
 My criticism is strictly relative; I may say that the pyramids are
 plainer than the tracks of the [[Desert|desert]]; without denying that wiser
 men than I may see tracks in what is to me the trackless sand.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+APPENDICE II
+
+SULL'AUTORITÀ E L'ESATTEZZA
+
+In questo libro, che vuol essere soltanto una critica popolare di errori popolari, e spesso invero di errori assai volgari, sento di aver talvolta dato l'impressione di beffarmi del serio lavoro scientifico. Era però tutto il contrario delle mie intenzioni. Non discuto con lo scienziato che spiega l'elefante, ma soltanto con il sofista che lo spiega via. E di fatto il sofista recita per la galleria, come faceva nell'[[Ancient Greece|antica Grecia]]. Fa appello agli ignoranti, specialmente quando fa appello ai dotti. Ma non ho mai inteso che la mia critica fosse un'impertinenza verso i veri dotti. Tutti dobbiamo un debito infinito alle ricerche, e specialmente alle ricerche recenti, di studiosi di animo integro in queste materie; e io non ho fatto altro che professare di raccogliere qua e là qualcosa da loro. Non ho appesantito il mio argomento astratto con citazioni e rimandi, che servono solo a far apparire un uomo più dotto di quel che è; ma in taluni casi trovo che il mio stesso modo disinvolto di alludere è piuttosto fuorviante circa il mio proprio significato. Il passo su Chaucer e il [[Child|Fanciullo]] Martire è mal espresso; voglio dire soltanto che il poeta inglese aveva probabilmente in mente il santo inglese, della cui storia egli dà una specie di versione straniera. Allo stesso modo due affermazioni nel capitolo sulla Mitologia si susseguono in maniera tale che può parere si suggerisca che la seconda storia sul monoteismo si riferisca ai Mari del Sud. Posso spiegare che Atahocan appartiene non ai selvaggi australasiatici ma a quelli americani. Così nel capitolo intitolato «L'antichità della civiltà», che sento essere il più insoddisfacente, ho reso la mia personale impressione del significato dello sviluppo della monarchia egizia troppo, forse, come se fosse identica ai fatti su cui essa era fondata, quali sono esposti in opere come quelle del professor J. L. Myres. Ma la confusione non era intenzionale; ancor meno vi era l'intenzione di sottintendere, nel resto del capitolo, che le speculazioni antropologiche sulle razze siano meno preziose di quanto indubbiamente sono. La mia critica è strettamente relativa; posso dire che le piramidi sono più chiare delle tracce del [[Desert|deserto]], senza negare che uomini più saggi di me possano scorgere tracce in ciò che a me appare sabbia senza tracce.
